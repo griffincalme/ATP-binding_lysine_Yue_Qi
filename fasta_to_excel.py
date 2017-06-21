@@ -1,8 +1,8 @@
 from Bio import SeqIO
 import pandas as pd
 
-file = input('\nEnter fasta filepath: (default: HUMAN_ATP_BINDING_Canon_Iso.fasta)') \
-       or 'HUMAN_ATP_BINDING_Canon_Iso.fasta'
+file = input('\nEnter fasta filepath: (default: HUMAN_ATP_BINDING_Canonical_AND_Isoforms.fasta)') \
+       or 'HUMAN_ATP_BINDING_Canonical_AND_Isoforms.fasta'
 
 
 fasta_line_generator = SeqIO.parse(open(file), 'fasta') # this is a generator object that gets 'used up' by id_lists
