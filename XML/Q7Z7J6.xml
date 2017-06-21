@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2003-10-01" modified="2017-01-18" version="76">
+<accession>Q7Z7J6</accession>
+<name>Q7Z7J6_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="3">Actin alpha 1 skeletal muscle protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">ACTA1</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="submission" date="2003-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Yuan H.F."/>
+<person name="Wang X."/>
+<person name="Wang D.M."/>
+<person name="Li H.M."/>
+<person name="Feng K."/>
+<person name="Bai C.X."/>
+<person name="Zhang R."/>
+<person name="Chen L."/>
+<person name="Li Y.H."/>
+<person name="Gao Y.H."/>
+<person name="Zhen M."/>
+<person name="Yue W."/>
+<person name="Xie C."/>
+<person name="Xie X.Y."/>
+<person name="Niu L.L."/>
+<person name="Gao W.J."/>
+<person name="Zhang J."/>
+<person name="Cao H."/>
+<person name="Pei X.T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="3">Skeletal muscle</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the actin family.</text>
+</comment>
+<dbReference type="EMBL" id="AY280960">
+<property type="protein sequence ID" value="AAP37280.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.1288"/>
+<dbReference type="ProteinModelPortal" id="Q7Z7J6"/>
+<dbReference type="SMR" id="Q7Z7J6"/>
+<dbReference type="STRING" id="9606.ENSP00000355645"/>
+<dbReference type="PaxDb" id="Q7Z7J6"/>
+<dbReference type="PeptideAtlas" id="Q7Z7J6"/>
+<dbReference type="PRIDE" id="Q7Z7J6"/>
+<dbReference type="eggNOG" id="KOG0676">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5277">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000233340"/>
+<dbReference type="HOVERGEN" id="HBG003771"/>
+<dbReference type="SignaLink" id="Q7Z7J6"/>
+<dbReference type="ChiTaRS" id="ACTA1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004000">
+<property type="entry name" value="Actin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020902">
+<property type="entry name" value="Actin/actin-like_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004001">
+<property type="entry name" value="Actin_CS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11937">
+<property type="entry name" value="PTHR11937"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00022">
+<property type="entry name" value="Actin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00190">
+<property type="entry name" value="ACTIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00268">
+<property type="entry name" value="ACTIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00406">
+<property type="entry name" value="ACTINS_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00432">
+<property type="entry name" value="ACTINS_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01132">
+<property type="entry name" value="ACTINS_ACT_LIKE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000487"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00092162"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAP37280.1"/>
+</source>
+</evidence>
+<sequence length="254" mass="28151" checksum="428FFDCDA33FFA3E" modified="2003-10-01" version="1">
+MCDEDETTALVCDNGSGLVKAGFAGDDAPRAVFPSIVGRPRHQGVMVGMGQKDSYVGDEA
+QSKRGILTLKYPIEHGIITNWDDMEKIWHHTFYNELRVAPEEHPTLLTEAPLNPKANREK
+MTQIMFETFNVPAMYVAIQAVLSLYASGRTTGIVLDSGDGVMKCDIDIRKDLYANNVMSG
+GTTMYPGIADRMQKEITALAPSTMKIKIIAPPERKYSVWIGGSILASLSTFQQMWITKQE
+YDEAGPSIVHRKCF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

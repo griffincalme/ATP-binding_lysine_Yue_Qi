@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2006-01-24" modified="2017-05-10" version="92">
+<accession>Q2UVF0</accession>
+<name>Q2UVF0_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="8">Kinesin-like protein KIF21B variant</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="8">KIF21B</name>
+</gene>
+<organism evidence="8">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="8">
+<citation type="submission" date="2005-12" db="EMBL/GenBank/DDBJ databases">
+<title>Differential expression analysis of molecular motors in ALS motor neuron disease.</title>
+<authorList>
+<person name="Pantelidou M."/>
+<person name="Lederer C.W."/>
+<person name="Zographos S.E."/>
+<person name="Pfaffl M.W."/>
+<person name="Cavallaro S."/>
+<person name="Santama N."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="8">Motor cortex</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="2 3">Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family.</text>
+</comment>
+<dbReference type="EMBL" id="AM177180">
+<property type="protein sequence ID" value="CAJ45484.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001239029.1">
+<property type="nucleotide sequence ID" value="NM_001252100.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.169182"/>
+<dbReference type="ProteinModelPortal" id="Q2UVF0"/>
+<dbReference type="STRING" id="9606.ENSP00000328494"/>
+<dbReference type="MaxQB" id="Q2UVF0"/>
+<dbReference type="PaxDb" id="Q2UVF0"/>
+<dbReference type="PeptideAtlas" id="Q2UVF0"/>
+<dbReference type="PRIDE" id="Q2UVF0"/>
+<dbReference type="GeneID" id="23046"/>
+<dbReference type="KEGG" id="hsa:23046"/>
+<dbReference type="CTD" id="23046"/>
+<dbReference type="eggNOG" id="KOG0244">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5059">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000280728"/>
+<dbReference type="HOVERGEN" id="HBG052247"/>
+<dbReference type="KO" id="K10395"/>
+<dbReference type="SignaLink" id="Q2UVF0"/>
+<dbReference type="ChiTaRS" id="KIF21B">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="23046"/>
+<dbReference type="Genevisible" id="Q2UVF0">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008017">
+<property type="term" value="F:microtubule binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003777">
+<property type="term" value="F:microtubule motor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007018">
+<property type="term" value="P:microtubule-based movement"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.130.10.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.850.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019821">
+<property type="entry name" value="Kinesin_motor_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001752">
+<property type="entry name" value="Kinesin_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015943">
+<property type="entry name" value="WD40/YVTN_repeat-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001680">
+<property type="entry name" value="WD40_repeat"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019775">
+<property type="entry name" value="WD40_repeat_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017986">
+<property type="entry name" value="WD40_repeat_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00225">
+<property type="entry name" value="Kinesin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00400">
+<property type="entry name" value="WD40"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00380">
+<property type="entry name" value="KINESINHEAVY"/>
+</dbReference>
+<dbReference type="SMART" id="SM00129">
+<property type="entry name" value="KISc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00320">
+<property type="entry name" value="WD40"/>
+<property type="match status" value="7"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50978">
+<property type="entry name" value="SSF50978"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00411">
+<property type="entry name" value="KINESIN_MOTOR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50067">
+<property type="entry name" value="KINESIN_MOTOR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00678">
+<property type="entry name" value="WD_REPEATS_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50082">
+<property type="entry name" value="WD_REPEATS_2"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50294">
+<property type="entry name" value="WD_REPEATS_REGION"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2 4">ATP-binding</keyword>
+<keyword id="KW-0175" evidence="5">Coiled coil</keyword>
+<keyword id="KW-0505" evidence="2">Motor protein</keyword>
+<keyword id="KW-0547" evidence="2 4">Nucleotide-binding</keyword>
+<keyword id="KW-0853" evidence="1">WD repeat</keyword>
+<feature type="domain" description="Kinesin motor" evidence="6">
+<location>
+<begin position="8"/>
+<end position="370"/>
+</location>
+</feature>
+<feature type="domain" description="WD_REPEATS_REGION" evidence="7">
+<location>
+<begin position="1306"/>
+<end position="1624"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="1306"/>
+<end position="1345"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="1502"/>
+<end position="1541"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="1543"/>
+<end position="1584"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="1585"/>
+<end position="1615"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="87"/>
+<end position="94"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="378"/>
+<end position="405"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="471"/>
+<end position="505"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="534"/>
+<end position="561"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="564"/>
+<end position="594"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="636"/>
+<end position="684"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="700"/>
+<end position="772"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="784"/>
+<end position="818"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="933"/>
+<end position="995"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00221"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00283"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00546352"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00784251"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50067"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50294"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAJ45484.1"/>
+</source>
+</evidence>
+<sequence length="1670" mass="186272" checksum="AFEB1DCE3263E8C5" modified="2006-01-24" version="1">
+MAGQGDCCVKVAVRIRPQLSKEKIEGCHICTSVTPGEPQVLLGKDKAFTYDFVFDLDTWQ
+EQIYSTCVSKLIEGCFEGYNATVLAYGQTGAGKTYTMGTGFDMATSEEEQGIIPRAIAHL
+FGGIAERKRRAQEQGVAGPEFKVSAQFLELYNEEILDLFDSTRDPDTRHRRSNIKIHEDA
+NGGIYTTGVTSRLIHSQEELIQCLKQGALSRTTGSTQMNVQSSRSHAIFTIHLCQMRMCT
+QPDLVNEAVAGLPDGTPPSSEYETLTAKFHFVDLAGSERLKRTGATGERAKEGISINCGL
+LALGNVISALGDQSKKVVHVPYRDSKLTRLLQDSLGGNSQTIMIACVSPSDRDFMETLNT
+LKYANRARNIKNKVVVNQDKTSQQISALRAEIARLQMELMEYKAGKRVIGEDGAEGYSDL
+FRENAMLQKENGALRLRVKAMQEAIDAINNRVTQLMSQEANLLLAKAGDGNEAIGALIQN
+YIREIEELRTKLLESEAMNESLRRSLSRASARSPYSLGASPAAPAFGGSPASSMEDASEV
+IRRAKQDLERLKKKEVRQRRKSPEKEAFKKRAKLQQENSEETDENEAEEEEEERDESGCE
+EEEGREDEDEDSGSEESLVDSDSDPEEKEVNFQADLADLTCEIEIKQKLIDELENSQRRL
+QTLKHQYEEKLILLQNKIRDTQLERDRVLQNLSTMECYTEEKANKIKADYEKRLREMNRD
+LQKLQAAQKEHARLLKNQSRYERELKKLQAEVAEMKKAKVALMKQMREEQQRRRLVETKR
+NREIAQLKKEQRRQEFQIRALESQKRQQEMVLRRKTQEVSALRRMAKPMSERVAGRAGLK
+PPMLDSGAEVSASTTSSEAESGARSVSSIVRQWNRKINHFLGDHPAPTVNGTRPTRKKFQ
+KKGASQSFSKAARLKWQSLERRIIDIVMQRMTIVNLEADMERLIKKREELFLLQEALRRK
+RERLQAESPEEEKGLQELAEEIEVLQANIDYINDGITGLCQATHSVQLEETKEELDSTDT
+SVVISSCSLAEARLLLDNFLKASIDKGLQVAQKEAQIRLLEGRLRQTDMAGSSQNHLLLD
+ALREKAEAHPELQALIYNVQQENGYASTDEEISEFSEGSFSQSFTMKGSTSHDDFKSKSE
+PKLSAQMKAVSAECLGPPLDISTKNITKSLASLAEIKGDGVGFSVRDPYYRDRVSRTVSL
+PTRGSTFPRQTRATETSPLTRRKSYDRGQPIRSTDVGFTPPSSPPTRPRNDRNVFSRLTS
+NQSQGSALDKSDDSDSSLSEVLRGIISPVGGAKGARTAPLQCVSMAEGHTKPILCLDATD
+ELLFTGSKDRSCKMWNLVTGQEIAALKGHPNNVVSIKYCSHSGLVFSVSTSYIKVWDIRD
+SAKCIRTLTSSGQVISGDACAATSTRAITSAQGEHQINQIALSPSGTMLYAASGNAVRIW
+ELSRFQPVGKLTGHIGPVMCLTVTQTASQHDLVVTGSKNHYVKMFELGECVTGTIGPTHN
+FEPPHYDGIECLAIQGDILFSGSRDNGIKKWDLDQQELIQQIPNAHKDWVCALAFIPGRP
+MLLSACRAGVIKVWNVDNFTPIGEIKGHDSPINAICTNAKHIFTASSDCRVKLWNYVPGL
+TPCLPRRVLAIKGRATTCPDPPQLSLSPLSFFPSFLFPLFPHFDLSCFLT
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

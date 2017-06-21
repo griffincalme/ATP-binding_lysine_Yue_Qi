@@ -1,0 +1,1616 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1994-06-01" modified="2017-05-10" version="178">
+<accession>P35998</accession>
+<accession>A4D0Q1</accession>
+<accession>B7Z5E2</accession>
+<accession>Q3LIA5</accession>
+<accession>Q9UDI3</accession>
+<name>PRS7_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>26S protease regulatory subunit 7</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>26S proteasome AAA-ATPase subunit RPT1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Proteasome 26S subunit ATPase 2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protein MSS1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">PSMC2</name>
+<name type="synonym">MSS1</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1992" name="Nature" volume="357" first="700" last="702">
+<title>New human gene encoding a positive modulator of HIV Tat-mediated transactivation.</title>
+<authorList>
+<person name="Shibuya H."/>
+<person name="Irie K."/>
+<person name="Ninomiya-Tsuji J."/>
+<person name="Goebl M."/>
+<person name="Taniguchi T."/>
+<person name="Matsumoto K."/>
+</authorList>
+<dbReference type="PubMed" id="1377363"/>
+<dbReference type="DOI" id="10.1038/357700a0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2003" name="Cancer Lett." volume="197" first="63" last="68">
+<title>Neuroblastoma oligo-capping cDNA project: toward the understanding of the genesis and biology of neuroblastoma.</title>
+<authorList>
+<person name="Ohira M."/>
+<person name="Morohashi A."/>
+<person name="Nakamura Y."/>
+<person name="Isogai E."/>
+<person name="Furuya K."/>
+<person name="Hamano S."/>
+<person name="Machida T."/>
+<person name="Aoyama M."/>
+<person name="Fukumura M."/>
+<person name="Miyazaki K."/>
+<person name="Suzuki Y."/>
+<person name="Sugano S."/>
+<person name="Hirato J."/>
+<person name="Nakagawara A."/>
+</authorList>
+<dbReference type="PubMed" id="12880961"/>
+<dbReference type="DOI" id="10.1016/S0304-3835(03)00085-5"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Neuroblastoma</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2003" name="Nature" volume="424" first="157" last="164">
+<title>The DNA sequence of human chromosome 7.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Graves T.A."/>
+<person name="Pepin K.H."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Maas J."/>
+<person name="Jaeger S."/>
+<person name="Walker R."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="O'Laughlin M.D."/>
+<person name="Schaller M.E."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Cordes M."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Edwards J."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Andrews S."/>
+<person name="Isak A."/>
+<person name="Vanbrunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Lamar B."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Bielicki L."/>
+<person name="Scott K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Harris A."/>
+<person name="Strong C.M."/>
+<person name="Hou S."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Leonard S."/>
+<person name="Rohlfing T."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Abbott A."/>
+<person name="Minx P."/>
+<person name="Maupin R."/>
+<person name="Strowmatt C."/>
+<person name="Latreille P."/>
+<person name="Miller N."/>
+<person name="Johnson D."/>
+<person name="Murray J."/>
+<person name="Woessner J.P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Schultz B.R."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Nelson J.O."/>
+<person name="Berkowicz N."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Bedell J.A."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Chissoe S.L."/>
+<person name="Marra M.A."/>
+<person name="Raymond C."/>
+<person name="Haugen E."/>
+<person name="Gillett W."/>
+<person name="Zhou Y."/>
+<person name="James R."/>
+<person name="Phelps K."/>
+<person name="Iadanoto S."/>
+<person name="Bubb K."/>
+<person name="Simms E."/>
+<person name="Levy R."/>
+<person name="Clendenning J."/>
+<person name="Kaul R."/>
+<person name="Kent W.J."/>
+<person name="Furey T.S."/>
+<person name="Baertsch R.A."/>
+<person name="Brent M.R."/>
+<person name="Keibler E."/>
+<person name="Flicek P."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Bailey J.A."/>
+<person name="Portnoy M.E."/>
+<person name="Torrents D."/>
+<person name="Chinwalla A.T."/>
+<person name="Gish W.R."/>
+<person name="Eddy S.R."/>
+<person name="McPherson J.D."/>
+<person name="Olson M.V."/>
+<person name="Eichler E.E."/>
+<person name="Green E.D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="12853948"/>
+<dbReference type="DOI" id="10.1038/nature01782"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2003" name="Science" volume="300" first="767" last="772">
+<title>Human chromosome 7: DNA sequence and biology.</title>
+<authorList>
+<person name="Scherer S.W."/>
+<person name="Cheung J."/>
+<person name="MacDonald J.R."/>
+<person name="Osborne L.R."/>
+<person name="Nakabayashi K."/>
+<person name="Herbrick J.-A."/>
+<person name="Carson A.R."/>
+<person name="Parker-Katiraee L."/>
+<person name="Skaug J."/>
+<person name="Khaja R."/>
+<person name="Zhang J."/>
+<person name="Hudek A.K."/>
+<person name="Li M."/>
+<person name="Haddad M."/>
+<person name="Duggan G.E."/>
+<person name="Fernandez B.A."/>
+<person name="Kanematsu E."/>
+<person name="Gentles S."/>
+<person name="Christopoulos C.C."/>
+<person name="Choufani S."/>
+<person name="Kwasnicka D."/>
+<person name="Zheng X.H."/>
+<person name="Lai Z."/>
+<person name="Nusskern D.R."/>
+<person name="Zhang Q."/>
+<person name="Gu Z."/>
+<person name="Lu F."/>
+<person name="Zeesman S."/>
+<person name="Nowaczyk M.J."/>
+<person name="Teshima I."/>
+<person name="Chitayat D."/>
+<person name="Shuman C."/>
+<person name="Weksberg R."/>
+<person name="Zackai E.H."/>
+<person name="Grebe T.A."/>
+<person name="Cox S.R."/>
+<person name="Kirkpatrick S.J."/>
+<person name="Rahman N."/>
+<person name="Friedman J.M."/>
+<person name="Heng H.H.Q."/>
+<person name="Pelicci P.G."/>
+<person name="Lo-Coco F."/>
+<person name="Belloni E."/>
+<person name="Shaffer L.G."/>
+<person name="Pober B."/>
+<person name="Morton C.C."/>
+<person name="Gusella J.F."/>
+<person name="Bruns G.A.P."/>
+<person name="Korf B.R."/>
+<person name="Quade B.J."/>
+<person name="Ligon A.H."/>
+<person name="Ferguson H."/>
+<person name="Higgins A.W."/>
+<person name="Leach N.T."/>
+<person name="Herrick S.R."/>
+<person name="Lemyre E."/>
+<person name="Farra C.G."/>
+<person name="Kim H.-G."/>
+<person name="Summers A.M."/>
+<person name="Gripp K.W."/>
+<person name="Roberts W."/>
+<person name="Szatmari P."/>
+<person name="Winsor E.J.T."/>
+<person name="Grzeschik K.-H."/>
+<person name="Teebi A."/>
+<person name="Minassian B.A."/>
+<person name="Kere J."/>
+<person name="Armengol L."/>
+<person name="Pujana M.A."/>
+<person name="Estivill X."/>
+<person name="Wilson M.D."/>
+<person name="Koop B.F."/>
+<person name="Tosi S."/>
+<person name="Moore G.E."/>
+<person name="Boright A.P."/>
+<person name="Zlotorynski E."/>
+<person name="Kerem B."/>
+<person name="Kroisel P.M."/>
+<person name="Petek E."/>
+<person name="Oscier D.G."/>
+<person name="Mould S.J."/>
+<person name="Doehner H."/>
+<person name="Doehner K."/>
+<person name="Rommens J.M."/>
+<person name="Vincent J.B."/>
+<person name="Venter J.C."/>
+<person name="Li P.W."/>
+<person name="Mural R.J."/>
+<person name="Adams M.D."/>
+<person name="Tsui L.-C."/>
+</authorList>
+<dbReference type="PubMed" id="12690205"/>
+<dbReference type="DOI" id="10.1126/science.1083423"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1993" name="FEBS Lett." volume="323" first="276" last="278">
+<title>Peptide sequencing identifies MSS1, a modulator of HIV Tat-mediated transactivation, as subunit 7 of the 26 S protease.</title>
+<authorList>
+<person name="Dubiel W."/>
+<person name="Ferrell K."/>
+<person name="Rechsteiner M."/>
+</authorList>
+<dbReference type="PubMed" id="8500623"/>
+<dbReference type="DOI" id="10.1016/0014-5793(93)81356-5"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-23; 139-158 AND 320-331</scope>
+<source>
+<tissue>Blood</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2003" name="Nat. Biotechnol." volume="21" first="566" last="569">
+<title>Exploring proteomes and analyzing protein processing by mass spectrometric identification of sorted N-terminal peptides.</title>
+<authorList>
+<person name="Gevaert K."/>
+<person name="Goethals M."/>
+<person name="Martens L."/>
+<person name="Van Damme J."/>
+<person name="Staes A."/>
+<person name="Thomas G.R."/>
+<person name="Vandekerckhove J."/>
+</authorList>
+<dbReference type="PubMed" id="12665801"/>
+<dbReference type="DOI" id="10.1038/nbt810"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-10</scope>
+<source>
+<tissue>Platelet</tissue>
+</source>
+</reference>
+<reference key="10">
+<citation type="submission" date="2008-12" db="UniProtKB">
+<authorList>
+<person name="Lubec G."/>
+<person name="Vishwanath V."/>
+<person name="Chen W.-Q."/>
+<person name="Sun Y."/>
+</authorList>
+</citation>
+<scope>PROTEIN SEQUENCE OF 85-97; 101-110; 201-210; 269-284 AND 298-312</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<tissue>Brain</tissue>
+<tissue>Cajal-Retzius cell</tissue>
+<tissue>Fetal brain cortex</tissue>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1992" name="Eur. J. Biochem." volume="206" first="567" last="578">
+<title>Demonstration that a human 26S proteolytic complex consists of a proteasome and multiple associated protein components and hydrolyzes ATP and ubiquitin-ligated proteins by closely linked mechanisms.</title>
+<authorList>
+<person name="Kanayama H.O."/>
+<person name="Tamura T."/>
+<person name="Ugai S."/>
+<person name="Kagawa S."/>
+<person name="Tanahashi N."/>
+<person name="Yoshimura T."/>
+<person name="Tanaka K."/>
+<person name="Ichihara A."/>
+</authorList>
+<dbReference type="PubMed" id="1317798"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1992.tb16961.x"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="24081" last="24087">
+<title>HEC binds to the seventh regulatory subunit of the 26 S proteasome and modulates the proteolysis of mitotic cyclins.</title>
+<authorList>
+<person name="Chen Y."/>
+<person name="Sharp Z.D."/>
+<person name="Lee W.-H."/>
+</authorList>
+<dbReference type="PubMed" id="9295362"/>
+<dbReference type="DOI" id="10.1074/jbc.272.38.24081"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH NDC80</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1999" name="Mol. Cell. Biol." volume="19" first="5417" last="5428">
+<title>Hec1p, an evolutionarily conserved coiled-coil protein, modulates chromosome segregation through interaction with SMC proteins.</title>
+<authorList>
+<person name="Zheng L."/>
+<person name="Chen Y."/>
+<person name="Lee W.-H."/>
+</authorList>
+<dbReference type="PubMed" id="10409732"/>
+<dbReference type="DOI" id="10.1128/MCB.19.8.5417"/>
+</citation>
+<scope>INTERACTION WITH NDC80</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2004" name="Mol. Cell. Biol." volume="24" first="8055" last="8068">
+<title>Sequestosome 1/p62 is a polyubiquitin chain binding protein involved in ubiquitin proteasome degradation.</title>
+<authorList>
+<person name="Seibenhener M.L."/>
+<person name="Babu J.R."/>
+<person name="Geetha T."/>
+<person name="Wong H.C."/>
+<person name="Krishna N.R."/>
+<person name="Wooten M.W."/>
+</authorList>
+<dbReference type="PubMed" id="15340068"/>
+<dbReference type="DOI" id="10.1128/MCB.24.18.8055-8068.2004"/>
+</citation>
+<scope>INTERACTION WITH SQSTM1</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2005" name="Mol. Cell. Biol." volume="25" first="3842" last="3853">
+<title>Proteasomal ATPase-associated factor 1 negatively regulates proteasome activity by interacting with proteasomal ATPases.</title>
+<authorList>
+<person name="Park Y."/>
+<person name="Hwang Y.-P."/>
+<person name="Lee J.-S."/>
+<person name="Seo S.-H."/>
+<person name="Yoon S.K."/>
+<person name="Yoon J.-B."/>
+</authorList>
+<dbReference type="PubMed" id="15831487"/>
+<dbReference type="DOI" id="10.1128/MCB.25.9.3842-3853.2005"/>
+</citation>
+<scope>INTERACTION WITH PAAF1</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2007" name="Biochemistry" volume="46" first="3553" last="3565">
+<title>Mass spectrometric characterization of the affinity-purified human 26S proteasome complex.</title>
+<authorList>
+<person name="Wang X."/>
+<person name="Chen C.-F."/>
+<person name="Baker P.R."/>
+<person name="Chen P.-L."/>
+<person name="Kaiser P."/>
+<person name="Huang L."/>
+</authorList>
+<dbReference type="PubMed" id="17323924"/>
+<dbReference type="DOI" id="10.1021/bi061994u"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Embryonic kidney</tissue>
+</source>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2009" name="Science" volume="325" first="834" last="840">
+<title>Lysine acetylation targets protein complexes and co-regulates major cellular functions.</title>
+<authorList>
+<person name="Choudhary C."/>
+<person name="Kumar C."/>
+<person name="Gnad F."/>
+<person name="Nielsen M.L."/>
+<person name="Rehman M."/>
+<person name="Walther T.C."/>
+<person name="Olsen J.V."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="19608861"/>
+<dbReference type="DOI" id="10.1126/science.1175371"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-116 AND LYS-422</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2011" name="Retrovirology" volume="8" first="93" last="93">
+<title>TRIM5alpha associates with proteasomal subunits in cells while in complex with HIV-1 virions.</title>
+<authorList>
+<person name="Lukic Z."/>
+<person name="Hausmann S."/>
+<person name="Sebastian S."/>
+<person name="Rucci J."/>
+<person name="Sastri J."/>
+<person name="Robia S.L."/>
+<person name="Luban J."/>
+<person name="Campbell E.M."/>
+</authorList>
+<dbReference type="PubMed" id="22078707"/>
+<dbReference type="DOI" id="10.1186/1742-4690-8-93"/>
+</citation>
+<scope>INTERACTION WITH TRIM5</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2012" name="Proc. Natl. Acad. Sci. U.S.A." volume="109" first="12449" last="12454">
+<title>N-terminal acetylome analyses and functional insights of the N-terminal acetyltransferase NatB.</title>
+<authorList>
+<person name="Van Damme P."/>
+<person name="Lasa M."/>
+<person name="Polevoda B."/>
+<person name="Gazquez C."/>
+<person name="Elosegui-Artola A."/>
+<person name="Kim D.S."/>
+<person name="De Juan-Pardo E."/>
+<person name="Demeyer K."/>
+<person name="Hole K."/>
+<person name="Larrea E."/>
+<person name="Timmerman E."/>
+<person name="Prieto J."/>
+<person name="Arnesen T."/>
+<person name="Sherman F."/>
+<person name="Gevaert K."/>
+<person name="Aldabe R."/>
+</authorList>
+<dbReference type="PubMed" id="22814378"/>
+<dbReference type="DOI" id="10.1073/pnas.1210303109"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2016" name="Nat. Struct. Mol. Biol." volume="23" first="778" last="785">
+<title>An atomic structure of the human 26S proteasome.</title>
+<authorList>
+<person name="Huang X."/>
+<person name="Luan B."/>
+<person name="Wu J."/>
+<person name="Shi Y."/>
+</authorList>
+<dbReference type="PubMed" id="27428775"/>
+<dbReference type="DOI" id="10.1038/nsmb.3273"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (3.50 ANGSTROMS) OF 1-440</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2016" name="Proc. Natl. Acad. Sci. U.S.A." volume="113" first="7816" last="7821">
+<title>Structure of the human 26S proteasome at a resolution of 3.9 Aa.</title>
+<authorList>
+<person name="Schweitzer A."/>
+<person name="Aufderheide A."/>
+<person name="Rudack T."/>
+<person name="Beck F."/>
+<person name="Pfeifer G."/>
+<person name="Plitzko J.M."/>
+<person name="Sakata E."/>
+<person name="Schulten K."/>
+<person name="Foerster F."/>
+<person name="Baumeister W."/>
+</authorList>
+<dbReference type="PubMed" id="27342858"/>
+<dbReference type="DOI" id="10.1073/pnas.1608050113"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (4.02 ANGSTROMS) OF 1-440</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="6 13">Component of the 26S proteasome, a multiprotein complex involved in the ATP-dependent degradation of ubiquitinated proteins. This complex plays a key role in the maintenance of protein homeostasis by removing misfolded or damaged proteins, which could impair cellular functions, and by removing proteins whose functions are no longer required. Therefore, the proteasome participates in numerous cellular processes, including cell cycle progression, apoptosis, or DNA damage repair. PSMC2 belongs to the heterohexameric ring of AAA (ATPases associated with diverse cellular activities) proteins that unfolds ubiquitinated target proteins that are concurrently translocated into a proteolytic chamber and degraded into peptides.</text>
+</comment>
+<comment type="subunit">
+<text evidence="4 7 8 9 10 11 13">Component of the 19S proteasome regulatory particle complex. The 26S proteasome consists of a 20S core particle (CP) and two 19S regulatory subunits (RP). The regulatory particle is made of a lid composed of 9 subunits, a base containing 6 ATPases including PSMC2 and few additional components (PubMed:27428775, PubMed:27342858). Interacts with NDC80 and SQSTM1 (PubMed:9295362, PubMed:10409732). Interacts with PAAF1 (PubMed:15831487). Interacts with HIV-1 Tat. Interacts with TRIM5 (PubMed:22078707).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359710"/>
+<interactant intactId="EBI-357598">
+<id>P62191</id>
+<label>PSMC1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359710"/>
+<interactant intactId="EBI-357745">
+<id>P62195</id>
+<label>PSMC5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>10</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359710"/>
+<interactant intactId="EBI-752143">
+<id>Q16401</id>
+<label>PSMD5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>20</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="2">Cytoplasm</location>
+<location evidence="2">P-body</location>
+</subcellularLocation>
+<text evidence="2">Colocalizes with TRIM5 in the cytoplasmic bodies.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>P35998-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P35998-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_056178"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+</comment>
+<comment type="similarity">
+<text evidence="15">Belongs to the AAA ATPase family.</text>
+</comment>
+<dbReference type="EMBL" id="D11094">
+<property type="protein sequence ID" value="BAA01868.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB075520">
+<property type="protein sequence ID" value="BAE45763.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK298821">
+<property type="protein sequence ID" value="BAH12878.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC004668">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC093701">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH236947">
+<property type="protein sequence ID" value="EAL24412.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471070">
+<property type="protein sequence ID" value="EAW83332.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC002589">
+<property type="protein sequence ID" value="AAH02589.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS5731.1">
+<molecule id="P35998-1"/>
+</dbReference>
+<dbReference type="PIR" id="S24353">
+<property type="entry name" value="S24353"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001191382.1">
+<property type="nucleotide sequence ID" value="NM_001204453.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_002794.1">
+<molecule id="P35998-1"/>
+<property type="nucleotide sequence ID" value="NM_002803.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.437366"/>
+<dbReference type="PDB" id="5GJQ">
+<property type="method" value="EM"/>
+<property type="resolution" value="4.50"/>
+<property type="chains" value="H=1-433"/>
+</dbReference>
+<dbReference type="PDB" id="5GJR">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="H/v=1-433"/>
+</dbReference>
+<dbReference type="PDB" id="5L4G">
+<property type="method" value="EM"/>
+<property type="resolution" value="4.02"/>
+<property type="chains" value="H=1-433"/>
+</dbReference>
+<dbReference type="PDB" id="5LN3">
+<property type="method" value="EM"/>
+<property type="resolution" value="6.80"/>
+<property type="chains" value="H=1-433"/>
+</dbReference>
+<dbReference type="PDB" id="5T0C">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.80"/>
+<property type="chains" value="AA/BA=1-433"/>
+</dbReference>
+<dbReference type="PDB" id="5T0G">
+<property type="method" value="EM"/>
+<property type="resolution" value="4.40"/>
+<property type="chains" value="A=1-433"/>
+</dbReference>
+<dbReference type="PDB" id="5T0H">
+<property type="method" value="EM"/>
+<property type="resolution" value="6.80"/>
+<property type="chains" value="A=1-433"/>
+</dbReference>
+<dbReference type="PDB" id="5T0I">
+<property type="method" value="EM"/>
+<property type="resolution" value="8.00"/>
+<property type="chains" value="A=1-433"/>
+</dbReference>
+<dbReference type="PDB" id="5T0J">
+<property type="method" value="EM"/>
+<property type="resolution" value="8.00"/>
+<property type="chains" value="A=1-433"/>
+</dbReference>
+<dbReference type="PDBsum" id="5GJQ"/>
+<dbReference type="PDBsum" id="5GJR"/>
+<dbReference type="PDBsum" id="5L4G"/>
+<dbReference type="PDBsum" id="5LN3"/>
+<dbReference type="PDBsum" id="5T0C"/>
+<dbReference type="PDBsum" id="5T0G"/>
+<dbReference type="PDBsum" id="5T0H"/>
+<dbReference type="PDBsum" id="5T0I"/>
+<dbReference type="PDBsum" id="5T0J"/>
+<dbReference type="ProteinModelPortal" id="P35998"/>
+<dbReference type="SMR" id="P35998"/>
+<dbReference type="BioGrid" id="111674">
+<property type="interactions" value="158"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-27554N"/>
+<dbReference type="IntAct" id="P35998">
+<property type="interactions" value="56"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1163662"/>
+<dbReference type="STRING" id="9606.ENSP00000292644"/>
+<dbReference type="iPTMnet" id="P35998"/>
+<dbReference type="PhosphoSitePlus" id="P35998"/>
+<dbReference type="SwissPalm" id="P35998"/>
+<dbReference type="BioMuta" id="PSMC2"/>
+<dbReference type="DMDM" id="547930"/>
+<dbReference type="OGP" id="P35998"/>
+<dbReference type="REPRODUCTION-2DPAGE" id="IPI00021435"/>
+<dbReference type="REPRODUCTION-2DPAGE" id="P35998"/>
+<dbReference type="EPD" id="P35998"/>
+<dbReference type="MaxQB" id="P35998"/>
+<dbReference type="PaxDb" id="P35998"/>
+<dbReference type="PeptideAtlas" id="P35998"/>
+<dbReference type="PRIDE" id="P35998"/>
+<dbReference type="DNASU" id="5701"/>
+<dbReference type="Ensembl" id="ENST00000292644">
+<molecule id="P35998-1"/>
+<property type="protein sequence ID" value="ENSP00000292644"/>
+<property type="gene ID" value="ENSG00000161057"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000435765">
+<molecule id="P35998-1"/>
+<property type="protein sequence ID" value="ENSP00000391211"/>
+<property type="gene ID" value="ENSG00000161057"/>
+</dbReference>
+<dbReference type="GeneID" id="5701"/>
+<dbReference type="KEGG" id="hsa:5701"/>
+<dbReference type="UCSC" id="uc003vbs.4">
+<molecule id="P35998-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="5701"/>
+<dbReference type="DisGeNET" id="5701"/>
+<dbReference type="GeneCards" id="PSMC2"/>
+<dbReference type="HGNC" id="HGNC:9548">
+<property type="gene designation" value="PSMC2"/>
+</dbReference>
+<dbReference type="HPA" id="HPA019238"/>
+<dbReference type="HPA" id="HPA049621"/>
+<dbReference type="MIM" id="154365">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P35998"/>
+<dbReference type="OpenTargets" id="ENSG00000161057"/>
+<dbReference type="PharmGKB" id="PA33893"/>
+<dbReference type="eggNOG" id="KOG0729">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1222">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00550000074978"/>
+<dbReference type="HOGENOM" id="HOG000225143"/>
+<dbReference type="HOVERGEN" id="HBG000109"/>
+<dbReference type="InParanoid" id="P35998"/>
+<dbReference type="KO" id="K03061"/>
+<dbReference type="OMA" id="FQVARCT"/>
+<dbReference type="OrthoDB" id="EOG091G096W"/>
+<dbReference type="PhylomeDB" id="P35998"/>
+<dbReference type="TreeFam" id="TF105661"/>
+<dbReference type="Reactome" id="R-HSA-1169091">
+<property type="pathway name" value="Activation of NF-kappaB in B cells"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1234176">
+<property type="pathway name" value="Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1236974">
+<property type="pathway name" value="ER-Phagosome pathway"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1236978">
+<property type="pathway name" value="Cross-presentation of soluble exogenous antigens (endosomes)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-174084">
+<property type="pathway name" value="Autodegradation of Cdh1 by Cdh1:APC/C"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-174113">
+<property type="pathway name" value="SCF-beta-TrCP mediated degradation of Emi1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-174154">
+<property type="pathway name" value="APC/C:Cdc20 mediated degradation of Securin"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-174178">
+<property type="pathway name" value="APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-174184">
+<property type="pathway name" value="Cdc20:Phospho-APC/C mediated degradation of Cyclin A"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-180534">
+<property type="pathway name" value="Vpu mediated degradation of CD4"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-180585">
+<property type="pathway name" value="Vif-mediated degradation of APOBEC3G"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-187577">
+<property type="pathway name" value="SCF(Skp2)-mediated degradation of p27/p21"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-195253">
+<property type="pathway name" value="Degradation of beta-catenin by the destruction complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-202424">
+<property type="pathway name" value="Downstream TCR signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-211733">
+<property type="pathway name" value="Regulation of activated PAK-2p34 by proteasome mediated degradation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2467813">
+<property type="pathway name" value="Separation of Sister Chromatids"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2871837">
+<property type="pathway name" value="FCERI mediated NF-kB activation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-349425">
+<property type="pathway name" value="Autodegradation of the E3 ubiquitin ligase COP1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-350562">
+<property type="pathway name" value="Regulation of ornithine decarboxylase (ODC)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-382556">
+<property type="pathway name" value="ABC-family proteins mediated transport"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-450408">
+<property type="pathway name" value="AUF1 (hnRNP D0) binds and destabilizes mRNA"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-4608870">
+<property type="pathway name" value="Asymmetric localization of PCP proteins"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-4641257">
+<property type="pathway name" value="Degradation of AXIN"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-4641258">
+<property type="pathway name" value="Degradation of DVL"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5358346">
+<property type="pathway name" value="Hedgehog ligand biogenesis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5362768">
+<property type="pathway name" value="Hh mutants that don't undergo autocatalytic processing are degraded by ERAD"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5607761">
+<property type="pathway name" value="Dectin-1 mediated noncanonical NF-kB signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5607764">
+<property type="pathway name" value="CLEC7A (Dectin-1) signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5610780">
+<property type="pathway name" value="Degradation of GLI1 by the proteasome"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5610783">
+<property type="pathway name" value="Degradation of GLI2 by the proteasome"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5610785">
+<property type="pathway name" value="GLI3 is processed to GLI3R by the proteasome"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5632684">
+<property type="pathway name" value="Hedgehog 'on' state"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5658442">
+<property type="pathway name" value="Regulation of RAS by GAPs"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5668541">
+<property type="pathway name" value="TNFR2 non-canonical NF-kB pathway"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5676590">
+<property type="pathway name" value="NIK-->noncanonical NF-kB signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5678895">
+<property type="pathway name" value="Defective CFTR causes cystic fibrosis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5687128">
+<property type="pathway name" value="MAPK6/MAPK4 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5689603">
+<property type="pathway name" value="UCH proteinases"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5689880">
+<property type="pathway name" value="Ub-specific processing proteases"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6798695">
+<property type="pathway name" value="Neutrophil degranulation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-68827">
+<property type="pathway name" value="CDT1 association with the CDC6:ORC:origin complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-68949">
+<property type="pathway name" value="Orc1 removal from chromatin"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-69017">
+<property type="pathway name" value="CDK-mediated phosphorylation and removal of Cdc6"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-69229">
+<property type="pathway name" value="Ubiquitin-dependent degradation of Cyclin D1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-69481">
+<property type="pathway name" value="G2/M Checkpoints"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-69601">
+<property type="pathway name" value="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8852276">
+<property type="pathway name" value="The role of GTSE1 in G2/M progression after G2 checkpoint"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8854050">
+<property type="pathway name" value="FBXL7 down-regulates AURKA during mitotic entry and in early mitosis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-983168">
+<property type="pathway name" value="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="PSMC2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="PSMC2"/>
+<dbReference type="GenomeRNAi" id="5701"/>
+<dbReference type="PRO" id="PR:P35998"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 7"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000161057"/>
+<dbReference type="CleanEx" id="HS_PSMC2"/>
+<dbReference type="ExpressionAtlas" id="P35998">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P35998">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031597">
+<property type="term" value="C:cytosolic proteasome complex"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904813">
+<property type="term" value="C:ficolin-1-rich granule lumen"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031595">
+<property type="term" value="C:nuclear proteasome complex"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000932">
+<property type="term" value="C:P-body"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0022624">
+<property type="term" value="C:proteasome accessory complex"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000502">
+<property type="term" value="C:proteasome complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008540">
+<property type="term" value="C:proteasome regulatory particle, base subcomplex"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034774">
+<property type="term" value="C:secretory granule lumen"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036402">
+<property type="term" value="F:proteasome-activating ATPase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017025">
+<property type="term" value="F:TBP-class protein binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031145">
+<property type="term" value="P:anaphase-promoting complex-dependent catabolic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002479">
+<property type="term" value="P:antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038095">
+<property type="term" value="P:Fc-epsilon receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000165">
+<property type="term" value="P:MAPK cascade"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090090">
+<property type="term" value="P:negative regulation of canonical Wnt signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010972">
+<property type="term" value="P:negative regulation of G2/M transition of mitotic cell cycle"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051436">
+<property type="term" value="P:negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043312">
+<property type="term" value="P:neutrophil degranulation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038061">
+<property type="term" value="P:NIK/NF-kappaB signaling"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001649">
+<property type="term" value="P:osteoblast differentiation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090263">
+<property type="term" value="P:positive regulation of canonical Wnt signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045899">
+<property type="term" value="P:positive regulation of RNA polymerase II transcriptional preinitiation complex assembly"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051437">
+<property type="term" value="P:positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043161">
+<property type="term" value="P:proteasome-mediated ubiquitin-dependent protein catabolic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016579">
+<property type="term" value="P:protein deubiquitination"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000209">
+<property type="term" value="P:protein polyubiquitination"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006521">
+<property type="term" value="P:regulation of cellular amino acid metabolic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043488">
+<property type="term" value="P:regulation of mRNA stability"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061418">
+<property type="term" value="P:regulation of transcription from RNA polymerase II promoter in response to hypoxia"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031146">
+<property type="term" value="P:SCF-dependent proteasomal ubiquitin-dependent protein catabolic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002223">
+<property type="term" value="P:stimulatory C-type lectin receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050852">
+<property type="term" value="P:T cell receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055085">
+<property type="term" value="P:transmembrane transport"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033209">
+<property type="term" value="P:tumor necrosis factor-mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030433">
+<property type="term" value="P:ubiquitin-dependent ERAD pathway"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006511">
+<property type="term" value="P:ubiquitin-dependent protein catabolic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016032">
+<property type="term" value="P:viral process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060071">
+<property type="term" value="P:Wnt signaling pathway, planar cell polarity pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005937">
+<property type="entry name" value="26S_Psome_P45"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003959">
+<property type="entry name" value="ATPase_AAA_core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003960">
+<property type="entry name" value="ATPase_AAA_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00004">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01242">
+<property type="entry name" value="26Sp45"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00674">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0945">Host-virus interaction</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0647">Proteasome</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="initiator methionine" description="Removed" evidence="5 12">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="26S protease regulatory subunit 7" id="PRO_0000084709">
+<location>
+<begin position="2"/>
+<end position="433"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="3">
+<location>
+<begin position="216"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="1">
+<location>
+<position position="116"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="1">
+<location>
+<position position="422"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_056178" evidence="14">
+<location>
+<begin position="1"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; BAE45763." ref="2" evidence="15">
+<original>D</original>
+<variation>V</variation>
+<location>
+<position position="15"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19608861"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000255"/>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10409732"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12665801"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1317798"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15340068"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15831487"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22078707"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27342858"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27428775"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8500623"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9295362"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000305"/>
+<sequence length="433" mass="48634" checksum="85FD95F6DF7A3E84" modified="2007-01-23" version="3">
+MPDYLGADQRKTKEDEKDDKPIRALDEGDIALLKTYGQSTYSRQIKQVEDDIQQLLKKIN
+ELTGIKESDTGLAPPALWDLAADKQTLQSEQPLQVARCTKIINADSEDPKYIINVKQFAK
+FVVDLSDQVAPTDIEEGMRVGVDRNKYQIHIPLPPKIDPTVTMMQVEEKPDVTYSDVGGC
+KEQIEKLREVVETPLLHPERFVNLGIEPPKGVLLFGPPGTGKTLCARAVANRTDACFIRV
+IGSELVQKYVGEGARMVRELFEMARTKKACLIFFDEIDAIGGARFDDGAGGDNEVQRTML
+ELINQLDGFDPRGNIKVLMATNRPDTLDPALMRPGRLDRKIEFSLPDLEGRTHIFKIHAR
+SMSVERDIRFELLARLCPNSTGAEIRSVCTEAGMFAIRARRKIATEKDFLEAVNKVIKSY
+AKFSATPRYMTYN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

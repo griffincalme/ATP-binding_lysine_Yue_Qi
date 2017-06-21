@@ -1,0 +1,902 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2008-04-08" modified="2017-05-10" version="120">
+<accession>Q6PIF6</accession>
+<accession>Q14786</accession>
+<accession>Q8TEE1</accession>
+<name>MYO7B_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Unconventional myosin-VIIb</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">MYO7B</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="724" last="731">
+<title>Generation and annotation of the DNA sequences of human chromosomes 2 and 4.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Graves T.A."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Pepin K.H."/>
+<person name="Minx P."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Kremitzki C."/>
+<person name="Oddy L."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Carter J."/>
+<person name="Cordes M."/>
+<person name="Harris A."/>
+<person name="Isak A."/>
+<person name="van Brunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Abbott S."/>
+<person name="Armstrong J."/>
+<person name="Belter E.A."/>
+<person name="Caruso L."/>
+<person name="Cedroni M."/>
+<person name="Cotton M."/>
+<person name="Davidson T."/>
+<person name="Desai A."/>
+<person name="Elliott G."/>
+<person name="Erb T."/>
+<person name="Fronick C."/>
+<person name="Gaige T."/>
+<person name="Haakenson W."/>
+<person name="Haglund K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Kim K."/>
+<person name="Kruchowski S.S."/>
+<person name="Strong C.M."/>
+<person name="Grewal N."/>
+<person name="Goyea E."/>
+<person name="Hou S."/>
+<person name="Levy A."/>
+<person name="Martinka S."/>
+<person name="Mead K."/>
+<person name="McLellan M.D."/>
+<person name="Meyer R."/>
+<person name="Randall-Maher J."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Shah N."/>
+<person name="Swearengen-Shahid S."/>
+<person name="Snider J."/>
+<person name="Strong J.T."/>
+<person name="Thompson J."/>
+<person name="Yoakum M."/>
+<person name="Leonard S."/>
+<person name="Pearman C."/>
+<person name="Trani L."/>
+<person name="Radionenko M."/>
+<person name="Waligorski J.E."/>
+<person name="Wang C."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Maupin R."/>
+<person name="Latreille P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Pohl C."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Berkowicz N."/>
+<person name="Nelson J.O."/>
+<person name="Osborne J."/>
+<person name="Ding L."/>
+<person name="Meyer R."/>
+<person name="Sabo A."/>
+<person name="Shotland Y."/>
+<person name="Sinha P."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Jones T.A."/>
+<person name="She X."/>
+<person name="Ciccarelli F.D."/>
+<person name="Izaurralde E."/>
+<person name="Taylor J."/>
+<person name="Schmutz J."/>
+<person name="Myers R.M."/>
+<person name="Cox D.R."/>
+<person name="Huang X."/>
+<person name="McPherson J.D."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Warren W.C."/>
+<person name="Chinwalla A.T."/>
+<person name="Eddy S.R."/>
+<person name="Marra M.A."/>
+<person name="Ovcharenko I."/>
+<person name="Furey T.S."/>
+<person name="Miller W."/>
+<person name="Eichler E.E."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Torrents D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="15815621"/>
+<dbReference type="DOI" id="10.1038/nature03466"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1994" name="Proc. Natl. Acad. Sci. U.S.A." volume="91" first="6549" last="6553">
+<title>Identification and overlapping expression of multiple unconventional myosin genes in vertebrate cell types.</title>
+<authorList>
+<person name="Bement W.M."/>
+<person name="Hasson T."/>
+<person name="Wirth J.A."/>
+<person name="Cheney R.E."/>
+<person name="Mooseker M.S."/>
+</authorList>
+<dbReference type="PubMed" id="8022818"/>
+<dbReference type="DOI" id="10.1073/pnas.91.14.6549"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 166-196 (ISOFORMS 1/2)</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1994" name="Proc. Natl. Acad. Sci. U.S.A." volume="91" first="11767" last="11767">
+<authorList>
+<person name="Bement W.M."/>
+<person name="Hasson T."/>
+<person name="Wirth J.A."/>
+<person name="Cheney R.E."/>
+<person name="Mooseker M.S."/>
+</authorList>
+<dbReference type="PubMed" id="7972138"/>
+<dbReference type="DOI" id="10.1073/pnas.91.24.11767c"/>
+</citation>
+<scope>ERRATUM</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2002-01" db="EMBL/GenBank/DDBJ databases">
+<title>The nucleotide sequence of a long cDNA clone isolated from human spleen.</title>
+<authorList>
+<person name="Jikuya H."/>
+<person name="Takano J."/>
+<person name="Nomura N."/>
+<person name="Kikuno R."/>
+<person name="Nagase T."/>
+<person name="Ohara O."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1102-2116 (ISOFORM 2)</scope>
+<source>
+<tissue>Spleen</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1451-2116 (ISOFORM 1)</scope>
+<source>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2014" name="Cell" volume="157" first="433" last="446">
+<title>Intestinal brush border assembly driven by protocadherin-based intermicrovillar adhesion.</title>
+<authorList>
+<person name="Crawley S.W."/>
+<person name="Shifrin D.A. Jr."/>
+<person name="Grega-Larson N.E."/>
+<person name="McConnell R.E."/>
+<person name="Benesh A.E."/>
+<person name="Mao S."/>
+<person name="Zheng Y."/>
+<person name="Zheng Q.Y."/>
+<person name="Nam K.T."/>
+<person name="Millis B.A."/>
+<person name="Kachar B."/>
+<person name="Tyska M.J."/>
+</authorList>
+<dbReference type="PubMed" id="24725409"/>
+<dbReference type="DOI" id="10.1016/j.cell.2014.01.067"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>IDENTIFICATION OF THE IMAC COMPLEX</scope>
+<scope>INTERACTION WITH CDHR2; CDHR5 AND USH1C</scope>
+<scope>REGION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2016" name="Dev. Cell" volume="36" first="179" last="189">
+<title>Mechanistic basis of organization of the Harmonin/USH1C-mediated brush border microvilli tip-link complex.</title>
+<authorList>
+<person name="Li J."/>
+<person name="He Y."/>
+<person name="Lu Q."/>
+<person name="Zhang M."/>
+</authorList>
+<dbReference type="PubMed" id="26812017"/>
+<dbReference type="DOI" id="10.1016/j.devcel.2015.12.020"/>
+</citation>
+<scope>INTERACTION WITH USH1C</scope>
+<scope>REGION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2016" name="Dev. Cell" volume="36" first="190" last="200">
+<title>ANKS4B is essential for intermicrovillar adhesion complex formation.</title>
+<authorList>
+<person name="Crawley S.W."/>
+<person name="Weck M.L."/>
+<person name="Grega-Larson N.E."/>
+<person name="Shifrin D.A. Jr."/>
+<person name="Tyska M.J."/>
+</authorList>
+<dbReference type="PubMed" id="26812018"/>
+<dbReference type="DOI" id="10.1016/j.devcel.2015.12.022"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH ANKS4B AND USH1C</scope>
+<scope>IDENTIFICATION OF THE IMAC COMPLEX</scope>
+</reference>
+<comment type="function">
+<text evidence="11 12">Myosins are actin-based motor molecules with ATPase activity. Their highly divergent tails are presumed to bind to membranous compartments, which would be moved relative to actin filaments. As part of the intermicrovillar adhesion complex/IMAC plays a role in epithelial brush border differentiation, controlling microvilli organization and length. May link the complex to the actin core bundle of microvilli (Probable).</text>
+</comment>
+<comment type="subunit">
+<text evidence="6 7 8">Part of the IMAC/intermicrovillar adhesion complex/intermicrovillar tip-link complex composed of ANKS4B, MYO7B, USH1C, CDHR2 and CDHR5 (PubMed:24725409, PubMed:26812018). Interacts with CDHR2 (PubMed:24725409). Interacts with CDHR5 (PubMed:24725409). Interacts with USH1C (PubMed:24725409, PubMed:26812017, PubMed:26812018). Interacts with ANKS4B; requires initial interaction with USH1C (PubMed:26812018).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-4400912"/>
+<interactant intactId="EBI-493793">
+<id>Q9BYE9</id>
+<label>CDHR2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="10">Cytoplasm</location>
+<location evidence="10">Cytoskeleton</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="6">Cell projection</location>
+<location evidence="6">Microvillus</location>
+</subcellularLocation>
+<text evidence="6">Enriched in the microvilli of the intestinal brush border.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q6PIF6-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q6PIF6-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_032930 VSP_032931"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+</comment>
+<comment type="similarity">
+<text evidence="10">Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family.</text>
+</comment>
+<comment type="caution">
+<text evidence="10">Represents an unconventional myosin. This protein should not be confused with the conventional myosin-7 (MYH7).</text>
+</comment>
+<comment type="sequence caution" evidence="10">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAH35615" version="2"/>
+</conflict>
+</comment>
+<dbReference type="EMBL" id="AC010976">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L29147">
+<property type="protein sequence ID" value="AAA20910.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK074183">
+<property type="protein sequence ID" value="BAB85009.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC035615">
+<property type="protein sequence ID" value="AAH35615.2"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS46405.1">
+<molecule id="Q6PIF6-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001073996.1">
+<molecule id="Q6PIF6-1"/>
+<property type="nucleotide sequence ID" value="NM_001080527.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.154578"/>
+<dbReference type="ProteinModelPortal" id="Q6PIF6"/>
+<dbReference type="SMR" id="Q6PIF6"/>
+<dbReference type="IntAct" id="Q6PIF6">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000386461"/>
+<dbReference type="iPTMnet" id="Q6PIF6"/>
+<dbReference type="PhosphoSitePlus" id="Q6PIF6"/>
+<dbReference type="BioMuta" id="MYO7B"/>
+<dbReference type="DMDM" id="182667924"/>
+<dbReference type="EPD" id="Q6PIF6"/>
+<dbReference type="MaxQB" id="Q6PIF6"/>
+<dbReference type="PaxDb" id="Q6PIF6"/>
+<dbReference type="PeptideAtlas" id="Q6PIF6"/>
+<dbReference type="PRIDE" id="Q6PIF6"/>
+<dbReference type="Ensembl" id="ENST00000409816">
+<molecule id="Q6PIF6-1"/>
+<property type="protein sequence ID" value="ENSP00000386461"/>
+<property type="gene ID" value="ENSG00000169994"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000428314">
+<molecule id="Q6PIF6-1"/>
+<property type="protein sequence ID" value="ENSP00000415090"/>
+<property type="gene ID" value="ENSG00000169994"/>
+</dbReference>
+<dbReference type="GeneID" id="4648"/>
+<dbReference type="KEGG" id="hsa:4648"/>
+<dbReference type="UCSC" id="uc002top.3">
+<molecule id="Q6PIF6-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="4648"/>
+<dbReference type="DisGeNET" id="4648"/>
+<dbReference type="GeneCards" id="MYO7B"/>
+<dbReference type="H-InvDB" id="HIX0002437"/>
+<dbReference type="HGNC" id="HGNC:7607">
+<property type="gene designation" value="MYO7B"/>
+</dbReference>
+<dbReference type="HPA" id="HPA039131"/>
+<dbReference type="MIM" id="606541">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q6PIF6"/>
+<dbReference type="OpenTargets" id="ENSG00000169994"/>
+<dbReference type="PharmGKB" id="PA31412"/>
+<dbReference type="eggNOG" id="KOG4229">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5022">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00840000129687"/>
+<dbReference type="HOGENOM" id="HOG000007836"/>
+<dbReference type="HOVERGEN" id="HBG052557"/>
+<dbReference type="InParanoid" id="Q6PIF6"/>
+<dbReference type="KO" id="K10359"/>
+<dbReference type="OMA" id="KEFFTPW"/>
+<dbReference type="OrthoDB" id="EOG091G00BB"/>
+<dbReference type="PhylomeDB" id="Q6PIF6"/>
+<dbReference type="TreeFam" id="TF335306"/>
+<dbReference type="ChiTaRS" id="MYO7B">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="4648"/>
+<dbReference type="PRO" id="PR:Q6PIF6"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 2"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000169994"/>
+<dbReference type="CleanEx" id="HS_MYO7B"/>
+<dbReference type="ExpressionAtlas" id="Q6PIF6">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q6PIF6">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090651">
+<property type="term" value="C:apical cytoplasm"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005903">
+<property type="term" value="C:brush border"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005902">
+<property type="term" value="C:microvillus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016459">
+<property type="term" value="C:myosin complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003779">
+<property type="term" value="F:actin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003774">
+<property type="term" value="F:motor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904970">
+<property type="term" value="P:brush border assembly"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030154">
+<property type="term" value="P:cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.80.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.30.29.30">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019749">
+<property type="entry name" value="Band_41_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014352">
+<property type="entry name" value="FERM/acyl-CoA-bd_prot_3-hlx"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019748">
+<property type="entry name" value="FERM_central"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000299">
+<property type="entry name" value="FERM_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000048">
+<property type="entry name" value="IQ_motif_EF-hand-BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001609">
+<property type="entry name" value="Myosin_head_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000857">
+<property type="entry name" value="MyTH4_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011993">
+<property type="entry name" value="PH_dom-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011511">
+<property type="entry name" value="SH3_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001452">
+<property type="entry name" value="SH3_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029071">
+<property type="entry name" value="Ubiquitin-rel_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00373">
+<property type="entry name" value="FERM_M"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00612">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00063">
+<property type="entry name" value="Myosin_head"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00784">
+<property type="entry name" value="MyTH4"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07653">
+<property type="entry name" value="SH3_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00193">
+<property type="entry name" value="MYOSINHEAVY"/>
+</dbReference>
+<dbReference type="SMART" id="SM00295">
+<property type="entry name" value="B41"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00015">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="SMART" id="SM00242">
+<property type="entry name" value="MYSc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00139">
+<property type="entry name" value="MyTH4"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00326">
+<property type="entry name" value="SH3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47031">
+<property type="entry name" value="SSF47031"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50044">
+<property type="entry name" value="SSF50044"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50729">
+<property type="entry name" value="SSF50729"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54236">
+<property type="entry name" value="SSF54236"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50057">
+<property type="entry name" value="FERM_3"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50096">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51456">
+<property type="entry name" value="MYOSIN_MOTOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51016">
+<property type="entry name" value="MYTH4"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50002">
+<property type="entry name" value="SH3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0009">Actin-binding</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0966">Cell projection</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0221">Differentiation</keyword>
+<keyword id="KW-0505">Motor protein</keyword>
+<keyword id="KW-0518">Myosin</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0728">SH3 domain</keyword>
+<feature type="chain" description="Unconventional myosin-VIIb" id="PRO_0000329046">
+<location>
+<begin position="1"/>
+<end position="2116"/>
+</location>
+</feature>
+<feature type="domain" description="Myosin motor">
+<location>
+<begin position="65"/>
+<end position="760"/>
+</location>
+</feature>
+<feature type="domain" description="IQ 1" evidence="3">
+<location>
+<begin position="745"/>
+<end position="765"/>
+</location>
+</feature>
+<feature type="domain" description="IQ 2" evidence="3">
+<location>
+<begin position="763"/>
+<end position="792"/>
+</location>
+</feature>
+<feature type="domain" description="IQ 3" evidence="3">
+<location>
+<begin position="786"/>
+<end position="815"/>
+</location>
+</feature>
+<feature type="domain" description="IQ 4" evidence="3">
+<location>
+<begin position="814"/>
+<end position="834"/>
+</location>
+</feature>
+<feature type="domain" description="IQ 5" evidence="3">
+<location>
+<begin position="832"/>
+<end position="861"/>
+</location>
+</feature>
+<feature type="domain" description="IQ 6" evidence="3">
+<location>
+<begin position="855"/>
+<end position="884"/>
+</location>
+</feature>
+<feature type="domain" description="MyTH4 1" evidence="5">
+<location>
+<begin position="989"/>
+<end position="1192"/>
+</location>
+</feature>
+<feature type="domain" description="FERM 1" evidence="2">
+<location>
+<begin position="1197"/>
+<end position="1506"/>
+</location>
+</feature>
+<feature type="domain" description="SH3 1" evidence="4">
+<location>
+<begin position="1501"/>
+<end position="1567"/>
+</location>
+</feature>
+<feature type="domain" description="SH3 2" evidence="4">
+<location>
+<begin position="1606"/>
+<end position="1670"/>
+</location>
+</feature>
+<feature type="domain" description="MyTH4 2" evidence="5">
+<location>
+<begin position="1644"/>
+<end position="1793"/>
+</location>
+</feature>
+<feature type="domain" description="MyTH4 3" evidence="5">
+<location>
+<begin position="1790"/>
+<end position="1896"/>
+</location>
+</feature>
+<feature type="domain" description="FERM 2" evidence="2">
+<location>
+<begin position="1799"/>
+<end position="2102"/>
+</location>
+</feature>
+<feature type="region of interest" description="Mediates interaction with ANKS4B" evidence="6">
+<location>
+<begin position="916"/>
+<end position="1542"/>
+</location>
+</feature>
+<feature type="region of interest" description="Mediates interaction with CDHR2, CDHR5 and USH1C" evidence="6 7">
+<location>
+<begin position="1501"/>
+<end position="2116"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="904"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="1371"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="1645"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_032930" evidence="9">
+<original>ISQKEGDFFFDSLREVSDWVKKNKPQKEGAPVTLPYQVYFMRKLWLNISPGKDVNADTILHYHQELPKYLRGFHKCSREDAIHLAGLIYKAQFNNDRSQLASVPKIL</original>
+<variation>GRAGAGQTVGGRAVSEALGAACGGLSLPGAPMLDQAAGTEVGGVLEQSQLHTPIAHAQPTPAQHPGRRRPLDQNPAGSQEDSPRKPPNFPVPSPSPGHQPEGGRLLL</variation>
+<location>
+<begin position="1851"/>
+<end position="1957"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_032931" evidence="9">
+<location>
+<begin position="1958"/>
+<end position="2116"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2404991." id="VAR_042626">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="21"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2245408." id="VAR_042627">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="1264"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs13025959." id="VAR_042628">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="1647"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11686946." id="VAR_042629">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="2105"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAA20910." ref="2" evidence="10">
+<original>H</original>
+<variation>D</variation>
+<location>
+<position position="182"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; BAB85009." ref="4" evidence="10">
+<original>LRPSL</original>
+<variation>WSVSF</variation>
+<location>
+<begin position="1102"/>
+<end position="1106"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q99MZ6"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00084"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00116"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00192"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00359"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24725409"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26812017"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26812018"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000303">
+<source ref="4"/>
+</evidence>
+<evidence key="10" type="ECO:0000305"/>
+<evidence key="11" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="24725409"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="26812018"/>
+</source>
+</evidence>
+<sequence length="2116" mass="241599" checksum="18E908998470E4FD" modified="2008-04-08" version="2">
+MSGFRLGDHVWLEPPSTHKTGVAIGGIIKEAKPGKVLVEDDEGKEHWIRAEDFGVLSPMH
+PNSVQGVDDMIRLGDLNEAGMVHNLLIRYQQHKIYTYTGSILVAVNPFQVLPLYTLEQVQ
+LYYSRHMGELPPHVFAIANNCYFSMKRNKRDQCCIISGESGAGKTETTKLILQFLATISG
+QHSWIEQQVLEANPILEAFGNAKTIRNDNSSRFGKYIDIYFNPSGVIEGARIEQFLLEKS
+RVCRQAPEERNYHIFYCMLMGVSAEDKQLLSLGTPSEYHYLTMGNCTSCEGLNDAKDYAH
+IRSAMKILQFSDSESWDVIKLLAAILHLGNVGFMASVFENLDASDVMETPAFPTVMKLLE
+VQHQELRDCLIKHTILIRGEFVTRSLNIAQAADRRDAFVKGIYGHLFLWIVKKINAAIFT
+PPAQDPKNVRRAIGLLDIFGFENFENNSFEQLCINFANEHLQQFFVQHVFTMEQEEYRSE
+NISWDYIHYTDNRPTLDLLALKPMSIISLLDEESRFPQGTDLTMLQKLNSVHANNKAFLQ
+PKNIHDARFGIAHFAGEVYYQAEGFLEKNRDVLSTDILTLVYSSKNKFLREIFNLELAET
+KLGHGTIRQAKAGNHLFKSADSNKRPSTLGSQFKQSLDQLMKILTNCQPYFIRCIKPNEY
+KKPLLFDRELCLRQLRYSGMMETVHIRKSGFPIRYTFEEFSQRFGVLLPNAMRMQLQGKL
+RQMTLGITDVWLRTDKDWKAGKTKIFLRDHQDTLLEVQRSQVLDRAALSIQKVLRGYRYR
+KEFLRQRRAAVTLQAWWRGYCNRRNFKLILVGFERLQAIARSQPLARQYQAMRQRTVQLQ
+ALCRGYLVRQQVQAKRRAVVVIQAHARGMAARRNFQQRKANAPLVIPAEGQKSQGALPAK
+KRRSIYDTVTDTEMVEKVFGFLPAMIGGQEGQASPHFEDLESKTQKLLEVDLDTVPMAEE
+PEEDVDGLAEYTFPKFAVTYFQKSASHTHIRRPLRYPLLYHEDDTDCLAALVIWNVILRF
+MGDLPEPVLYARSSQQGSSVMRQIHDTLGREHGAQVPQHSRSAQVASQLNIGEEALEPDG
+LGADRPMSNLEKVHFIVGYAILRPSLRDEIYCQICKQLSENFKTSSLARGWILLSLCLGC
+FPPSERFMKYLLNFIGQGPATYGPFCAERLRRTYANGVRAEPPTWLELQAVKSKKHIPIQ
+VILATGESLTVPVDSASTSREMCMHIAHKQGLSDHLGFSLQVAVYDKFWSLGSGRDHMMD
+AIARCEQMAQERGESQRQSPWRIYFRKEFFTPWHDSREDPVSTELIYRQVLRGVWSGEYS
+FEKEEELVELLARHCYVQLGASAESKAVQELLPSCIPHKLYRTKPPDRWASLVTAACAKA
+PYTQKQVTPLAVREQVVDAARLQWPLLFSRLFEVITLSGPRLPKTQLILAVNWKGLCFLD
+QQEKMLLELSFPEVMGLATNREAQGGQRLLLSTMHEEYEFVSPSSVAIAELVALFLEGLK
+ERSIFAMALQDRKATDDTTLLAFKKGDLLVLTKKQGLLASENWTLGQNDRTGKTGLVPMA
+CLYTIPTVTKPSAQLLSLLAMSPEKRKLAAQEGQFTEPRPEEPPKEKLHTLEEFSYEFFR
+APEKDMVSMAVLPLARARGHLWAYSCEPLRQPLLKRVHANVDLWDIACQIFVAILRYMGD
+YPSRQAWPTLELTDQIFTLALQHPALQDEVYCQILKQLTHNSNRHSEERGWQLLWLCTGL
+FPPSKGLLPHAQKFIDTRRGKLLAPDCSRRIQKVLRTGPRKQPPHQVEVEAAEQNVSRIC
+HKIYFPNDTSEMLEVVANTRVRDVCDSIATRLQLASWEGCSLFIKISDKVISQKEGDFFF
+DSLREVSDWVKKNKPQKEGAPVTLPYQVYFMRKLWLNISPGKDVNADTILHYHQELPKYL
+RGFHKCSREDAIHLAGLIYKAQFNNDRSQLASVPKILRELVPENLTRLMSSEEWKKSILL
+AYDKHKDKTVEEAKVAFLKWICRWPTFGSAFFEVKQTSEPSYPDVILIAINRHGVLLIHP
+KTKDLLTTYPFTKISSWSSGSTYFHMALGSLGRGSRLLCETSLGYKMDDLLTSYVQQLLS
+AMNKQRGSKAPALAST
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

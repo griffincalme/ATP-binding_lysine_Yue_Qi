@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-09-02" modified="2017-05-10" version="45">
+<accession>B3KQM3</accession>
+<name>B3KQM3_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Receptor-interacting serine/threonine-protein kinase 2</fullName>
+<ecNumber evidence="1">2.7.11.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">Tyrosine-protein kinase RIPK2</fullName>
+</alternativeName>
+</protein>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="submission" date="2002-03" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project.</title>
+<authorList>
+<person name="Isogai T."/>
+<person name="Ota T."/>
+<person name="Nishikawa T."/>
+<person name="Hayashi K."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Suzuki Y."/>
+<person name="Nagai K."/>
+<person name="Sugano S."/>
+<person name="Ishii S."/>
+<person name="Kawai-Hio Y."/>
+<person name="Saito K."/>
+<person name="Yamamoto J."/>
+<person name="Wakamatsu A."/>
+<person name="Nakamura Y."/>
+<person name="Kojima S."/>
+<person name="Nagahari K."/>
+<person name="Masuho Y."/>
+<person name="Ono T."/>
+<person name="Okano K."/>
+<person name="Yoshikawa Y."/>
+<person name="Aotsuka S."/>
+<person name="Sasaki N."/>
+<person name="Hattori A."/>
+<person name="Okumura K."/>
+<person name="Iwayanagi T."/>
+<person name="Ninomiya K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="6">Placenta</tissue>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">Serine/threonine/tyrosine kinase that plays an essential role in modulation of innate and adaptive immune responses. Upon stimulation by bacterial peptidoglycans, NOD1 and NOD2 are activated, oligomerize and recruit RIPK2 through CARD-CARD domains.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Found in a signaling complex consisting of at least ARHGEF2, NOD2 and RIPK2.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family.</text>
+</comment>
+<dbReference type="EC" id="2.7.11.1" evidence="1"/>
+<dbReference type="EMBL" id="AK075213">
+<property type="protein sequence ID" value="BAG52085.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.103755"/>
+<dbReference type="STRING" id="9606.ENSP00000220751"/>
+<dbReference type="PaxDb" id="B3KQM3"/>
+<dbReference type="PeptideAtlas" id="B3KQM3"/>
+<dbReference type="PRIDE" id="B3KQM3"/>
+<dbReference type="eggNOG" id="KOG0192">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0515">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG054242"/>
+<dbReference type="SignaLink" id="B3KQM3"/>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002250">
+<property type="term" value="P:adaptive immune response"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045087">
+<property type="term" value="P:innate immune response"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043065">
+<property type="term" value="P:positive regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001315">
+<property type="entry name" value="CARD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011029">
+<property type="entry name" value="DEATH-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017322">
+<property type="entry name" value="Rcpt-int_Ser/Thr_kinase-2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001245">
+<property type="entry name" value="Ser-Thr/Tyr_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00619">
+<property type="entry name" value="CARD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07714">
+<property type="entry name" value="Pkinase_Tyr"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF037921">
+<property type="entry name" value="STPK_RIP2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47986">
+<property type="entry name" value="SSF47986"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50209">
+<property type="entry name" value="CARD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-1064" evidence="1">Adaptive immunity</keyword>
+<keyword id="KW-0067" evidence="1 3">ATP-binding</keyword>
+<keyword id="KW-0963" evidence="1">Cytoplasm</keyword>
+<keyword id="KW-0391" evidence="1">Immunity</keyword>
+<keyword id="KW-0399" evidence="1">Innate immunity</keyword>
+<keyword id="KW-0418" evidence="1">Kinase</keyword>
+<keyword id="KW-0547" evidence="1 3">Nucleotide-binding</keyword>
+<keyword id="KW-0675" evidence="6">Receptor</keyword>
+<keyword id="KW-0723" evidence="1">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808" evidence="1">Transferase</keyword>
+<feature type="domain" description="Protein kinase" evidence="4">
+<location>
+<begin position="18"/>
+<end position="294"/>
+</location>
+</feature>
+<feature type="domain" description="CARD" evidence="5">
+<location>
+<begin position="432"/>
+<end position="524"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="3">
+<location>
+<begin position="24"/>
+<end position="32"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="2">
+<location>
+<position position="146"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="3">
+<location>
+<position position="47"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PIRNR" id="PIRNR037921"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="PIRSR" id="PIRSR037921-1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="PIRSR" id="PIRSR037921-2"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50209"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG52085.1"/>
+</source>
+</evidence>
+<sequence length="540" mass="61066" checksum="83C3DF93FD021C3B" modified="2008-09-02" version="1">
+MNGEAICSALPTIPYHKLADLRYLSRGASGTVSSARHADWRVQVAVKHLHIHTPLLDSER
+KDVLREAEILHKARFSYILPILGICNEPEFLGIVTEYMPNGSLNELLHRKTEYPDVAWPL
+RFRILHEIALGVNYLHNMTPPLLHHDLKTQNILLDNEFHVKIADFGLSKWRMMSLSQSRS
+SKSAPEGGTIIYMPPENYEPGQKSRASIKHDIYSYAVITREVLSRKQPFEDVTNPLQIMY
+SVSQGHRPVINEESLPYDIPHRARMISLIESGWAQNPDERPSFLKCLIELEPVLGTFEEI
+TFLEAVIQLKKTKLQSVSSAIHLCDKKKMELSLNIPVNHGPQEESCGSSQLHENSGSPET
+SRSLPAPQDNDFLSRKAQDCYFMKLHHCPGNHSWDSTISGSQRAAFCDHKTTPCSSAIIN
+PLSTAGNSERLQPGIAQQWIQSKREDIVNQMTEACLNQSLDALLSRDLIMKEDYELVSTK
+PTRTSKVRQLLDTTDIQGEEFAKVIVQKLKDNKQMGLQPYPEILVVSRSPSLNLLQNKSM
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

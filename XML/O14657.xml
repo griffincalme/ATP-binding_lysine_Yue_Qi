@@ -1,0 +1,681 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2001-04-27" modified="2017-05-10" version="155">
+<accession>O14657</accession>
+<name>TOR1B_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Torsin-1B</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Torsin ATPase-1B</fullName>
+<ecNumber>3.6.4.-</ecNumber>
+</alternativeName>
+<alternativeName>
+<fullName>Torsin family 1 member B</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">TOR1B</name>
+<name type="synonym">DQ1</name>
+<name type="ORF">FKSG18</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="2000-10" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of FKSG18, a novel gene located on human chromosome 9.</title>
+<authorList>
+<person name="Wang Y.-G."/>
+<person name="Gong L."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Nature" volume="429" first="369" last="374">
+<title>DNA sequence and analysis of human chromosome 9.</title>
+<authorList>
+<person name="Humphray S.J."/>
+<person name="Oliver K."/>
+<person name="Hunt A.R."/>
+<person name="Plumb R.W."/>
+<person name="Loveland J.E."/>
+<person name="Howe K.L."/>
+<person name="Andrews T.D."/>
+<person name="Searle S."/>
+<person name="Hunt S.E."/>
+<person name="Scott C.E."/>
+<person name="Jones M.C."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ambrose K.D."/>
+<person name="Ashwell R.I.S."/>
+<person name="Babbage A.K."/>
+<person name="Babbage S."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Banerjee R."/>
+<person name="Barker D.J."/>
+<person name="Barlow K.F."/>
+<person name="Bates K."/>
+<person name="Beasley H."/>
+<person name="Beasley O."/>
+<person name="Bird C.P."/>
+<person name="Bray-Allen S."/>
+<person name="Brown A.J."/>
+<person name="Brown J.Y."/>
+<person name="Burford D."/>
+<person name="Burrill W."/>
+<person name="Burton J."/>
+<person name="Carder C."/>
+<person name="Carter N.P."/>
+<person name="Chapman J.C."/>
+<person name="Chen Y."/>
+<person name="Clarke G."/>
+<person name="Clark S.Y."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Collier R.E."/>
+<person name="Corby N."/>
+<person name="Crosier M."/>
+<person name="Cummings A.T."/>
+<person name="Davies J."/>
+<person name="Dhami P."/>
+<person name="Dunn M."/>
+<person name="Dutta I."/>
+<person name="Dyer L.W."/>
+<person name="Earthrowl M.E."/>
+<person name="Faulkner L."/>
+<person name="Fleming C.J."/>
+<person name="Frankish A."/>
+<person name="Frankland J.A."/>
+<person name="French L."/>
+<person name="Fricker D.G."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Ghori J."/>
+<person name="Gilbert J.G.R."/>
+<person name="Glison C."/>
+<person name="Grafham D.V."/>
+<person name="Gribble S."/>
+<person name="Griffiths C."/>
+<person name="Griffiths-Jones S."/>
+<person name="Grocock R."/>
+<person name="Guy J."/>
+<person name="Hall R.E."/>
+<person name="Hammond S."/>
+<person name="Harley J.L."/>
+<person name="Harrison E.S.I."/>
+<person name="Hart E.A."/>
+<person name="Heath P.D."/>
+<person name="Henderson C.D."/>
+<person name="Hopkins B.L."/>
+<person name="Howard P.J."/>
+<person name="Howden P.J."/>
+<person name="Huckle E."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Joy A.A."/>
+<person name="Kay M."/>
+<person name="Keenan S."/>
+<person name="Kershaw J.K."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Knights A."/>
+<person name="Laird G.K."/>
+<person name="Langford C."/>
+<person name="Lawlor S."/>
+<person name="Leongamornlert D.A."/>
+<person name="Leversha M."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Lovell J."/>
+<person name="Martin S."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="McLaren S."/>
+<person name="McLay K.E."/>
+<person name="McMurray A."/>
+<person name="Milne S."/>
+<person name="Nickerson T."/>
+<person name="Nisbett J."/>
+<person name="Nordsiek G."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Porter K.M."/>
+<person name="Pandian R."/>
+<person name="Pelan S."/>
+<person name="Phillimore B."/>
+<person name="Povey S."/>
+<person name="Ramsey Y."/>
+<person name="Rand V."/>
+<person name="Scharfe M."/>
+<person name="Sehra H.K."/>
+<person name="Shownkeen R."/>
+<person name="Sims S.K."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Steward C.A."/>
+<person name="Swarbreck D."/>
+<person name="Sycamore N."/>
+<person name="Tester J."/>
+<person name="Thorpe A."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Thomas D.W."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="West A.P."/>
+<person name="Whitehead S.L."/>
+<person name="Willey D.L."/>
+<person name="Williams S.A."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Young L."/>
+<person name="Ashurst J.L."/>
+<person name="Coulson A."/>
+<person name="Blocker H."/>
+<person name="Durbin R.M."/>
+<person name="Sulston J.E."/>
+<person name="Hubbard T."/>
+<person name="Jackson M.J."/>
+<person name="Bentley D.R."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Dunham I."/>
+</authorList>
+<dbReference type="PubMed" id="15164053"/>
+<dbReference type="DOI" id="10.1038/nature02465"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Kidney</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Nat. Genet." volume="17" first="40" last="48">
+<title>The early-onset torsion dystonia gene (DYT1) encodes an ATP-binding protein.</title>
+<authorList>
+<person name="Ozelius L.J."/>
+<person name="Hewett J.W."/>
+<person name="Page C.E."/>
+<person name="Bressman S.B."/>
+<person name="Kramer P.L."/>
+<person name="Shalish C."/>
+<person name="de Leon D."/>
+<person name="Brin M.F."/>
+<person name="Raymond D."/>
+<person name="Corey D.P."/>
+<person name="Fahn S."/>
+<person name="Risch N.J."/>
+<person name="Buckler A.J."/>
+<person name="Gusella J.F."/>
+<person name="Breakefield X.O."/>
+</authorList>
+<dbReference type="PubMed" id="9288096"/>
+<dbReference type="DOI" id="10.1038/ng0997-40"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 71-336</scope>
+<source>
+<tissue>Brain cortex</tissue>
+<tissue>Fetal brain</tissue>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="J. Neurochem." volume="89" first="1186" last="1194">
+<title>TorsinB--perinuclear location and association with torsinA.</title>
+<authorList>
+<person name="Hewett J.W."/>
+<person name="Kamm C."/>
+<person name="Boston H."/>
+<person name="Beauchamp R."/>
+<person name="Naismith T."/>
+<person name="Ozelius L."/>
+<person name="Hanson P.I."/>
+<person name="Breakefield X.O."/>
+<person name="Ramesh V."/>
+</authorList>
+<dbReference type="PubMed" id="15147511"/>
+<dbReference type="DOI" id="10.1111/j.1471-4159.2004.02404.x"/>
+</citation>
+<scope>INTERACTION WITH TOR1A</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>GLYCOSYLATION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2010" name="Hum. Mol. Genet." volume="19" first="888" last="900">
+<title>Relative tissue expression of homologous torsinB correlates with the neuronal specific importance of DYT1 dystonia-associated torsinA.</title>
+<authorList>
+<person name="Jungwirth M."/>
+<person name="Dear M.L."/>
+<person name="Brown P."/>
+<person name="Holbrook K."/>
+<person name="Goodchild R."/>
+</authorList>
+<dbReference type="PubMed" id="20015956"/>
+<dbReference type="DOI" id="10.1093/hmg/ddp557"/>
+</citation>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH TOR1A</scope>
+<scope>MUTAGENESIS OF GLU-178</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2013" name="Proc. Natl. Acad. Sci. U.S.A." volume="110" first="E1545" last="1554">
+<title>Regulation of Torsin ATPases by LAP1 and LULL1.</title>
+<authorList>
+<person name="Zhao C."/>
+<person name="Brown R.S."/>
+<person name="Chase A.R."/>
+<person name="Eisele M.R."/>
+<person name="Schlieker C."/>
+</authorList>
+<dbReference type="PubMed" id="23569223"/>
+<dbReference type="DOI" id="10.1073/pnas.1300676110"/>
+</citation>
+<scope>FUNCTION AS ATPASE</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2014" name="J. Biol. Chem." volume="289" first="552" last="564">
+<title>Arresting a Torsin ATPase reshapes the endoplasmic reticulum.</title>
+<authorList>
+<person name="Rose A.E."/>
+<person name="Zhao C."/>
+<person name="Turner E.M."/>
+<person name="Steyer A.M."/>
+<person name="Schlieker C."/>
+</authorList>
+<dbReference type="PubMed" id="24275647"/>
+<dbReference type="DOI" id="10.1074/jbc.M113.515791"/>
+</citation>
+<scope>FUNCTION IN ENDOPLASMIC RETICULUM INTEGRITY</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>INTERACTION WITH TOR1AIP2</scope>
+<scope>MUTAGENESIS OF GLU-178; 334-ASP--HIS-336 AND PHE-335</scope>
+</reference>
+<comment type="function">
+<text evidence="5 6">May serve as a molecular chaperone assisting in the proper folding of secreted and/or membrane proteins. Plays a role in non-neural cells nuclear envelope and endoplasmic reticulum integrity. May have a redundant function with TOR1A in non-neural tissues.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="5 6">ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 4 6">Homohexamer. Interacts with TOR1A; the interaction may be specific of neural tissues. Interacts with TOR1AIP1; TOR1AIP1 is required for TOR1B location on the nuclear membrane. Interacts (ATP-bound) with TOR1AIP2; important for endoplasmic reticulum integrity.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Endoplasmic reticulum lumen</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="3">Nucleus membrane</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="3">Widely expressed with low levels in brain.</text>
+</comment>
+<comment type="PTM">
+<text evidence="3">N-glycosylated.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Belongs to the ClpA/ClpB family. Torsin subfamily.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.-"/>
+<dbReference type="EMBL" id="AF317129">
+<property type="protein sequence ID" value="AAG50271.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL158207">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC015578">
+<property type="protein sequence ID" value="AAH15578.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF007872">
+<property type="protein sequence ID" value="AAC51733.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS6929.1"/>
+<dbReference type="RefSeq" id="NP_001304822.1">
+<property type="nucleotide sequence ID" value="NM_001317893.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001304823.1">
+<property type="nucleotide sequence ID" value="NM_001317894.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_055321.1">
+<property type="nucleotide sequence ID" value="NM_014506.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.252682"/>
+<dbReference type="ProteinModelPortal" id="O14657"/>
+<dbReference type="SMR" id="O14657"/>
+<dbReference type="BioGrid" id="118160">
+<property type="interactions" value="14"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-56930N"/>
+<dbReference type="IntAct" id="O14657">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000259339"/>
+<dbReference type="iPTMnet" id="O14657"/>
+<dbReference type="PhosphoSitePlus" id="O14657"/>
+<dbReference type="BioMuta" id="TOR1B"/>
+<dbReference type="EPD" id="O14657"/>
+<dbReference type="MaxQB" id="O14657"/>
+<dbReference type="PaxDb" id="O14657"/>
+<dbReference type="PeptideAtlas" id="O14657"/>
+<dbReference type="PRIDE" id="O14657"/>
+<dbReference type="DNASU" id="27348"/>
+<dbReference type="Ensembl" id="ENST00000259339">
+<property type="protein sequence ID" value="ENSP00000259339"/>
+<property type="gene ID" value="ENSG00000136816"/>
+</dbReference>
+<dbReference type="GeneID" id="27348"/>
+<dbReference type="KEGG" id="hsa:27348"/>
+<dbReference type="UCSC" id="uc004byk.1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="27348"/>
+<dbReference type="DisGeNET" id="27348"/>
+<dbReference type="GeneCards" id="TOR1B"/>
+<dbReference type="HGNC" id="HGNC:11995">
+<property type="gene designation" value="TOR1B"/>
+</dbReference>
+<dbReference type="HPA" id="CAB022709"/>
+<dbReference type="HPA" id="HPA013403"/>
+<dbReference type="HPA" id="HPA013697"/>
+<dbReference type="MIM" id="608050">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_O14657"/>
+<dbReference type="OpenTargets" id="ENSG00000136816"/>
+<dbReference type="PharmGKB" id="PA36676"/>
+<dbReference type="eggNOG" id="KOG2170">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XR06">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000001920"/>
+<dbReference type="HOGENOM" id="HOG000115770"/>
+<dbReference type="HOVERGEN" id="HBG054188"/>
+<dbReference type="InParanoid" id="O14657"/>
+<dbReference type="OMA" id="YEQIDGV"/>
+<dbReference type="OrthoDB" id="EOG091G0B5F"/>
+<dbReference type="PhylomeDB" id="O14657"/>
+<dbReference type="TreeFam" id="TF314941"/>
+<dbReference type="Reactome" id="R-HSA-8856825">
+<property type="pathway name" value="Cargo recognition for clathrin-mediated endocytosis"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="TOR1B">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="27348"/>
+<dbReference type="PRO" id="PR:O14657"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 9"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000136816"/>
+<dbReference type="CleanEx" id="HS_TOR1B"/>
+<dbReference type="ExpressionAtlas" id="O14657">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="O14657">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005783">
+<property type="term" value="C:endoplasmic reticulum"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005788">
+<property type="term" value="C:endoplasmic reticulum lumen"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005635">
+<property type="term" value="C:nuclear envelope"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031965">
+<property type="term" value="C:nuclear membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051085">
+<property type="term" value="P:chaperone mediated protein folding requiring cofactor"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007029">
+<property type="term" value="P:endoplasmic reticulum organization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071763">
+<property type="term" value="P:nuclear membrane organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051260">
+<property type="term" value="P:protein homooligomerization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006986">
+<property type="term" value="P:response to unfolded protein"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010448">
+<property type="entry name" value="Torsin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030550">
+<property type="entry name" value="Torsin-1B"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017378">
+<property type="entry name" value="Torsin_1/2"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10760">
+<property type="entry name" value="PTHR10760"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10760:SF16">
+<property type="entry name" value="PTHR10760:SF16"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06309">
+<property type="entry name" value="Torsin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF038079">
+<property type="entry name" value="Torsin_2A"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0143">Chaperone</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0256">Endoplasmic reticulum</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="2">
+<location>
+<begin position="1"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="chain" description="Torsin-1B" id="PRO_0000005509">
+<location>
+<begin position="25"/>
+<end position="336"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="109"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="64"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="1">
+<location>
+<position position="165"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs10988518." id="VAR_059220">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="54"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of ATPase activity. Produces sinusoidal endoplasmic reticulum structures where it accumulates. Highly enhances interaction with TOR1AIP2. Localizes in the nuclear envelope." evidence="4 6">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="178"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Highly reduces ATPase activity induced by TOR1AIP2." evidence="6">
+<original>DFH</original>
+<variation>GGG</variation>
+<location>
+<begin position="334"/>
+<end position="336"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreases interaction with TOR1AIP2." evidence="6">
+<location>
+<begin position="334"/>
+<end position="336"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on interaction with TOR1AIP2." evidence="6">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="335"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15147511"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20015956"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23569223"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24275647"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<sequence length="336" mass="37979" checksum="E729360E6468A3FC" modified="2001-04-27" version="2" precursor="true">
+MLRAGWLRGAAALALLLAARVVAAFEPITVGLAIGAASAITGYLSYNDIYCRFAECCREE
+RPLNASALKLDLEEKLFGQHLATEVIFKALTGFRNNKNPKKPLTLSLHGWAGTGKNFVSQ
+IVAENLHPKGLKSNFVHLFVSTLHFPHEQKIKLYQDQLQKWIRGNVSACANSVFIFDEMD
+KLHPGIIDAIKPFLDYYEQVDGVSYRKAIFIFLSNAGGDLITKTALDFWRAGRKREDIQL
+KDLEPVLSVGVFNNKHSGLWHSGLIDKNLIDYFIPFLPLEYRHVKMCVRAEMRARGSAID
+EDIVTRVAEEMTFFPRDEKIYSDKGCKTVQSRLDFH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-09-23" modified="2017-05-10" version="42">
+<accession>B4E2N9</accession>
+<name>B4E2N9_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="4">cDNA FLJ61077, highly similar to Homo sapiens ATP-binding cassette, sub-family A (ABC1), member 8 (ABCA8), mRNA</fullName>
+</submittedName>
+</protein>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project focused on splicing variants.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="4">Trachea</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AK304360">
+<property type="protein sequence ID" value="BAG65201.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.58351"/>
+<dbReference type="STRING" id="9606.ENSP00000269080"/>
+<dbReference type="PaxDb" id="B4E2N9"/>
+<dbReference type="PeptideAtlas" id="B4E2N9"/>
+<dbReference type="eggNOG" id="KOG0059">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1131">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG079884"/>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005215">
+<property type="term" value="F:transporter activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026082">
+<property type="entry name" value="ABC_A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003439">
+<property type="entry name" value="ABC_transporter-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017871">
+<property type="entry name" value="ABC_transporter_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR19229">
+<property type="entry name" value="PTHR19229"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00005">
+<property type="entry name" value="ABC_tran"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00211">
+<property type="entry name" value="ABC_TRANSPORTER_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50893">
+<property type="entry name" value="ABC_TRANSPORTER_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1 4">ATP-binding</keyword>
+<keyword id="KW-0472" evidence="2">Membrane</keyword>
+<keyword id="KW-0547" evidence="1 4">Nucleotide-binding</keyword>
+<keyword id="KW-0812" evidence="2">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="2">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="219"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="264"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="293"/>
+<end position="322"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="328"/>
+<end position="350"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="357"/>
+<end position="377"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="397"/>
+<end position="419"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="862"/>
+<end position="879"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="912"/>
+<end position="930"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transporter" evidence="3">
+<location>
+<begin position="480"/>
+<end position="715"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="516"/>
+<end position="523"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00434"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50893"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG65201.1"/>
+</source>
+</evidence>
+<sequence length="932" mass="105759" checksum="4ACFC80D04AD9CD6" modified="2008-09-23" version="1">
+MRKRKISVCQQTWALLCKNFLKKWRMKRESLMEWLNSLLLLLCLYIYPHSHQVNDFSSLL
+TMDLGRVDTFNESRFSVVYTPVTNTTQQIMNKVASTPFLAGKEVLGLPDEESIKEFTANY
+PEEIVRVTFTNTYSYHLKFLLGHGMPAKKEHKDHTAHCYETNEDVYCEVSVFWKEGFVAL
+QAAINAAIIEITTNHSVMEELMSVTGKNMKMHSFIGQSGVITDLYLFSCIISFSSFIYYA
+SVNVTRESKRMKALMTMMGLRDSAFWLSWGLLYAGFIFIMALFLALVIRSTQFIILSGFM
+VVFSLFLLYGLSLVALAFLMSILVKKSFLTGLVVFLLTVFWGCLGFTSLYRHLPASLEWI
+LSLLSPFAFMLGMAQLLHLDYDLNSNAFPHPSDGSNLIVATNFMLAFDTCLYLALAIYFE
+KILPNEYGHRRPPLFFLKSSFWSQTQKTDHVALEDEMDADPSFHDSFEQAPPEFQGKEAI
+RIRNVTKEYKGKPDKIEALKDLVFDIYEGQITAILGHSGAGKSTLLNILSGLSVPTKGSV
+TIYNNKLSEMADLENLSKLTGVCPQSNVQFDFLTVRENLRLFAKIKGILPQEVDKEIQRV
+LLELEMKNIQDVLAQNLSGGQKRKLTFGIAILGDPQIFLLDEPTAGLDPFSRHQVWNLLK
+ERKTDRVILFSTQFMDEADILADRKVFLSQGKLKCAGSSLFLKKKWGIGYHLSLQLNEIC
+VEENITSLVKQHIPDAKLSAKSEGKLIYTLPLERTNKFPELYKDLDSYPDLGIENYGVSM
+TTLNEVFLKLEGKSTINESDIAILGEVQAEKADDTERLVEMEQVLSSLNKMRKTIGGVAL
+WRQQICAIARVRLLKLKHERKALLALLLILMAGFCPLLVEYTMVKIYQNSYTWELSPHLY
+FLAPGQQPHDPLTASVSLQAILVPLFCIILNK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

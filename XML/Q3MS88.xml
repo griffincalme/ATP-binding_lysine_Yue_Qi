@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2005-10-25" modified="2017-04-12" version="83">
+<accession>Q3MS88</accession>
+<accession>E9PEJ3</accession>
+<name>Q3MS88_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Non-specific protein-tyrosine kinase</fullName>
+<ecNumber evidence="1">2.7.10.2</ecNumber>
+</recommendedName>
+</protein>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="journal article" date="2005" name="Proc. Natl. Acad. Sci. U.S.A." volume="102" first="13266" last="13271">
+<title>Deficiency of Bruton's tyrosine kinase in B cell precursor leukemia cells.</title>
+<authorList>
+<person name="Feldhahn N."/>
+<person name="Rio P."/>
+<person name="Ndikung B.B.S."/>
+<person name="Liedtke S."/>
+<person name="Sprangers M."/>
+<person name="Klein F."/>
+<person name="Wernet P."/>
+<person name="Jumaa H."/>
+<person name="Hofmann W.K."/>
+<person name="Hanenberg H."/>
+<person name="Rowley J.D."/>
+<person name="Mueschen M."/>
+</authorList>
+<dbReference type="PubMed" id="16141323"/>
+<dbReference type="DOI" id="10.1073/pnas.0505196102"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="2">ATP + a [protein]-L-tyrosine = ADP + a [protein]-L-tyrosine phosphate.</text>
+</comment>
+<dbReference type="EC" id="2.7.10.2" evidence="1"/>
+<dbReference type="EMBL" id="AM051284">
+<property type="protein sequence ID" value="CAJ19690.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.159494"/>
+<dbReference type="UniGene" id="Hs.733206"/>
+<dbReference type="ProteinModelPortal" id="Q3MS88"/>
+<dbReference type="STRING" id="9606.ENSP00000308176"/>
+<dbReference type="MaxQB" id="Q3MS88"/>
+<dbReference type="PaxDb" id="Q3MS88"/>
+<dbReference type="PeptideAtlas" id="Q3MS88"/>
+<dbReference type="eggNOG" id="KOG0197">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0515">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000201982"/>
+<dbReference type="SignaLink" id="Q3MS88"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004715">
+<property type="term" value="F:non-membrane spanning protein tyrosine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.505.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001245">
+<property type="entry name" value="Ser-Thr/Tyr_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000980">
+<property type="entry name" value="SH2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020635">
+<property type="entry name" value="Tyr_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07714">
+<property type="entry name" value="Pkinase_Tyr"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00017">
+<property type="entry name" value="SH2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00219">
+<property type="entry name" value="TyrKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55550">
+<property type="entry name" value="SSF55550"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50001">
+<property type="entry name" value="SH2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="4">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="3">Kinase</keyword>
+<keyword id="KW-0547" evidence="4">Nucleotide-binding</keyword>
+<keyword id="KW-0808" evidence="3">Transferase</keyword>
+<keyword id="KW-0829" evidence="3">Tyrosine-protein kinase</keyword>
+<feature type="domain" description="SH2" evidence="5">
+<location>
+<begin position="1"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="6">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00021209"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00407660"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00485797"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00802662"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50001"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAJ19690.1"/>
+</source>
+</evidence>
+<sequence length="139" mass="16098" checksum="A421D231CF7E57CF" modified="2005-10-25" version="1" fragment="single">
+VIRHYVVCSTPQSQYYLAEKHLFSTIPELINYHQHNSAGLISRLKYPVSQQNKNAPSTAG
+LGYGVLMWEIYSLGKMPYERFTNSETAEHIAQGLRLYRPHLASEKVYTIMYSCWHEKADE
+RPTFKILLSNILDVMDEES
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

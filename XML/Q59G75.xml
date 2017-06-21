@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2005-04-26" modified="2017-04-12" version="92">
+<accession>Q59G75</accession>
+<name>Q59G75_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="4">Isoleucyl-tRNA synthetase, cytoplasmic variant</fullName>
+</submittedName>
+</protein>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="submission" date="2005-03" db="EMBL/GenBank/DDBJ databases">
+<title>Homo sapiens protein coding cDNA.</title>
+<authorList>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Takeda T."/>
+<person name="Sakaki Y."/>
+<person name="Tanaka A."/>
+<person name="Yokoyama S."/>
+<person name="Ohara O."/>
+<person name="Nagase T."/>
+<person name="Kikuno R.F."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="4">Brain</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the class-I aminoacyl-tRNA synthetase family.</text>
+</comment>
+<dbReference type="EMBL" id="AB209234">
+<property type="protein sequence ID" value="BAD92471.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.445403"/>
+<dbReference type="ProteinModelPortal" id="Q59G75"/>
+<dbReference type="MINT" id="MINT-5003019"/>
+<dbReference type="STRING" id="9606.ENSP00000364794"/>
+<dbReference type="PaxDb" id="Q59G75"/>
+<dbReference type="PRIDE" id="Q59G75"/>
+<dbReference type="eggNOG" id="KOG0434">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0060">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000246403"/>
+<dbReference type="HOVERGEN" id="HBG013511"/>
+<dbReference type="Bgee" id="ENSG00000196305"/>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002161">
+<property type="term" value="F:aminoacyl-tRNA editing activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004822">
+<property type="term" value="F:isoleucine-tRNA ligase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000049">
+<property type="term" value="F:tRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006428">
+<property type="term" value="P:isoleucyl-tRNA aminoacylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd07961">
+<property type="entry name" value="Anticodon_Ia_Ile_ABEc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.730.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.620">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02003">
+<property type="entry name" value="Ile_tRNA_synth_type2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001412">
+<property type="entry name" value="aa-tRNA-synth_I_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002300">
+<property type="entry name" value="aa-tRNA-synth_Ia"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033709">
+<property type="entry name" value="Anticodon_Ile_ABEc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002301">
+<property type="entry name" value="Ile-tRNA-ligase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023586">
+<property type="entry name" value="Ile-tRNA-ligase_type2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013155">
+<property type="entry name" value="M/V/L/I-tRNA-synth_anticd-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014729">
+<property type="entry name" value="Rossmann-like_a/b/a_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009080">
+<property type="entry name" value="tRNAsynth_Ia_anticodon-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009008">
+<property type="entry name" value="Val/Leu/Ile-tRNA-synth_edit"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08264">
+<property type="entry name" value="Anticodon_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00133">
+<property type="entry name" value="tRNA-synt_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00984">
+<property type="entry name" value="TRNASYNTHILE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47323">
+<property type="entry name" value="SSF47323"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50677">
+<property type="entry name" value="SSF50677"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00392">
+<property type="entry name" value="ileS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00178">
+<property type="entry name" value="AA_TRNA_LIGASE_I"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0030" evidence="1 4">Aminoacyl-tRNA synthetase</keyword>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0436" evidence="1 4">Ligase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0648" evidence="1">Protein biosynthesis</keyword>
+<feature type="domain" description="tRNA-synt_1" evidence="2">
+<location>
+<begin position="35"/>
+<end position="655"/>
+</location>
+</feature>
+<feature type="domain" description="Anticodon_1" evidence="3">
+<location>
+<begin position="710"/>
+<end position="865"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="4">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU363035"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF00133"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF08264"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAD92471.1"/>
+</source>
+</evidence>
+<sequence length="1279" mass="146344" checksum="CF6FB958CD8DF555" modified="2005-04-26" version="1" fragment="single">
+ACWPAGLSRHARPLSNKMLQQVPENINFPAEEEKILEFWTEFNCFQECLKQSKHKPKFTF
+YDGPPFATGLPHYGHILAGTIKDIVTRYAHQSGFHVDRRFGWDCHGLPVEYEIDKTLGIR
+GPEDVAKMGITEYNNQCRAIVMRYSAEWKSTVSRLGRWIDFDNDYKTLYPQFMESVWWVF
+KQLYDKGLVYRGVKVMPFSTACNTPLSNFESHQNYKDVQDPSVFVTFPLEEDETVSLVAW
+TTTPWTLPSNLAVCVNPEMQYVKIKDVARGRLLILMEARLSALYKLESDYEILERFPGAY
+LKGKKYRPLFDYFLKCKENGAFTVLVDNYVKEEEGTGVVHQAPYFGAEDYRVCMDFNIIR
+KDSLPVCPVDASGCFTTEVTDFAGQYVKDADKSIIRTLKEQGRLLVATTFTHSYPFCWRS
+DTPLIYKAVPSWFVRVENMVDQLLRNNDLCYWVPELVREKRFGNWLKDARDWTISRNRYW
+GTPIPLWVSDDFEEVVCIGSVAELEELSGAKISDLHRESVDHLTIPSRCGKGSLHRISEV
+FDCWFESGSMPYAQVHYPFENKREFEDAFPADFIAEGIDQTRGWFYTLLVLATALFGQPP
+FKNVIVNGLVLASDGQKMSKRKKNYPDPVSIIQKYGADALRLYLINSPVVRAENLRFKEE
+GVRDVLKDVLLPWYNAYRFLIQNVLRLQKEEEIEFLYNENTVRESPNITDRWILSFMQSL
+IGFFETEMAAYRLYTVVPRLVKFVDILTNWYVRMNRRRLKGENGMEDCVMALETLFSVLL
+SLCRLMAPYTPFLTELMYQNLKVLIDPVSVQDKDTLSIHYLMLPRVREELIDKKTESAVS
+QMQSVIELGRVIRDRKTIPIKYPLKEIVVIHQDPEALKDIKSLEKYIIEELNVRKVTLST
+DKNKYGIRLRAEPDHMVLGKRLKGAFKAVMTSIKQLSSEELEQFQKTGTIVVEGHELHDE
+DIRLMYTFDQATGGTAQFEAHSDAQALVLLDVTPDQSMVDEGMAREVINRIQKLRKKCNL
+VPTDEITVYYKAKSEGTYLNSVIESHTEFIFTTIKAPLKPYPVSPSDKVLIQEKTQLKGS
+ELEITLTRGSSLPGPACAYVNLNICANGSEQGGVLLLENPKGDNRLDLLKLKSVVTSIFG
+VKNTELAVFHDETEIQNQTDLLSLSGKTLCVTAGSAPSLINSSSTLLCQYINLQLLNAKP
+QECLMGTVGTLLLENPLGQNGLTHQGLLYEAAKVFGLRSRKLKLFLNETQTQEITEDIPV
+KTLNMKTVYVSVLPTTADF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

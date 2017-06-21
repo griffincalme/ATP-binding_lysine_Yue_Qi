@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-09-23" modified="2017-04-12" version="65">
+<accession>B4DP99</accession>
+<name>B4DP99_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="7">cDNA FLJ51496, highly similar to Tyrosine-protein kinase CSK (EC 2.7.10.2)</fullName>
+</submittedName>
+</protein>
+<organism evidence="7">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project focused on splicing variants.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="2">ATP + a [protein]-L-tyrosine = ADP + a [protein]-L-tyrosine phosphate.</text>
+</comment>
+<dbReference type="EMBL" id="AK298245">
+<property type="protein sequence ID" value="BAG60511.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.77793"/>
+<dbReference type="ProteinModelPortal" id="B4DP99"/>
+<dbReference type="MaxQB" id="B4DP99"/>
+<dbReference type="PeptideAtlas" id="B4DP99"/>
+<dbReference type="PRIDE" id="B4DP99"/>
+<dbReference type="HOGENOM" id="HOG000233858"/>
+<dbReference type="HOVERGEN" id="HBG008761"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004713">
+<property type="term" value="F:protein tyrosine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.505.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001245">
+<property type="entry name" value="Ser-Thr/Tyr_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000980">
+<property type="entry name" value="SH2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001452">
+<property type="entry name" value="SH3_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008266">
+<property type="entry name" value="Tyr_kinase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020635">
+<property type="entry name" value="Tyr_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07714">
+<property type="entry name" value="Pkinase_Tyr"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00018">
+<property type="entry name" value="SH3_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00109">
+<property type="entry name" value="TYRKINASE"/>
+</dbReference>
+<dbReference type="SMART" id="SM00326">
+<property type="entry name" value="SH3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00219">
+<property type="entry name" value="TyrKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50044">
+<property type="entry name" value="SSF50044"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55550">
+<property type="entry name" value="SSF55550"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00109">
+<property type="entry name" value="PROTEIN_KINASE_TYR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50002">
+<property type="entry name" value="SH3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="4">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="3">Kinase</keyword>
+<keyword id="KW-0547" evidence="4">Nucleotide-binding</keyword>
+<keyword id="KW-0728" evidence="1">SH3 domain</keyword>
+<keyword id="KW-0808" evidence="3">Transferase</keyword>
+<keyword id="KW-0829" evidence="3">Tyrosine-protein kinase</keyword>
+<feature type="domain" description="SH3" evidence="5">
+<location>
+<begin position="9"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase" evidence="6">
+<location>
+<begin position="144"/>
+<end position="398"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00128814"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00407660"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00485797"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00802662"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50002"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG60511.1"/>
+</source>
+</evidence>
+<sequence length="399" mass="44737" checksum="48A90BC1C68EFD21" modified="2008-09-23" version="1">
+MSAIQAAWPSGTECIAKYNFHGTAEQDLPFCKGDVLTIVAVTKDPNWYKAKNKVGREGII
+PANYVQKREGVKAGTKLSLMPWFHGKLSIDEEVYFENLMQLVEHYTSDADGLCTRLIKPK
+VMEGTVAAQDEFYRSGWALNMKELKLLQTIGKGEFGDVMLGDYRGNKVAVKCIKNDATAQ
+AFLAEASVMTQLRHSNLVQLLGVIVEEKGGLYIVTEYMAKGSLVDYLRSRGRSVLGGDCL
+LKFSLDVCEAMEYLEGNNFVHRDLAARNVLVSEDNVAKVSDFGLTKEASSTQDTGKLPVK
+WTAPEALREKKFSTKSDVWSFGILLWEIYSFGRVPYPRIPLKDVVPRVEKGYKMDAPDGC
+PPAVYEVMKNCWHLDAAMRPSLLQLREQLEHIKTHELHL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

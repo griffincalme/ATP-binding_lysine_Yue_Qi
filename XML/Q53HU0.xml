@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2005-05-24" modified="2017-05-10" version="76">
+<accession>Q53HU0</accession>
+<name>Q53HU0_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="2">Chaperonin containing TCP1, subunit 8 (Theta) variant</fullName>
+</submittedName>
+</protein>
+<organism evidence="2">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="journal article" date="1994" name="Gene" volume="138" first="171" last="174">
+<title>Oligo-capping: a simple method to replace the cap structure of eukaryotic mRNAs with oligoribonucleotides.</title>
+<authorList>
+<person name="Maruyama K."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="8125298"/>
+<dbReference type="DOI" id="10.1016/0378-1119(94)90802-8"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="2">Adipose tissue</tissue>
+</source>
+</reference>
+<reference key="2" evidence="2">
+<citation type="journal article" date="1997" name="Gene" volume="200" first="149" last="156">
+<title>Construction and characterization of a full length-enriched and a 5'-end-enriched cDNA library.</title>
+<authorList>
+<person name="Suzuki Y."/>
+<person name="Yoshitomo K."/>
+<person name="Maruyama K."/>
+<person name="Suyama A."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="9373149"/>
+<dbReference type="DOI" id="10.1016/S0378-1119(97)00411-3"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="2">Adipose tissue</tissue>
+</source>
+</reference>
+<reference key="3" evidence="2">
+<citation type="submission" date="2005-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Suzuki Y."/>
+<person name="Sugano S."/>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Takeda T."/>
+<person name="Sakaki Y."/>
+<person name="Tanaka A."/>
+<person name="Yokoyama S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="2">Adipose tissue</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the TCP-1 chaperonin family.</text>
+</comment>
+<dbReference type="EMBL" id="AK222490">
+<property type="protein sequence ID" value="BAD96210.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.125113"/>
+<dbReference type="IntAct" id="Q53HU0">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-4999102"/>
+<dbReference type="STRING" id="9606.ENSP00000286788"/>
+<dbReference type="PaxDb" id="Q53HU0"/>
+<dbReference type="PeptideAtlas" id="Q53HU0"/>
+<dbReference type="PRIDE" id="Q53HU0"/>
+<dbReference type="eggNOG" id="KOG0362">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XPXR">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG103107"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051082">
+<property type="term" value="F:unfolded protein binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006457">
+<property type="term" value="P:protein folding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd03341">
+<property type="entry name" value="TCP1_theta"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.560.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.50.7.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012721">
+<property type="entry name" value="Chap_CCT_theta"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017998">
+<property type="entry name" value="Chaperone_TCP-1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002194">
+<property type="entry name" value="Chaperonin_TCP-1_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002423">
+<property type="entry name" value="Cpn60/TCP-1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027409">
+<property type="entry name" value="GroEL-like_apical_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027413">
+<property type="entry name" value="GROEL-like_equatorial"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00118">
+<property type="entry name" value="Cpn60_TCP1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00304">
+<property type="entry name" value="TCOMPLEXTCP1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52029">
+<property type="entry name" value="SSF52029"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02346">
+<property type="entry name" value="chap_CCT_theta"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00750">
+<property type="entry name" value="TCP1_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00751">
+<property type="entry name" value="TCP1_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00995">
+<property type="entry name" value="TCP1_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0143" evidence="1">Chaperone</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="non-terminal residue" evidence="2">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU004187"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAD96210.1"/>
+</source>
+</evidence>
+<sequence length="548" mass="59651" checksum="B0B0C5F8144C0F43" modified="2005-05-24" version="1" fragment="single">
+MALHVPKAPGFAQMLKEGAKHFSGLEEAVYRNIQACKELAQTTRTAYGPNGMNKMVINHL
+EKLFVTNDAATILRELEVQHPAAKMIVMASHMQEQEVGDGTNFVLVFAGALLELAEELLR
+IGLSVSEVIEGYEIACRKAHEILPNLVCCSAKNLRDIDEVSSLLRTSIMSKQYGNEVFLA
+KLITQACVSIFPDSGHFNVDNIRVCKILGSGISSSSVLHGMVFKKETEGDVTSVKDAKIA
+VYSCPFDGMITETKGTVLIKTAEELMNFSKGEENLMDAQVKAIADTGANVVVTGGKVADM
+ALHYANKYNIMLVRLNSKWDLRRLCKTVGATALPRLTPPVLEEMGHCDSVYLSEVGDTQV
+VVFKHEKEDGAISTIVLRGSTDNLMDDIERAVDDGVNTFKVLTRDKRLVPGGGATEIELA
+KQITSYGETCPGLEQYAIKKFAEAFEAIPRALAENSGVKANEVISKLYAVHQEGNKNVGL
+DIEAEVPAVKDMLEAGILDTYLGKYWAIKLATNAAVTVLRVDQIIMAKPAGGPKPPSGKK
+DWDDDQND
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

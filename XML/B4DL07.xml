@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-09-23" modified="2017-05-10" version="55">
+<accession>B4DL07</accession>
+<name>B4DL07_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="5">cDNA FLJ53353, highly similar to ATP-binding cassette sub-family D member 3</fullName>
+</submittedName>
+</protein>
+<organism evidence="5">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project focused on splicing variants.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="5">Tongue</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AK296791">
+<property type="protein sequence ID" value="BAG59369.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.700576"/>
+<dbReference type="ProteinModelPortal" id="B4DL07"/>
+<dbReference type="STRING" id="9606.ENSP00000359233"/>
+<dbReference type="MaxQB" id="B4DL07"/>
+<dbReference type="PaxDb" id="B4DL07"/>
+<dbReference type="PeptideAtlas" id="B4DL07"/>
+<dbReference type="eggNOG" id="KOG0064">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG4178">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000206081"/>
+<dbReference type="HOVERGEN" id="HBG050438"/>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005777">
+<property type="term" value="C:peroxisome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042626">
+<property type="term" value="F:ATPase activity, coupled to transmembrane movement of substances"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005324">
+<property type="term" value="F:long-chain fatty acid transporter activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042803">
+<property type="term" value="F:protein homodimerization activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015910">
+<property type="term" value="P:peroxisomal long-chain fatty acid import"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011527">
+<property type="entry name" value="ABC1_TM_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003439">
+<property type="entry name" value="ABC_transporter-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017871">
+<property type="entry name" value="ABC_transporter_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR031241">
+<property type="entry name" value="ABCD3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005283">
+<property type="entry name" value="FA_transporter"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11384:SF43">
+<property type="entry name" value="PTHR11384:SF43"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06472">
+<property type="entry name" value="ABC_membrane_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00005">
+<property type="entry name" value="ABC_tran"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF90123">
+<property type="entry name" value="SSF90123"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00954">
+<property type="entry name" value="3a01203"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50929">
+<property type="entry name" value="ABC_TM1F"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00211">
+<property type="entry name" value="ABC_TRANSPORTER_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50893">
+<property type="entry name" value="ABC_TRANSPORTER_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1 5">ATP-binding</keyword>
+<keyword id="KW-0472" evidence="2">Membrane</keyword>
+<keyword id="KW-0547" evidence="1 5">Nucleotide-binding</keyword>
+<keyword id="KW-0812" evidence="2">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="2">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="149"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="238"/>
+<end position="268"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="331"/>
+<end position="357"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transmembrane type-1" evidence="4">
+<location>
+<begin position="131"/>
+<end position="345"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transporter" evidence="3">
+<location>
+<begin position="464"/>
+<end position="683"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="497"/>
+<end position="504"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00434"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50893"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50929"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG59369.1"/>
+</source>
+</evidence>
+<sequence length="683" mass="78460" checksum="5037733B67CA3E72" modified="2008-09-23" version="1">
+MAAFSKYLTARNSSLAGAAFLLLCLLHKRRRALGLHGYFMETWREKSDEVMGELTDHVTH
+CKKSGKPPLQNNEKEGKKERAVVDKVFFSRLIQILKIMVPRTFCKETGYLVLIAVMLVSR
+TYCDVWMIQNGTLIESGIIGRSRKDFKRYLLNFIAAMPLISLVNNFLKYGLNELKLCFRV
+RLTKYLYEEYLQAFTYYKMGNLDNRIANPDQLLTQDVEKFCNSVVDLYSNLSKPFLDIVL
+YIFKLTSAIGAQGPASMMAYLVVSGLFLTRLRRPIGKMTITEQKYEGEYRYVNSRLITNS
+EEIAFYNGNKREKQTVHSVFRKLVEHLHNFILFRFSMGFIDSIIAKYLATVVGYLVVSRP
+FLDLSHPRHLKSTHSELLEDYYQSGRMLLRMSQALGRIVLAGREMTRLAGFTARITELMQ
+VLKDLNHGKYERTMVSQQEKDIEGVQVIPLIPGAGEIIIADNIIKFDHVPLATPNGDVLI
+RDLNFEVRSGANVLICGPNGCGKSSLFRVLGELWPLFGGRLTKPERGKLFYVPQRPYMTL
+GTLRDQVIYPDGREDQKRKGISDLVLKEYLDNVQLGHILEREGGWDSVQDWMDVLSGGEK
+QRMAMARLFYHKPQFAILDECTSAVSVDVEGYIYSHCRKVGITLFTVSHRKSLWKHHEYY
+LHMDGRGNYEFKQITEDTVEFGS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

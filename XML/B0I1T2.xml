@@ -1,0 +1,949 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2008-06-10" modified="2017-05-10" version="82">
+<accession>B0I1T2</accession>
+<accession>Q8TEI9</accession>
+<accession>Q8TES2</accession>
+<accession>Q96BE2</accession>
+<accession>Q96RI5</accession>
+<accession>Q96RI6</accession>
+<name>MYO1G_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Unconventional myosin-Ig</fullName>
+</recommendedName>
+<component>
+<recommendedName>
+<fullName evidence="12">Minor histocompatibility antigen HA-2</fullName>
+<shortName>mHag HA-2</shortName>
+</recommendedName>
+</component>
+</protein>
+<gene>
+<name type="primary">MYO1G</name>
+<name type="synonym">HA2</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="2002-01" db="EMBL/GenBank/DDBJ databases">
+<title>The nucleotide sequence of a long cDNA clone isolated from human spleen.</title>
+<authorList>
+<person name="Jikuya H."/>
+<person name="Takano J."/>
+<person name="Nomura N."/>
+<person name="Kikuno R."/>
+<person name="Nagase T."/>
+<person name="Ohara O."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 193-1018 (ISOFORM 3)</scope>
+<scope>VARIANT THR-489</scope>
+<source>
+<tissue>Spleen</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="2007-01" db="EMBL/GenBank/DDBJ databases">
+<title>Multiplex amplification and cloning of 5'-ends of cDNA by ligase-free recombination: preparation of full-length cDNA clones encoding motor proteins.</title>
+<authorList>
+<person name="Yamakawa H."/>
+<person name="Kikuno R.F."/>
+<person name="Nagase T."/>
+<person name="Ohara O."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<scope>VARIANTS THR-489 AND ARG-861</scope>
+<source>
+<tissue>Spleen</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2003" name="Nature" volume="424" first="157" last="164">
+<title>The DNA sequence of human chromosome 7.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Graves T.A."/>
+<person name="Pepin K.H."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Maas J."/>
+<person name="Jaeger S."/>
+<person name="Walker R."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="O'Laughlin M.D."/>
+<person name="Schaller M.E."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Cordes M."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Edwards J."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Andrews S."/>
+<person name="Isak A."/>
+<person name="Vanbrunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Lamar B."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Bielicki L."/>
+<person name="Scott K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Harris A."/>
+<person name="Strong C.M."/>
+<person name="Hou S."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Leonard S."/>
+<person name="Rohlfing T."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Abbott A."/>
+<person name="Minx P."/>
+<person name="Maupin R."/>
+<person name="Strowmatt C."/>
+<person name="Latreille P."/>
+<person name="Miller N."/>
+<person name="Johnson D."/>
+<person name="Murray J."/>
+<person name="Woessner J.P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Schultz B.R."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Nelson J.O."/>
+<person name="Berkowicz N."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Bedell J.A."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Chissoe S.L."/>
+<person name="Marra M.A."/>
+<person name="Raymond C."/>
+<person name="Haugen E."/>
+<person name="Gillett W."/>
+<person name="Zhou Y."/>
+<person name="James R."/>
+<person name="Phelps K."/>
+<person name="Iadanoto S."/>
+<person name="Bubb K."/>
+<person name="Simms E."/>
+<person name="Levy R."/>
+<person name="Clendenning J."/>
+<person name="Kaul R."/>
+<person name="Kent W.J."/>
+<person name="Furey T.S."/>
+<person name="Baertsch R.A."/>
+<person name="Brent M.R."/>
+<person name="Keibler E."/>
+<person name="Flicek P."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Bailey J.A."/>
+<person name="Portnoy M.E."/>
+<person name="Torrents D."/>
+<person name="Chinwalla A.T."/>
+<person name="Gish W.R."/>
+<person name="Eddy S.R."/>
+<person name="McPherson J.D."/>
+<person name="Olson M.V."/>
+<person name="Eichler E.E."/>
+<person name="Green E.D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="12853948"/>
+<dbReference type="DOI" id="10.1038/nature01782"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2001" name="J. Immunol." volume="167" first="3223" last="3230">
+<title>The HA-2 minor histocompatibility antigen is derived from a diallelic gene encoding a novel human class I myosin protein.</title>
+<authorList>
+<person name="Pierce R.A."/>
+<person name="Field E.D."/>
+<person name="Mutis T."/>
+<person name="Golovina T.N."/>
+<person name="Von Kap-Herr C."/>
+<person name="Wilke M."/>
+<person name="Pool J."/>
+<person name="Shabanowitz J."/>
+<person name="Pettenati M.J."/>
+<person name="Eisenlohr L.C."/>
+<person name="Hunt D.F."/>
+<person name="Goulmy E."/>
+<person name="Engelhard V.H."/>
+</authorList>
+<dbReference type="PubMed" id="11544309"/>
+<dbReference type="DOI" id="10.4049/jimmunol.167.6.3223"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 33-665 (ISOFORM 4)</scope>
+<scope>IDENTIFICATION AS THE MINOR HISTOCOMPATIBILITY ANTIGEN HA-2</scope>
+<scope>VARIANTS HA-2M MET-49 AND THR-489</scope>
+<scope>CHARACTERIZATION OF VARIANT HA-2M MET-49</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1995" name="Science" volume="268" first="1476" last="1480">
+<title>Identification of a graft versus host disease-associated human minor histocompatibility antigen.</title>
+<authorList>
+<person name="den Haan J.M.M."/>
+<person name="Sherman N.E."/>
+<person name="Blokland E."/>
+<person name="Huczko E."/>
+<person name="Koning F."/>
+<person name="Drijfhout J.W."/>
+<person name="Skipper J."/>
+<person name="Shabanowitz J."/>
+<person name="Hunt D.F."/>
+<person name="Engelhard V.H."/>
+<person name="Goulmy E."/>
+</authorList>
+<dbReference type="PubMed" id="7539551"/>
+<dbReference type="DOI" id="10.1126/science.7539551"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 41-49 (ISOFORM 1)</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 723-1018 (ISOFORM 1)</scope>
+<scope>VARIANT ARG-861</scope>
+<source>
+<tissue>B-cell</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2010" name="FEBS Lett." volume="584" first="493" last="499">
+<title>Myosin 1G (Myo1G) is a haematopoietic specific myosin that localises to the plasma membrane and regulates cell elasticity.</title>
+<authorList>
+<person name="Olety B."/>
+<person name="Walte M."/>
+<person name="Honnert U."/>
+<person name="Schillers H."/>
+<person name="Bahler M."/>
+</authorList>
+<dbReference type="PubMed" id="19968988"/>
+<dbReference type="DOI" id="10.1016/j.febslet.2009.11.096"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2010" name="J. Biol. Chem." volume="285" first="8675" last="8686">
+<title>Myosin 1G is an abundant class I myosin in lymphocytes whose localization at the plasma membrane depends on its ancient divergent pleckstrin homology (PH) domain (Myo1PH).</title>
+<authorList>
+<person name="Patino-Lopez G."/>
+<person name="Aravind L."/>
+<person name="Dong X."/>
+<person name="Kruhlak M.J."/>
+<person name="Ostap E.M."/>
+<person name="Shaw S."/>
+</authorList>
+<dbReference type="PubMed" id="20071333"/>
+<dbReference type="DOI" id="10.1074/jbc.M109.086959"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>MUTAGENESIS OF LYS-815; ARG-826; ARG-876; ARG-880; ARG-885; LYS-898; ARG-903; ARG-906; ARG-909; ARG-934; ARG-945; ARG-947 AND ARG-953</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+<dbReference type="DOI" id="10.1002/pmic.201400617"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="function">
+<text evidence="3">Unconventional myosin required during immune response for detection of rare antigen-presenting cells by regulating T-cell migration. Unconventional myosins are actin-based motor molecules with ATPase activity and serve in intracellular movements. Acts as a regulator of T-cell migration by generating membrane tension, enforcing cell-intrinsic meandering search, thereby enhancing detection of rare antigens during lymph-node surveillance, enabling pathogen eradication. Also required in B-cells, where it regulates different membrane/cytoskeleton-dependent processes. Involved in Fc-gamma receptor (Fc-gamma-R) phagocytosis.</text>
+</comment>
+<comment type="function">
+<text evidence="5 14">Minor histocompatibility antigen HA-2: Constitutes the minor histocompatibility antigen HA-2. More generally, minor histocompatibility antigens (mHags) refer to immunogenic peptide which, when complexed with MHC, can generate an immune response after recognition by specific T-cells. The peptides are derived from polymorphic intracellular proteins, which are cleaved by normal pathways of antigen processing. The binding of these peptides to MHC class I or class II molecules and their expression on the cell surface can stimulate T-cell responses and thereby trigger graft rejection or graft-versus-host disease (GVHD) after hematopoietic stem cell transplantation from HLA-identical sibling donor. GVHD is a frequent complication after bone marrow transplantation (BMT), due to mismatch of minor histocompatibility antigen in HLA-matched sibling marrow transplants. HA-2 is restricted to MHC class I HLA-A*0201.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2">Interacts with calmodulin; via its IQ motifs.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="7 8">Cell membrane</location>
+<topology evidence="7 8">Peripheral membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="3">Cell projection</location>
+<location evidence="3">Phagocytic cup</location>
+</subcellularLocation>
+<text evidence="3 8">Recruited to Fc-gamma receptor (Fc-gamma-R) phagocytic cup. In T-cells, transiently accumulates in discrete areas at the plasma membrane of migrating cells or when membranes are deformed (By similarity). Localization at the membrane is not highly dependent on phosphatidylinositol 4,5-bisphosphate levels. Released from the membrane in the presence of ATP. May be enriched in peripheral processes, such as microvilli or ruffles.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>B0I1T2-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>B0I1T2-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_034208 VSP_034209"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+<isoform>
+<id>B0I1T2-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_034210"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+<isoform>
+<id>B0I1T2-4</id>
+<name>4</name>
+<sequence type="described" ref="VSP_034211 VSP_034212"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="5 8">Specifically expressed in hematopoietic cells.</text>
+</comment>
+<comment type="domain">
+<text evidence="3">The myosin tail domain mediates binding to phosphatidylinositol-3,4-bisphosphate (PtdIns(3,4)P2), phosphatidylinositol-4,5-bisphosphate (PtdIns(4,5)P2) and phosphatidylinositol-3,4,5-trisphosphate (PtdIns(3,4,5)P3) and binds to membranous compartments. It is required for recruitment to Fc-gamma receptor (Fc-gamma-R) phagocytic cups.</text>
+</comment>
+<comment type="similarity">
+<text evidence="14">Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family.</text>
+</comment>
+<comment type="caution">
+<text evidence="14">Represents an unconventional myosin. This protein should not be confused with the conventional myosin-1 (MYH1).</text>
+</comment>
+<comment type="sequence caution" evidence="14">
+<conflict type="erroneous translation">
+<sequence resource="EMBL-CDS" id="BAB84876" version="1"/>
+</conflict>
+<text>Wrong choice of CDS.</text>
+</comment>
+<dbReference type="EMBL" id="AK074050">
+<property type="protein sequence ID" value="BAB84876.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK074135">
+<property type="protein sequence ID" value="BAB84961.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB290179">
+<property type="protein sequence ID" value="BAG06733.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC004847">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF380932">
+<property type="protein sequence ID" value="AAK58092.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF380933">
+<property type="protein sequence ID" value="AAK58093.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC015693">
+<property type="protein sequence ID" value="AAH15693.2"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS34629.1">
+<molecule id="B0I1T2-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_149043.2">
+<molecule id="B0I1T2-1"/>
+<property type="nucleotide sequence ID" value="NM_033054.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.37617"/>
+<dbReference type="ProteinModelPortal" id="B0I1T2"/>
+<dbReference type="SMR" id="B0I1T2"/>
+<dbReference type="BioGrid" id="122031">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="IntAct" id="B0I1T2">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-7307233"/>
+<dbReference type="STRING" id="9606.ENSP00000258787"/>
+<dbReference type="iPTMnet" id="B0I1T2"/>
+<dbReference type="PhosphoSitePlus" id="B0I1T2"/>
+<dbReference type="SwissPalm" id="B0I1T2"/>
+<dbReference type="BioMuta" id="MYO1G"/>
+<dbReference type="EPD" id="B0I1T2"/>
+<dbReference type="MaxQB" id="B0I1T2"/>
+<dbReference type="PaxDb" id="B0I1T2"/>
+<dbReference type="PRIDE" id="B0I1T2"/>
+<dbReference type="Ensembl" id="ENST00000258787">
+<molecule id="B0I1T2-1"/>
+<property type="protein sequence ID" value="ENSP00000258787"/>
+<property type="gene ID" value="ENSG00000136286"/>
+</dbReference>
+<dbReference type="GeneID" id="64005"/>
+<dbReference type="KEGG" id="hsa:64005"/>
+<dbReference type="UCSC" id="uc003tmh.3">
+<molecule id="B0I1T2-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="64005"/>
+<dbReference type="DisGeNET" id="64005"/>
+<dbReference type="GeneCards" id="MYO1G"/>
+<dbReference type="H-InvDB" id="HIX0006659"/>
+<dbReference type="HGNC" id="HGNC:13880">
+<property type="gene designation" value="MYO1G"/>
+</dbReference>
+<dbReference type="HPA" id="HPA021252"/>
+<dbReference type="MIM" id="600642">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_B0I1T2"/>
+<dbReference type="OpenTargets" id="ENSG00000136286"/>
+<dbReference type="eggNOG" id="KOG0160">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG0164">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5022">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00840000129697"/>
+<dbReference type="HOGENOM" id="HOG000260264"/>
+<dbReference type="HOVERGEN" id="HBG062373"/>
+<dbReference type="InParanoid" id="B0I1T2"/>
+<dbReference type="KO" id="K10356"/>
+<dbReference type="OMA" id="TLARWRC"/>
+<dbReference type="OrthoDB" id="EOG091G0136"/>
+<dbReference type="PhylomeDB" id="B0I1T2"/>
+<dbReference type="TreeFam" id="TF312960"/>
+<dbReference type="GenomeRNAi" id="64005"/>
+<dbReference type="PRO" id="PR:B0I1T2"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 7"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000136286"/>
+<dbReference type="CleanEx" id="HS_MYO1G"/>
+<dbReference type="ExpressionAtlas" id="B0I1T2">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="B0I1T2">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030175">
+<property type="term" value="C:filopodium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030027">
+<property type="term" value="C:lamellipodium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031256">
+<property type="term" value="C:leading edge membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005902">
+<property type="term" value="C:microvillus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016459">
+<property type="term" value="C:myosin complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001891">
+<property type="term" value="C:phagocytic cup"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003779">
+<property type="term" value="F:actin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005516">
+<property type="term" value="F:calmodulin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003774">
+<property type="term" value="F:motor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005547">
+<property type="term" value="F:phosphatidylinositol-3,4,5-trisphosphate binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043325">
+<property type="term" value="F:phosphatidylinositol-3,4-bisphosphate binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005546">
+<property type="term" value="F:phosphatidylinositol-4,5-bisphosphate binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071976">
+<property type="term" value="P:cell gliding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031589">
+<property type="term" value="P:cell-substrate adhesion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006887">
+<property type="term" value="P:exocytosis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038096">
+<property type="term" value="P:Fc-gamma receptor signaling pathway involved in phagocytosis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002456">
+<property type="term" value="P:T cell mediated immunity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072678">
+<property type="term" value="P:T cell migration"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001609">
+<property type="entry name" value="Myosin_head_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010926">
+<property type="entry name" value="Myosin_TH1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00063">
+<property type="entry name" value="Myosin_head"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06017">
+<property type="entry name" value="Myosin_TH1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00193">
+<property type="entry name" value="MYOSINHEAVY"/>
+</dbReference>
+<dbReference type="SMART" id="SM00242">
+<property type="entry name" value="MYSc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51456">
+<property type="entry name" value="MYOSIN_MOTOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51757">
+<property type="entry name" value="TH1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0009">Actin-binding</keyword>
+<keyword id="KW-1064">Adaptive immunity</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0112">Calmodulin-binding</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0966">Cell projection</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0391">Immunity</keyword>
+<keyword id="KW-0446">Lipid-binding</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0505">Motor protein</keyword>
+<keyword id="KW-0518">Myosin</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Unconventional myosin-Ig" id="PRO_0000340316">
+<location>
+<begin position="1"/>
+<end position="1018"/>
+</location>
+</feature>
+<feature type="peptide" description="Minor histocompatibility antigen HA-2" id="PRO_0000340317" evidence="9">
+<location>
+<begin position="41"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="domain" description="Myosin motor">
+<location>
+<begin position="9"/>
+<end position="707"/>
+</location>
+</feature>
+<feature type="domain" description="IQ">
+<location>
+<begin position="710"/>
+<end position="739"/>
+</location>
+</feature>
+<feature type="domain" description="TH1" evidence="4">
+<location>
+<begin position="824"/>
+<end position="1017"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="102"/>
+<end position="109"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylmethionine" evidence="1">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_034208" evidence="13">
+<original>LLRGSEDKQLHELHLERNPAVYNF</original>
+<variation>VSPEGKGRWKNGVGKGRAASWTSL</variation>
+<location>
+<begin position="207"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_034209" evidence="13">
+<location>
+<begin position="231"/>
+<end position="1018"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_034210" evidence="13">
+<location>
+<begin position="526"/>
+<end position="1018"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_034211" evidence="12">
+<original>KMTCEYTWPNHLLGSDKAAVSALLEQHGLQGDVAFGHSKLFIRSPRTLVTLEQSRARLIPIIVLLLQKAWR</original>
+<variation>WHLTPITPWAIVPVWSPRGRSRGSPNSTSQTSIQAGTSTLLASRHQNIWEDMCVSTCMWGHTGGNMGMRAV</variation>
+<location>
+<begin position="652"/>
+<end position="722"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_034212" evidence="12">
+<location>
+<begin position="723"/>
+<end position="1018"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In allele HA-2M; the HA-2V allele constitute the HA-2 epitope while HA-2M is not recognized by HA-2 cytotoxic T lymphocytes; dbSNP:rs61739531." id="VAR_044013" evidence="5">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="49"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3735485." id="VAR_044014" evidence="5 10 11">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="489"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2107737." id="VAR_050212">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="798"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs7792760." id="VAR_044015" evidence="6 11">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="861"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced membrane association." evidence="8">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="815"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced membrane association." evidence="8">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="826"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on membrane localization." evidence="8">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="876"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on membrane localization." evidence="8">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="880"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on membrane localization; when associated with R-885.">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="883"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on membrane localization; when associated with K-883." evidence="8">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="885"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced membrane association." evidence="8">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="898"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on membrane localization; when associated with R-906." evidence="8">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="903"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on membrane localization; when associated with R-903." evidence="8">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="906"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on membrane localization." evidence="8">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="909"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on membrane localization." evidence="8">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="934"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on membrane localization." evidence="8">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="945"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on membrane localization." evidence="8">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="947"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on membrane localization." evidence="8">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="953"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; BAB84961." ref="1" evidence="14">
+<original>N</original>
+<variation>K</variation>
+<location>
+<position position="369"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AAK58092/AAK58093." ref="4" evidence="14">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="377"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="25944712"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q5SUA5"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01093"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11544309"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19968988"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20071333"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7539551"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source ref="1"/>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source ref="2"/>
+</evidence>
+<evidence key="12" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="11544309"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000303">
+<source ref="1"/>
+</evidence>
+<evidence key="14" type="ECO:0000305"/>
+<sequence length="1018" mass="116442" checksum="3EB4ACC3D99A86E9" modified="2011-01-11" version="2">
+MEDEEGPEYGKPDFVLLDQVTMEDFMRNLQLRFEKGRIYTYIGEVLVSVNPYQELPLYGP
+EAIARYQGRELYERPPHLYAVANAAYKAMKHRSRDTCIVISGESGAGKTEASKHIMQYIA
+AVTNPSQRAEVERVKDVLLKSTCVLEAFGNARTNRNHNSSRFGKYMDINFDFKGDPIGGH
+IHSYLLEKSRVLKQHVGERNFHAFYQLLRGSEDKQLHELHLERNPAVYNFTHQGAGLNMT
+VHSALDSDEQSHQAVTEAMRVIGFSPEEVESVHRILAAILHLGNIEFVETEEGGLQKEGL
+AVAEEALVDHVAELTATPRDLVLRSLLARTVASGGRELIEKGHTAAEASYARDACAKAVY
+QRLFEWVVNRINSVMEPRGRDPRRDGKDTVIGVLDIYGFEVFPVNSFEQFCINYCNEKLQ
+QLFIQLILKQEQEEYEREGITWQSVEYFNNATIVDLVERPHRGILAVLDEACSSAGTITD
+RIFLQTLDMHHRHHLHYTSRQLCPTDKTMEFGRDFRIKHYAGDVTYSVEGFIDKNRDFLF
+QDFKRLLYNSTDPTLRAMWPDGQQDITEVTKRPLTAGTLFKNSMVALVENLASKEPFYVR
+CIKPNEDKVAGKLDENHCRHQVAYLGLLENVRVRRAGFASRQPYSRFLLRYKMTCEYTWP
+NHLLGSDKAAVSALLEQHGLQGDVAFGHSKLFIRSPRTLVTLEQSRARLIPIIVLLLQKA
+WRGTLARWRCRRLRAIYTIMRWFRRHKVRAHLAELQRRFQAARQPPLYGRDLVWPLPPAV
+LQPFQDTCHALFCRWRARQLVKNIPPSDMPQIKAKVAAMGALQGLRQDWGCRRAWARDYL
+SSATDNPTASSLFAQRLKTLQDKDGFGAVLFSSHVRKVNRFHKIRNRALLLTDQHLYKLD
+PDRQYRVMRAVPLEAVTGLSVTSGGDQLVVLHARGQDDLVVCLHRSRPPLDNRVGELVGV
+LAAHCQGEGRTLEVRVSDCIPLSHRGVRRLISVEPRPEQPEPDFRCARGSFTLLWPSR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-07-01" modified="2016-07-06" version="41">
+<accession>B2RCQ9</accession>
+<name>B2RCQ9_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="2">cDNA, FLJ96225, highly similar to Homo sapiens heat shock 70kDa protein 1-like (HSPA1L), mRNA</fullName>
+</submittedName>
+</protein>
+<organism evidence="2">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="submission" date="2008-01" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO functional analysis of protein and research application project.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Iida Y."/>
+<person name="Takayama Y."/>
+<person name="Murakawa K."/>
+<person name="Kanehori K."/>
+<person name="Andoh T."/>
+<person name="Kagawa N."/>
+<person name="Sato R."/>
+<person name="Kawamura Y."/>
+<person name="Tanaka S."/>
+<person name="Kisu Y."/>
+<person name="Sugano S."/>
+<person name="Goshima N."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="2">Spleen</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the heat shock protein 70 family.</text>
+</comment>
+<dbReference type="EMBL" id="AK315227">
+<property type="protein sequence ID" value="BAG37656.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.690634"/>
+<dbReference type="ProteinModelPortal" id="B2RCQ9"/>
+<dbReference type="STRING" id="9606.ENSP00000364805"/>
+<dbReference type="PaxDb" id="B2RCQ9"/>
+<dbReference type="PeptideAtlas" id="B2RCQ9"/>
+<dbReference type="PRIDE" id="B2RCQ9"/>
+<dbReference type="eggNOG" id="KOG0101">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0443">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG051845"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.1270.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.34.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018181">
+<property type="entry name" value="Heat_shock_70_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029048">
+<property type="entry name" value="HSP70_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029047">
+<property type="entry name" value="HSP70_peptide-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013126">
+<property type="entry name" value="Hsp_70_fam"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00012">
+<property type="entry name" value="HSP70"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00301">
+<property type="entry name" value="HEATSHOCK70"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF100920">
+<property type="entry name" value="SSF100920"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF100934">
+<property type="entry name" value="SSF100934"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00297">
+<property type="entry name" value="HSP70_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00329">
+<property type="entry name" value="HSP70_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01036">
+<property type="entry name" value="HSP70_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0346" evidence="2">Stress response</keyword>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU003322"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG37656.1"/>
+</source>
+</evidence>
+<sequence length="641" mass="70376" checksum="59939D73C1166FF4" modified="2008-07-01" version="1">
+MATAKGIAIGIDLGTTYSCVGVFQHGKVEIIANDQGNRTTPSYVAFTDTERLIGDAAKNQ
+VAMNPQNTVFDAKRLIGRKFNDPVVQADMKLWPFQVINEGGKPKVLVSYKGENKAFYPEE
+ISSMVLTKLKETAEAFLGHPVTNAVITVPAYFNDSQRQATKDAGVIAGLNVLRIINEPTA
+AAIAYGLDKGGQGERHVLIFDLGGGTFDVSILTIDDGIFEVKATAGDTHLGGEDFDNRLV
+SHFVEEFKRKHKKDISQNKRAVRRLRTACERAKRTLSSSTQANLEIDSLYEGIDFYTSIT
+RARFEELCADLFRGTLEPVEKALRDAKMDKAKIHDIVLVGGSTRIPKVQRLLQDYFNGRD
+LNKSINPDEAVAYGAAVQAAILMGDESEKVQDLLLLDVAPLSLGLETAGGVMTALIKRNS
+TIPTKQTQIFTTYSDNQPGVLIQVYEGERAMTKDNNLLGRFDLTGIPPAPRGVPQIEVTF
+DIDANGILNVTATDKSTGKVNKITITNDKGRLSKEEIERMVLDAEKYKAEDEVQREKIAA
+KNALESYAFNMKSVVSDEGLKGKISESDKNKILDKCNELLSWLEVNQLAEKDEFDHKRKE
+LEQMCNPIITKLYQGGCTGPACGTGYVPGRPATGPTIEEVD
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,360 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2004-11-23" modified="2017-05-10" version="97">
+<accession>Q5Y191</accession>
+<name>Q5Y191_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="5">Aurora kinase C</fullName>
+</submittedName>
+<submittedName>
+<fullName evidence="4">Aurora-C</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="4 5">AURKC</name>
+</gene>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="47201" last="47211">
+<title>Direct association with inner centromere protein (INCENP) activates the novel chromosomal passenger protein, Aurora-C.</title>
+<authorList>
+<person name="Li X."/>
+<person name="Sakashita G."/>
+<person name="Matsuzaki H."/>
+<person name="Sugimoto K."/>
+<person name="Kimura K."/>
+<person name="Hanaoka F."/>
+<person name="Taniguchi H."/>
+<person name="Furukawa K."/>
+<person name="Urano T."/>
+</authorList>
+<dbReference type="PubMed" id="15316025"/>
+<dbReference type="DOI" id="10.1074/jbc.M403029200"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="4">Testis</tissue>
+</source>
+</reference>
+<reference key="2" evidence="5 6">
+<citation type="journal article" date="2004" name="Nature" volume="428" first="529" last="535">
+<title>The DNA sequence and biology of human chromosome 19.</title>
+<authorList>
+<person name="Grimwood J."/>
+<person name="Gordon L.A."/>
+<person name="Olsen A.S."/>
+<person name="Terry A."/>
+<person name="Schmutz J."/>
+<person name="Lamerdin J.E."/>
+<person name="Hellsten U."/>
+<person name="Goodstein D."/>
+<person name="Couronne O."/>
+<person name="Tran-Gyamfi M."/>
+<person name="Aerts A."/>
+<person name="Altherr M."/>
+<person name="Ashworth L."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Branscomb E."/>
+<person name="Caenepeel S."/>
+<person name="Carrano A.V."/>
+<person name="Caoile C."/>
+<person name="Chan Y.M."/>
+<person name="Christensen M."/>
+<person name="Cleland C.A."/>
+<person name="Copeland A."/>
+<person name="Dalin E."/>
+<person name="Dehal P."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Escobar J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Garcia C."/>
+<person name="Georgescu A.M."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Ho I."/>
+<person name="Huang W."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Larionov V."/>
+<person name="Leem S.-H."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Lowry S."/>
+<person name="Malfatti S."/>
+<person name="Martinez D."/>
+<person name="McCready P.M."/>
+<person name="Medina C."/>
+<person name="Morgan J."/>
+<person name="Nelson K."/>
+<person name="Nolan M."/>
+<person name="Ovcharenko I."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Popkie A.P."/>
+<person name="Predki P."/>
+<person name="Quan G."/>
+<person name="Ramirez L."/>
+<person name="Rash S."/>
+<person name="Retterer J."/>
+<person name="Rodriguez A."/>
+<person name="Rogers S."/>
+<person name="Salamov A."/>
+<person name="Salazar A."/>
+<person name="She X."/>
+<person name="Smith D."/>
+<person name="Slezak T."/>
+<person name="Solovyev V."/>
+<person name="Thayer N."/>
+<person name="Tice H."/>
+<person name="Tsai M."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="Wagner M."/>
+<person name="Wheeler J."/>
+<person name="Wu K."/>
+<person name="Xie G."/>
+<person name="Yang J."/>
+<person name="Dubchak I."/>
+<person name="Furey T.S."/>
+<person name="DeJong P."/>
+<person name="Dickson M."/>
+<person name="Gordon D."/>
+<person name="Eichler E.E."/>
+<person name="Pennacchio L.A."/>
+<person name="Richardson P."/>
+<person name="Stubbs L."/>
+<person name="Rokhsar D.S."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+<person name="Lucas S.M."/>
+</authorList>
+<dbReference type="PubMed" id="15057824"/>
+<dbReference type="DOI" id="10.1038/nature02399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3" evidence="5">
+<citation type="submission" date="2013-02" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<comment type="similarity">
+<text evidence="2">Belongs to the protein kinase superfamily.</text>
+</comment>
+<dbReference type="EMBL" id="AC005261">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY714054">
+<property type="protein sequence ID" value="AAU04399.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.98338"/>
+<dbReference type="STRING" id="9606.ENSP00000302898"/>
+<dbReference type="Ensembl" id="ENST00000599062">
+<property type="protein sequence ID" value="ENSP00000469983"/>
+<property type="gene ID" value="ENSG00000105146"/>
+</dbReference>
+<dbReference type="UCSC" id="uc010etv.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="HGNC" id="HGNC:11391">
+<property type="gene designation" value="AURKC"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000105146"/>
+<dbReference type="eggNOG" id="KOG0580">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XNRB">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00870000136439"/>
+<dbReference type="HOVERGEN" id="HBG108519"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 19"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000105146"/>
+<dbReference type="GO" id="GO:0032133">
+<property type="term" value="C:chromosome passenger complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000910">
+<property type="term" value="P:cytokinesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051321">
+<property type="term" value="P:meiotic cell cycle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048599">
+<property type="term" value="P:oocyte development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007283">
+<property type="term" value="P:spermatogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051255">
+<property type="term" value="P:spindle midzone assembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030616">
+<property type="entry name" value="Aur"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030613">
+<property type="entry name" value="AURKC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24350">
+<property type="entry name" value="PTHR24350"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24350:SF12">
+<property type="entry name" value="PTHR24350:SF12"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0181" evidence="6">Complete proteome</keyword>
+<keyword id="KW-0418" evidence="2">Kinase</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<keyword id="KW-1267" evidence="1">Proteomics identification</keyword>
+<keyword id="KW-1185" evidence="6">Reference proteome</keyword>
+<keyword id="KW-0723" evidence="2">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808" evidence="2">Transferase</keyword>
+<feature type="domain" description="Protein kinase" evidence="3">
+<location>
+<begin position="40"/>
+<end position="290"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000213">
+<source>
+<dbReference type="PeptideAtlas" id="Q5Y191"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000304"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAU04399.1"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000469983"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="306" mass="35322" checksum="869FC07D176B45CE" modified="2004-11-23" version="1">
+MSSPRAVVQLGKAQPAGEESNQTAQQPSSPAMRRLTVDDFEIGRPLGKGKFGNVYLARLK
+ESHFIVALKVLFKSQIEKEGLEHQLRREIEIQAHLQHPNILRLYNYFHDARRVYLILEYA
+PRGELYKELQKSEKLDEQRTATIIEELADALTYCHDKKVIHRDIKPENLLLGFRGEVKIA
+DFGWSVHTPSLRRKTMCGTLDYLPPEMIEGRTYDEKVDLWCIGVLCYELLVGYPPFESAS
+HSETYRRILKVDVRFPLSMPLGARDLISRLLRYQPLERLPLAQILKHPWVQAHSRRVLPP
+CAQMAS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

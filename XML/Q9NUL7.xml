@@ -1,0 +1,786 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2006-01-10" modified="2017-04-12" version="138">
+<accession>Q9NUL7</accession>
+<name>DDX28_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Probable ATP-dependent RNA helicase DDX28</fullName>
+<ecNumber>3.6.4.13</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Mitochondrial DEAD box protein 28</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">DDX28</name>
+<name type="synonym">MDDX28</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2001" name="J. Biol. Chem." volume="276" first="32056" last="32063">
+<title>Cloning and characterization of MDDX28, a putative dead-box helicase with mitochondrial and nuclear localization.</title>
+<authorList>
+<person name="Valgardsdottir R."/>
+<person name="Brede G."/>
+<person name="Eide L.G."/>
+<person name="Frengen E."/>
+<person name="Prydz H."/>
+</authorList>
+<dbReference type="PubMed" id="11350955"/>
+<dbReference type="DOI" id="10.1074/jbc.M011629200"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>VARIANT ALA-4</scope>
+<source>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<scope>VARIANT ALA-4</scope>
+<source>
+<tissue>Placenta</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Nature" volume="432" first="988" last="994">
+<title>The sequence and analysis of duplication-rich human chromosome 16.</title>
+<authorList>
+<person name="Martin J."/>
+<person name="Han C."/>
+<person name="Gordon L.A."/>
+<person name="Terry A."/>
+<person name="Prabhakar S."/>
+<person name="She X."/>
+<person name="Xie G."/>
+<person name="Hellsten U."/>
+<person name="Chan Y.M."/>
+<person name="Altherr M."/>
+<person name="Couronne O."/>
+<person name="Aerts A."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Blumer H."/>
+<person name="Branscomb E."/>
+<person name="Brown N.C."/>
+<person name="Bruno W.J."/>
+<person name="Buckingham J.M."/>
+<person name="Callen D.F."/>
+<person name="Campbell C.S."/>
+<person name="Campbell M.L."/>
+<person name="Campbell E.W."/>
+<person name="Caoile C."/>
+<person name="Challacombe J.F."/>
+<person name="Chasteen L.A."/>
+<person name="Chertkov O."/>
+<person name="Chi H.C."/>
+<person name="Christensen M."/>
+<person name="Clark L.M."/>
+<person name="Cohn J.D."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Dickson M."/>
+<person name="Dimitrijevic-Bussod M."/>
+<person name="Escobar J."/>
+<person name="Fawcett J.J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Goodstein D."/>
+<person name="Goodwin L.A."/>
+<person name="Grady D.L."/>
+<person name="Grigoriev I."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Hildebrand C.E."/>
+<person name="Huang W."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Jewett P.B."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Krawczyk M.-C."/>
+<person name="Leyba T."/>
+<person name="Longmire J.L."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Lowry S."/>
+<person name="Ludeman T."/>
+<person name="Manohar C.F."/>
+<person name="Mark G.A."/>
+<person name="McMurray K.L."/>
+<person name="Meincke L.J."/>
+<person name="Morgan J."/>
+<person name="Moyzis R.K."/>
+<person name="Mundt M.O."/>
+<person name="Munk A.C."/>
+<person name="Nandkeshwar R.D."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Predki P."/>
+<person name="Parson-Quintana B."/>
+<person name="Ramirez L."/>
+<person name="Rash S."/>
+<person name="Retterer J."/>
+<person name="Ricke D.O."/>
+<person name="Robinson D.L."/>
+<person name="Rodriguez A."/>
+<person name="Salamov A."/>
+<person name="Saunders E.H."/>
+<person name="Scott D."/>
+<person name="Shough T."/>
+<person name="Stallings R.L."/>
+<person name="Stalvey M."/>
+<person name="Sutherland R.D."/>
+<person name="Tapia R."/>
+<person name="Tesmer J.G."/>
+<person name="Thayer N."/>
+<person name="Thompson L.S."/>
+<person name="Tice H."/>
+<person name="Torney D.C."/>
+<person name="Tran-Gyamfi M."/>
+<person name="Tsai M."/>
+<person name="Ulanovsky L.E."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="White P.S."/>
+<person name="Williams A.L."/>
+<person name="Wills P.L."/>
+<person name="Wu J.-R."/>
+<person name="Wu K."/>
+<person name="Yang J."/>
+<person name="DeJong P."/>
+<person name="Bruce D."/>
+<person name="Doggett N.A."/>
+<person name="Deaven L."/>
+<person name="Schmutz J."/>
+<person name="Grimwood J."/>
+<person name="Richardson P."/>
+<person name="Rokhsar D.S."/>
+<person name="Eichler E.E."/>
+<person name="Gilna P."/>
+<person name="Lucas S.M."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+<person name="Pennacchio L.A."/>
+</authorList>
+<dbReference type="PubMed" id="15616553"/>
+<dbReference type="DOI" id="10.1038/nature03187"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<scope>VARIANT ALA-4</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2015" name="Cell Rep.">
+<title>The human mitochondrial DEAD-box protein DDX28 resides in RNA granules and functions in mitoribosome assembly.</title>
+<authorList>
+<person name="Tu Y.T."/>
+<person name="Barrientos A."/>
+</authorList>
+<dbReference type="PubMed" id="25683708"/>
+<dbReference type="DOI" id="10.1016/j.celrep.2015.01.033"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>RNA-BINDING</scope>
+<scope>ASSOCIATION WITH MITOCHONDRIAL RIBOSOME LARGE SUBUNIT</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2015" name="Cell Rep.">
+<title>Mitochondrial RNA granules are centers for posttranscriptional RNA processing and ribosome biogenesis.</title>
+<authorList>
+<person name="Antonicka H."/>
+<person name="Shoubridge E.A."/>
+</authorList>
+<dbReference type="PubMed" id="25683715"/>
+<dbReference type="DOI" id="10.1016/j.celrep.2015.01.030"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>IDENTIFICATION IN A COMPLEX WITH GRSF1; DDX30; FASTKD2 AND FASTKD5</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>RNA-BINDING</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<comment type="function">
+<text evidence="4 7 8">Plays an essential role in facilitating the proper assembly of the mitochondrial large ribosomal subunit and its helicase activity is essential for this function (PubMed:25683708, PubMed:25683715). May be involved in RNA processing or transport. Has RNA and Mg(2+)-dependent ATPase activity (PubMed:11350955).</text>
+</comment>
+<comment type="catalytic activity">
+<text>ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="subunit">
+<text evidence="7 8">Monomer. Found in a complex with GRSF1, DHX30, FASTKD2 and FASTKD5. Associates with the 16S mitochondrial rRNA (16S mt-rRNA) and with the mitochondrial ribosome large subunit (39S).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4 7">Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="4">Mitochondrion</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="8">Mitochondrion matrix</location>
+<location evidence="8">Mitochondrion nucleoid</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="7">Mitochondrion matrix</location>
+</subcellularLocation>
+<text evidence="7 8">Transported between these two compartments. Nuclear localization depends on active RNA polymerase II transcription. Localizes to mitochondrial RNA granules found in close proximity to the mitochondrial nucleoids.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="4">Expressed in all tissues tested, including brain, placenta, lung, liver, skeletal muscle, kidney, pancreas, leukocytes, colon, small intestine, ovary and prostate.</text>
+</comment>
+<comment type="similarity">
+<text evidence="9">Belongs to the DEAD box helicase family.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.13"/>
+<dbReference type="EMBL" id="AF329821">
+<property type="protein sequence ID" value="AAG59833.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK002144">
+<property type="protein sequence ID" value="BAA92106.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC130462">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC024273">
+<property type="protein sequence ID" value="AAH24273.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS10858.1"/>
+<dbReference type="RefSeq" id="NP_060850.2">
+<property type="nucleotide sequence ID" value="NM_018380.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.458313"/>
+<dbReference type="ProteinModelPortal" id="Q9NUL7"/>
+<dbReference type="SMR" id="Q9NUL7"/>
+<dbReference type="BioGrid" id="120907">
+<property type="interactions" value="46"/>
+</dbReference>
+<dbReference type="IntAct" id="Q9NUL7">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-4992126"/>
+<dbReference type="STRING" id="9606.ENSP00000332340"/>
+<dbReference type="iPTMnet" id="Q9NUL7"/>
+<dbReference type="PhosphoSitePlus" id="Q9NUL7"/>
+<dbReference type="BioMuta" id="DDX28"/>
+<dbReference type="DMDM" id="296434476"/>
+<dbReference type="EPD" id="Q9NUL7"/>
+<dbReference type="MaxQB" id="Q9NUL7"/>
+<dbReference type="PaxDb" id="Q9NUL7"/>
+<dbReference type="PeptideAtlas" id="Q9NUL7"/>
+<dbReference type="PRIDE" id="Q9NUL7"/>
+<dbReference type="Ensembl" id="ENST00000332395">
+<property type="protein sequence ID" value="ENSP00000332340"/>
+<property type="gene ID" value="ENSG00000182810"/>
+</dbReference>
+<dbReference type="GeneID" id="55794"/>
+<dbReference type="KEGG" id="hsa:55794"/>
+<dbReference type="UCSC" id="uc002evh.3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="55794"/>
+<dbReference type="DisGeNET" id="55794"/>
+<dbReference type="GeneCards" id="DDX28"/>
+<dbReference type="HGNC" id="HGNC:17330">
+<property type="gene designation" value="DDX28"/>
+</dbReference>
+<dbReference type="HPA" id="HPA041911"/>
+<dbReference type="HPA" id="HPA053585"/>
+<dbReference type="MIM" id="607618">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9NUL7"/>
+<dbReference type="OpenTargets" id="ENSG00000182810"/>
+<dbReference type="PharmGKB" id="PA27214"/>
+<dbReference type="eggNOG" id="KOG0330">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XQU7">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00730000110914"/>
+<dbReference type="HOGENOM" id="HOG000008689"/>
+<dbReference type="HOVERGEN" id="HBG081424"/>
+<dbReference type="InParanoid" id="Q9NUL7"/>
+<dbReference type="KO" id="K20096"/>
+<dbReference type="OMA" id="ISECGYE"/>
+<dbReference type="OrthoDB" id="EOG091G06DC"/>
+<dbReference type="PhylomeDB" id="Q9NUL7"/>
+<dbReference type="TreeFam" id="TF324977"/>
+<dbReference type="GenomeRNAi" id="55794"/>
+<dbReference type="PRO" id="PR:Q9NUL7"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 16"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000182810"/>
+<dbReference type="CleanEx" id="HS_DDX28"/>
+<dbReference type="Genevisible" id="Q9NUL7">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042645">
+<property type="term" value="C:mitochondrial nucleoid"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="LIFEdb"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005730">
+<property type="term" value="C:nucleolus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035770">
+<property type="term" value="C:ribonucleoprotein granule"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004004">
+<property type="term" value="F:ATP-dependent RNA helicase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003723">
+<property type="term" value="F:RNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019843">
+<property type="term" value="F:rRNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902775">
+<property type="term" value="P:mitochondrial large ribosomal subunit assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010501">
+<property type="term" value="P:RNA secondary structure unwinding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011545">
+<property type="entry name" value="DEAD/DEAH_box_helicase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014014">
+<property type="entry name" value="RNA_helicase_DEAD_Q_motif"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00270">
+<property type="entry name" value="DEAD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00490">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51195">
+<property type="entry name" value="Q_MOTIF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0347">Helicase</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0496">Mitochondrion</keyword>
+<keyword id="KW-1135">Mitochondrion nucleoid</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0690">Ribosome biogenesis</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0699">rRNA-binding</keyword>
+<feature type="chain" description="Probable ATP-dependent RNA helicase DDX28" id="PRO_0000055033">
+<location>
+<begin position="1"/>
+<end position="540"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase ATP-binding" evidence="2">
+<location>
+<begin position="159"/>
+<end position="351"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase C-terminal" evidence="3">
+<location>
+<begin position="377"/>
+<end position="536"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="172"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Mitochondrial targeting signal" evidence="1">
+<location>
+<begin position="3"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Q motif">
+<location>
+<begin position="126"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Nuclear export signal" evidence="1">
+<location>
+<begin position="180"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="DEAD">
+<location>
+<begin position="286"/>
+<end position="289"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Nuclear localization signal" evidence="1">
+<location>
+<begin position="520"/>
+<end position="523"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs237831." id="VAR_052163" evidence="4 5 6">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="4"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00541"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00542"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11350955"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25683708"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25683715"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000305"/>
+<sequence length="540" mass="59581" checksum="1FAA4477853893B5" modified="2010-05-18" version="2">
+MALTRPVRLFSLVTRLLLAPRRGLTVRSPDEPLPVVRIPVALQRQLEQRQSRRRNLPRPV
+LVRPGPLLVSARRPELNQPARLTLGRWERAPLASQGWKSRRARRDHFSIERAQQEAPAVR
+KLSSKGSFADLGLEPRVLHALQEAAPEVVQPTTVQSSTIPSLLRGRHVVCAAETGSGKTL
+SYLLPLLQRLLGQPSLDSLPIPAPRGLVLVPSRELAQQVRAVAQPLGRSLGLLVRDLEGG
+HGMRRIRLQLSRQPSADVLVATPGALWKALKSRLISLEQLSFLVLDEADTLLDESFLELV
+DYILEKSHIAEGPADLEDPFNPKAQLVLVGATFPEGVGQLLNKVASPDAVTTITSSKLHC
+IMPHVKQTFLRLKGADKVAELVHILKHRDRAERTGPSGTVLVFCNSSSTVNWLGYILDDH
+KIQHLRLQGQMPALMRVGIFQSFQKSSRDILLCTDIASRGLDSTGVELVVNYDFPPTLQD
+YIHRAGRVGRVGSEVPGTVISFVTHPWDVSLVQKIELAARRRRSLPGLASSVKEPLPQAT
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

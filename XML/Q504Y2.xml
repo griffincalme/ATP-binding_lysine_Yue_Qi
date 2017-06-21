@@ -1,0 +1,684 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2006-11-28" modified="2017-05-10" version="107">
+<accession>Q504Y2</accession>
+<accession>D6W5A0</accession>
+<accession>Q96I09</accession>
+<name>PKDCC_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="5">Extracellular tyrosine-protein kinase PKDCC</fullName>
+<ecNumber evidence="4">2.7.10.2</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="6">Protein kinase domain-containing protein, cytoplasmic</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protein kinase-like protein SgK493</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Sugen kinase 493</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="1">Vertebrate lonesome kinase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="6">PKDCC</name>
+<name type="synonym">SGK493</name>
+<name type="synonym" evidence="1">VLK</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="724" last="731">
+<title>Generation and annotation of the DNA sequences of human chromosomes 2 and 4.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Graves T.A."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Pepin K.H."/>
+<person name="Minx P."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Kremitzki C."/>
+<person name="Oddy L."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Carter J."/>
+<person name="Cordes M."/>
+<person name="Harris A."/>
+<person name="Isak A."/>
+<person name="van Brunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Abbott S."/>
+<person name="Armstrong J."/>
+<person name="Belter E.A."/>
+<person name="Caruso L."/>
+<person name="Cedroni M."/>
+<person name="Cotton M."/>
+<person name="Davidson T."/>
+<person name="Desai A."/>
+<person name="Elliott G."/>
+<person name="Erb T."/>
+<person name="Fronick C."/>
+<person name="Gaige T."/>
+<person name="Haakenson W."/>
+<person name="Haglund K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Kim K."/>
+<person name="Kruchowski S.S."/>
+<person name="Strong C.M."/>
+<person name="Grewal N."/>
+<person name="Goyea E."/>
+<person name="Hou S."/>
+<person name="Levy A."/>
+<person name="Martinka S."/>
+<person name="Mead K."/>
+<person name="McLellan M.D."/>
+<person name="Meyer R."/>
+<person name="Randall-Maher J."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Shah N."/>
+<person name="Swearengen-Shahid S."/>
+<person name="Snider J."/>
+<person name="Strong J.T."/>
+<person name="Thompson J."/>
+<person name="Yoakum M."/>
+<person name="Leonard S."/>
+<person name="Pearman C."/>
+<person name="Trani L."/>
+<person name="Radionenko M."/>
+<person name="Waligorski J.E."/>
+<person name="Wang C."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Maupin R."/>
+<person name="Latreille P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Pohl C."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Berkowicz N."/>
+<person name="Nelson J.O."/>
+<person name="Osborne J."/>
+<person name="Ding L."/>
+<person name="Meyer R."/>
+<person name="Sabo A."/>
+<person name="Shotland Y."/>
+<person name="Sinha P."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Jones T.A."/>
+<person name="She X."/>
+<person name="Ciccarelli F.D."/>
+<person name="Izaurralde E."/>
+<person name="Taylor J."/>
+<person name="Schmutz J."/>
+<person name="Myers R.M."/>
+<person name="Cox D.R."/>
+<person name="Huang X."/>
+<person name="McPherson J.D."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Warren W.C."/>
+<person name="Chinwalla A.T."/>
+<person name="Eddy S.R."/>
+<person name="Marra M.A."/>
+<person name="Ovcharenko I."/>
+<person name="Furey T.S."/>
+<person name="Miller W."/>
+<person name="Eichler E.E."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Torrents D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="15815621"/>
+<dbReference type="DOI" id="10.1038/nature03466"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 129-493</scope>
+<source>
+<tissue>Muscle</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2002" name="Science" volume="298" first="1912" last="1934">
+<title>The protein kinase complement of the human genome.</title>
+<authorList>
+<person name="Manning G."/>
+<person name="Whyte D.B."/>
+<person name="Martinez R."/>
+<person name="Hunter T."/>
+<person name="Sudarsanam S."/>
+</authorList>
+<dbReference type="PubMed" id="12471243"/>
+<dbReference type="DOI" id="10.1126/science.1075762"/>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2014" name="Cell" volume="158" first="1033" last="1044">
+<title>A secreted tyrosine kinase acts in the extracellular environment.</title>
+<authorList>
+<person name="Bordoli M.R."/>
+<person name="Yum J."/>
+<person name="Breitkopf S.B."/>
+<person name="Thon J.N."/>
+<person name="Italiano J.E. Jr."/>
+<person name="Xiao J."/>
+<person name="Worby C."/>
+<person name="Wong S.K."/>
+<person name="Lin G."/>
+<person name="Edenius M."/>
+<person name="Keller T.L."/>
+<person name="Asara J.M."/>
+<person name="Dixon J.E."/>
+<person name="Yeo C.Y."/>
+<person name="Whitman M."/>
+</authorList>
+<dbReference type="PubMed" id="25171405"/>
+<dbReference type="DOI" id="10.1016/j.cell.2014.06.048"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<comment type="function">
+<text evidence="1 4">Secreted tyrosine-protein kinase that mediates phosphorylation of extracellular proteins and endogenous proteins in the secretory pathway, which is essential for patterning at organogenesis stages. Mediates phosphorylation of MMP1, MMP13, MMP14, MMP19 and ERP29 (PubMed:25171405). Probably plays a role in platelets: rapidly and quantitatively secreted from platelets in response to stimulation of platelet degranulation (PubMed:25171405). May also have serine/threonine protein kinase activity. Required for longitudinal bone growth through regulation of chondrocyte differentiation. May be indirectly involved in protein transport from the Golgi apparatus to the plasma membrane (By similarity).</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="4">ATP + a [protein]-L-tyrosine = ADP + a [protein]-L-tyrosine phosphate.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Secreted</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Golgi apparatus</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="4">Highly expressed in platelets.</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">N-glycosylated.</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">Phosphorylated on tyrosines; probably via autophosphorylation.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the protein kinase superfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="5">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAH94697" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="5">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAI10514" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="5">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAI10515" version="1"/>
+</conflict>
+</comment>
+<dbReference type="EC" id="2.7.10.2" evidence="4"/>
+<dbReference type="EMBL" id="AC013480">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471053">
+<property type="protein sequence ID" value="EAX00325.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471053">
+<property type="protein sequence ID" value="EAX00326.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC007901">
+<property type="protein sequence ID" value="AAH07901.2"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC062988">
+<property type="protein sequence ID" value="AAH62988.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC094697">
+<property type="protein sequence ID" value="AAH94697.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC110513">
+<property type="protein sequence ID" value="AAI10514.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC110514">
+<property type="protein sequence ID" value="AAI10515.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS33186.2"/>
+<dbReference type="RefSeq" id="NP_612379.2">
+<property type="nucleotide sequence ID" value="NM_138370.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.408542"/>
+<dbReference type="ProteinModelPortal" id="Q504Y2"/>
+<dbReference type="BioGrid" id="124837">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000294964"/>
+<dbReference type="iPTMnet" id="Q504Y2"/>
+<dbReference type="PhosphoSitePlus" id="Q504Y2"/>
+<dbReference type="BioMuta" id="PKDCC"/>
+<dbReference type="DMDM" id="292495024"/>
+<dbReference type="EPD" id="Q504Y2"/>
+<dbReference type="PaxDb" id="Q504Y2"/>
+<dbReference type="PeptideAtlas" id="Q504Y2"/>
+<dbReference type="PRIDE" id="Q504Y2"/>
+<dbReference type="DNASU" id="91461"/>
+<dbReference type="Ensembl" id="ENST00000294964">
+<property type="protein sequence ID" value="ENSP00000294964"/>
+<property type="gene ID" value="ENSG00000162878"/>
+</dbReference>
+<dbReference type="GeneID" id="91461"/>
+<dbReference type="KEGG" id="hsa:91461"/>
+<dbReference type="UCSC" id="uc002rsg.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="91461"/>
+<dbReference type="DisGeNET" id="91461"/>
+<dbReference type="GeneCards" id="PKDCC"/>
+<dbReference type="H-InvDB" id="HIX0029918"/>
+<dbReference type="H-InvDB" id="HIX0161947"/>
+<dbReference type="HGNC" id="HGNC:25123">
+<property type="gene designation" value="PKDCC"/>
+</dbReference>
+<dbReference type="HPA" id="HPA026427"/>
+<dbReference type="HPA" id="HPA026442"/>
+<dbReference type="HPA" id="HPA026526"/>
+<dbReference type="MIM" id="614150">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q504Y2"/>
+<dbReference type="OpenTargets" id="ENSG00000162878"/>
+<dbReference type="PharmGKB" id="PA165697259"/>
+<dbReference type="eggNOG" id="KOG1187">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0515">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000001205"/>
+<dbReference type="HOGENOM" id="HOG000054185"/>
+<dbReference type="HOVERGEN" id="HBG079871"/>
+<dbReference type="InParanoid" id="Q504Y2"/>
+<dbReference type="KO" id="K17548"/>
+<dbReference type="OMA" id="GYTKAVY"/>
+<dbReference type="OrthoDB" id="EOG091G0JWN"/>
+<dbReference type="PhylomeDB" id="Q504Y2"/>
+<dbReference type="TreeFam" id="TF329248"/>
+<dbReference type="SignaLink" id="Q504Y2"/>
+<dbReference type="ChiTaRS" id="PKDCC">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="91461"/>
+<dbReference type="PRO" id="PR:Q504Y2"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 2"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000162878"/>
+<dbReference type="ExpressionAtlas" id="Q504Y2">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q504Y2">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005794">
+<property type="term" value="C:Golgi apparatus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004715">
+<property type="term" value="F:non-membrane spanning protein tyrosine kinase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004672">
+<property type="term" value="F:protein kinase activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030282">
+<property type="term" value="P:bone mineralization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030154">
+<property type="term" value="P:cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048566">
+<property type="term" value="P:embryonic digestive tract development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035108">
+<property type="term" value="P:limb morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048286">
+<property type="term" value="P:lung alveolus development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035264">
+<property type="term" value="P:multicellular organism growth"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042997">
+<property type="term" value="P:negative regulation of Golgi to plasma membrane protein transport"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060021">
+<property type="term" value="P:palate development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018108">
+<property type="term" value="P:peptidyl-tyrosine phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030501">
+<property type="term" value="P:positive regulation of bone mineralization"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032332">
+<property type="term" value="P:positive regulation of chondrocyte differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015031">
+<property type="term" value="P:protein transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001501">
+<property type="term" value="P:skeletal system development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022049">
+<property type="entry name" value="FAM69_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12260">
+<property type="entry name" value="PIP49_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0217">Developmental protein</keyword>
+<keyword id="KW-0221">Differentiation</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0333">Golgi apparatus</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0892">Osteogenesis</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0653">Protein transport</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<keyword id="KW-0829">Tyrosine-protein kinase</keyword>
+<feature type="signal peptide" evidence="2">
+<location>
+<begin position="1"/>
+<end position="32"/>
+</location>
+</feature>
+<feature type="chain" description="Extracellular tyrosine-protein kinase PKDCC" id="PRO_0000263010">
+<location>
+<begin position="33"/>
+<end position="493"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase" evidence="3">
+<location>
+<begin position="138"/>
+<end position="493"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="3">
+<location>
+<begin position="144"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Pro-rich">
+<location>
+<begin position="28"/>
+<end position="128"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="3">
+<location>
+<position position="278"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="3">
+<location>
+<position position="166"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine" evidence="1">
+<location>
+<position position="148"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="177"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="137"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="320"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="369"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="400"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="460"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="484"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q5RJI4"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00159"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25171405"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<evidence key="6" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:25123"/>
+</source>
+</evidence>
+<sequence length="493" mass="54132" checksum="9E6F2AF7BECDA26C" modified="2010-03-23" version="2" precursor="true">
+MRRRRAAVAAGFCASFLLGSVLNVLFAPGSEPPRPGQSPEPSPAPGPGRRGGRGELARQI
+RARYEEVQRYSRGGPGPGAGRPERRRLMDLAPGGPGLPRPRPPWARPLSDGAPGWPPAPG
+PGSPGPGPRLGCAALRNVSGAQYMGSGYTKAVYRVRLPGGAAVALKAVDFSGHDLGSCVR
+EFGVRRGCYRLAAHKLLKEMVLLERLRHPNVLQLYGYCYQDSEDIPDTLTTITELGAPVE
+MIQLLQTSWEDRFRICLSLGRLLHHLAHSPLGSVTLLDFRPRQFVLVDGELKVTDLDDAR
+VEETPCAGSTDCILEFPARNFTLPCSAQGWCEGMNEKRNLYNAYRFFFTYLLPHSAPPSL
+RPLLDSIVNATGELAWGVDETLAQLEKVLHLYRSGQYLQNSTASSSTEYQCIPDSTIPQE
+DYRCWPSYHHGSCLLSVFNLAEAVDVCESHAQCRAFVVTNQTTWTGRQLVFFKTGWSQVV
+PDPNKTTYVKASG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

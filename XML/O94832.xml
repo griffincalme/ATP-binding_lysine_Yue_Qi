@@ -1,0 +1,567 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2002-10-10" modified="2017-05-10" version="149">
+<accession>O94832</accession>
+<accession>A6H8V3</accession>
+<accession>Q8NHP9</accession>
+<name>MYO1D_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Unconventional myosin-Id</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">MYO1D</name>
+<name type="synonym">KIAA0727</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="2003-01" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Nagase T."/>
+<person name="Kikuno R."/>
+<person name="Yamakawa H."/>
+<person name="Ohara O."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1998" name="DNA Res." volume="5" first="277" last="286">
+<title>Prediction of the coding sequences of unidentified human genes. XI. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro.</title>
+<authorList>
+<person name="Nagase T."/>
+<person name="Ishikawa K."/>
+<person name="Suyama M."/>
+<person name="Kikuno R."/>
+<person name="Miyajima N."/>
+<person name="Tanaka A."/>
+<person name="Kotani H."/>
+<person name="Nomura N."/>
+<person name="Ohara O."/>
+</authorList>
+<dbReference type="PubMed" id="9872452"/>
+<dbReference type="DOI" id="10.1093/dnares/5.5.277"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 333-1006</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="submission" date="2009-03" db="UniProtKB">
+<authorList>
+<person name="Bienvenut W.V."/>
+<person name="Dozynkiewicz M."/>
+<person name="Norman J.C."/>
+</authorList>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-11; 239-248; 534-544; 791-801 AND 985-994</scope>
+<scope>CLEAVAGE OF INITIATOR METHIONINE</scope>
+<scope>ACETYLATION AT ALA-2</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<tissue>Ovarian carcinoma</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="10762" last="10767">
+<title>A quantitative atlas of mitotic phosphorylation.</title>
+<authorList>
+<person name="Dephoure N."/>
+<person name="Zhou C."/>
+<person name="Villen J."/>
+<person name="Beausoleil S.A."/>
+<person name="Bakalarski C.E."/>
+<person name="Elledge S.J."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="18669648"/>
+<dbReference type="DOI" id="10.1073/pnas.0805139105"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-200</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="function">
+<text evidence="2">Myosins are actin-based motor molecules with ATPase activity. Unconventional myosins serve in intracellular movements. Their highly divergent tails are presumed to bind to membranous compartments, which would be moved relative to actin filaments (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="2">Binds calmodulin through its IQ motifs.</text>
+</comment>
+<comment type="tissue specificity">
+<text>Expressed in many tissues. Highest levels in brain, followed by lung and ovary; expression is lowest in spleen.</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family.</text>
+</comment>
+<comment type="caution">
+<text evidence="8">Represents an unconventional myosin. This protein should not be confused with the conventional myosin-1 (MYH1).</text>
+</comment>
+<comment type="sequence caution" evidence="8">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="BAA34447" version="2"/>
+</conflict>
+</comment>
+<dbReference type="EMBL" id="AB018270">
+<property type="protein sequence ID" value="BAA34447.2"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC146763">
+<property type="protein sequence ID" value="AAI46764.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS32615.1"/>
+<dbReference type="RefSeq" id="NP_001290208.1">
+<property type="nucleotide sequence ID" value="NM_001303279.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_056009.1">
+<property type="nucleotide sequence ID" value="NM_015194.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.602063"/>
+<dbReference type="ProteinModelPortal" id="O94832"/>
+<dbReference type="SMR" id="O94832"/>
+<dbReference type="BioGrid" id="110726">
+<property type="interactions" value="37"/>
+</dbReference>
+<dbReference type="IntAct" id="O94832">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-4999277"/>
+<dbReference type="STRING" id="9606.ENSP00000324527"/>
+<dbReference type="iPTMnet" id="O94832"/>
+<dbReference type="PhosphoSitePlus" id="O94832"/>
+<dbReference type="SwissPalm" id="O94832"/>
+<dbReference type="BioMuta" id="MYO1D"/>
+<dbReference type="EPD" id="O94832"/>
+<dbReference type="MaxQB" id="O94832"/>
+<dbReference type="PaxDb" id="O94832"/>
+<dbReference type="PeptideAtlas" id="O94832"/>
+<dbReference type="PRIDE" id="O94832"/>
+<dbReference type="Ensembl" id="ENST00000318217">
+<property type="protein sequence ID" value="ENSP00000324527"/>
+<property type="gene ID" value="ENSG00000176658"/>
+</dbReference>
+<dbReference type="GeneID" id="4642"/>
+<dbReference type="KEGG" id="hsa:4642"/>
+<dbReference type="UCSC" id="uc002hho.2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="4642"/>
+<dbReference type="DisGeNET" id="4642"/>
+<dbReference type="GeneCards" id="MYO1D"/>
+<dbReference type="HGNC" id="HGNC:7598">
+<property type="gene designation" value="MYO1D"/>
+</dbReference>
+<dbReference type="HPA" id="HPA054744"/>
+<dbReference type="MIM" id="606539">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_O94832"/>
+<dbReference type="OpenTargets" id="ENSG00000176658"/>
+<dbReference type="PharmGKB" id="PA31400"/>
+<dbReference type="eggNOG" id="KOG0164">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5022">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00840000129697"/>
+<dbReference type="HOGENOM" id="HOG000260264"/>
+<dbReference type="HOVERGEN" id="HBG062373"/>
+<dbReference type="InParanoid" id="O94832"/>
+<dbReference type="KO" id="K10356"/>
+<dbReference type="OMA" id="NRWRASQ"/>
+<dbReference type="OrthoDB" id="EOG091G0136"/>
+<dbReference type="PhylomeDB" id="O94832"/>
+<dbReference type="TreeFam" id="TF312960"/>
+<dbReference type="ChiTaRS" id="MYO1D">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="4642"/>
+<dbReference type="PRO" id="PR:O94832"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 17"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000176658"/>
+<dbReference type="CleanEx" id="HS_MYO1D"/>
+<dbReference type="ExpressionAtlas" id="O94832">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="O94832">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097440">
+<property type="term" value="C:apical dendrite"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030673">
+<property type="term" value="C:axolemma"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030424">
+<property type="term" value="C:axon"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016323">
+<property type="term" value="C:basolateral plasma membrane"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005903">
+<property type="term" value="C:brush border"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031410">
+<property type="term" value="C:cytoplasmic vesicle"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005768">
+<property type="term" value="C:endosome"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043209">
+<property type="term" value="C:myelin sheath"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016459">
+<property type="term" value="C:myosin complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043005">
+<property type="term" value="C:neuron projection"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043025">
+<property type="term" value="C:neuronal cell body"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044853">
+<property type="term" value="C:plasma membrane raft"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005790">
+<property type="term" value="C:smooth endoplasmic reticulum"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051015">
+<property type="term" value="F:actin filament binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030898">
+<property type="term" value="F:actin-dependent ATPase activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048306">
+<property type="term" value="F:calcium-dependent protein binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005516">
+<property type="term" value="F:calmodulin binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000146">
+<property type="term" value="F:microfilament motor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019904">
+<property type="term" value="F:protein domain specific binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051641">
+<property type="term" value="P:cellular localization"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061502">
+<property type="term" value="P:early endosome to recycling endosome transport"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030900">
+<property type="term" value="P:forebrain development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010923">
+<property type="term" value="P:negative regulation of phosphatase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000048">
+<property type="entry name" value="IQ_motif_EF-hand-BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001609">
+<property type="entry name" value="Myosin_head_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010926">
+<property type="entry name" value="Myosin_TH1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00612">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00063">
+<property type="entry name" value="Myosin_head"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06017">
+<property type="entry name" value="Myosin_TH1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00193">
+<property type="entry name" value="MYOSINHEAVY"/>
+</dbReference>
+<dbReference type="SMART" id="SM00015">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00242">
+<property type="entry name" value="MYSc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50096">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51456">
+<property type="entry name" value="MYOSIN_MOTOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51757">
+<property type="entry name" value="TH1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0009">Actin-binding</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0112">Calmodulin-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0505">Motor protein</keyword>
+<keyword id="KW-0518">Myosin</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<feature type="initiator methionine" description="Removed" evidence="7">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Unconventional myosin-Id" id="PRO_0000123447">
+<location>
+<begin position="2"/>
+<end position="1006"/>
+</location>
+</feature>
+<feature type="domain" description="Myosin motor">
+<location>
+<begin position="9"/>
+<end position="695"/>
+</location>
+</feature>
+<feature type="domain" description="IQ 1" evidence="5">
+<location>
+<begin position="699"/>
+<end position="719"/>
+</location>
+</feature>
+<feature type="domain" description="IQ 2" evidence="5">
+<location>
+<begin position="721"/>
+<end position="741"/>
+</location>
+</feature>
+<feature type="domain" description="TH1" evidence="6">
+<location>
+<begin position="812"/>
+<end position="1005"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="4">
+<location>
+<begin position="102"/>
+<end position="109"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylalanine" evidence="7">
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="200"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine" evidence="3">
+<location>
+<position position="536"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs7209106." id="VAR_050210">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="765"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs7215958." id="VAR_050211">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="771"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="18669648"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q5SYD0"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255"/>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00116"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01093"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source ref="4"/>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<sequence length="1006" mass="116202" checksum="A8BB08450887168E" modified="2003-06-20" version="2">
+MAEQESLEFGKADFVLMDTVSMPEFMANLRLRFEKGRIYTFIGEVVVSVNPYKLLNIYGR
+DTIEQYKGRELYERPPHLFAIADAAYKAMKRRSKDTCIVISGESGAGKTEASKYIMQYIA
+AITNPSQRAEVERVKNMLLKSNCVLEAFGNAKTNRNDNSSRFGKYMDINFDFKGDPIGGH
+INNYLLEKSRVIVQQPGERSFHSFYQLLQGGSEQMLRSLHLQKSLSSYNYIHVGAQLKSS
+INDAAEFRVVADAMKVIGFKPEEIQTVYKILAAILHLGNLKFVVDGDTPLIENGKVVSII
+AELLSTKTDMVEKALLYRTVATGRDIIDKQHTEQEASYGRDAFAKAIYERLFCWIVTRIN
+DIIEVKNYDTTIHGKNTVIGVLDIYGFEIFDNNSFEQFCINYCNEKLQQLFIQLVLKQEQ
+EEYQREGIPWKHIDYFNNQIIVDLVEQQHKGIIAILDDACMNVGKVTDEMFLEALNSKLG
+KHAHFSSRKLCASDKILEFDRDFRIRHYAGDVVYSVIGFIDKNKDTLFQDFKRLMYNSSN
+PVLKNMWPEGKLSITEVTKRPLTAATLFKNSMIALVDNLASKEPYYVRCIKPNDKKSPQI
+FDDERCRHQVEYLGLLENVRVRRAGFAFRQTYEKFLHRYKMISEFTWPNHDLPSDKEAVK
+KLIERCGFQDDVAYGKTKIFIRTPRTLFTLEELRAQMLIRIVLFLQKVWRGTLARMRYKR
+TKAALTIIRYYRRYKVKSYIHEVARRFHGVKTMRDYGKHVKWPSPPKVLRRFEEALQTIF
+NRWRASQLIKSIPASDLPQVRAKVAAVEMLKGQRADLGLQRAWEGNYLASKPDTPQTSGT
+FVPVANELKRKDKYMNVLFSCHVRKVNRFSKVEDRAIFVTDRHLYKMDPTKQYKVMKTIP
+LYNLTGLSVSNGKDQLVVFHTKDNKDLIVCLFSKQPTHESRIGELVGVLVNHFKSEKRHL
+QVNVTNPVQCSLHGKKCTVSVETRLNQPQPDFTKNRSGFILSVPGN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

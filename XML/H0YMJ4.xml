@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2012-02-22" modified="2017-05-10" version="48">
+<accession>H0YMJ4</accession>
+<name>H0YMJ4_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="7">Kinesin-like protein KIF23</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="7">KIF23</name>
+</gene>
+<organism evidence="7 8">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7 8">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="671" last="675">
+<title>Analysis of the DNA sequence and duplication history of human chromosome 15.</title>
+<authorList>
+<person name="Zody M.C."/>
+<person name="Garber M."/>
+<person name="Sharpe T."/>
+<person name="Young S.K."/>
+<person name="Rowen L."/>
+<person name="O'Neill K."/>
+<person name="Whittaker C.A."/>
+<person name="Kamal M."/>
+<person name="Chang J.L."/>
+<person name="Cuomo C.A."/>
+<person name="Dewar K."/>
+<person name="FitzGerald M.G."/>
+<person name="Kodira C.D."/>
+<person name="Madan A."/>
+<person name="Qin S."/>
+<person name="Yang X."/>
+<person name="Abbasi N."/>
+<person name="Abouelleil A."/>
+<person name="Arachchi H.M."/>
+<person name="Baradarani L."/>
+<person name="Birditt B."/>
+<person name="Bloom S."/>
+<person name="Bloom T."/>
+<person name="Borowsky M.L."/>
+<person name="Burke J."/>
+<person name="Butler J."/>
+<person name="Cook A."/>
+<person name="DeArellano K."/>
+<person name="DeCaprio D."/>
+<person name="Dorris L. III"/>
+<person name="Dors M."/>
+<person name="Eichler E.E."/>
+<person name="Engels R."/>
+<person name="Fahey J."/>
+<person name="Fleetwood P."/>
+<person name="Friedman C."/>
+<person name="Gearin G."/>
+<person name="Hall J.L."/>
+<person name="Hensley G."/>
+<person name="Johnson E."/>
+<person name="Jones C."/>
+<person name="Kamat A."/>
+<person name="Kaur A."/>
+<person name="Locke D.P."/>
+<person name="Madan A."/>
+<person name="Munson G."/>
+<person name="Jaffe D.B."/>
+<person name="Lui A."/>
+<person name="Macdonald P."/>
+<person name="Mauceli E."/>
+<person name="Naylor J.W."/>
+<person name="Nesbitt R."/>
+<person name="Nicol R."/>
+<person name="O'Leary S.B."/>
+<person name="Ratcliffe A."/>
+<person name="Rounsley S."/>
+<person name="She X."/>
+<person name="Sneddon K.M."/>
+<person name="Stewart S."/>
+<person name="Sougnez C."/>
+<person name="Stone S.M."/>
+<person name="Topham K."/>
+<person name="Vincent D."/>
+<person name="Wang S."/>
+<person name="Zimmer A.R."/>
+<person name="Birren B.W."/>
+<person name="Hood L."/>
+<person name="Lander E.S."/>
+<person name="Nusbaum C."/>
+</authorList>
+<dbReference type="PubMed" id="16572171"/>
+<dbReference type="DOI" id="10.1038/nature04601"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="7">
+<citation type="submission" date="2012-01" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<comment type="similarity">
+<text evidence="4">Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family.</text>
+</comment>
+<comment type="caution">
+<text evidence="4">Lacks conserved residue(s) required for the propagation of feature annotation.</text>
+</comment>
+<comment type="caution">
+<text evidence="7">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EMBL" id="AC027237">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="ProteinModelPortal" id="H0YMJ4"/>
+<dbReference type="STRING" id="9606.ENSP00000260363"/>
+<dbReference type="MaxQB" id="H0YMJ4"/>
+<dbReference type="PaxDb" id="H0YMJ4"/>
+<dbReference type="PeptideAtlas" id="H0YMJ4"/>
+<dbReference type="PRIDE" id="H0YMJ4"/>
+<dbReference type="Ensembl" id="ENST00000561089">
+<property type="protein sequence ID" value="ENSP00000453629"/>
+<property type="gene ID" value="ENSG00000137807"/>
+</dbReference>
+<dbReference type="UCSC" id="uc059kts.1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="HGNC" id="HGNC:6392">
+<property type="gene designation" value="KIF23"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000137807"/>
+<dbReference type="eggNOG" id="KOG0247">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5059">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00870000136438"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 15"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000137807"/>
+<dbReference type="ExpressionAtlas" id="H0YMJ4">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005622">
+<property type="term" value="C:intracellular"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008017">
+<property type="term" value="F:microtubule binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003777">
+<property type="term" value="F:microtubule motor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000915">
+<property type="term" value="P:actomyosin contractile ring assembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072383">
+<property type="term" value="P:plus-end-directed vesicle transport along microtubule"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.850.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032924">
+<property type="entry name" value="KIF23"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001752">
+<property type="entry name" value="Kinesin_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24115:SF674">
+<property type="entry name" value="PTHR24115:SF674"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00225">
+<property type="entry name" value="Kinesin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50067">
+<property type="entry name" value="KINESIN_MOTOR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="5">ATP-binding</keyword>
+<keyword id="KW-0181" evidence="8">Complete proteome</keyword>
+<keyword id="KW-0547" evidence="5">Nucleotide-binding</keyword>
+<keyword id="KW-1267" evidence="1 2 3">Proteomics identification</keyword>
+<keyword id="KW-1185" evidence="8">Reference proteome</keyword>
+<feature type="domain" description="Kinesin motor" evidence="6">
+<location>
+<begin position="25"/>
+<end position="109"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000213">
+<source>
+<dbReference type="EPD" id="H0YMJ4"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000213">
+<source>
+<dbReference type="MaxQB" id="H0YMJ4"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000213">
+<source>
+<dbReference type="PeptideAtlas" id="H0YMJ4"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00283"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00784251"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50067"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000453629"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="109" mass="12366" checksum="8A8CA7D2B8DF36BD" modified="2012-04-18" version="2">
+MKSARAKTPRKPTVKKGSQTNLKDPVGVYCRVRPLGFPDQECCIEVINNTTVQLHTPEGY
+RLNRNGDYKETQYSFKQVFGTHTTQKELFDVVANPLVNDLIHGKNGFQI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

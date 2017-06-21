@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2005-05-10" modified="2017-04-12" version="95">
+<accession>Q572P5</accession>
+<accession>E9PEJ2</accession>
+<name>Q572P5_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="5">Tyrosine-protein kinase BTK isoform 65</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="5">BTK</name>
+</gene>
+<organism evidence="5">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="journal article" date="2005" name="J. Exp. Med." volume="201" first="1837" last="1852">
+<title>Mimicry of a constitutively active pre-B cell receptor: Aberrant splicing links Bruton's tyrosine kinase to BCR-ABL1 in pre-B lymphoblastic leukemia.</title>
+<authorList>
+<person name="Feldhahn N."/>
+<person name="Klein F."/>
+<person name="Mooster J.L."/>
+<person name="Hadweh P."/>
+<person name="Sprangers M."/>
+<person name="Wartenberg M."/>
+<person name="Bekhite M.M."/>
+<person name="Hofmann W.K."/>
+<person name="Herzog S."/>
+<person name="Jumaa H."/>
+<person name="Rowley J.D."/>
+<person name="Muschen M."/>
+</authorList>
+<dbReference type="PubMed" id="15939795"/>
+<dbReference type="DOI" id="10.1084/jem.20042101"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="5">BCR-ABL1+ pre-B lymphoblastic leukemia</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AJ888376">
+<property type="protein sequence ID" value="CAI59842.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.159494"/>
+<dbReference type="UniGene" id="Hs.733206"/>
+<dbReference type="ProteinModelPortal" id="Q572P5"/>
+<dbReference type="SMR" id="Q572P5"/>
+<dbReference type="STRING" id="9606.ENSP00000308176"/>
+<dbReference type="MaxQB" id="Q572P5"/>
+<dbReference type="PaxDb" id="Q572P5"/>
+<dbReference type="PeptideAtlas" id="Q572P5"/>
+<dbReference type="eggNOG" id="KOG0197">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0515">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000233858"/>
+<dbReference type="ChiTaRS" id="BTK">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004713">
+<property type="term" value="F:protein tyrosine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.505.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001245">
+<property type="entry name" value="Ser-Thr/Tyr_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000980">
+<property type="entry name" value="SH2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07714">
+<property type="entry name" value="Pkinase_Tyr"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00109">
+<property type="entry name" value="TYRKINASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55550">
+<property type="entry name" value="SSF55550"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50001">
+<property type="entry name" value="SH2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="1">Kinase</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<keyword id="KW-0808" evidence="1">Transferase</keyword>
+<keyword id="KW-0829" evidence="1">Tyrosine-protein kinase</keyword>
+<feature type="domain" description="Protein kinase" evidence="4">
+<location>
+<begin position="1"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="domain" description="SH2" evidence="3">
+<location>
+<begin position="1"/>
+<end position="46"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="5">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="5">
+<location>
+<position position="234"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00485797"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00802662"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50001"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAI59842.1"/>
+</source>
+</evidence>
+<sequence length="234" mass="27048" checksum="B0C99DAB3A359157" modified="2005-05-10" version="1" fragment="single">
+RHYVVCSTPQSQYYLAEKHLFSTIPELINYHQHNSAGLISRLKYPVSQQNKNAPSTAGLG
+YGSWEIDPKDLTFLKELGTGQFGVVKYGKWRGQYDVAIKMIKEGSMSEDEFIEEAKVMMY
+VLDDEYTSSVGSKFPVRWSPPEVLMYSKFSSKSDIWAFGVLMWEIYSLGKMPYERFTNSE
+TAEHIAQGLRLYRPHLASEKVYTIMYSCWHEKADERPTFKILLSNILDVMDEES
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

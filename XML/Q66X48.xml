@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2004-10-11" modified="2017-05-10" version="83">
+<accession>Q66X48</accession>
+<name>Q66X48_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="3">CIITA IV</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">MHC2TA</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="submission" date="2004-07" db="EMBL/GenBank/DDBJ databases">
+<title>CIITA IV from THP1 cell line.</title>
+<authorList>
+<person name="Jiang Y."/>
+<person name="Chou K."/>
+<person name="Song L."/>
+<person name="Gong W."/>
+<person name="Zhou Y."/>
+<person name="Wang B."/>
+<person name="Xin L."/>
+<person name="Lu L."/>
+<person name="Ding Q."/>
+<person name="Jiao Z."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<dbReference type="EMBL" id="AY699071">
+<property type="protein sequence ID" value="AAU06586.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000237.2">
+<property type="nucleotide sequence ID" value="NM_000246.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.592051"/>
+<dbReference type="UniGene" id="Hs.701991"/>
+<dbReference type="ProteinModelPortal" id="Q66X48"/>
+<dbReference type="STRING" id="9606.ENSP00000316328"/>
+<dbReference type="PaxDb" id="Q66X48"/>
+<dbReference type="PeptideAtlas" id="Q66X48"/>
+<dbReference type="PRIDE" id="Q66X48"/>
+<dbReference type="DNASU" id="4261"/>
+<dbReference type="GeneID" id="4261"/>
+<dbReference type="KEGG" id="hsa:4261"/>
+<dbReference type="CTD" id="4261"/>
+<dbReference type="PharmGKB" id="PA30795"/>
+<dbReference type="eggNOG" id="KOG4308">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410ZBX3">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG000174"/>
+<dbReference type="KO" id="K08060"/>
+<dbReference type="GenomeRNAi" id="4261"/>
+<dbReference type="Genevisible" id="Q66X48">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006355">
+<property type="term" value="P:regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001611">
+<property type="entry name" value="Leu-rich_rpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008095">
+<property type="entry name" value="MHC_II_transact"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007111">
+<property type="entry name" value="NACHT_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13516">
+<property type="entry name" value="LRR_6"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01719">
+<property type="entry name" value="MHCIIACTVATR"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51450">
+<property type="entry name" value="LRR"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50837">
+<property type="entry name" value="NACHT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="domain" description="NACHT" evidence="2">
+<location>
+<begin position="391"/>
+<end position="701"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00074409"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50837"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAU06586.1"/>
+</source>
+</evidence>
+<sequence length="1107" mass="120936" checksum="16A1103F13FC3663" modified="2004-10-11" version="1">
+MELGPLEGGYLEPLNSDADPLCLYHFYDQMDLAGEEEIELYSEPDTDTINCDQFSRLLCD
+MEGDEETREAYANIAELDQYVFQDSQLEGLSKDIFIEHIGPDEVIGESMEMPAEVGQKSQ
+KRPFPEELPADLKHWKPAEPPTVVAGSLLVGPVSDCSTLSCLPLPALFNQEPASGQMRLE
+KTDQIPMPFSSSSLSCLNLPEGPIQFVPTISTLPHGLWQISEAGTGVSSIFIYHGEVPQA
+SQVPPPSGFTVHGLPTSPDRPGSTSPFAPSATDLPSMPEPALTSRANMTEHKTSPTQCPA
+AGEVSNKLPKWPEPVEQFYRSLQDTYGAEPAGPDGILVEVDLVQARLERSSSKGLERELA
+TPDWAERQLAQGGLAEVLLAAKEHRRPRETRVIAVLGKAGQGKSYWAGAVSRAWACGRLP
+QYDFVFSVPCHCLNRPGDAYGLQDLLFSLGPQPLVAADEVFSHILKRPDRVLLILDGFEE
+LEAQDGFLHSTCGPAPAEPCSLRGLLAGLFQKKLLRGCTLLLTARPRGRLVQSLSKADAL
+FELSGFSMEQAQAYVMRYFESSGMTEHQDRALTLLRDRPLLLSHSHSPTLCRAVCQLSEA
+LLELGEDAKLPSTLTGLYVGLLGRAALGSPPGALAELAKLAWELGRRHQSTLQEDQFPSA
+DVRTWAMAKGLVQHPPRAAESELAFPSFLLQCFLGALWLALSGEIKDKELPQYLALTPRK
+KRPYDNWLEGVPRFLAGLIFQPPARCLGALLGPSAAASVDRKQKVLARYLKRLQPGTLRA
+RQLLELLHCAHEAEEAGIWQHVVQELPGRLSFLGTRLTPLDAHVLGKALEAAGQDFSLDL
+RSTGICPSGLGSLVGLSCVTRFRAALSDTVALWESLRQHGETKLLQAAEEKFTIEPFKAK
+SLKDVEDLGKLVQTQRTRSSSEDTAGELPAVRDLKKLEFALGPVSGPQAFPKLVRILTAF
+SSLQHLDLDALSENKIGDEGVSQLSATFPQLKSLETLNLSQNNITDLGAYKLAEALPSLA
+ASLLRLSLYNNCICDVGAESLARVLPDMVSLRVMDVQYNKFTAAGAQQLAASLRRCPHVE
+TLAMWTPTIPFSVQEHLQQQDSRISLR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

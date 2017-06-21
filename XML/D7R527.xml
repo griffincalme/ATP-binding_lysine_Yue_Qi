@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2010-08-10" modified="2016-11-30" version="33">
+<accession>D7R527</accession>
+<name>D7R527_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="3">Mitogen-activated protein kinase</fullName>
+<ecNumber evidence="3">2.7.11.24</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="6">MAPK9</name>
+</gene>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="journal article" date="2010" name="BMB Rep." volume="43" first="738" last="743">
+<title>Molecular cloning and characterization of novel human JNK2 (MAPK9) transcript variants that show different stimulation activities on AP-1.</title>
+<authorList>
+<person name="Wang P."/>
+<person name="Xiong Y."/>
+<person name="Ma C."/>
+<person name="Shi T."/>
+<person name="Ma D."/>
+</authorList>
+<dbReference type="PubMed" id="21110917"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="2" evidence="6">
+<citation type="submission" date="2010-03" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Wang P.Z."/>
+<person name="Xiong Y."/>
+<person name="Ma C."/>
+<person name="Shi T.P."/>
+<person name="Ma D.L."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="4">ATP + a protein = ADP + a phosphoprotein.</text>
+</comment>
+<dbReference type="EC" id="2.7.11.24" evidence="3"/>
+<dbReference type="EMBL" id="HM036708">
+<property type="protein sequence ID" value="ADH10367.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.484371"/>
+<dbReference type="ProteinModelPortal" id="D7R527"/>
+<dbReference type="STRING" id="9606.ENSP00000389338"/>
+<dbReference type="PaxDb" id="D7R527"/>
+<dbReference type="PeptideAtlas" id="D7R527"/>
+<dbReference type="eggNOG" id="KOG0665">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XSHI">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000233024"/>
+<dbReference type="SignaLink" id="D7R527"/>
+<dbReference type="ChiTaRS" id="MAPK9">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005622">
+<property type="term" value="C:intracellular"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004707">
+<property type="term" value="F:MAP kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003527">
+<property type="entry name" value="MAP_kinase_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008351">
+<property type="entry name" value="MAPK_JNK"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01772">
+<property type="entry name" value="JNKMAPKINASE"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01351">
+<property type="entry name" value="MAPK"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="1">Kinase</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<keyword id="KW-0723" evidence="1">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808" evidence="1">Transferase</keyword>
+<feature type="domain" description="Protein kinase" evidence="5">
+<location>
+<begin position="26"/>
+<end position="321"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00652809"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00652810"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00652812"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00652814"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ADH10367.1"/>
+</source>
+</evidence>
+<sequence length="378" mass="43679" checksum="5406047C66858856" modified="2010-08-10" version="1">
+MSDSKCDSQFYSVQVADSTFTVLKRYQQLKPIGSGAQGIVCAAFDTVLGINVAVKKLSRP
+FQNQTHAKRAYRELVLLKCVNHKNIVSLLNVFTPQKTLEEFQDVYLVMELMDANLCQVIH
+MELDHERMSYLLYQMLCGIKHLHSAGIIHRDLKPSNIVVKSDCTLKILDFGLARTACTNF
+MMTPYVVTRYYRAPEVILGMGYKENVDIWSVGCIMAEMVLHKVLFPGRDYIDQWNKVIEQ
+LGTPSAEFMKKLQPTVRNYVENRPKYPGIKFEELFPDWIFPSESERDKIKTSQARDLLSK
+MLVIDPDKRISVDEALRHPYITVWYDPAEAEAPPPQIYDAQLEEREHAIEEWKELIYKEV
+MDWEERSKNGVVKDQPSG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

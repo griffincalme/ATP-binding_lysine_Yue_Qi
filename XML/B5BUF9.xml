@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-10-14" modified="2016-11-02" version="42">
+<accession>B5BUF9</accession>
+<name>B5BUF9_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Thymidine kinase</fullName>
+<ecNumber evidence="1">2.7.1.21</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">TK1</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="submission" date="2008-07" db="EMBL/GenBank/DDBJ databases">
+<title>Human Protein Factory: an infrastructure to convert the human transcriptome into the in vitro-expressed human proteome of versatile utility.</title>
+<authorList>
+<person name="Goshima N."/>
+<person name="Kawamura Y."/>
+<person name="Fukumoto A."/>
+<person name="Miura A."/>
+<person name="Honma R."/>
+<person name="Satoh R."/>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J.-I."/>
+<person name="Kimura K."/>
+<person name="Nishikawa T."/>
+<person name="Andoh T."/>
+<person name="Iida Y."/>
+<person name="Ishikawa K."/>
+<person name="Ito E."/>
+<person name="Kagawa N."/>
+<person name="Kaminaga C."/>
+<person name="Kanehori K."/>
+<person name="Kawakami B."/>
+<person name="Kenmochi K.-I."/>
+<person name="Kimura R."/>
+<person name="Kobayashi M."/>
+<person name="Kuroita T."/>
+<person name="Kuwayama H."/>
+<person name="Maruyama Y."/>
+<person name="Matsuo K."/>
+<person name="Minami K."/>
+<person name="Mitsubori M."/>
+<person name="Mori M."/>
+<person name="Morishita R."/>
+<person name="Murase A."/>
+<person name="Nishikawa A."/>
+<person name="Nishikawa S."/>
+<person name="Okamoto T."/>
+<person name="Sakagami N."/>
+<person name="Sakamoto Y."/>
+<person name="Sasaki Y."/>
+<person name="Seki T."/>
+<person name="Sono S."/>
+<person name="Sugiyama A."/>
+<person name="Sumiya T."/>
+<person name="Takayama T."/>
+<person name="Takayama Y."/>
+<person name="Takeda H."/>
+<person name="Togashi T."/>
+<person name="Yahata K."/>
+<person name="Yamada H."/>
+<person name="Yanagisawa Y."/>
+<person name="Endo Y."/>
+<person name="Imamoto F."/>
+<person name="Kisu Y."/>
+<person name="Tanaka S."/>
+<person name="Isogai T."/>
+<person name="Imai J.-I."/>
+<person name="Watanabe S."/>
+<person name="Nomura N."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="1">ATP + thymidine = ADP + thymidine 5'-phosphate.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the thymidine kinase family.</text>
+</comment>
+<dbReference type="EC" id="2.7.1.21" evidence="1"/>
+<dbReference type="EMBL" id="AB451395">
+<property type="protein sequence ID" value="BAG70209.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.515122"/>
+<dbReference type="ProteinModelPortal" id="B5BUF9"/>
+<dbReference type="SMR" id="B5BUF9"/>
+<dbReference type="STRING" id="9606.ENSP00000301634"/>
+<dbReference type="PaxDb" id="B5BUF9"/>
+<dbReference type="PeptideAtlas" id="B5BUF9"/>
+<dbReference type="PRIDE" id="B5BUF9"/>
+<dbReference type="eggNOG" id="KOG3125">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1435">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG006215"/>
+<dbReference type="ChiTaRS" id="TK1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004797">
+<property type="term" value="F:thymidine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071897">
+<property type="term" value="P:DNA biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001267">
+<property type="entry name" value="Thymidine_kinase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020633">
+<property type="entry name" value="Thymidine_kinase_CS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11441">
+<property type="entry name" value="PTHR11441"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00265">
+<property type="entry name" value="TK"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00603">
+<property type="entry name" value="TK_CELLULAR_TYPE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0237" evidence="1">DNA synthesis</keyword>
+<keyword id="KW-0418" evidence="1 3">Kinase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0808" evidence="1 3">Transferase</keyword>
+<feature type="non-terminal residue" evidence="3">
+<location>
+<position position="234"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000544"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU004165"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG70209.1"/>
+</source>
+</evidence>
+<sequence length="234" mass="25441" checksum="C96D8415C5FD2022" modified="2008-10-14" version="1" fragment="single">
+MSCINLPTVLPGSPSKTRGQIQVILGPMFSGKSTELMRRVRRFQIAQYKCLVIKYAKDTR
+YSSSFCTHDRNTMEALPACLLRDVAQEALGVAVIGIDEGQFFPDIVEFCEAMANAGKTVI
+VAALDGTFQRKPFGAILNLVPLAESVVKLTAVCMECFQEAAYTKRLGTEKEVEVIGGADK
+YHSVCRLCYFKKASGQPAGPDNKENCPVPGKPGEAVAARKLFAPQQILQCSPAN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

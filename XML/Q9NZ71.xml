@@ -1,0 +1,1622 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2003-03-28" modified="2017-05-10" version="149">
+<accession>Q9NZ71</accession>
+<accession>A2A397</accession>
+<accession>A2A398</accession>
+<accession>B4DRM5</accession>
+<accession>B4DYM3</accession>
+<accession>B4E3N6</accession>
+<accession>E1P5J4</accession>
+<accession>E1P5J5</accession>
+<accession>Q5JTV3</accession>
+<accession>Q5JTV4</accession>
+<accession>Q9BW37</accession>
+<accession>Q9H402</accession>
+<accession>Q9H4X6</accession>
+<accession>Q9NX25</accession>
+<accession>Q9NZ73</accession>
+<accession>Q9UPR4</accession>
+<accession>Q9Y4R6</accession>
+<name>RTEL1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Regulator of telomere elongation helicase 1</fullName>
+<ecNumber evidence="1">3.6.4.12</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Novel helicase-like</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">RTEL1</name>
+<name type="synonym">C20orf41</name>
+<name type="synonym">KIAA1088</name>
+<name type="synonym">NHL</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2000" name="Proc. Natl. Acad. Sci. U.S.A." volume="97" first="1230" last="1235">
+<title>Overexpression of M68/DcR3 in human gastrointestinal tract tumors independent of gene amplification and its location in a four-gene cluster.</title>
+<authorList>
+<person name="Bai C."/>
+<person name="Connolly B."/>
+<person name="Metzker M.L."/>
+<person name="Hilliard C.A."/>
+<person name="Liu X."/>
+<person name="Sandig V."/>
+<person name="Soderman A."/>
+<person name="Galloway S.M."/>
+<person name="Liu Q."/>
+<person name="Austin C.P."/>
+<person name="Caskey C.T."/>
+</authorList>
+<dbReference type="PubMed" id="10655513"/>
+<dbReference type="DOI" id="10.1073/pnas.97.3.1230"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORMS 1 AND 2)</scope>
+<scope>AMPLIFICATION IN GASTRIC TUMORS</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1999" name="DNA Res." volume="6" first="197" last="205">
+<title>Prediction of the coding sequences of unidentified human genes. XIV. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro.</title>
+<authorList>
+<person name="Kikuno R."/>
+<person name="Nagase T."/>
+<person name="Ishikawa K."/>
+<person name="Hirosawa M."/>
+<person name="Miyajima N."/>
+<person name="Tanaka A."/>
+<person name="Kotani H."/>
+<person name="Nomura N."/>
+<person name="Ohara O."/>
+</authorList>
+<dbReference type="PubMed" id="10470851"/>
+<dbReference type="DOI" id="10.1093/dnares/6.3.197"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<scope>VARIANT HIS-1042</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2002" name="DNA Res." volume="9" first="99" last="106">
+<title>Construction of expression-ready cDNA clones for KIAA genes: manual curation of 330 KIAA cDNA clones.</title>
+<authorList>
+<person name="Nakajima D."/>
+<person name="Okazaki N."/>
+<person name="Yamakawa H."/>
+<person name="Kikuno R."/>
+<person name="Ohara O."/>
+<person name="Nagase T."/>
+</authorList>
+<dbReference type="PubMed" id="12168954"/>
+<dbReference type="DOI" id="10.1093/dnares/9.3.99"/>
+</citation>
+<scope>SEQUENCE REVISION</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2012-02" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Ohara O."/>
+<person name="Nagase T."/>
+<person name="Kikuno R."/>
+</authorList>
+</citation>
+<scope>SEQUENCE REVISION TO 291-292</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 5; 7; 8 AND 9)</scope>
+<scope>VARIANTS THR-929 AND HIS-1042</scope>
+<source>
+<tissue>Colon carcinoma</tissue>
+<tissue>Teratocarcinoma</tissue>
+<tissue>Testis</tissue>
+<tissue>Uterus</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2001" name="Nature" volume="414" first="865" last="871">
+<title>The DNA sequence and comparative analysis of human chromosome 20.</title>
+<authorList>
+<person name="Deloukas P."/>
+<person name="Matthews L.H."/>
+<person name="Ashurst J.L."/>
+<person name="Burton J."/>
+<person name="Gilbert J.G.R."/>
+<person name="Jones M."/>
+<person name="Stavrides G."/>
+<person name="Almeida J.P."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Barlow K.F."/>
+<person name="Bates K.N."/>
+<person name="Beard L.M."/>
+<person name="Beare D.M."/>
+<person name="Beasley O.P."/>
+<person name="Bird C.P."/>
+<person name="Blakey S.E."/>
+<person name="Bridgeman A.M."/>
+<person name="Brown A.J."/>
+<person name="Buck D."/>
+<person name="Burrill W.D."/>
+<person name="Butler A.P."/>
+<person name="Carder C."/>
+<person name="Carter N.P."/>
+<person name="Chapman J.C."/>
+<person name="Clamp M."/>
+<person name="Clark G."/>
+<person name="Clark L.N."/>
+<person name="Clark S.Y."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Cobley V.E."/>
+<person name="Collier R.E."/>
+<person name="Connor R.E."/>
+<person name="Corby N.R."/>
+<person name="Coulson A."/>
+<person name="Coville G.J."/>
+<person name="Deadman R."/>
+<person name="Dhami P.D."/>
+<person name="Dunn M."/>
+<person name="Ellington A.G."/>
+<person name="Frankland J.A."/>
+<person name="Fraser A."/>
+<person name="French L."/>
+<person name="Garner P."/>
+<person name="Grafham D.V."/>
+<person name="Griffiths C."/>
+<person name="Griffiths M.N.D."/>
+<person name="Gwilliam R."/>
+<person name="Hall R.E."/>
+<person name="Hammond S."/>
+<person name="Harley J.L."/>
+<person name="Heath P.D."/>
+<person name="Ho S."/>
+<person name="Holden J.L."/>
+<person name="Howden P.J."/>
+<person name="Huckle E."/>
+<person name="Hunt A.R."/>
+<person name="Hunt S.E."/>
+<person name="Jekosch K."/>
+<person name="Johnson C.M."/>
+<person name="Johnson D."/>
+<person name="Kay M.P."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Knights A."/>
+<person name="Laird G.K."/>
+<person name="Lawlor S."/>
+<person name="Lehvaeslaiho M.H."/>
+<person name="Leversha M.A."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Lovell J.D."/>
+<person name="Marsh V.L."/>
+<person name="Martin S.L."/>
+<person name="McConnachie L.J."/>
+<person name="McLay K."/>
+<person name="McMurray A.A."/>
+<person name="Milne S.A."/>
+<person name="Mistry D."/>
+<person name="Moore M.J.F."/>
+<person name="Mullikin J.C."/>
+<person name="Nickerson T."/>
+<person name="Oliver K."/>
+<person name="Parker A."/>
+<person name="Patel R."/>
+<person name="Pearce T.A.V."/>
+<person name="Peck A.I."/>
+<person name="Phillimore B.J.C.T."/>
+<person name="Prathalingam S.R."/>
+<person name="Plumb R.W."/>
+<person name="Ramsay H."/>
+<person name="Rice C.M."/>
+<person name="Ross M.T."/>
+<person name="Scott C.E."/>
+<person name="Sehra H.K."/>
+<person name="Shownkeen R."/>
+<person name="Sims S."/>
+<person name="Skuce C.D."/>
+<person name="Smith M.L."/>
+<person name="Soderlund C."/>
+<person name="Steward C.A."/>
+<person name="Sulston J.E."/>
+<person name="Swann R.M."/>
+<person name="Sycamore N."/>
+<person name="Taylor R."/>
+<person name="Tee L."/>
+<person name="Thomas D.W."/>
+<person name="Thorpe A."/>
+<person name="Tracey A."/>
+<person name="Tromans A.C."/>
+<person name="Vaudin M."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="Whitehead S.L."/>
+<person name="Whittaker P."/>
+<person name="Willey D.L."/>
+<person name="Williams L."/>
+<person name="Williams S.A."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Hubbard T."/>
+<person name="Durbin R.M."/>
+<person name="Bentley D.R."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+</authorList>
+<dbReference type="PubMed" id="11780052"/>
+<dbReference type="DOI" id="10.1038/414865a"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<scope>ALTERNATIVE SPLICING (ISOFORMS 2; 5 AND 6)</scope>
+</reference>
+<reference key="7">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2007" name="BMC Genomics" volume="8" first="399" last="399">
+<title>The full-ORF clone resource of the German cDNA consortium.</title>
+<authorList>
+<person name="Bechtel S."/>
+<person name="Rosenfelder H."/>
+<person name="Duda A."/>
+<person name="Schmidt C.P."/>
+<person name="Ernst U."/>
+<person name="Wellenreuther R."/>
+<person name="Mehrle A."/>
+<person name="Schuster C."/>
+<person name="Bahr A."/>
+<person name="Bloecker H."/>
+<person name="Heubner D."/>
+<person name="Hoerlein A."/>
+<person name="Michel G."/>
+<person name="Wedler H."/>
+<person name="Koehrer K."/>
+<person name="Ottenwaelder B."/>
+<person name="Poustka A."/>
+<person name="Wiemann S."/>
+<person name="Schupp I."/>
+</authorList>
+<dbReference type="PubMed" id="17974005"/>
+<dbReference type="DOI" id="10.1186/1471-2164-8-399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 708-1219 (ISOFORM 4)</scope>
+<source>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2008" name="Cell" volume="135" first="261" last="271">
+<title>RTEL1 maintains genomic stability by suppressing homologous recombination.</title>
+<authorList>
+<person name="Barber L.J."/>
+<person name="Youds J.L."/>
+<person name="Ward J.D."/>
+<person name="McIlwraith M.J."/>
+<person name="O'Neil N.J."/>
+<person name="Petalcorin M.I.R."/>
+<person name="Martin J.S."/>
+<person name="Collis S.J."/>
+<person name="Cantor S.B."/>
+<person name="Auclair M."/>
+<person name="Tissenbaum H."/>
+<person name="West S.C."/>
+<person name="Rose A.M."/>
+<person name="Boulton S.J."/>
+</authorList>
+<dbReference type="PubMed" id="18957201"/>
+<dbReference type="DOI" id="10.1016/j.cell.2008.08.016"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF LYS-48</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2012" name="Science" volume="337" first="243" last="245">
+<title>MMS19 links cytoplasmic iron-sulfur cluster assembly to DNA metabolism.</title>
+<authorList>
+<person name="Gari K."/>
+<person name="Leon Ortiz A.M."/>
+<person name="Borel V."/>
+<person name="Flynn H."/>
+<person name="Skehel J.M."/>
+<person name="Boulton S.J."/>
+</authorList>
+<dbReference type="PubMed" id="22678361"/>
+<dbReference type="DOI" id="10.1126/science.1219664"/>
+</citation>
+<scope>INTERACTION WITH MMS19</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2013" name="Am. J. Hum. Genet." volume="92" first="448" last="453">
+<title>Constitutional mutations in RTEL1 cause severe dyskeratosis congenita.</title>
+<authorList>
+<person name="Walne A.J."/>
+<person name="Vulliamy T."/>
+<person name="Kirwan M."/>
+<person name="Plagnol V."/>
+<person name="Dokal I."/>
+</authorList>
+<dbReference type="PubMed" id="23453664"/>
+<dbReference type="DOI" id="10.1016/j.ajhg.2013.02.001"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>VARIANTS DKCB5 LYS-251; ILE-492; ARG-710; VAL-739; GLU-897; TRP-957 AND LEU-964</scope>
+<scope>VARIANT DKCB5 HIS-509 (ISOFORM 5)</scope>
+<scope>VARIANT DKCB5 HIS-1264 (ISOFORMS 1 AND 6)</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2013" name="Proc. Natl. Acad. Sci. U.S.A." volume="110" first="E3408" last="E3416">
+<title>Inherited mutations in the helicase RTEL1 cause telomere dysfunction and Hoyeraal-Hreidarsson syndrome.</title>
+<authorList>
+<person name="Deng Z."/>
+<person name="Glousker G."/>
+<person name="Molczan A."/>
+<person name="Fox A.J."/>
+<person name="Lamm N."/>
+<person name="Dheekollu J."/>
+<person name="Weizman O.E."/>
+<person name="Schertzer M."/>
+<person name="Wang Z."/>
+<person name="Vladimirova O."/>
+<person name="Schug J."/>
+<person name="Aker M."/>
+<person name="Londono-Vallejo A."/>
+<person name="Kaestner K.H."/>
+<person name="Lieberman P.M."/>
+<person name="Tzfati Y."/>
+</authorList>
+<dbReference type="PubMed" id="23959892"/>
+<dbReference type="DOI" id="10.1073/pnas.1300600110"/>
+</citation>
+<scope>INTERACTION WITH TERF1</scope>
+<scope>VARIANT DKCB5 ILE-492</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2015" name="Nat. Genet." volume="47" first="512" last="517">
+<title>Exome sequencing links mutations in PARN and RTEL1 with familial pulmonary fibrosis and telomere shortening.</title>
+<authorList>
+<person name="Stuart B.D."/>
+<person name="Choi J."/>
+<person name="Zaidi S."/>
+<person name="Xing C."/>
+<person name="Holohan B."/>
+<person name="Chen R."/>
+<person name="Choi M."/>
+<person name="Dharwadkar P."/>
+<person name="Torres F."/>
+<person name="Girod C.E."/>
+<person name="Weissler J."/>
+<person name="Fitzgerald J."/>
+<person name="Kershaw C."/>
+<person name="Klesney-Tait J."/>
+<person name="Mageto Y."/>
+<person name="Shay J.W."/>
+<person name="Ji W."/>
+<person name="Bilguvar K."/>
+<person name="Mane S."/>
+<person name="Lifton R.P."/>
+<person name="Garcia C.K."/>
+</authorList>
+<dbReference type="PubMed" id="25848748"/>
+<dbReference type="DOI" id="10.1038/ng.3278"/>
+</citation>
+<scope>INVOLVEMENT IN PFBMFT3</scope>
+<scope>VARIANTS PFBMFT3 LEU-484; LEU-647 AND PRO-1124</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2013" name="Hum. Genet." volume="132" first="473" last="480">
+<title>Germline mutations of regulator of telomere elongation helicase 1, RTEL1, in dyskeratosis congenita.</title>
+<authorList>
+<person name="Ballew B.J."/>
+<person name="Yeager M."/>
+<person name="Jacobs K."/>
+<person name="Giri N."/>
+<person name="Boland J."/>
+<person name="Burdett L."/>
+<person name="Alter B.P."/>
+<person name="Savage S.A."/>
+</authorList>
+<dbReference type="PubMed" id="23329068"/>
+<dbReference type="DOI" id="10.1007/s00439-013-1265-8"/>
+</citation>
+<scope>VARIANT DKCB5 ASP-591</scope>
+<scope>VARIANT DKCA4 THR-621</scope>
+<scope>VARIANTS SER-124; GLN-684; PRO-829; ASP-849; THR-929; HIS-1034; HIS-1042 AND THR-1059</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2013" name="Hum. Mol. Genet." volume="22" first="3239" last="3249">
+<title>Human RTEL1 deficiency causes Hoyeraal-Hreidarsson syndrome with short telomeres and genome instability.</title>
+<authorList>
+<person name="Le Guen T."/>
+<person name="Jullien L."/>
+<person name="Touzot F."/>
+<person name="Schertzer M."/>
+<person name="Gaillard L."/>
+<person name="Perderiset M."/>
+<person name="Carpentier W."/>
+<person name="Nitschke P."/>
+<person name="Picard C."/>
+<person name="Couillault G."/>
+<person name="Soulier J."/>
+<person name="Fischer A."/>
+<person name="Callebaut I."/>
+<person name="Jabado N."/>
+<person name="Londono-Vallejo A."/>
+<person name="de Villartay J.P."/>
+<person name="Revy P."/>
+</authorList>
+<dbReference type="PubMed" id="23591994"/>
+<dbReference type="DOI" id="10.1093/hmg/ddt178"/>
+</citation>
+<scope>VARIANTS DKCB5 MET-699 AND MET-745</scope>
+<scope>VARIANT DKCB5 ARG-489 (ISOFORM 5)</scope>
+<scope>VARIANT DKCB5 ARG-1244 (ISOFORMS 1 AND 6)</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2013" name="PLoS Genet." volume="9" first="E1003695" last="E1003695">
+<title>A recessive founder mutation in regulator of telomere elongation helicase 1, RTEL1, underlies severe immunodeficiency and features of Hoyeraal Hreidarsson syndrome.</title>
+<authorList>
+<person name="Ballew B.J."/>
+<person name="Joseph V."/>
+<person name="De S."/>
+<person name="Sarek G."/>
+<person name="Vannier J.B."/>
+<person name="Stracker T."/>
+<person name="Schrader K.A."/>
+<person name="Small T.N."/>
+<person name="O'Reilly R."/>
+<person name="Manschreck C."/>
+<person name="Harlan Fleischut M.M."/>
+<person name="Zhang L."/>
+<person name="Sullivan J."/>
+<person name="Stratton K."/>
+<person name="Yeager M."/>
+<person name="Jacobs K."/>
+<person name="Giri N."/>
+<person name="Alter B.P."/>
+<person name="Boland J."/>
+<person name="Burdett L."/>
+<person name="Offit K."/>
+<person name="Boulton S.J."/>
+<person name="Savage S.A."/>
+<person name="Petrini J.H."/>
+</authorList>
+<dbReference type="PubMed" id="24009516"/>
+<dbReference type="DOI" id="10.1371/journal.pgen.1003695"/>
+</citation>
+<scope>VARIANTS DKCB5 HIS-509 (ISOFORM 5) AND HIS-1264 (ISOFORMS 1 AND 6)</scope>
+<scope>FUNCTION</scope>
+<scope>CHARACTERIZATION OF VARIANTS DKCB5 HIS-509 (ISOFORM 5) AND HIS-1264 (ISOFORMS 1 AND 6)</scope>
+</reference>
+<comment type="function">
+<text evidence="1 4 7 10">ATP-dependent DNA helicase implicated in telomere-length regulation, DNA repair and the maintenance of genomic stability. Acts as an anti-recombinase to counteract toxic recombination and limit crossover during meiosis. Regulates meiotic recombination and crossover homeostasis by physically dissociating strand invasion events and thereby promotes noncrossover repair by meiotic synthesis dependent strand annealing (SDSA) as well as disassembly of D loop recombination intermediates. Also disassembles T loops and prevents telomere fragility by counteracting telomeric G4-DNA structures, which together ensure the dynamics and stability of the telomere.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1">ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1 5 9">Interacts with TERF1. Interacts (via PIP-box) with PCNA; the interaction is direct and essential for suppressing telomere fragility. Interacts with MMS19; the interaction mediates the association of RTEL1 with the cytosolic iron-sulfur protein assembly (CIA) complex.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Nucleus</location>
+</subcellularLocation>
+<text evidence="1">Colocalizes with PCNA within the replication foci in S-phase cells.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q9NZ71-1</id>
+<name>2</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q9NZ71-2</id>
+<name>1</name>
+<sequence type="described" ref="VSP_036940"/>
+<text evidence="16">Variant in position: 1244:C->R (in DKCB5, severe form consistent with Hoyeraal-Hreidarsson syndrome). Variant in position: 1264:R->H (in DKCB5), abolishes activity. Ref.2 (BAA83040) sequence is in conflict in position: 1352:C->R.</text>
+</isoform>
+<isoform>
+<id>Q9NZ71-4</id>
+<name>4</name>
+<sequence type="described" ref="VSP_007076 VSP_007077"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+<isoform>
+<id>Q9NZ71-5</id>
+<name>5</name>
+<sequence type="described" ref="VSP_017093 VSP_017094"/>
+<text>Variant in position: 489:C->R (in DKCB5, severe form consistent with Hoyeraal-Hreidarsson syndrome). Variant in position: 509:R->H (in DKCB5, abolishes activity). No experimental confirmation available.</text>
+</isoform>
+<isoform>
+<id>Q9NZ71-6</id>
+<name>6</name>
+<sequence type="described" ref="VSP_017094"/>
+<text>Variant in position: 1244:C->R (in DKCB5, severe form consistent with Hoyeraal-Hreidarsson syndrome). Variant in position: 1264:R->H (in DKCB5, abolishes activity). No experimental confirmation available.</text>
+</isoform>
+<isoform>
+<id>Q9NZ71-7</id>
+<name>7</name>
+<sequence type="described" ref="VSP_036938"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+<isoform>
+<id>Q9NZ71-8</id>
+<name>8</name>
+<sequence type="described" ref="VSP_036939"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+<isoform>
+<id>Q9NZ71-9</id>
+<name>9</name>
+<sequence type="described" ref="VSP_036937"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+<text>Additional isoforms seem to exist.</text>
+</comment>
+<comment type="domain">
+<text evidence="1">The PIP-box (PCNA interacting peptide) motif mediates the interaction with PCNA and localization to replication foci.</text>
+</comment>
+<comment type="disease" evidence="6 7 8 9 10">
+<disease id="DI-03755">
+<name>Dyskeratosis congenita, autosomal recessive, 5</name>
+<acronym>DKCB5</acronym>
+<description>A form of dyskeratosis congenita, a rare multisystem disorder caused by defective telomere maintenance. It is characterized by progressive bone marrow failure, and the clinical triad of reticulated skin hyperpigmentation, nail dystrophy, and mucosal leukoplakia. Common but variable features include premature graying, aplastic anemia, low platelets, osteoporosis, pulmonary fibrosis, and liver fibrosis among others. Early mortality is often associated with bone marrow failure, infections, fatal pulmonary complications, or malignancy. DKCB5 is characterized by onset of bone marrow failure and immunodeficiency in early childhood. Most patients also have growth and developmental delay and cerebellar hypoplasia, consistent with a clinical diagnosis of Hoyeraal-Hreidarsson syndrome.</description>
+<dbReference type="MIM" id="615190"/>
+</disease>
+<text evidence="6">The disease is caused by mutations affecting the gene represented in this entry. RTEL1 mutations have also been found in patients with a dyskeratosis congenita-like phenotype consisting of one feature of dyskeratosis congenita and short telomeres, in the absence of the typical DKC diagnostic triad (PubMed:23329068).</text>
+</comment>
+<comment type="disease" evidence="6">
+<disease id="DI-03889">
+<name>Dyskeratosis congenita, autosomal dominant, 4</name>
+<acronym>DKCA4</acronym>
+<description>A rare multisystem disorder caused by defective telomere maintenance. It is characterized by progressive bone marrow failure, and the clinical triad of reticulated skin hyperpigmentation, nail dystrophy, and mucosal leukoplakia. Common but variable features include premature graying, aplastic anemia, low platelets, osteoporosis, pulmonary fibrosis, and liver fibrosis among others. Early mortality is often associated with bone marrow failure, infections, fatal pulmonary complications, or malignancy.</description>
+<dbReference type="MIM" id="615190"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="11">
+<disease id="DI-04431">
+<name>Pulmonary fibrosis, and/or bone marrow failure, telomere-related, 3</name>
+<acronym>PFBMFT3</acronym>
+<description>A disease associated with shortened telomeres. Pulmonary fibrosis is the most common manifestation. Other manifestations include aplastic anemia due to bone marrow failure, hepatic fibrosis, and increased cancer risk, particularly myelodysplastic syndrome and acute myeloid leukemia. Phenotype, age at onset, and severity are determined by telomere length.</description>
+<dbReference type="MIM" id="616373"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Amplified in gastric tumors.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the helicase family. RAD3/XPD subfamily.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.12" evidence="1"/>
+<dbReference type="EMBL" id="AF217795">
+<property type="protein sequence ID" value="AAF33687.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF217796">
+<property type="protein sequence ID" value="AAF35243.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB029011">
+<property type="protein sequence ID" value="BAA83040.3"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK000485">
+<property type="protein sequence ID" value="BAA91197.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK302508">
+<property type="protein sequence ID" value="BAG63785.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK299332">
+<property type="protein sequence ID" value="BAG61337.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK304798">
+<property type="protein sequence ID" value="BAG65548.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL353715">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471077">
+<property type="protein sequence ID" value="EAW75238.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471077">
+<property type="protein sequence ID" value="EAW75239.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471077">
+<property type="protein sequence ID" value="EAW75240.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471077">
+<property type="protein sequence ID" value="EAW75241.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471077">
+<property type="protein sequence ID" value="EAW75245.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL080127">
+<property type="protein sequence ID" value="CAB45725.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS13530.3">
+<molecule id="Q9NZ71-7"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS13531.1">
+<molecule id="Q9NZ71-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS63331.1">
+<molecule id="Q9NZ71-6"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS74751.1">
+<molecule id="Q9NZ71-9"/>
+</dbReference>
+<dbReference type="PIR" id="T12516">
+<property type="entry name" value="T12516"/>
+</dbReference>
+<dbReference type="PIR" id="T45294">
+<property type="entry name" value="T45294"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001269938.1">
+<molecule id="Q9NZ71-6"/>
+<property type="nucleotide sequence ID" value="NM_001283009.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001269939.1">
+<molecule id="Q9NZ71-9"/>
+<property type="nucleotide sequence ID" value="NM_001283010.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_057518.1">
+<molecule id="Q9NZ71-1"/>
+<property type="nucleotide sequence ID" value="NM_016434.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_116575.3">
+<molecule id="Q9NZ71-7"/>
+<property type="nucleotide sequence ID" value="NM_032957.4"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.745057"/>
+<dbReference type="ProteinModelPortal" id="Q9NZ71"/>
+<dbReference type="BioGrid" id="119711">
+<property type="interactions" value="46"/>
+</dbReference>
+<dbReference type="IntAct" id="Q9NZ71">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000359035"/>
+<dbReference type="iPTMnet" id="Q9NZ71"/>
+<dbReference type="PhosphoSitePlus" id="Q9NZ71"/>
+<dbReference type="BioMuta" id="RTEL1"/>
+<dbReference type="DMDM" id="229462743"/>
+<dbReference type="MaxQB" id="Q9NZ71"/>
+<dbReference type="PaxDb" id="Q9NZ71"/>
+<dbReference type="PeptideAtlas" id="Q9NZ71"/>
+<dbReference type="PRIDE" id="Q9NZ71"/>
+<dbReference type="Ensembl" id="ENST00000318100">
+<molecule id="Q9NZ71-9"/>
+<property type="protein sequence ID" value="ENSP00000322287"/>
+<property type="gene ID" value="ENSG00000258366"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000360203">
+<molecule id="Q9NZ71-6"/>
+<property type="protein sequence ID" value="ENSP00000353332"/>
+<property type="gene ID" value="ENSG00000258366"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000370003">
+<molecule id="Q9NZ71-5"/>
+<property type="protein sequence ID" value="ENSP00000359020"/>
+<property type="gene ID" value="ENSG00000258366"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000370018">
+<molecule id="Q9NZ71-1"/>
+<property type="protein sequence ID" value="ENSP00000359035"/>
+<property type="gene ID" value="ENSG00000258366"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000508582">
+<molecule id="Q9NZ71-7"/>
+<property type="protein sequence ID" value="ENSP00000424307"/>
+<property type="gene ID" value="ENSG00000258366"/>
+</dbReference>
+<dbReference type="GeneID" id="51750"/>
+<dbReference type="KEGG" id="hsa:51750"/>
+<dbReference type="UCSC" id="uc002yfu.3">
+<molecule id="Q9NZ71-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="51750"/>
+<dbReference type="DisGeNET" id="51750"/>
+<dbReference type="GeneCards" id="RTEL1"/>
+<dbReference type="HGNC" id="HGNC:15888">
+<property type="gene designation" value="RTEL1"/>
+</dbReference>
+<dbReference type="HPA" id="HPA067329"/>
+<dbReference type="MalaCards" id="RTEL1"/>
+<dbReference type="MIM" id="608833">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="615190">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="616373">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9NZ71"/>
+<dbReference type="OpenTargets" id="ENSG00000258366"/>
+<dbReference type="Orphanet" id="1775">
+<property type="disease" value="Dyskeratosis congenita"/>
+</dbReference>
+<dbReference type="Orphanet" id="3322">
+<property type="disease" value="Hoyeraal-Hreidarsson syndrome"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA134915625"/>
+<dbReference type="eggNOG" id="KOG1132">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1199">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00530000063199"/>
+<dbReference type="HOVERGEN" id="HBG108423"/>
+<dbReference type="InParanoid" id="Q9NZ71"/>
+<dbReference type="KO" id="K11136"/>
+<dbReference type="OrthoDB" id="EOG091G035L"/>
+<dbReference type="PhylomeDB" id="Q9NZ71"/>
+<dbReference type="Reactome" id="R-HSA-2564830">
+<property type="pathway name" value="Cytosolic iron-sulfur cluster assembly"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5693554">
+<property type="pathway name" value="Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="RTEL1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="51750"/>
+<dbReference type="PRO" id="PR:Q9NZ71"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 20"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000258366"/>
+<dbReference type="ExpressionAtlas" id="Q9NZ71">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9NZ71">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000781">
+<property type="term" value="C:chromosome, telomeric region"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051539">
+<property type="term" value="F:4 iron, 4 sulfur cluster binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004003">
+<property type="term" value="F:ATP-dependent DNA helicase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032508">
+<property type="term" value="P:DNA duplex unwinding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902990">
+<property type="term" value="P:mitotic telomere maintenance via semi-conservative replication"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045910">
+<property type="term" value="P:negative regulation of DNA recombination"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904430">
+<property type="term" value="P:negative regulation of t-circle formation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904506">
+<property type="term" value="P:negative regulation of telomere maintenance in response to DNA damage"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904355">
+<property type="term" value="P:positive regulation of telomere capping"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032206">
+<property type="term" value="P:positive regulation of telomere maintenance"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904358">
+<property type="term" value="P:positive regulation of telomere maintenance via telomere lengthening"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904535">
+<property type="term" value="P:positive regulation of telomeric loop disassembly"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010569">
+<property type="term" value="P:regulation of double-strand break repair via homologous recombination"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031297">
+<property type="term" value="P:replication fork processing"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000732">
+<property type="term" value="P:strand displacement"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000723">
+<property type="term" value="P:telomere maintenance"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043247">
+<property type="term" value="P:telomere maintenance in response to DNA damage"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090657">
+<property type="term" value="P:telomeric loop disassembly"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_03065">
+<property type="entry name" value="RTEL1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006555">
+<property type="entry name" value="ATP-dep_Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010614">
+<property type="entry name" value="DEAD_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013020">
+<property type="entry name" value="DNA_helicase_DNA-repair_Rad3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014013">
+<property type="entry name" value="Helic_SF1/SF2_ATP-bd_DinG/Rad3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006554">
+<property type="entry name" value="Helicase-like_DEXD_c2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030845">
+<property type="entry name" value="RTEL1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06733">
+<property type="entry name" value="DEAD_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13307">
+<property type="entry name" value="Helicase_C_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00488">
+<property type="entry name" value="DEXDc2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00491">
+<property type="entry name" value="HELICc2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="8"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00604">
+<property type="entry name" value="rad3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51193">
+<property type="entry name" value="HELICASE_ATP_BIND_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0004">4Fe-4S</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1011">Dyskeratosis congenita</keyword>
+<keyword id="KW-0347">Helicase</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0411">Iron-sulfur</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Regulator of telomere elongation helicase 1" id="PRO_0000101985">
+<location>
+<begin position="1"/>
+<end position="1219"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase ATP-binding" evidence="1">
+<location>
+<begin position="7"/>
+<end position="296"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="16">
+<location>
+<begin position="42"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Nuclear localization signal" evidence="1">
+<location>
+<begin position="151"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="DEAH box">
+<location>
+<begin position="250"/>
+<end position="253"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Nuclear localization signal" evidence="1">
+<location>
+<begin position="871"/>
+<end position="877"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="PIP-box">
+<location>
+<begin position="1178"/>
+<end position="1185"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1">
+<location>
+<position position="145"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1">
+<location>
+<position position="163"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1">
+<location>
+<position position="172"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1">
+<location>
+<position position="207"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 5." id="VSP_017093" evidence="14">
+<location>
+<begin position="1"/>
+<end position="755"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 9." id="VSP_036937" evidence="14">
+<location>
+<begin position="1"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 7." id="VSP_036938" evidence="14">
+<original>Y</original>
+<variation>YRSRCRATLWVLETAPPRPTVLSPT</variation>
+<location>
+<position position="131"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 8." id="VSP_036939" evidence="14">
+<original>GRTAPDPKLTVSTAAAQQLDPQEHLNQGRPHLSPRPPPTGDPGSQPQWGSGVPRAGKQGQHAVSAYLADARRALGSAGCSQLLAALTAYKQDDDLDKVLAVLAALTTAKPEDFPLLHRFSMFVRPHHKQRFSQTCTDLTGRPYPGMEPPGPQEERLAVPPVLTHRAPQPGPSRSEKTGKTQSKISSFLRQRPAGTVGAGGEDAGPSQSSGPPHGPAASEWGL</original>
+<variation>ERRRIPS</variation>
+<location>
+<begin position="998"/>
+<end position="1219"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_007076" evidence="15">
+<original>RTAPDPKLTVSTAAAQQLDPQEHLN</original>
+<variation>NFPDALDQLCGSTSLHQEERRRIPS</variation>
+<location>
+<begin position="999"/>
+<end position="1023"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_007077" evidence="15">
+<location>
+<begin position="1024"/>
+<end position="1219"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 1." id="VSP_036940" evidence="12 13">
+<original>L</original>
+<variation>EPHGRDIAGQQATGAPGGPLSAGCVCQGCGAEDVVPFQCPACDFQRCQACWQRHLQASRMCPACHTASRKQSVMQVFWPEPHKDHEGAGGARPVAAVPGVGAACPAAGAGCTRSGRNTHLPLAGRRDRGAAGVCPVPPRHLCAAAVPPRQPHDVWPVSTAPLHAVLELPGALPLLQRPLRGA</variation>
+<location>
+<position position="1219"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 5 and isoform 6." id="VSP_017094" evidence="14">
+<original>L</original>
+<variation>EPHGRDIAGQQATGAPGGPLSAGCVCQGCGAEDVVPFQCPACDFQRCQACWQRHLQASRMCPACHTASRKQSVMQVFWPEPQ</variation>
+<location>
+<position position="1219"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3848668." id="VAR_054970" evidence="6">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="124"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DKCB5; severe form consistent with Hoyeraal-Hreidarsson syndrome; dbSNP:rs398123019." id="VAR_069714" evidence="7">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="251"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PFBMFT3; dbSNP:rs786205700." id="VAR_073795" evidence="11">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="484"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DKCB5; severe form consistent with Hoyeraal-Hreidarsson syndrome; dbSNP:rs370343781." id="VAR_069715" evidence="7 9">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="492"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DKCB5; severe form consistent with Hoyeraal-Hreidarsson syndrome; dbSNP:rs398123051." id="VAR_069716" evidence="6">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="591"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DKCA4; dbSNP:rs398123052." id="VAR_069717" evidence="6">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="621"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PFBMFT3." id="VAR_073796" evidence="11">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="647"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35640778." id="VAR_069718" evidence="6">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="684"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DKCB5; severe form consistent with Hoyeraal-Hreidarsson syndrome; dbSNP:rs398123048." id="VAR_069719" evidence="8">
+<original>I</original>
+<variation>M</variation>
+<location>
+<position position="699"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DKCB5; severe form consistent with Hoyeraal-Hreidarsson syndrome." id="VAR_069720" evidence="7">
+<original>L</original>
+<variation>R</variation>
+<location>
+<position position="710"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DKCB5; severe form consistent with Hoyeraal-Hreidarsson syndrome; dbSNP:rs398123016." id="VAR_069721" evidence="7">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="739"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DKCB5; severe form consistent with Hoyeraal-Hreidarsson syndrome; dbSNP:rs398123049." id="VAR_069722" evidence="8">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="745"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_069723" evidence="6">
+<original>Q</original>
+<variation>P</variation>
+<location>
+<position position="829"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs190887884." id="VAR_069724" evidence="6">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="849"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DKCB5; severe form consistent with Hoyeraal-Hreidarsson syndrome." id="VAR_069725" evidence="7">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="897"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs61736615." id="VAR_069726" evidence="3 6">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="929"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DKCB5; severe form consistent with Hoyeraal-Hreidarsson syndrome; dbSNP:rs398123018." id="VAR_069727" evidence="7">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="957"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DKCB5; severe form consistent with Hoyeraal-Hreidarsson syndrome." id="VAR_069728" evidence="7">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="964"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs115610405." id="VAR_069729" evidence="6">
+<original>P</original>
+<variation>H</variation>
+<location>
+<position position="1034"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3208008." id="VAR_054971" evidence="2 3 6">
+<original>Q</original>
+<variation>H</variation>
+<location>
+<position position="1042"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs115303435." id="VAR_069730" evidence="6">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="1059"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PFBMFT3; dbSNP:rs786205702." id="VAR_073797" evidence="11">
+<original>H</original>
+<variation>P</variation>
+<location>
+<position position="1124"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes ATPase activity." evidence="4">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="48"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; BAG63785." ref="5" evidence="16">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="41"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; BAG61337." ref="5" evidence="16">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="48"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; BAG63785." ref="5" evidence="16">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="845"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; BAG61337." ref="5" evidence="16">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="986"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_03065"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10470851"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18957201"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22678361"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23329068"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23453664"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23591994"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23959892"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24009516"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25848748"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="10470851"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="10655513"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="17974005"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000305"/>
+<sequence length="1219" mass="133683" checksum="28DFCFCC48BC0055" modified="2009-05-05" version="2">
+MPKIVLNGVTVDFPFQPYKCQQEYMTKVLECLQQKVNGILESPTGTGKTLCLLCTTLAWR
+EHLRDGISARKIAERAQGELFPDRALSSWGNAAAAAGDPIACYTDIPKIIYASRTHSQLT
+QVINELRNTSYRPKVCVLGSREQLCIHPEVKKQESNHLQIHLCRKKVASRSCHFYNNVEE
+KSLEQELASPILDIEDLVKSGSKHRVCPYYLSRNLKQQADIIFMPYNYLLDAKSRRAHNI
+DLKGTVVIFDEAHNVEKMCEESASFDLTPHDLASGLDVIDQVLEEQTKAAQQGEPHPEFS
+ADSPSPGLNMELEDIAKLKMILLRLEGAIDAVELPGDDSGVTKPGSYIFELFAEAQITFQ
+TKGCILDSLDQIIQHLAGRAGVFTNTAGLQKLADIIQIVFSVDPSEGSPGSPAGLGALQS
+YKVHIHPDAGHRRTAQRSDAWSTTAARKRGKVLSYWCFSPGHSMHELVRQGVRSLILTSG
+TLAPVSSFALEMQIPFPVCLENPHIIDKHQIWVGVVPRGPDGAQLSSAFDRRFSEECLSS
+LGKALGNIARVVPYGLLIFFPSYPVMEKSLEFWRARDLARKMEALKPLFVEPRSKGSFSE
+TISAYYARVAAPGSTGATFLAVCRGKASEGLDFSDTNGRGVIVTGLPYPPRMDPRVVLKM
+QFLDEMKGQGGAGGQFLSGQEWYRQQASRAVNQAIGRVIRHRQDYGAVFLCDHRFAFADA
+RAQLPSWVRPHVRVYDNFGHVIRDVAQFFRVAERTMPAPAPRATAPSVRGEDAVSEAKSP
+GPFFSTRKAKSLDLHVPSLKQRSSGSPAAGDPESSLCVEYEQEPVPARQRPRGLLAALEH
+SEQRAGSPGEEQAHSCSTLSLLSEKRPAEEPRGGRKKIRLVSHPEEPVAGAQTDRAKLFM
+VAVKQELSQANFATFTQALQDYKGSDDFAALAACLGPLFAEDPKKHNLLQGFYQFVRPHH
+KQQFEEVCIQLTGRGCGYRPEHSIPRRQRAQPVLDPTGRTAPDPKLTVSTAAAQQLDPQE
+HLNQGRPHLSPRPPPTGDPGSQPQWGSGVPRAGKQGQHAVSAYLADARRALGSAGCSQLL
+AALTAYKQDDDLDKVLAVLAALTTAKPEDFPLLHRFSMFVRPHHKQRFSQTCTDLTGRPY
+PGMEPPGPQEERLAVPPVLTHRAPQPGPSRSEKTGKTQSKISSFLRQRPAGTVGAGGEDA
+GPSQSSGPPHGPAASEWGL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

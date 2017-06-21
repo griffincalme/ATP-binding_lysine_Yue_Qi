@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2016-11-02" modified="2017-01-18" version="3">
+<accession>A0A1B1PFW1</accession>
+<name>A0A1B1PFW1_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="1">TFIIH basal transcription factor complex helicase XPD subunit</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">ERCC2</name>
+</gene>
+<organism evidence="1">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="1">
+<citation type="submission" date="2016-07" db="EMBL/GenBank/DDBJ databases">
+<title>Exome sequencing revealed mutations in candidate genes from human congenital ocular anomalies.</title>
+<authorList>
+<person name="Rajkumar S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="1">Blood</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="KX545267">
+<property type="protein sequence ID" value="ANT47178.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.487294"/>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0347" evidence="1">Helicase</keyword>
+<keyword id="KW-0378" evidence="1">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="non-terminal residue" evidence="1">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="1">
+<location>
+<position position="23"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ANT47178.1"/>
+</source>
+</evidence>
+<sequence length="23" mass="2513" checksum="43741DD62A3698DA" modified="2016-11-02" version="1" fragment="single">
+CMDASLAIKPVFERFQSVIITSG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

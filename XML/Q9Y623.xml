@@ -1,0 +1,798 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2001-04-27" modified="2017-05-10" version="147">
+<accession>Q9Y623</accession>
+<name>MYH4_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Myosin-4</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Myosin heavy chain 2b</fullName>
+<shortName>MyHC-2b</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Myosin heavy chain 4</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Myosin heavy chain IIb</fullName>
+<shortName>MyHC-IIb</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Myosin heavy chain, skeletal muscle, fetal</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">MYH4</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1999" name="J. Mol. Biol." volume="290" first="61" last="75">
+<title>Comparative sequence analysis of the complete human sarcomeric myosin heavy chain family: implications for functional diversity.</title>
+<authorList>
+<person name="Weiss A."/>
+<person name="Schiaffino S."/>
+<person name="Leinwand L.A."/>
+</authorList>
+<dbReference type="PubMed" id="10388558"/>
+<dbReference type="DOI" id="10.1006/jmbi.1999.2865"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>VARIANTS MET-1106; LYS-1209; GLY-1802 AND GLU-1911</scope>
+<source>
+<tissue>Skeletal muscle</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="1045" last="1049">
+<title>DNA sequence of human chromosome 17 and analysis of rearrangement in the human lineage.</title>
+<authorList>
+<person name="Zody M.C."/>
+<person name="Garber M."/>
+<person name="Adams D.J."/>
+<person name="Sharpe T."/>
+<person name="Harrow J."/>
+<person name="Lupski J.R."/>
+<person name="Nicholson C."/>
+<person name="Searle S.M."/>
+<person name="Wilming L."/>
+<person name="Young S.K."/>
+<person name="Abouelleil A."/>
+<person name="Allen N.R."/>
+<person name="Bi W."/>
+<person name="Bloom T."/>
+<person name="Borowsky M.L."/>
+<person name="Bugalter B.E."/>
+<person name="Butler J."/>
+<person name="Chang J.L."/>
+<person name="Chen C.-K."/>
+<person name="Cook A."/>
+<person name="Corum B."/>
+<person name="Cuomo C.A."/>
+<person name="de Jong P.J."/>
+<person name="DeCaprio D."/>
+<person name="Dewar K."/>
+<person name="FitzGerald M."/>
+<person name="Gilbert J."/>
+<person name="Gibson R."/>
+<person name="Gnerre S."/>
+<person name="Goldstein S."/>
+<person name="Grafham D.V."/>
+<person name="Grocock R."/>
+<person name="Hafez N."/>
+<person name="Hagopian D.S."/>
+<person name="Hart E."/>
+<person name="Norman C.H."/>
+<person name="Humphray S."/>
+<person name="Jaffe D.B."/>
+<person name="Jones M."/>
+<person name="Kamal M."/>
+<person name="Khodiyar V.K."/>
+<person name="LaButti K."/>
+<person name="Laird G."/>
+<person name="Lehoczky J."/>
+<person name="Liu X."/>
+<person name="Lokyitsang T."/>
+<person name="Loveland J."/>
+<person name="Lui A."/>
+<person name="Macdonald P."/>
+<person name="Major J.E."/>
+<person name="Matthews L."/>
+<person name="Mauceli E."/>
+<person name="McCarroll S.A."/>
+<person name="Mihalev A.H."/>
+<person name="Mudge J."/>
+<person name="Nguyen C."/>
+<person name="Nicol R."/>
+<person name="O'Leary S.B."/>
+<person name="Osoegawa K."/>
+<person name="Schwartz D.C."/>
+<person name="Shaw-Smith C."/>
+<person name="Stankiewicz P."/>
+<person name="Steward C."/>
+<person name="Swarbreck D."/>
+<person name="Venkataraman V."/>
+<person name="Whittaker C.A."/>
+<person name="Yang X."/>
+<person name="Zimmer A.R."/>
+<person name="Bradley A."/>
+<person name="Hubbard T."/>
+<person name="Birren B.W."/>
+<person name="Rogers J."/>
+<person name="Lander E.S."/>
+<person name="Nusbaum C."/>
+</authorList>
+<dbReference type="PubMed" id="16625196"/>
+<dbReference type="DOI" id="10.1038/nature04689"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<comment type="function">
+<text>Muscle contraction.</text>
+</comment>
+<comment type="subunit">
+<text>Muscle myosin is a hexameric protein that consists of 2 heavy chain subunits (MHC), 2 alkali light chain subunits (MLC) and 2 regulatory light chain subunits (MLC-2).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Myofibril</location>
+</subcellularLocation>
+<text>Thick filaments of the myofibrils.</text>
+</comment>
+<comment type="domain">
+<text>The rodlike tail sequence is highly repetitive, showing cycles of a 28-residue repeat pattern composed of 4 heptapeptides, characteristic for alpha-helical coiled coils.</text>
+</comment>
+<comment type="domain">
+<text evidence="7">Limited proteolysis of myosin heavy chain produces 1 light meromyosin (LMM) and 1 heavy meromyosin (HMM). HMM can be further cleaved into 2 globular subfragments (S1) and 1 rod-shaped subfragment (S2).</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family.</text>
+</comment>
+<comment type="caution">
+<text evidence="7">Represents a conventional myosin. This protein should not be confused with the unconventional myosin-4 (MYO4).</text>
+</comment>
+<dbReference type="EMBL" id="AF111783">
+<property type="protein sequence ID" value="AAD29949.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC005323">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS11154.1"/>
+<dbReference type="RefSeq" id="NP_060003.2">
+<property type="nucleotide sequence ID" value="NM_017533.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016880165.1">
+<property type="nucleotide sequence ID" value="XM_017024676.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.711141"/>
+<dbReference type="ProteinModelPortal" id="Q9Y623"/>
+<dbReference type="SMR" id="Q9Y623"/>
+<dbReference type="BioGrid" id="110707">
+<property type="interactions" value="19"/>
+</dbReference>
+<dbReference type="IntAct" id="Q9Y623">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-5003666"/>
+<dbReference type="STRING" id="9606.ENSP00000255381"/>
+<dbReference type="iPTMnet" id="Q9Y623"/>
+<dbReference type="PhosphoSitePlus" id="Q9Y623"/>
+<dbReference type="BioMuta" id="MYH4"/>
+<dbReference type="DMDM" id="224471840"/>
+<dbReference type="UCD-2DPAGE" id="Q9Y623"/>
+<dbReference type="EPD" id="Q9Y623"/>
+<dbReference type="MaxQB" id="Q9Y623"/>
+<dbReference type="PaxDb" id="Q9Y623"/>
+<dbReference type="PeptideAtlas" id="Q9Y623"/>
+<dbReference type="PRIDE" id="Q9Y623"/>
+<dbReference type="Ensembl" id="ENST00000255381">
+<property type="protein sequence ID" value="ENSP00000255381"/>
+<property type="gene ID" value="ENSG00000264424"/>
+</dbReference>
+<dbReference type="GeneID" id="4622"/>
+<dbReference type="KEGG" id="hsa:4622"/>
+<dbReference type="UCSC" id="uc002gmn.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="4622"/>
+<dbReference type="DisGeNET" id="4622"/>
+<dbReference type="GeneCards" id="MYH4"/>
+<dbReference type="H-InvDB" id="HIX0039061"/>
+<dbReference type="HGNC" id="HGNC:7574">
+<property type="gene designation" value="MYH4"/>
+</dbReference>
+<dbReference type="HPA" id="HPA001349"/>
+<dbReference type="MIM" id="160742">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9Y623"/>
+<dbReference type="OpenTargets" id="ENSG00000264424"/>
+<dbReference type="PharmGKB" id="PA31371"/>
+<dbReference type="eggNOG" id="KOG0161">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5022">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00760000118919"/>
+<dbReference type="HOGENOM" id="HOG000173959"/>
+<dbReference type="HOVERGEN" id="HBG004704"/>
+<dbReference type="InParanoid" id="Q9Y623"/>
+<dbReference type="KO" id="K10352"/>
+<dbReference type="OMA" id="DDQVFSM"/>
+<dbReference type="OrthoDB" id="EOG091G07UM"/>
+<dbReference type="PhylomeDB" id="Q9Y623"/>
+<dbReference type="TreeFam" id="TF314375"/>
+<dbReference type="Reactome" id="R-HSA-1445148">
+<property type="pathway name" value="Translocation of GLUT4 to the plasma membrane"/>
+</dbReference>
+<dbReference type="GeneWiki" id="MYH4"/>
+<dbReference type="GenomeRNAi" id="4622"/>
+<dbReference type="PRO" id="PR:Q9Y623"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 17"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000264424"/>
+<dbReference type="CleanEx" id="HS_MYH4"/>
+<dbReference type="Genevisible" id="Q9Y623">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005859">
+<property type="term" value="C:muscle myosin complex"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030016">
+<property type="term" value="C:myofibril"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032982">
+<property type="term" value="C:myosin filament"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030017">
+<property type="term" value="C:sarcomere"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003779">
+<property type="term" value="F:actin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005516">
+<property type="term" value="F:calmodulin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003725">
+<property type="term" value="F:double-stranded RNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000146">
+<property type="term" value="F:microfilament motor activity"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030048">
+<property type="term" value="P:actin filament-based movement"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046034">
+<property type="term" value="P:ATP metabolic process"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006936">
+<property type="term" value="P:muscle contraction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030049">
+<property type="term" value="P:muscle filament sliding"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014823">
+<property type="term" value="P:response to activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000048">
+<property type="entry name" value="IQ_motif_EF-hand-BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001609">
+<property type="entry name" value="Myosin_head_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004009">
+<property type="entry name" value="Myosin_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002928">
+<property type="entry name" value="Myosin_tail"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00063">
+<property type="entry name" value="Myosin_head"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02736">
+<property type="entry name" value="Myosin_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01576">
+<property type="entry name" value="Myosin_tail_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00193">
+<property type="entry name" value="MYOSINHEAVY"/>
+</dbReference>
+<dbReference type="SMART" id="SM00242">
+<property type="entry name" value="MYSc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50096">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51456">
+<property type="entry name" value="MYOSIN_MOTOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0009">Actin-binding</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0112">Calmodulin-binding</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0488">Methylation</keyword>
+<keyword id="KW-0505">Motor protein</keyword>
+<keyword id="KW-0514">Muscle protein</keyword>
+<keyword id="KW-0518">Myosin</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0787">Thick filament</keyword>
+<feature type="chain" description="Myosin-4" id="PRO_0000123398">
+<location>
+<begin position="1"/>
+<end position="1939"/>
+</location>
+</feature>
+<feature type="domain" description="Myosin motor">
+<location>
+<begin position="86"/>
+<end position="782"/>
+</location>
+</feature>
+<feature type="domain" description="IQ" evidence="5">
+<location>
+<begin position="785"/>
+<end position="814"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="4">
+<location>
+<begin position="179"/>
+<end position="186"/>
+</location>
+</feature>
+<feature type="region of interest" description="Actin-binding" evidence="1">
+<location>
+<begin position="659"/>
+<end position="681"/>
+</location>
+</feature>
+<feature type="region of interest" description="Actin-binding" evidence="1">
+<location>
+<begin position="761"/>
+<end position="775"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="4">
+<location>
+<begin position="843"/>
+<end position="1939"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="3">
+<location>
+<position position="64"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="3">
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="79"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6,N6,N6-trimethyllysine" evidence="4">
+<location>
+<position position="130"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine" evidence="3">
+<location>
+<position position="389"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="3">
+<location>
+<position position="391"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="392"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="3">
+<location>
+<position position="419"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine" evidence="3">
+<location>
+<position position="424"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="625"/>
+</location>
+</feature>
+<feature type="modified residue" description="Pros-methylhistidine" evidence="2">
+<location>
+<position position="757"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="3">
+<location>
+<position position="776"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1092"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1162"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1237"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="3">
+<location>
+<position position="1241"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1243"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="3">
+<location>
+<position position="1255"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1261"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="3">
+<location>
+<position position="1265"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1278"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="3">
+<location>
+<position position="1286"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1288"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1292"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1303"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1306"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1413"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine" evidence="3">
+<location>
+<position position="1464"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="3">
+<location>
+<position position="1467"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1474"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine" evidence="3">
+<location>
+<position position="1492"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1495"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="3">
+<location>
+<position position="1501"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1514"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="3">
+<location>
+<position position="1517"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1542"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1547"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1554"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1574"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1600"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1603"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1714"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1726"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="3">
+<location>
+<position position="1730"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="3">
+<location>
+<position position="1736"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1739"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs12949680." id="VAR_030198">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="594"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3744558." id="VAR_022110">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="883"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs917361." id="VAR_030199" evidence="6">
+<original>I</original>
+<variation>M</variation>
+<location>
+<position position="1106"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs16943441." id="VAR_030200">
+<original>A</original>
+<variation>D</variation>
+<location>
+<position position="1117"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11651295." id="VAR_030201" evidence="6">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="1209"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2277649." id="VAR_030202" evidence="6">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="1802"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34260986." id="VAR_056175">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="1862"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3744554." id="VAR_024542" evidence="6">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="1911"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAD29949." ref="1" evidence="7">
+<original>M</original>
+<variation>L</variation>
+<location>
+<position position="1167"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q28641"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q29RW1"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255"/>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00116"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10388558"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<sequence length="1939" mass="223071" checksum="023D6F73C476B19B" modified="2009-03-03" version="2">
+MSSDSEMAIFGEAAPFLRKSEKERIEAQNKPFDAKTSVFVVDPKESYVKAIVQSREGGKV
+TAKTEAGATVTVKEDQVFSMNPPKYDKIEDMAMMTHLHEPAVLYNLKERYAAWMIYTYSG
+LFCVTVNPYKWLPVYNPEVVTAYRGKKRQEAPPHIFSISDNAYQFMLTDRENQSILITGE
+SGAGKTVNTKRVIQYFATIAVTGEKKKEEPASGKMQGTLEDQIISANPLLEAFGNAKTVR
+NDNSSRFGKFIRIHFGATGKLASADIETYLLEKSRVTFQLKAERSYHIFYQILSNKKPEL
+IEMLLITTNPYDFAFVSQGEITVPSIDDQEELMATDSAVDILGFTADEKVAIYKLTGAVM
+HYGNMKFKQKQREEQAEPDGTEVADKAAYLTSLNSADLLKSLCYPRVKVGNEFVTKGQTV
+QQVYNAVGALAKAIYEKMFLWMVTRINQQLDTKQPRQYFIGVLDIAGFEIFDFNSLEQLC
+INFTNEKLQQFFNHHMFVLEQEEYKKEGIEWEFIDFGMDLAACIELIEKPMGIFSILEEE
+CMFPKATDTSFKNKLYEQHLGKSNNFQKPKPAKGKPEAHFSLVHYAGTVDYNIAGWLDKN
+KDPLNETVVGLYQKSAMKTLAFLFSGAQTAEAEGGGGKKGGKKKGSSFQTVSALFRENLN
+KLMTNLRSTHPHFVRCIIPNETKTPGAMEHELVLHQLRCNGVLEGIRICRKGFPSRILYA
+DFKQRYKVLNASAIPEGQFIDSKKASEKLLGSIEIDHTQYKFGHTKVFFKAGLLGTLEEM
+RDEKLAQLITRTQAICRGFLMRVEFRKMMERRESIFCIQYNIRAFMNVKHWPWMKLYFKI
+KPLLKSAETEKEMANMKEEFEKTKEELAKTEAKRKELEEKMVTLMQEKNDLQLQVQAEAD
+ALADAEERCDQLIKTKIQLEAKIKEVTERAEDEEEINAELTAKKRKLEDECSELKKDIDD
+LELTLAKVEKEKHATENKVKNLTEEMAGLDETIAKLTKEKKALQEAHQQTLDDLQMEEDK
+VNTLTKAKTKLEQQVDDLEGSLEQEKKLCMDLERAKRKLEGDLKLAQESTMDTENDKQQL
+NEKLKKKEFEMSNLQGKIEDEQALAIQLQKKIKELQARIEELEEEIEAERASRAKAEKQR
+SDLSRELEEISERLEEAGGATSAQIEMNKKREAEFQKMRRDLEESTLQHEATAAALRKKH
+ADSVAELGEQIDSLQRVKQKLEKEKSELKMEINDLASNMETVSKAKANFEKMCRTLEDQL
+SEIKTKEEEQQRLINELSAQKARLHTESGEFSRQLDEKDAMVSQLSRGKQAFTQQIEELK
+RQLEEETKAKSTLAHALQSARHDCDLLREQYEEEQEAKAELQRGMSKANSEVAQWRTKYE
+TDAIQRTEELEEAKKKLAQRLQDAEEHVEAVNSKCASLEKTKQRLQNEVEDLMIDVERSN
+AACIALDKKQRNFDKVLAEWKQKYEETQAELEASQKESRSLSTELFKVKNAYEESLDHLE
+TLKRENKNLQQEISDLTEQIAEGGKHIHELEKVKKQLDHEKSELQTSLEEAEASLEHEEG
+KILRIQLELNQVKSEIDRKIAEKDEELDQLKRNHLRVVESMQSTLDAEIRSRNDALRIKK
+KMEGDLNEMEIQLNHANRQAAEALRNLRNTQGILKDTQLHLDDAIRGQDDLKEQLAMVER
+RANLMQAEVEELRASLERTERGRKMAEQELLDASERVQLLHTQNTSLINTKKKLETDISQ
+IQGEMEDIVQEARNAEEKAKKAITDAAMMAEELKKEQDTSAHLERMKKNMEQTVKDLQLR
+LDEAEQLALKGGKKQIQKLEARVRELESEVESEQKHNVEAVKGLRKHERRVKELTYQTEE
+DRKNILRLQDLVDKLQTKVKAYKRQAEEAEEQSNVNLAKFRKLQHELEEAKERADIAESQ
+VNKLRVKSREVHTKVISEE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

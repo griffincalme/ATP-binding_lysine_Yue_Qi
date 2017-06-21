@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-09-23" modified="2017-01-18" version="52">
+<accession>B4DW52</accession>
+<name>B4DW52_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="3">cDNA FLJ55253, highly similar to Actin, cytoplasmic 1</fullName>
+</submittedName>
+</protein>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project focused on splicing variants.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="3">Synovial membrane tissue</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the actin family.</text>
+</comment>
+<dbReference type="EMBL" id="AK301372">
+<property type="protein sequence ID" value="BAG62914.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.520640"/>
+<dbReference type="MaxQB" id="B4DW52"/>
+<dbReference type="PeptideAtlas" id="B4DW52"/>
+<dbReference type="PRIDE" id="B4DW52"/>
+<dbReference type="HOVERGEN" id="HBG003771"/>
+<dbReference type="SignaLink" id="B4DW52"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004000">
+<property type="entry name" value="Actin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020902">
+<property type="entry name" value="Actin/actin-like_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004001">
+<property type="entry name" value="Actin_CS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11937">
+<property type="entry name" value="PTHR11937"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00022">
+<property type="entry name" value="Actin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00190">
+<property type="entry name" value="ACTIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00268">
+<property type="entry name" value="ACTIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00432">
+<property type="entry name" value="ACTINS_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01132">
+<property type="entry name" value="ACTINS_ACT_LIKE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000487"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00092162"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG62914.1"/>
+</source>
+</evidence>
+<sequence length="347" mass="38633" checksum="39094E472A049892" modified="2008-09-23" version="1">
+MDDDIAALVVDNGSGMCKAGFAGDDAPRAVFPSIVGRPRHQGVMVGIVTNWDDMEKIWHH
+TFYNELRVAPEEHPVLLTEAPLNPKANREKMTQIMFETFNTPAMYVAIQAVLSLYASGRT
+TGIVMDSGDGVTHTVPIYEGYALPHAILRLDLAGRDLTDYLMKILTERGYSFTTTAEREI
+VRDIKEKLCYVALDFEQEMATAASSSSLEKSYELPDGQVITIGNERFRCPEALFQPSFLG
+MESCGIHETTFNSIMKCDVDIRKDLYANTVLSGGTTMYPGIADRMQKEITALAPSTMKIK
+IIAPPERKYSVWIGGSILASLSTFQQMWISKQEYDESGPSIVHRKCF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

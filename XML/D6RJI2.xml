@@ -1,0 +1,489 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2010-07-13" modified="2017-03-15" version="44">
+<accession>D6RJI2</accession>
+<name>D6RJI2_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="10">Stress-70 protein, mitochondrial</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="10">HSPA9</name>
+</gene>
+<organism evidence="10 11">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="11">
+<citation type="journal article" date="2004" name="Nature" volume="431" first="268" last="274">
+<title>The DNA sequence and comparative analysis of human chromosome 5.</title>
+<authorList>
+<person name="Schmutz J."/>
+<person name="Martin J."/>
+<person name="Terry A."/>
+<person name="Couronne O."/>
+<person name="Grimwood J."/>
+<person name="Lowry S."/>
+<person name="Gordon L.A."/>
+<person name="Scott D."/>
+<person name="Xie G."/>
+<person name="Huang W."/>
+<person name="Hellsten U."/>
+<person name="Tran-Gyamfi M."/>
+<person name="She X."/>
+<person name="Prabhakar S."/>
+<person name="Aerts A."/>
+<person name="Altherr M."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Branscomb E."/>
+<person name="Caoile C."/>
+<person name="Challacombe J.F."/>
+<person name="Chan Y.M."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Escobar J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Goodstein D."/>
+<person name="Grigoriev I."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Martinez D."/>
+<person name="Medina C."/>
+<person name="Morgan J."/>
+<person name="Nandkeshwar R."/>
+<person name="Noonan J.P."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Predki P."/>
+<person name="Priest J."/>
+<person name="Ramirez L."/>
+<person name="Retterer J."/>
+<person name="Rodriguez A."/>
+<person name="Rogers S."/>
+<person name="Salamov A."/>
+<person name="Salazar A."/>
+<person name="Thayer N."/>
+<person name="Tice H."/>
+<person name="Tsai M."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="Wheeler J."/>
+<person name="Wu K."/>
+<person name="Yang J."/>
+<person name="Dickson M."/>
+<person name="Cheng J.-F."/>
+<person name="Eichler E.E."/>
+<person name="Olsen A."/>
+<person name="Pennacchio L.A."/>
+<person name="Rokhsar D.S."/>
+<person name="Richardson P."/>
+<person name="Lucas S.M."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+</authorList>
+<dbReference type="PubMed" id="15372022"/>
+<dbReference type="DOI" id="10.1038/nature02919"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="10">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="724" last="731">
+<title>Generation and annotation of the DNA sequences of human chromosomes 2 and 4.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Graves T.A."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Pepin K.H."/>
+<person name="Minx P."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Kremitzki C."/>
+<person name="Oddy L."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Carter J."/>
+<person name="Cordes M."/>
+<person name="Harris A."/>
+<person name="Isak A."/>
+<person name="van Brunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Abbott S."/>
+<person name="Armstrong J."/>
+<person name="Belter E.A."/>
+<person name="Caruso L."/>
+<person name="Cedroni M."/>
+<person name="Cotton M."/>
+<person name="Davidson T."/>
+<person name="Desai A."/>
+<person name="Elliott G."/>
+<person name="Erb T."/>
+<person name="Fronick C."/>
+<person name="Gaige T."/>
+<person name="Haakenson W."/>
+<person name="Haglund K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Kim K."/>
+<person name="Kruchowski S.S."/>
+<person name="Strong C.M."/>
+<person name="Grewal N."/>
+<person name="Goyea E."/>
+<person name="Hou S."/>
+<person name="Levy A."/>
+<person name="Martinka S."/>
+<person name="Mead K."/>
+<person name="McLellan M.D."/>
+<person name="Meyer R."/>
+<person name="Randall-Maher J."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Shah N."/>
+<person name="Swearengen-Shahid S."/>
+<person name="Snider J."/>
+<person name="Strong J.T."/>
+<person name="Thompson J."/>
+<person name="Yoakum M."/>
+<person name="Leonard S."/>
+<person name="Pearman C."/>
+<person name="Trani L."/>
+<person name="Radionenko M."/>
+<person name="Waligorski J.E."/>
+<person name="Wang C."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Maupin R."/>
+<person name="Latreille P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Pohl C."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Berkowicz N."/>
+<person name="Nelson J.O."/>
+<person name="Osborne J."/>
+<person name="Ding L."/>
+<person name="Meyer R."/>
+<person name="Sabo A."/>
+<person name="Shotland Y."/>
+<person name="Sinha P."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Jones T.A."/>
+<person name="She X."/>
+<person name="Ciccarelli F.D."/>
+<person name="Izaurralde E."/>
+<person name="Taylor J."/>
+<person name="Schmutz J."/>
+<person name="Myers R.M."/>
+<person name="Cox D.R."/>
+<person name="Huang X."/>
+<person name="McPherson J.D."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Warren W.C."/>
+<person name="Chinwalla A.T."/>
+<person name="Eddy S.R."/>
+<person name="Marra M.A."/>
+<person name="Ovcharenko I."/>
+<person name="Furey T.S."/>
+<person name="Miller W."/>
+<person name="Eichler E.E."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Torrents D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="15815621"/>
+<dbReference type="DOI" id="10.1038/nature03466"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3" evidence="4">
+<citation type="journal article" date="2009" name="Science" volume="325" first="834" last="840">
+<title>Lysine acetylation targets protein complexes and co-regulates major cellular functions.</title>
+<authorList>
+<person name="Choudhary C."/>
+<person name="Kumar C."/>
+<person name="Gnad F."/>
+<person name="Nielsen M.L."/>
+<person name="Rehman M."/>
+<person name="Walther T.C."/>
+<person name="Olsen J.V."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="19608861"/>
+<dbReference type="DOI" id="10.1126/science.1175371"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="4" evidence="5">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Burckstummer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="5" evidence="10">
+<citation type="submission" date="2011-07" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<reference key="6" evidence="6">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="7" evidence="7">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="8" evidence="8">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="similarity">
+<text evidence="9">Belongs to the heat shock protein 70 family.</text>
+</comment>
+<comment type="caution">
+<text evidence="10">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EMBL" id="AC011385">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC113340">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="ProteinModelPortal" id="D6RJI2"/>
+<dbReference type="STRING" id="9606.ENSP00000297185"/>
+<dbReference type="MaxQB" id="D6RJI2"/>
+<dbReference type="PaxDb" id="D6RJI2"/>
+<dbReference type="PeptideAtlas" id="D6RJI2"/>
+<dbReference type="PRIDE" id="D6RJI2"/>
+<dbReference type="Ensembl" id="ENST00000504810">
+<property type="protein sequence ID" value="ENSP00000425598"/>
+<property type="gene ID" value="ENSG00000113013"/>
+</dbReference>
+<dbReference type="UCSC" id="uc063hme.1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="HGNC" id="HGNC:5244">
+<property type="gene designation" value="HSPA9"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000113013"/>
+<dbReference type="eggNOG" id="KOG0102">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0443">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00860000133890"/>
+<dbReference type="ChiTaRS" id="HSPA9">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000113013"/>
+<dbReference type="ExpressionAtlas" id="D6RJI2">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013126">
+<property type="entry name" value="Hsp_70_fam"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00012">
+<property type="entry name" value="HSP70"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00301">
+<property type="entry name" value="HEATSHOCK70"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="9">ATP-binding</keyword>
+<keyword id="KW-0181" evidence="11">Complete proteome</keyword>
+<keyword id="KW-0547" evidence="9">Nucleotide-binding</keyword>
+<keyword id="KW-1267" evidence="1 2 3">Proteomics identification</keyword>
+<keyword id="KW-1185" evidence="11">Reference proteome</keyword>
+<feature type="non-terminal residue" evidence="10">
+<location>
+<position position="95"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000213">
+<source>
+<dbReference type="EPD" id="D6RJI2"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000213">
+<source>
+<dbReference type="MaxQB" id="D6RJI2"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000213">
+<source>
+<dbReference type="PeptideAtlas" id="D6RJI2"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="19608861"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="21269460"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="24275569"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="25944712"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU003322"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000425598"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="95" mass="10476" checksum="E2473FCFCCBB3A17" modified="2010-07-13" version="1" fragment="single">
+MEGKQAKVLENAEGARTTPSVVAFTADGERLVGMPAKRQAVTNPNNTFYATKRLIGRRYD
+DPEVQKDIKNVPFKIVRASNGDAWVEAHGKLYSPS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

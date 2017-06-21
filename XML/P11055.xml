@@ -1,0 +1,933 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1989-07-01" modified="2017-05-10" version="168">
+<accession>P11055</accession>
+<accession>Q15492</accession>
+<name>MYH3_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Myosin-3</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Muscle embryonic myosin heavy chain</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Myosin heavy chain 3</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Myosin heavy chain, fast skeletal muscle, embryonic</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>SMHCE</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">MYH3</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="Nucleic Acids Res." volume="17" first="3591" last="3592">
+<title>Nucleotide sequence of full length human embryonic myosin heavy chain cDNA.</title>
+<authorList>
+<person name="Eller M.S."/>
+<person name="Stedman H.H."/>
+<person name="Sylvester J.E."/>
+<person name="Fertels S.H."/>
+<person name="Rubinstein N.A."/>
+<person name="Kelly A.M."/>
+<person name="Sarkar S."/>
+</authorList>
+<dbReference type="PubMed" id="2726495"/>
+<dbReference type="DOI" id="10.1093/nar/17.9.3591"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>VARIANT THR-1192</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="1045" last="1049">
+<title>DNA sequence of human chromosome 17 and analysis of rearrangement in the human lineage.</title>
+<authorList>
+<person name="Zody M.C."/>
+<person name="Garber M."/>
+<person name="Adams D.J."/>
+<person name="Sharpe T."/>
+<person name="Harrow J."/>
+<person name="Lupski J.R."/>
+<person name="Nicholson C."/>
+<person name="Searle S.M."/>
+<person name="Wilming L."/>
+<person name="Young S.K."/>
+<person name="Abouelleil A."/>
+<person name="Allen N.R."/>
+<person name="Bi W."/>
+<person name="Bloom T."/>
+<person name="Borowsky M.L."/>
+<person name="Bugalter B.E."/>
+<person name="Butler J."/>
+<person name="Chang J.L."/>
+<person name="Chen C.-K."/>
+<person name="Cook A."/>
+<person name="Corum B."/>
+<person name="Cuomo C.A."/>
+<person name="de Jong P.J."/>
+<person name="DeCaprio D."/>
+<person name="Dewar K."/>
+<person name="FitzGerald M."/>
+<person name="Gilbert J."/>
+<person name="Gibson R."/>
+<person name="Gnerre S."/>
+<person name="Goldstein S."/>
+<person name="Grafham D.V."/>
+<person name="Grocock R."/>
+<person name="Hafez N."/>
+<person name="Hagopian D.S."/>
+<person name="Hart E."/>
+<person name="Norman C.H."/>
+<person name="Humphray S."/>
+<person name="Jaffe D.B."/>
+<person name="Jones M."/>
+<person name="Kamal M."/>
+<person name="Khodiyar V.K."/>
+<person name="LaButti K."/>
+<person name="Laird G."/>
+<person name="Lehoczky J."/>
+<person name="Liu X."/>
+<person name="Lokyitsang T."/>
+<person name="Loveland J."/>
+<person name="Lui A."/>
+<person name="Macdonald P."/>
+<person name="Major J.E."/>
+<person name="Matthews L."/>
+<person name="Mauceli E."/>
+<person name="McCarroll S.A."/>
+<person name="Mihalev A.H."/>
+<person name="Mudge J."/>
+<person name="Nguyen C."/>
+<person name="Nicol R."/>
+<person name="O'Leary S.B."/>
+<person name="Osoegawa K."/>
+<person name="Schwartz D.C."/>
+<person name="Shaw-Smith C."/>
+<person name="Stankiewicz P."/>
+<person name="Steward C."/>
+<person name="Swarbreck D."/>
+<person name="Venkataraman V."/>
+<person name="Whittaker C.A."/>
+<person name="Yang X."/>
+<person name="Zimmer A.R."/>
+<person name="Bradley A."/>
+<person name="Hubbard T."/>
+<person name="Birren B.W."/>
+<person name="Rogers J."/>
+<person name="Lander E.S."/>
+<person name="Nusbaum C."/>
+</authorList>
+<dbReference type="PubMed" id="16625196"/>
+<dbReference type="DOI" id="10.1038/nature04689"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1989" name="FEBS Lett." volume="256" first="21" last="28">
+<title>Human embryonic myosin heavy chain cDNA. Interspecies sequence conservation of the myosin rod, chromosomal locus and isoform specific transcription of the gene.</title>
+<authorList>
+<person name="Eller M.S."/>
+<person name="Stedman H.H."/>
+<person name="Sylvester J.E."/>
+<person name="Fertels S.H."/>
+<person name="Wu Q.-L."/>
+<person name="Raychowdhury M.K."/>
+<person name="Rubinstein N.A."/>
+<person name="Kelly A.M."/>
+<person name="Sarkar S."/>
+</authorList>
+<dbReference type="PubMed" id="2806546"/>
+<dbReference type="DOI" id="10.1016/0014-5793(89)81710-7"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 774-1940</scope>
+<scope>VARIANT THR-1192</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1990" name="Eur. J. Biochem." volume="189" first="55" last="65">
+<title>Identification of three developmentally controlled isoforms of human myosin heavy chains.</title>
+<authorList>
+<person name="Bober E."/>
+<person name="Buchberger-Seidl A."/>
+<person name="Braun T."/>
+<person name="Singh S."/>
+<person name="Goedde H.W."/>
+<person name="Arnold H.H."/>
+</authorList>
+<dbReference type="PubMed" id="1691980"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1990.tb15459.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 856-1940</scope>
+<scope>VARIANT THR-1192</scope>
+<source>
+<tissue>Skeletal muscle</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1989" name="Nucleic Acids Res." volume="17" first="6167" last="6179">
+<title>Expression and DNA sequence analysis of a human embryonic skeletal muscle myosin heavy chain gene.</title>
+<authorList>
+<person name="Karsch-Mizrachi I."/>
+<person name="Travis M."/>
+<person name="Blau H."/>
+<person name="Leinwand L.A."/>
+</authorList>
+<dbReference type="PubMed" id="2771643"/>
+<dbReference type="DOI" id="10.1093/nar/17.15.6167"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 856-1940</scope>
+<scope>VARIANT THR-1192</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2006" name="Nat. Genet." volume="38" first="561" last="565">
+<title>Mutations in embryonic myosin heavy chain (MYH3) cause Freeman-Sheldon syndrome and Sheldon-Hall syndrome.</title>
+<authorList>
+<person name="Toydemir R.M."/>
+<person name="Rutherford A."/>
+<person name="Whitby F.G."/>
+<person name="Jorde L.B."/>
+<person name="Carey J.C."/>
+<person name="Bamshad M.J."/>
+</authorList>
+<dbReference type="PubMed" id="16642020"/>
+<dbReference type="DOI" id="10.1038/ng1775"/>
+</citation>
+<scope>INVOLVEMENT IN DA2A</scope>
+<scope>INVOLVEMENT IN DA2B</scope>
+<scope>VARIANTS DA2A GLY-498; SER-583; CYS-672; HIS-672 AND ASP-825</scope>
+<scope>VARIANTS DA2B PHE-261; CYS-292; LYS-375; TYR-517; VAL-769 AND GLU-838; LEU-841 DEL</scope>
+<scope>VARIANT DA2A/DA2B ILE-178</scope>
+<scope>VARIANTS ALA-1622 AND VAL-1637</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2015" name="Am. J. Hum. Genet." volume="96" first="841" last="849">
+<title>Autosomal-dominant multiple pterygium syndrome is caused by mutations in MYH3.</title>
+<authorList>
+<consortium name="University of Washington Center for Mendelian Genomics"/>
+<person name="Chong J.X."/>
+<person name="Burrage L.C."/>
+<person name="Beck A.E."/>
+<person name="Marvin C.T."/>
+<person name="McMillin M.J."/>
+<person name="Shively K.M."/>
+<person name="Harrell T.M."/>
+<person name="Buckingham K.J."/>
+<person name="Bacino C.A."/>
+<person name="Jain M."/>
+<person name="Alanay Y."/>
+<person name="Berry S.A."/>
+<person name="Carey J.C."/>
+<person name="Gibbs R.A."/>
+<person name="Lee B.H."/>
+<person name="Krakow D."/>
+<person name="Shendure J."/>
+<person name="Nickerson D.A."/>
+<person name="Bamshad M.J."/>
+</authorList>
+<dbReference type="PubMed" id="25957469"/>
+<dbReference type="DOI" id="10.1016/j.ajhg.2015.04.004"/>
+</citation>
+<scope>INVOLVEMENT IN DA8</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>VARIANTS DA8 SER-243 DEL; ASN-1072 INS AND PRO-1075</scope>
+<scope>CLASSIFICATION OF VARIANTS ALA-1622 AND VAL-1637</scope>
+</reference>
+<comment type="function">
+<text>Muscle contraction.</text>
+</comment>
+<comment type="subunit">
+<text>Muscle myosin is a hexameric protein that consists of 2 heavy chain subunits (MHC), 2 alkali light chain subunits (MLC) and 2 regulatory light chain subunits (MLC-2).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Myofibril</location>
+</subcellularLocation>
+<text>Thick filaments of the myofibrils.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="5">Expressed in fetal bone, thymus, placenta, heart, brain, and liver.</text>
+</comment>
+<comment type="developmental stage">
+<text>Abundantly present in fetal skeletal muscle and not present or barely detectable in heart and adult skeletal muscle.</text>
+</comment>
+<comment type="domain">
+<text>The rodlike tail sequence is highly repetitive, showing cycles of a 28-residue repeat pattern composed of 4 heptapeptides, characteristic for alpha-helical coiled coils.</text>
+</comment>
+<comment type="domain">
+<text evidence="10">Limited proteolysis of myosin heavy chain produces 1 light meromyosin (LMM) and 1 heavy meromyosin (HMM). HMM can be further cleaved into 2 globular subfragments (S1) and 1 rod-shaped subfragment (S2).</text>
+</comment>
+<comment type="disease" evidence="3">
+<disease id="DI-01492">
+<name>Arthrogryposis, distal, 2A</name>
+<acronym>DA2A</acronym>
+<description>A form of distal arthrogryposis, a disease characterized by congenital joint contractures that mainly involve two or more distal parts of the limbs, in the absence of a primary neurological or muscle disease. DA2A is characterized by contractures of the hands and feet, oropharyngeal abnormalities, scoliosis, and a distinctive face that includes a very small oral orifice, puckered lips, and an H-shaped dimple of the chin.</description>
+<dbReference type="MIM" id="193700"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="3">
+<disease id="DI-01493">
+<name>Arthrogryposis, distal, 2B</name>
+<acronym>DA2B</acronym>
+<description>A form of distal arthrogryposis, a disease characterized by congenital joint contractures that mainly involve two or more distal parts of the limbs, in the absence of a primary neurological or muscle disease. DA2B is characterized by contractures of the hands and feet, and a distinctive face characterized by prominent nasolabial folds, small mouth and downslanting palpebral fissures.</description>
+<dbReference type="MIM" id="601680"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="5">
+<disease id="DI-04547">
+<name>Arthrogryposis, distal, 8</name>
+<acronym>DA8</acronym>
+<description>A form of distal arthrogryposis, a disease characterized by congenital joint contractures that mainly involve two or more distal parts of the limbs, in the absence of a primary neurological or muscle disease.</description>
+<dbReference type="MIM" id="178110"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="10">Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family.</text>
+</comment>
+<comment type="caution">
+<text evidence="10">Represents a conventional myosin. This protein should not be confused with the unconventional myosin-3 (MYO3).</text>
+</comment>
+<comment type="caution">
+<text evidence="3 9">Variants Ala-1622 and Val-1637 have been originally reported as DA2B pathogenic mutations (PubMed:16642020). These variants are now thought to be polymorphisms on the basis of additional family information and frequencies in large databases of control populations (PubMed:25957469).</text>
+</comment>
+<dbReference type="EMBL" id="X13988">
+<property type="protein sequence ID" value="CAA32167.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC002347">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X13100">
+<property type="protein sequence ID" value="CAA31492.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X51593">
+<property type="protein sequence ID" value="CAA35942.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X15696">
+<property type="protein sequence ID" value="CAA33731.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS11157.1"/>
+<dbReference type="PIR" id="S04090">
+<property type="entry name" value="S04090"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_002461.2">
+<property type="nucleotide sequence ID" value="NM_002470.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011522172.1">
+<property type="nucleotide sequence ID" value="XM_011523870.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011522173.1">
+<property type="nucleotide sequence ID" value="XM_011523871.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.440895"/>
+<dbReference type="ProteinModelPortal" id="P11055"/>
+<dbReference type="SMR" id="P11055"/>
+<dbReference type="BioGrid" id="110706">
+<property type="interactions" value="11"/>
+</dbReference>
+<dbReference type="IntAct" id="P11055">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-2801002"/>
+<dbReference type="STRING" id="9606.ENSP00000226209"/>
+<dbReference type="iPTMnet" id="P11055"/>
+<dbReference type="PhosphoSitePlus" id="P11055"/>
+<dbReference type="BioMuta" id="MYH3"/>
+<dbReference type="DMDM" id="251757455"/>
+<dbReference type="EPD" id="P11055"/>
+<dbReference type="MaxQB" id="P11055"/>
+<dbReference type="PaxDb" id="P11055"/>
+<dbReference type="PeptideAtlas" id="P11055"/>
+<dbReference type="PRIDE" id="P11055"/>
+<dbReference type="DNASU" id="4621"/>
+<dbReference type="Ensembl" id="ENST00000583535">
+<property type="protein sequence ID" value="ENSP00000464317"/>
+<property type="gene ID" value="ENSG00000109063"/>
+</dbReference>
+<dbReference type="GeneID" id="4621"/>
+<dbReference type="KEGG" id="hsa:4621"/>
+<dbReference type="UCSC" id="uc002gmq.3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="4621"/>
+<dbReference type="DisGeNET" id="4621"/>
+<dbReference type="GeneCards" id="MYH3"/>
+<dbReference type="H-InvDB" id="HIX0039137"/>
+<dbReference type="HGNC" id="HGNC:7573">
+<property type="gene designation" value="MYH3"/>
+</dbReference>
+<dbReference type="HPA" id="HPA021808"/>
+<dbReference type="MalaCards" id="MYH3"/>
+<dbReference type="MIM" id="160720">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="178110">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="193700">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="601680">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P11055"/>
+<dbReference type="OpenTargets" id="ENSG00000109063"/>
+<dbReference type="Orphanet" id="1146">
+<property type="disease" value="Digitotalar dysmorphism"/>
+</dbReference>
+<dbReference type="Orphanet" id="2053">
+<property type="disease" value="Freeman-Sheldon syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="1147">
+<property type="disease" value="Sheldon-Hall syndrome"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA31370"/>
+<dbReference type="eggNOG" id="KOG0161">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5022">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00760000118919"/>
+<dbReference type="HOGENOM" id="HOG000173959"/>
+<dbReference type="HOVERGEN" id="HBG004704"/>
+<dbReference type="InParanoid" id="P11055"/>
+<dbReference type="KO" id="K10352"/>
+<dbReference type="OMA" id="DEQANAH"/>
+<dbReference type="OrthoDB" id="EOG091G07UM"/>
+<dbReference type="PhylomeDB" id="P11055"/>
+<dbReference type="TreeFam" id="TF314375"/>
+<dbReference type="Reactome" id="R-HSA-1445148">
+<property type="pathway name" value="Translocation of GLUT4 to the plasma membrane"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-390522">
+<property type="pathway name" value="Striated Muscle Contraction"/>
+</dbReference>
+<dbReference type="SIGNOR" id="P11055"/>
+<dbReference type="ChiTaRS" id="MYH3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="MYH3"/>
+<dbReference type="GenomeRNAi" id="4621"/>
+<dbReference type="PRO" id="PR:P11055"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 17"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000109063"/>
+<dbReference type="CleanEx" id="HS_MYH3"/>
+<dbReference type="Genevisible" id="P11055">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005859">
+<property type="term" value="C:muscle myosin complex"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032982">
+<property type="term" value="C:myosin filament"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030017">
+<property type="term" value="C:sarcomere"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051015">
+<property type="term" value="F:actin filament binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042623">
+<property type="term" value="F:ATPase activity, coupled"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005516">
+<property type="term" value="F:calmodulin binding"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000146">
+<property type="term" value="F:microfilament motor activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017018">
+<property type="term" value="F:myosin phosphatase activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030048">
+<property type="term" value="P:actin filament-based movement"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046034">
+<property type="term" value="P:ATP metabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030326">
+<property type="term" value="P:embryonic limb morphogenesis"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060325">
+<property type="term" value="P:face morphogenesis"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030049">
+<property type="term" value="P:muscle filament sliding"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007517">
+<property type="term" value="P:muscle organ development"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045214">
+<property type="term" value="P:sarcomere organization"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003009">
+<property type="term" value="P:skeletal muscle contraction"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000048">
+<property type="entry name" value="IQ_motif_EF-hand-BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001609">
+<property type="entry name" value="Myosin_head_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004009">
+<property type="entry name" value="Myosin_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002928">
+<property type="entry name" value="Myosin_tail"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00063">
+<property type="entry name" value="Myosin_head"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02736">
+<property type="entry name" value="Myosin_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01576">
+<property type="entry name" value="Myosin_tail_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00193">
+<property type="entry name" value="MYOSINHEAVY"/>
+</dbReference>
+<dbReference type="SMART" id="SM00242">
+<property type="entry name" value="MYSc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50096">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51456">
+<property type="entry name" value="MYOSIN_MOTOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0009">Actin-binding</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0112">Calmodulin-binding</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0488">Methylation</keyword>
+<keyword id="KW-0505">Motor protein</keyword>
+<keyword id="KW-0514">Muscle protein</keyword>
+<keyword id="KW-0518">Myosin</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0787">Thick filament</keyword>
+<feature type="chain" description="Myosin-3" id="PRO_0000123394">
+<location>
+<begin position="1"/>
+<end position="1940"/>
+</location>
+</feature>
+<feature type="domain" description="Myosin motor">
+<location>
+<begin position="86"/>
+<end position="779"/>
+</location>
+</feature>
+<feature type="domain" description="IQ" evidence="2">
+<location>
+<begin position="782"/>
+<end position="811"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="179"/>
+<end position="186"/>
+</location>
+</feature>
+<feature type="region of interest" description="Actin-binding">
+<location>
+<begin position="656"/>
+<end position="678"/>
+</location>
+</feature>
+<feature type="region of interest" description="Actin-binding">
+<location>
+<begin position="758"/>
+<end position="772"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="1">
+<location>
+<begin position="840"/>
+<end position="1933"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6,N6,N6-trimethyllysine" evidence="1">
+<location>
+<position position="130"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DA2A and DA2B; dbSNP:rs121913619." id="VAR_030370" evidence="3">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="178"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DA8." id="VAR_074668" evidence="5">
+<location>
+<position position="243"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DA2B." id="VAR_030371" evidence="3">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="261"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DA2B; dbSNP:rs139480342." id="VAR_030372" evidence="3">
+<original>S</original>
+<variation>C</variation>
+<location>
+<position position="292"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DA2B; dbSNP:rs121913621." id="VAR_030373" evidence="3">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="375"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DA2A." id="VAR_030374" evidence="3">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="498"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DA2B." id="VAR_030375" evidence="3">
+<original>D</original>
+<variation>Y</variation>
+<location>
+<position position="517"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DA2A." id="VAR_030376" evidence="3">
+<original>Y</original>
+<variation>S</variation>
+<location>
+<position position="583"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DA2A; dbSNP:rs121913618." id="VAR_030377" evidence="3">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="672"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DA2A; dbSNP:rs121913617." id="VAR_030378" evidence="3">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="672"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DA2B." id="VAR_030379" evidence="3">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="769"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DA2A; dbSNP:rs121913620." id="VAR_030380" evidence="3">
+<original>V</original>
+<variation>D</variation>
+<location>
+<position position="825"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DA2B." id="VAR_030381" evidence="3">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="838"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DA2B." id="VAR_030382" evidence="3">
+<location>
+<position position="841"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34088014." id="VAR_056173">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="1003"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DA8." id="VAR_074669" evidence="5">
+<original>N</original>
+<variation>NN</variation>
+<location>
+<position position="1072"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DA8; dbSNP:rs796051884." id="VAR_074670" evidence="5">
+<original>Q</original>
+<variation>P</variation>
+<location>
+<position position="1075"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs12941197." id="VAR_030196">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="1137"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2285477." id="VAR_030197" evidence="4 6 7 8">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="1192"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35230241." id="VAR_056174">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="1313"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Polymorphism; originally found in DA2B patients." id="VAR_030383" evidence="3 9">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="1622"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Polymorphism; originally found in DA2B patients; dbSNP:rs34165480." id="VAR_030384" evidence="3 9">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="1637"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA32167." ref="1" evidence="10">
+<original>A</original>
+<variation>R</variation>
+<location>
+<position position="327"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA32167." ref="1" evidence="10">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="732"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; CAA35942." ref="4" evidence="10">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="1331"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA32167 and 3; CAA31492." ref="1 3" evidence="10">
+<original>KK</original>
+<variation>QE</variation>
+<location>
+<begin position="1391"/>
+<end position="1392"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; CAA35942." ref="4" evidence="10">
+<original>SR</original>
+<variation>RA</variation>
+<location>
+<begin position="1608"/>
+<end position="1609"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; CAA31492." ref="3" evidence="10">
+<original>RG</original>
+<variation>QT</variation>
+<location>
+<begin position="1663"/>
+<end position="1664"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00116"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16642020"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1691980"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25957469"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2726495"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2771643"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2806546"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="25957469"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000305"/>
+<sequence length="1940" mass="223905" checksum="B7D6AF219E88E5C8" modified="2009-07-07" version="3">
+MSSDTEMEVFGIAAPFLRKSEKERIEAQNQPFDAKTYCFVVDSKEEYAKGKIKSSQDGKV
+TVETEDNRTLVVKPEDVYAMNPPKFDRIEDMAMLTHLNEPAVLYNLKDRYTSWMIYTYSG
+LFCVTVNPYKWLPVYNPEVVEGYRGKKRQEAPPHIFSISDNAYQFMLTDRENQSILITGE
+SGAGKTVNTKRVIQYFATIAATGDLAKKKDSKMKGTLEDQIISANPLLEAFGNAKTVRND
+NSSRFGKFIRIHFGTTGKLASADIETYLLEKSRVTFQLKAERSYHIFYQILSNKKPELIE
+LLLITTNPYDYPFISQGEILVASIDDAEELLATDSAIDILGFTPEEKSGLYKLTGAVMHY
+GNMKFKQKQREEQAEPDGTEVADKTAYLMGLNSSDLLKALCFPRVKVGNEYVTKGQTVDQ
+VHHAVNALSKSVYEKLFLWMVTRINQQLDTKLPRQHFIGVLDIAGFEIFEYNSLEQLCIN
+FTNEKLQQFFNHHMFVLEQEEYKKEGIEWTFIDFGMDLAACIELIEKPMGIFSILEEECM
+FPKATDTSFKNKLYDQHLGKSNNFQKPKVVKGRAEAHFSLIHYAGTVDYSVSGWLEKNKD
+PLNETVVGLYQKSSNRLLAHLYATFATADADSGKKKVAKKKGSSFQTVSALFRENLNKLM
+SNLRTTHPHFVRCIIPNETKTPGAMEHSLVLHQLRCNGVLEGIRICRKGFPNRILYGDFK
+QRYRVLNASAIPEGQFIDSKKACEKLLASIDIDHTQYKFGHTKVFFKAGLLGTLEEMRDD
+RLAKLITRTQAVCRGFLMRVEFQKMVQRRESIFCIQYNIRSFMNVKHWPWMKLFFKIKPL
+LKSAETEKEMATMKEEFQKTKDELAKSEAKRKELEEKLVTLVQEKNDLQLQVQAESENLL
+DAEERCDQLIKAKFQLEAKIKEVTERAEDEEEINAELTAKKRKLEDECSELKKDIDDLEL
+TLAKVEKEKHATENKVKNLTEELSGLDETIAKLTREKKALQEAHQQALDDLQAEEDKVNS
+LNKTKSKLEQQVEDLESSLEQEKKLRVDLERNKRKLEGDLKLAQESILDLENDKQQLDER
+LKKKDFEYCQLQSKVEDEQTLGLQFQKKIKELQARIEELEEEIEAERATRAKTEKQRSDY
+ARELEELSERLEEAGGVTSTQIELNKKREAEFLKLRRDLEEATLQHEAMVAALRKKHADS
+VAELGEQIDNLQRVKQKLEKEKSEFKLEIDDLSSSMESVSKSKANLEKICRTLEDQLSEA
+RGKNEEIQRSLSELTTQKSRLQTEAGELSRQLEEKESIVSQLSRSKQAFTQQTEELKRQL
+EEENKAKNALAHALQSSRHDCDLLREQYEEEQEGKAELQRALSKANSEVAQWRTKYETDA
+IQRTEELEEAKKKLAQRLQDSEEQVEAVNAKCASLEKTKQRLQGEVEDLMVDVERANSLA
+AALDKKQRNFDKVLAEWKTKCEESQAELEASLKESRSLSTELFKLKNAYEEALDQLETVK
+RENKNLEQEIADLTEQIAENGKTIHELEKSRKQIELEKADIQLALEEAEAALEHEEAKIL
+RIQLELTQVKSEIDRKIAEKDEEIEQLKRNYQRTVETMQSALDAEVRSRNEAIRLKKKME
+GDLNEIEIQLSHANRQAAETLKHLRSVQGQLKDTQLHLDDALRGQEDLKEQLAIVERRAN
+LLQAEVEELRATLEQTERARKLAEQELLDSNERVQLLHTQNTSLIHTKKKLETDLMQLQS
+EVEDASRDARNAEEKAKKAITDAAMMAEELKKEQDTSAHLERMKKNLEQTVKDLQHRLDE
+AEQLALKGGKKQIQKLETRIRELEFELEGEQKKNTESVKGLRKYERRVKELTYQSEEDRK
+NVLRLQDLVDKLQVKVKSYKRQAEEADEQANAHLTKFRKAQHELEEAEERADIAESQVNK
+LRAKTRDFTSSRMVVHESEE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

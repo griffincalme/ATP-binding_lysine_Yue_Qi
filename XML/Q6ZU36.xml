@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2004-07-05" modified="2017-02-15" version="57">
+<accession>Q6ZU36</accession>
+<name>Q6ZU36_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="3">cDNA FLJ44024 fis, clone TESTI4026524, moderately similar to Chromodomain helicase-DNA-binding protein 4</fullName>
+</submittedName>
+</protein>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="submission" date="2003-07" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project.</title>
+<authorList>
+<person name="Tashiro H."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Otsuki T."/>
+<person name="Sato H."/>
+<person name="Wakamatsu A."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Isono Y."/>
+<person name="Kawai-Hio Y."/>
+<person name="Saito K."/>
+<person name="Nishikawa T."/>
+<person name="Kimura K."/>
+<person name="Yamashita H."/>
+<person name="Matsuo K."/>
+<person name="Nakamura Y."/>
+<person name="Sekine M."/>
+<person name="Kikuchi H."/>
+<person name="Kanda K."/>
+<person name="Wagatsuma M."/>
+<person name="Murakawa K."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Oshima A."/>
+<person name="Sugiyama A."/>
+<person name="Kawakami B."/>
+<person name="Suzuki Y."/>
+<person name="Sugano S."/>
+<person name="Nagahari K."/>
+<person name="Masuho Y."/>
+<person name="Nagai K."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="3">Testis</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AK126012">
+<property type="protein sequence ID" value="BAC86391.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.522898"/>
+<dbReference type="STRING" id="9606.ENSP00000262450"/>
+<dbReference type="PaxDb" id="Q6ZU36"/>
+<dbReference type="PeptideAtlas" id="Q6ZU36"/>
+<dbReference type="PRIDE" id="Q6ZU36"/>
+<dbReference type="eggNOG" id="ENOG410IREB">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XNUT">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG058712"/>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006355">
+<property type="term" value="P:regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012957">
+<property type="entry name" value="CHD_C2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009462">
+<property type="entry name" value="DUF1086"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009463">
+<property type="entry name" value="DUF1087"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08074">
+<property type="entry name" value="CHDCT2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06461">
+<property type="entry name" value="DUF1086"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06465">
+<property type="entry name" value="DUF1087"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01146">
+<property type="entry name" value="DUF1086"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01147">
+<property type="entry name" value="DUF1087"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="3">ATP-binding</keyword>
+<keyword id="KW-0238" evidence="3">DNA-binding</keyword>
+<keyword id="KW-0347" evidence="3">Helicase</keyword>
+<keyword id="KW-0378" evidence="3">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="3">Nucleotide-binding</keyword>
+<feature type="domain" description="DUF1087" evidence="2">
+<location>
+<begin position="15"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="domain" description="DUF1086" evidence="1">
+<location>
+<begin position="92"/>
+<end position="251"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM01146"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM01147"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAC86391.1"/>
+</source>
+</evidence>
+<sequence length="671" mass="76963" checksum="4A82DCAA496F7A86" modified="2004-07-05" version="1">
+MNEYLSSFKVAQYVVREEDGVEEVEREIIKQEENVDPDYWEKLLRHHYEQQQEDLARNLG
+KGKRIRKQVNYNDASQEDQEWQDELSDNQSEYSIGSEDEDEDFEERPEGQSGRRQSRRQL
+KSDRDKPLPPLLARVGGNIEVLGFNARQRKAFLNAIMRWGMPPQDAFNSHWLVRDLRGKS
+EKEFRAYVSLFMRHLCEPGADGAETFADGVPREGLSRQHVLTRIGVMSLVRKKVQEFEHV
+NGKYSTPDLIPEGPEGKKPGEVISSDPNTPVPASPAHLLPAPLGLPDKMEAQLGYMDEKD
+PGAQKPRQPLEVQALPAALDRVESEDKHESPASKERAREERPEETEKAPPSPEQLPREEV
+LPEKEKILDKLELSLIHSRGDSSELRPDDTKAEEKEPIETQQNGDKEEDDEGKKEDKKGK
+FKFMFNIADGGFTELHTLWQNEERAAVSSGKIYDIWHRRHDYWLLAGIVTHGYARWQDIQ
+NDPRYMILNEPFKSEVHKGNYLEMKNKFLARRFKLLEQALVIEEQLRRAAYLNMTQDPNH
+PAMALNARLAEVECLAESHQHLSKESLAGNKPANAVLHKVLNQLEELLSDMKADVTRLPS
+MLSRIPPVAARLQMSERSILSRLTNRAGDPTIQQISSRPRDFPVLQRSFPAEPRLPGHLP
+DPHGREKLPPF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

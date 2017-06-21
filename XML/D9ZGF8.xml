@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2010-10-05" modified="2017-05-10" version="57">
+<accession>D9ZGF8</accession>
+<name>D9ZGF8_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Rho-associated protein kinase</fullName>
+<ecNumber evidence="1">2.7.11.1</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="14">ROCK1</name>
+</gene>
+<organism evidence="14">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="14">
+<citation type="submission" date="2010-03" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Rieder M.J."/>
+<person name="Bertucci C."/>
+<person name="Stanaway I.B."/>
+<person name="Johnson E.J."/>
+<person name="Swanson J.E."/>
+<person name="Siegel D.L."/>
+<person name="da Ponte S.H."/>
+<person name="Igartua C."/>
+<person name="Patterson K."/>
+<person name="Nickerson D.A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Protein kinase which is a key regulator of actin cytoskeleton and cell polarity.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1 6">ATP + a protein = ADP + a phosphoprotein.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="1">Activated by RHOA binding. Inhibited by Y-27632.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Homodimer.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1 7">Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.</text>
+</comment>
+<dbReference type="EC" id="2.7.11.1" evidence="1"/>
+<dbReference type="EMBL" id="HM015596">
+<property type="protein sequence ID" value="ADL14517.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.306307"/>
+<dbReference type="ProteinModelPortal" id="D9ZGF8"/>
+<dbReference type="STRING" id="9606.ENSP00000382697"/>
+<dbReference type="PaxDb" id="D9ZGF8"/>
+<dbReference type="PRIDE" id="D9ZGF8"/>
+<dbReference type="eggNOG" id="KOG0612">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XR1Q">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="SignaLink" id="D9ZGF8"/>
+<dbReference type="GO" id="GO:0005856">
+<property type="term" value="C:cytoskeleton"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017049">
+<property type="term" value="F:GTP-Rho binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030036">
+<property type="term" value="P:actin cytoskeleton organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000114">
+<property type="term" value="P:regulation of establishment of cell polarity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051492">
+<property type="term" value="P:regulation of stress fiber assembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007266">
+<property type="term" value="P:Rho protein signal transduction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd00029">
+<property type="entry name" value="C1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.30.29.30">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000961">
+<property type="entry name" value="AGC-kinase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002219">
+<property type="entry name" value="PE/DAG-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011993">
+<property type="entry name" value="PH_dom-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001849">
+<property type="entry name" value="PH_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015008">
+<property type="entry name" value="Rho-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029876">
+<property type="entry name" value="ROCK1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020684">
+<property type="entry name" value="ROCK1/ROCK2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR22988:SF51">
+<property type="entry name" value="PTHR22988:SF51"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08912">
+<property type="entry name" value="Rho_Binding"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF037568">
+<property type="entry name" value="Rho_kinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00109">
+<property type="entry name" value="C1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00233">
+<property type="entry name" value="PH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00133">
+<property type="entry name" value="S_TK_X"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50729">
+<property type="entry name" value="SSF50729"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51285">
+<property type="entry name" value="AGC_KINASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50003">
+<property type="entry name" value="PH_DOMAIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50081">
+<property type="entry name" value="ZF_DAG_PE_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0067" evidence="1 4">ATP-binding</keyword>
+<keyword id="KW-0175" evidence="9">Coiled coil</keyword>
+<keyword id="KW-0963" evidence="1">Cytoplasm</keyword>
+<keyword id="KW-0206" evidence="1">Cytoskeleton</keyword>
+<keyword id="KW-0418" evidence="1 5">Kinase</keyword>
+<keyword id="KW-0460" evidence="1">Magnesium</keyword>
+<keyword id="KW-0479" evidence="8">Metal-binding</keyword>
+<keyword id="KW-0547" evidence="1 4">Nucleotide-binding</keyword>
+<keyword id="KW-0723" evidence="1 5">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808" evidence="1 5">Transferase</keyword>
+<keyword id="KW-0862" evidence="8">Zinc</keyword>
+<keyword id="KW-0863" evidence="8">Zinc-finger</keyword>
+<feature type="domain" description="Protein kinase" evidence="11">
+<location>
+<begin position="76"/>
+<end position="338"/>
+</location>
+</feature>
+<feature type="domain" description="AGC-kinase C-terminal" evidence="13">
+<location>
+<begin position="341"/>
+<end position="409"/>
+</location>
+</feature>
+<feature type="domain" description="PH" evidence="10">
+<location>
+<begin position="1118"/>
+<end position="1317"/>
+</location>
+</feature>
+<feature type="domain" description="Phorbol-ester/DAG-type" evidence="12">
+<location>
+<begin position="1228"/>
+<end position="1281"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="9">
+<location>
+<begin position="432"/>
+<end position="560"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="9">
+<location>
+<begin position="568"/>
+<end position="602"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="9">
+<location>
+<begin position="624"/>
+<end position="672"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="9">
+<location>
+<begin position="677"/>
+<end position="701"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="9">
+<location>
+<begin position="713"/>
+<end position="789"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="9">
+<location>
+<begin position="797"/>
+<end position="845"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="9">
+<location>
+<begin position="853"/>
+<end position="898"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="9">
+<location>
+<begin position="938"/>
+<end position="987"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="9">
+<location>
+<begin position="1020"/>
+<end position="1065"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="9">
+<location>
+<begin position="1073"/>
+<end position="1100"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="2">
+<location>
+<position position="198"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="3">
+<location>
+<position position="105"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PIRNR" id="PIRNR037568"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="PIRSR" id="PIRSR037568-1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="PIRSR" id="PIRSR037568-2"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00593399"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00593706"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00594266"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00784564"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00795753"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50003"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50081"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51285"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ADL14517.1"/>
+</source>
+</evidence>
+<sequence length="1354" mass="158244" checksum="92B78CBB009A6F27" modified="2010-10-05" version="1">
+MSTGDSFETRFEKMDNLLRDPKSEVNSDCLLDGLDALVYDLDFPALRKNKNIDNFLSRYK
+DTINKIRDLRMKAEDYEVVKVIGRGAFGEVQLVRHKSTRKVYAMKLLSKFEMIKRSDSAF
+FWEERDIMAFANSPWVVQLFYAFQDDRYLYMVMEYMPGGDLVNLMSNYDVPEKWARFYTA
+EVVLALDAIHSMGFIHRDVKPDNMLLDKSGHLKLADFGTCMKMNKEGMVRCDTAVGTPDY
+ISPEVLKSQGGDGYYGRECDWWSVGVFLYEMLVGDTPFYADSLVGTYSKIMNHKNSLTFP
+DDNDISKEAKNLICAFLTDREVRLGRNGVEEIKRHLFFKNDQWAWETLRDTVAPVVPDLS
+SDIDTSNFDDLEEDKGEEETFPIPKAFVGNQLPFVGFTYYSNRRYLSSANPNDNRTSSNA
+DKSLQESLQKTIYKLEEQLHNEMQLKDEMEQKCRTSNIKLDKIMKELDEEGNQRRNLEST
+VSQIEKEKMLLQHRINEYQRKAEQENEKRRNVENEVSTLKDQLEDLKKVSQNSQLANEKL
+SQLQKQLEEANDLLRTESDTAVRLRKSHTEMSKSISQLESLNRELQERNRILENSKSQTD
+KDYYQLQAILEAERRDRGHDSEMIGDLQARITSLQEEVKHLKHNLEKVEGERKEAQDMLN
+HSEKEKNNLEIDLNYKLKSLQQRLEQEVNEHKVTKARLTDKHQSIEEAKSVAMCEMEKKL
+KEEREAREKAENRVVQIEKQCSMLDVDLKQSQQKLEHLTGNKERMEDEVKNLTLQLEQES
+NKRLLLQNELKTQAFEADNLKGLEKQMKQEINTLLEAKRLLEFELAQLTKQYRGNEGQMR
+ELQDQLEAEQYFSTLYKTQVKELKEEIEEKNRENLKKIQELQNEKETLATQLDLAETKAE
+SEQLARGLLEEQYFELTQESKKAASRNRQEITDKDHTVSRLEEANSMLTKDIEILRRENE
+ELTEKMKKAEEEYKLEKEEEISNLKAAFEKNINTERTLKTQAVNKLAEIMNRKDFKIDRK
+KANTQDLRKKEKENRKLQLELNQEREKFNQMVVKHQKELNDMQAQLVEECAHRNELQMQL
+ASKESDIEQLRAKLLDLSDSTSVASFPSADETDGNLPESRIEGWLSVPNRGNIKRYGWKK
+QYVVVSSKKILFYNDEQDKEQSNPSMVLDIDKLFHVRPVTQGDVYRAETEEIPKIFQILY
+ANEGECRKDVEMEPVQQAEKTNFQNHKGHEFIPTLYHFPANCDACAKPLWHVFKPPPALE
+CRRCHVKCHRDHLDKKEDLICPCKVSYDVTSARDMLLLACSQDEQKKWVTHLVKKIPKNP
+PSGFVRASPRTLSTRSTANQSFRKVVKNTSGKTR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

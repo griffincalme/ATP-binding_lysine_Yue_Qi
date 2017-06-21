@@ -1,0 +1,1386 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-10-23" modified="2017-03-15" version="139">
+<accession>P62736</accession>
+<accession>B2R8A4</accession>
+<accession>P03996</accession>
+<accession>P04108</accession>
+<accession>Q6FI19</accession>
+<name>ACTA_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Actin, aortic smooth muscle</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Alpha-actin-2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Cell growth-inhibiting gene 46 protein</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ACTA2</name>
+<name type="synonym">ACTSA</name>
+<name type="synonym">ACTVS</name>
+<name type="ORF">GIG46</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="Nucleic Acids Res." volume="17" first="1767" last="1767">
+<title>The nucleotide sequence of a human smooth muscle alpha-actin (aortic type) cDNA.</title>
+<authorList>
+<person name="Kamada S."/>
+<person name="Kakunaga T."/>
+</authorList>
+<dbReference type="PubMed" id="2701935"/>
+<dbReference type="DOI" id="10.1093/nar/17.4.1767"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1990" name="J. Biol. Chem." volume="265" first="1683" last="1687">
+<title>Structure of the human smooth muscle alpha-actin gene. Analysis of a cDNA and 5' upstream region.</title>
+<authorList>
+<person name="Reddy S."/>
+<person name="Ozgur K."/>
+<person name="Lu M."/>
+<person name="Chang W."/>
+<person name="Mohan S.R."/>
+<person name="Kumar C.C."/>
+<person name="Ruley H.E."/>
+</authorList>
+<dbReference type="PubMed" id="2295650"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2004-07" db="EMBL/GenBank/DDBJ databases">
+<title>Identification of a human cell growth inhibiting gene.</title>
+<authorList>
+<person name="Kim J.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2004-06" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full open reading frames in Gateway(TM) system entry vector (pDONR201).</title>
+<authorList>
+<person name="Halleck A."/>
+<person name="Ebert L."/>
+<person name="Mkoundinya M."/>
+<person name="Schick M."/>
+<person name="Eisenstein S."/>
+<person name="Neubert P."/>
+<person name="Kstrang K."/>
+<person name="Schatten R."/>
+<person name="Shen B."/>
+<person name="Henze S."/>
+<person name="Mar W."/>
+<person name="Korn B."/>
+<person name="Zuo D."/>
+<person name="Hu Y."/>
+<person name="LaBaer J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Skeletal muscle</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Nature" volume="429" first="375" last="381">
+<title>The DNA sequence and comparative analysis of human chromosome 10.</title>
+<authorList>
+<person name="Deloukas P."/>
+<person name="Earthrowl M.E."/>
+<person name="Grafham D.V."/>
+<person name="Rubenfield M."/>
+<person name="French L."/>
+<person name="Steward C.A."/>
+<person name="Sims S.K."/>
+<person name="Jones M.C."/>
+<person name="Searle S."/>
+<person name="Scott C."/>
+<person name="Howe K."/>
+<person name="Hunt S.E."/>
+<person name="Andrews T.D."/>
+<person name="Gilbert J.G.R."/>
+<person name="Swarbreck D."/>
+<person name="Ashurst J.L."/>
+<person name="Taylor A."/>
+<person name="Battles J."/>
+<person name="Bird C.P."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ashwell R.I.S."/>
+<person name="Ambrose K.D."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Banerjee R."/>
+<person name="Bates K."/>
+<person name="Beasley H."/>
+<person name="Bray-Allen S."/>
+<person name="Brown A.J."/>
+<person name="Brown J.Y."/>
+<person name="Burford D.C."/>
+<person name="Burrill W."/>
+<person name="Burton J."/>
+<person name="Cahill P."/>
+<person name="Camire D."/>
+<person name="Carter N.P."/>
+<person name="Chapman J.C."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Corby N."/>
+<person name="Coulson A."/>
+<person name="Dhami P."/>
+<person name="Dutta I."/>
+<person name="Dunn M."/>
+<person name="Faulkner L."/>
+<person name="Frankish A."/>
+<person name="Frankland J.A."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Gribble S."/>
+<person name="Griffiths C."/>
+<person name="Grocock R."/>
+<person name="Gustafson E."/>
+<person name="Hammond S."/>
+<person name="Harley J.L."/>
+<person name="Hart E."/>
+<person name="Heath P.D."/>
+<person name="Ho T.P."/>
+<person name="Hopkins B."/>
+<person name="Horne J."/>
+<person name="Howden P.J."/>
+<person name="Huckle E."/>
+<person name="Hynds C."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Kana A."/>
+<person name="Kay M."/>
+<person name="Kimberley A.M."/>
+<person name="Kershaw J.K."/>
+<person name="Kokkinaki M."/>
+<person name="Laird G.K."/>
+<person name="Lawlor S."/>
+<person name="Lee H.M."/>
+<person name="Leongamornlert D.A."/>
+<person name="Laird G."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Loveland J."/>
+<person name="Lovell J."/>
+<person name="McLaren S."/>
+<person name="McLay K.E."/>
+<person name="McMurray A."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="Milne S."/>
+<person name="Nickerson T."/>
+<person name="Nguyen M."/>
+<person name="Overton-Larty E."/>
+<person name="Palmer S.A."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Pelan S."/>
+<person name="Phillimore B."/>
+<person name="Porter K."/>
+<person name="Rice C.M."/>
+<person name="Rogosin A."/>
+<person name="Ross M.T."/>
+<person name="Sarafidou T."/>
+<person name="Sehra H.K."/>
+<person name="Shownkeen R."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Standring L."/>
+<person name="Sycamore N."/>
+<person name="Tester J."/>
+<person name="Thorpe A."/>
+<person name="Torcasso W."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Tsolas J."/>
+<person name="Wall M."/>
+<person name="Walsh J."/>
+<person name="Wang H."/>
+<person name="Weinstock K."/>
+<person name="West A.P."/>
+<person name="Willey D.L."/>
+<person name="Whitehead S.L."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Young L."/>
+<person name="Chen Y."/>
+<person name="Lovering R.C."/>
+<person name="Moschonas N.K."/>
+<person name="Siebert R."/>
+<person name="Fechtel K."/>
+<person name="Bentley D."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Doucette-Stamm L."/>
+<person name="Beck S."/>
+<person name="Smith D.R."/>
+<person name="Rogers J."/>
+</authorList>
+<dbReference type="PubMed" id="15164054"/>
+<dbReference type="DOI" id="10.1038/nature02462"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="7">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Uterus</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1984" name="Mol. Cell. Biol." volume="4" first="1073" last="1078">
+<title>Structure of a human smooth muscle actin gene (aortic type) with a unique intron site.</title>
+<authorList>
+<person name="Ueyama H."/>
+<person name="Hamada H."/>
+<person name="Battula N."/>
+<person name="Kakunaga T."/>
+</authorList>
+<dbReference type="PubMed" id="6330528"/>
+<dbReference type="DOI" id="10.1128/MCB.4.6.1073"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-330</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1989" name="Gene" volume="84" first="455" last="462">
+<title>Structure of 3'-downstream segment of the human smooth muscle (aortic-type) alpha-actin-encoding gene and isolation of the specific DNA probe.</title>
+<authorList>
+<person name="Kamada S."/>
+<person name="Nakano Y."/>
+<person name="Kakunaga T."/>
+</authorList>
+<dbReference type="PubMed" id="2612915"/>
+<dbReference type="DOI" id="10.1016/0378-1119(89)90520-9"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 331-377</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2006" name="Cell. Microbiol." volume="8" first="565" last="580">
+<title>Transcriptomic and proteomic analyses of rhabdomyosarcoma cells reveal differential cellular gene expression in response to enterovirus 71 infection.</title>
+<authorList>
+<person name="Leong W.F."/>
+<person name="Chow V.T."/>
+</authorList>
+<dbReference type="PubMed" id="16548883"/>
+<dbReference type="DOI" id="10.1111/j.1462-5822.2005.00644.x"/>
+</citation>
+<scope>INDUCTION</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="18537" last="18542">
+<title>Connecting actin monomers by iso-peptide bond is a toxicity mechanism of the Vibrio cholerae MARTX toxin.</title>
+<authorList>
+<person name="Kudryashov D.S."/>
+<person name="Durer Z.A."/>
+<person name="Ytterberg A.J."/>
+<person name="Sawaya M.R."/>
+<person name="Pashkov I."/>
+<person name="Prochazkova K."/>
+<person name="Yeates T.O."/>
+<person name="Loo R.R."/>
+<person name="Loo J.A."/>
+<person name="Satchell K.J."/>
+<person name="Reisler E."/>
+</authorList>
+<dbReference type="PubMed" id="19015515"/>
+<dbReference type="DOI" id="10.1073/pnas.0808082105"/>
+</citation>
+<scope>CROSS-LINK BY V.CHOLERAE TOXIN RTXA (MICROBIAL INFECTION)</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2012" name="Mol. Cell. Proteomics" volume="11" first="M111.015131" last="M111.015131">
+<title>Comparative large-scale characterisation of plant vs. mammal proteins reveals similar and idiosyncratic N-alpha acetylation features.</title>
+<authorList>
+<person name="Bienvenut W.V."/>
+<person name="Sumpton D."/>
+<person name="Martinez A."/>
+<person name="Lilla S."/>
+<person name="Espagne C."/>
+<person name="Meinnel T."/>
+<person name="Giglione C."/>
+</authorList>
+<dbReference type="PubMed" id="22223895"/>
+<dbReference type="DOI" id="10.1074/mcp.M111.015131"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT GLU-3</scope>
+<scope>CLEAVAGE OF PROPEPTIDE [LARGE SCALE ANALYSIS] AFTER CYS-2</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2012" name="Proc. Natl. Acad. Sci. U.S.A." volume="109" first="12449" last="12454">
+<title>N-terminal acetylome analyses and functional insights of the N-terminal acetyltransferase NatB.</title>
+<authorList>
+<person name="Van Damme P."/>
+<person name="Lasa M."/>
+<person name="Polevoda B."/>
+<person name="Gazquez C."/>
+<person name="Elosegui-Artola A."/>
+<person name="Kim D.S."/>
+<person name="De Juan-Pardo E."/>
+<person name="Demeyer K."/>
+<person name="Hole K."/>
+<person name="Larrea E."/>
+<person name="Timmerman E."/>
+<person name="Prieto J."/>
+<person name="Arnesen T."/>
+<person name="Sherman F."/>
+<person name="Gevaert K."/>
+<person name="Aldabe R."/>
+</authorList>
+<dbReference type="PubMed" id="22814378"/>
+<dbReference type="DOI" id="10.1073/pnas.1210303109"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2015" name="Science" volume="349" first="535" last="539">
+<title>ACD toxin-produced actin oligomers poison formin-controlled actin polymerization.</title>
+<authorList>
+<person name="Heisler D.B."/>
+<person name="Kudryashova E."/>
+<person name="Grinevich D.O."/>
+<person name="Suarez C."/>
+<person name="Winkelman J.D."/>
+<person name="Birukov K.G."/>
+<person name="Kotha S.R."/>
+<person name="Parinandi N.L."/>
+<person name="Vavylonis D."/>
+<person name="Kovar D.R."/>
+<person name="Kudryashov D.S."/>
+</authorList>
+<dbReference type="PubMed" id="26228148"/>
+<dbReference type="DOI" id="10.1126/science.aab4090"/>
+</citation>
+<scope>CROSS-LINK BY V.CHOLERAE TOXIN RTXA (MICROBIAL INFECTION)</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2007" name="Nat. Genet." volume="39" first="1488" last="1493">
+<title>Mutations in smooth muscle alpha-actin (ACTA2) lead to thoracic aortic aneurysms and dissections.</title>
+<authorList>
+<person name="Guo D.-C."/>
+<person name="Pannu H."/>
+<person name="Tran-Fadulu V."/>
+<person name="Papke C.L."/>
+<person name="Yu R.K."/>
+<person name="Avidan N."/>
+<person name="Bourgeois S."/>
+<person name="Estrera A.L."/>
+<person name="Safi H.J."/>
+<person name="Sparks E."/>
+<person name="Amor D."/>
+<person name="Ades L."/>
+<person name="McConnell V."/>
+<person name="Willoughby C.E."/>
+<person name="Abuelo D."/>
+<person name="Willing M."/>
+<person name="Lewis R.A."/>
+<person name="Kim D.H."/>
+<person name="Scherer S."/>
+<person name="Tung P.P."/>
+<person name="Ahn C."/>
+<person name="Buja L.M."/>
+<person name="Raman C.S."/>
+<person name="Shete S.S."/>
+<person name="Milewicz D.M."/>
+</authorList>
+<dbReference type="PubMed" id="17994018"/>
+<dbReference type="DOI" id="10.1038/ng.2007.6"/>
+</citation>
+<scope>VARIANTS AAT6 THR-117; GLN-118; HIS-135; CYS-149; ALA-154; CYS-258; HIS-258; GLY-292 AND ASN-353</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2009" name="Am. J. Hum. Genet." volume="84" first="617" last="627">
+<title>Mutations in smooth muscle alpha-actin (ACTA2) cause coronary artery disease, stroke, and Moyamoya disease, along with thoracic aortic disease.</title>
+<authorList>
+<person name="Guo D.-C."/>
+<person name="Papke C.L."/>
+<person name="Tran-Fadulu V."/>
+<person name="Regalado E.S."/>
+<person name="Avidan N."/>
+<person name="Johnson R.J."/>
+<person name="Kim D.H."/>
+<person name="Pannu H."/>
+<person name="Willing M.C."/>
+<person name="Sparks E."/>
+<person name="Pyeritz R.E."/>
+<person name="Singh M.N."/>
+<person name="Dalman R.L."/>
+<person name="Grotta J.C."/>
+<person name="Marian A.J."/>
+<person name="Boerwinkle E.A."/>
+<person name="Frazier L.Q."/>
+<person name="LeMaire S.A."/>
+<person name="Coselli J.S."/>
+<person name="Estrera A.L."/>
+<person name="Safi H.J."/>
+<person name="Veeraraghavan S."/>
+<person name="Muzny D.M."/>
+<person name="Wheeler D.A."/>
+<person name="Willerson J.T."/>
+<person name="Yu R.K."/>
+<person name="Shete S.S."/>
+<person name="Scherer S.E."/>
+<person name="Raman C.S."/>
+<person name="Buja L.M."/>
+<person name="Milewicz D.M."/>
+</authorList>
+<dbReference type="PubMed" id="19409525"/>
+<dbReference type="DOI" id="10.1016/j.ajhg.2009.04.007"/>
+</citation>
+<scope>VARIANTS AAT6 HIS-39; THR-117; GLN-118; CYS-149; ALA-154; GLN-185; GLN-212; HIS-258; CYS-258; ASN-326 AND ASN-353</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2009" name="Hum. Mutat." volume="30" first="1406" last="1411">
+<title>Mutation of ACTA2 gene as an important cause of familial and nonfamilial nonsyndromatic thoracic aortic aneurysm and/or dissection (TAAD).</title>
+<authorList>
+<person name="Morisaki H."/>
+<person name="Akutsu K."/>
+<person name="Ogino H."/>
+<person name="Kondo N."/>
+<person name="Yamanaka I."/>
+<person name="Tsutsumi Y."/>
+<person name="Yoshimuta T."/>
+<person name="Okajima T."/>
+<person name="Matsuda H."/>
+<person name="Minatoya K."/>
+<person name="Sasaki H."/>
+<person name="Tanaka H."/>
+<person name="Ishibashi-Ueda H."/>
+<person name="Morisaki T."/>
+</authorList>
+<dbReference type="PubMed" id="19639654"/>
+<dbReference type="DOI" id="10.1002/humu.21081"/>
+</citation>
+<scope>VARIANTS AAT6 CYS-145; CYS-149 AND GLN-212</scope>
+<scope>PREDISPOSITION TO A VARIETY OF VASCULAR DISEASES</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2010" name="Am. J. Med. Genet. A" volume="152" first="2437" last="2443">
+<title>De novo ACTA2 mutation causes a novel syndrome of multisystemic smooth muscle dysfunction.</title>
+<authorList>
+<person name="Milewicz D.M."/>
+<person name="Ostergaard J.R."/>
+<person name="Ala-Kokko L.M."/>
+<person name="Khan N."/>
+<person name="Grange D.K."/>
+<person name="Mendoza-Londono R."/>
+<person name="Bradley T.J."/>
+<person name="Olney A.H."/>
+<person name="Ades L."/>
+<person name="Maher J.F."/>
+<person name="Guo D."/>
+<person name="Buja L.M."/>
+<person name="Kim D."/>
+<person name="Hyland J.C."/>
+<person name="Regalado E.S."/>
+</authorList>
+<dbReference type="PubMed" id="20734336"/>
+<dbReference type="DOI" id="10.1002/ajmg.a.33657"/>
+</citation>
+<scope>VARIANT MSMDYS HIS-179</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2011" name="Eur. J. Paediatr. Neurol." volume="15" first="117" last="122">
+<title>Analysis of ACTA2 in European Moyamoya disease patients.</title>
+<authorList>
+<person name="Roder C."/>
+<person name="Peters V."/>
+<person name="Kasuya H."/>
+<person name="Nishizawa T."/>
+<person name="Wakita S."/>
+<person name="Berg D."/>
+<person name="Schulte C."/>
+<person name="Khan N."/>
+<person name="Tatagiba M."/>
+<person name="Krischek B."/>
+</authorList>
+<dbReference type="PubMed" id="20970362"/>
+<dbReference type="DOI" id="10.1016/j.ejpn.2010.09.002"/>
+</citation>
+<scope>VARIANT MYMY5 HIS-179</scope>
+</reference>
+<comment type="function">
+<text>Actins are highly conserved proteins that are involved in various types of cell motility and are ubiquitously expressed in all eukaryotic cells.</text>
+</comment>
+<comment type="subunit">
+<text>Polymerization of globular actin (G-actin) leads to a structural filament (F-actin) in the form of a two-stranded helix. Each actin can bind to 4 others.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Cytoskeleton</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text evidence="6">Up-regulated in response to enterovirus 71 (EV71) infection.</text>
+</comment>
+<comment type="PTM">
+<text evidence="2">Oxidation of Met-46 and Met-49 by MICALs (MICAL1, MICAL2 or MICAL3) to form methionine sulfoxide promotes actin filament depolymerization. MICAL1 and MICAL2 produce the (R)-S-oxide form. The (R)-S-oxide form is reverted by MSRB1 and MSRB2, which promote actin repolymerization (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="5">Monomethylation at Lys-86 (K84me1) regulates actin-myosin interaction and actomyosin-dependent processes. Demethylation by ALKBH4 is required for maintaining actomyosin dynamics supporting normal cleavage furrow ingression during cytokinesis and cell migration.</text>
+</comment>
+<comment type="PTM">
+<text evidence="13 14">(Microbial infection) Monomeric actin is cross-linked by V.cholerae toxins RtxA and VgrG1 in case of infection: bacterial toxins mediate the cross-link between Lys-52 of one monomer and Glu-272 of another actin monomer, resulting in formation of highly toxic actin oligomers that cause cell rounding (PubMed:19015515). The toxin can be highly efficient at very low concentrations by acting on formin homology family proteins: toxic actin oligomers bind with high affinity to formins and adversely affect both nucleation and elongation abilities of formins, causing their potent inhibition in both profilin-dependent and independent manners (PubMed:26228148).</text>
+</comment>
+<comment type="disease">
+<text evidence="8">ACTA2 mutations predispose patients to a variety of diffuse and diverse vascular diseases, premature onset coronary artery disease (CAD), premature ischemic strokes and Moyamoya disease.</text>
+</comment>
+<comment type="disease" evidence="7 8 9">
+<disease id="DI-00130">
+<name>Aortic aneurysm, familial thoracic 6</name>
+<acronym>AAT6</acronym>
+<description>A disease characterized by permanent dilation of the thoracic aorta usually due to degenerative changes in the aortic wall. It is primarily associated with a characteristic histologic appearance known as 'medial necrosis' or 'Erdheim cystic medial necrosis' in which there is degeneration and fragmentation of elastic fibers, loss of smooth muscle cells, and an accumulation of basophilic ground substance.</description>
+<dbReference type="MIM" id="611788"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="11">
+<disease id="DI-03141">
+<name>Moyamoya disease 5</name>
+<acronym>MYMY5</acronym>
+<description>A progressive cerebral angiopathy characterized by bilateral intracranial carotid artery stenosis and telangiectatic vessels in the region of the basal ganglia. The abnormal vessels resemble a 'puff of smoke' (moyamoya) on cerebral angiogram. Affected individuals can develop transient ischemic attacks and/or cerebral infarction, and rupture of the collateral vessels can cause intracranial hemorrhage. Hemiplegia of sudden onset and epileptic seizures constitute the prevailing presentation in childhood, while subarachnoid bleeding occurs more frequently in adults.</description>
+<dbReference type="MIM" id="614042"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="10">
+<disease id="DI-03109">
+<name>Multisystemic smooth muscle dysfunction syndrome</name>
+<acronym>MSMDYS</acronym>
+<description>A syndrome characterized by dysfunction of smooth muscle cells throughout the body, leading to aortic and cerebrovascular disease, fixed dilated pupils, hypotonic bladder, malrotation, and hypoperistalsis of the gut and pulmonary hypertension.</description>
+<dbReference type="MIM" id="613834"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="miscellaneous">
+<text>In vertebrates 3 main groups of actin isoforms, alpha, beta and gamma have been identified. The alpha actins are found in muscle tissues and are a major constituent of the contractile apparatus. The beta and gamma actins coexist in most cell types as components of the cytoskeleton and as mediators of internal cell motility.</text>
+</comment>
+<comment type="similarity">
+<text evidence="12">Belongs to the actin family.</text>
+</comment>
+<dbReference type="EMBL" id="X13839">
+<property type="protein sequence ID" value="CAA32064.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="J05192">
+<property type="protein sequence ID" value="AAA51577.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY692464">
+<property type="protein sequence ID" value="AAW29811.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CR536518">
+<property type="protein sequence ID" value="CAG38756.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK313294">
+<property type="protein sequence ID" value="BAG36101.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL157394">
+<property type="protein sequence ID" value="CAI13864.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471066">
+<property type="protein sequence ID" value="EAW50153.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC017554">
+<property type="protein sequence ID" value="AAH17554.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC093052">
+<property type="protein sequence ID" value="AAH93052.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="K01741">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="K01742">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="K01743">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M33216">
+<property type="protein sequence ID" value="AAA60560.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS7392.1"/>
+<dbReference type="PIR" id="A35020">
+<property type="entry name" value="ATHUSM"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001135417.1">
+<property type="nucleotide sequence ID" value="NM_001141945.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001307784.1">
+<property type="nucleotide sequence ID" value="NM_001320855.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001604.1">
+<property type="nucleotide sequence ID" value="NM_001613.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.500483"/>
+<dbReference type="ProteinModelPortal" id="P62736"/>
+<dbReference type="SMR" id="P62736"/>
+<dbReference type="BioGrid" id="106574">
+<property type="interactions" value="135"/>
+</dbReference>
+<dbReference type="IntAct" id="P62736">
+<property type="interactions" value="25"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000224784"/>
+<dbReference type="iPTMnet" id="P62736"/>
+<dbReference type="PhosphoSitePlus" id="P62736"/>
+<dbReference type="SwissPalm" id="P62736"/>
+<dbReference type="BioMuta" id="ACTA2"/>
+<dbReference type="DMDM" id="51316972"/>
+<dbReference type="REPRODUCTION-2DPAGE" id="IPI00008603"/>
+<dbReference type="UCD-2DPAGE" id="P62736"/>
+<dbReference type="EPD" id="P62736"/>
+<dbReference type="MaxQB" id="P62736"/>
+<dbReference type="PaxDb" id="P62736"/>
+<dbReference type="PeptideAtlas" id="P62736"/>
+<dbReference type="PRIDE" id="P62736"/>
+<dbReference type="TopDownProteomics" id="P62736"/>
+<dbReference type="DNASU" id="59"/>
+<dbReference type="Ensembl" id="ENST00000224784">
+<property type="protein sequence ID" value="ENSP00000224784"/>
+<property type="gene ID" value="ENSG00000107796"/>
+</dbReference>
+<dbReference type="GeneID" id="59"/>
+<dbReference type="KEGG" id="hsa:59"/>
+<dbReference type="UCSC" id="uc001kfp.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="59"/>
+<dbReference type="DisGeNET" id="59"/>
+<dbReference type="GeneCards" id="ACTA2"/>
+<dbReference type="GeneReviews" id="ACTA2"/>
+<dbReference type="HGNC" id="HGNC:130">
+<property type="gene designation" value="ACTA2"/>
+</dbReference>
+<dbReference type="HPA" id="CAB000002"/>
+<dbReference type="HPA" id="CAB013531"/>
+<dbReference type="HPA" id="HPA041264"/>
+<dbReference type="HPA" id="HPA041271"/>
+<dbReference type="MalaCards" id="ACTA2"/>
+<dbReference type="MIM" id="102620">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="611788">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="613834">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="614042">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P62736"/>
+<dbReference type="OpenTargets" id="ENSG00000107796"/>
+<dbReference type="Orphanet" id="91387">
+<property type="disease" value="Familial thoracic aortic aneurysm and aortic dissection"/>
+</dbReference>
+<dbReference type="Orphanet" id="2573">
+<property type="disease" value="Moyamoya disease"/>
+</dbReference>
+<dbReference type="Orphanet" id="404463">
+<property type="disease" value="Multisystemic smooth muscle dysfunction syndrome"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA24456"/>
+<dbReference type="eggNOG" id="KOG0676">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5277">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00760000118957"/>
+<dbReference type="HOGENOM" id="HOG000233340"/>
+<dbReference type="HOVERGEN" id="HBG003771"/>
+<dbReference type="InParanoid" id="P62736"/>
+<dbReference type="KO" id="K12313"/>
+<dbReference type="OMA" id="AMCEEED"/>
+<dbReference type="OrthoDB" id="EOG091G08LD"/>
+<dbReference type="PhylomeDB" id="P62736"/>
+<dbReference type="TreeFam" id="TF354237"/>
+<dbReference type="Reactome" id="R-HSA-445355">
+<property type="pathway name" value="Smooth Muscle Contraction"/>
+</dbReference>
+<dbReference type="SignaLink" id="P62736"/>
+<dbReference type="SIGNOR" id="P62736"/>
+<dbReference type="GeneWiki" id="ACTA2"/>
+<dbReference type="GenomeRNAi" id="59"/>
+<dbReference type="PMAP-CutDB" id="P62736"/>
+<dbReference type="PRO" id="PR:P62736"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 10"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000107796"/>
+<dbReference type="CleanEx" id="HS_ACTA2"/>
+<dbReference type="ExpressionAtlas" id="P62736">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P62736">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015629">
+<property type="term" value="C:actin cytoskeleton"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044297">
+<property type="term" value="C:cell body"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005615">
+<property type="term" value="C:extracellular space"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030175">
+<property type="term" value="C:filopodium"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030027">
+<property type="term" value="C:lamellipodium"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043234">
+<property type="term" value="C:protein complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030485">
+<property type="term" value="C:smooth muscle contractile fiber"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019901">
+<property type="term" value="F:protein kinase binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072144">
+<property type="term" value="P:glomerular mesangial cell development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090131">
+<property type="term" value="P:mesenchyme migration"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006936">
+<property type="term" value="P:muscle contraction"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010628">
+<property type="term" value="P:positive regulation of gene expression"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008217">
+<property type="term" value="P:regulation of blood pressure"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009615">
+<property type="term" value="P:response to virus"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014829">
+<property type="term" value="P:vascular smooth muscle contraction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004000">
+<property type="entry name" value="Actin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020902">
+<property type="entry name" value="Actin/actin-like_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004001">
+<property type="entry name" value="Actin_CS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11937">
+<property type="entry name" value="PTHR11937"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00022">
+<property type="entry name" value="Actin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00190">
+<property type="entry name" value="ACTIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00268">
+<property type="entry name" value="ACTIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00406">
+<property type="entry name" value="ACTINS_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00432">
+<property type="entry name" value="ACTINS_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01132">
+<property type="entry name" value="ACTINS_ACT_LIKE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0993">Aortic aneurysm</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0488">Methylation</keyword>
+<keyword id="KW-0514">Muscle protein</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0558">Oxidation</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="propeptide" description="Removed in mature form" id="PRO_0000000738" evidence="1">
+<location>
+<begin position="1"/>
+<end position="2"/>
+</location>
+</feature>
+<feature type="chain" description="Actin, aortic smooth muscle" id="PRO_0000000739">
+<location>
+<begin position="3"/>
+<end position="377"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylglutamate" evidence="1">
+<location>
+<position position="3"/>
+</location>
+</feature>
+<feature type="modified residue" description="Methionine (R)-sulfoxide" evidence="2">
+<location>
+<position position="46"/>
+</location>
+</feature>
+<feature type="modified residue" description="Methionine (R)-sulfoxide" evidence="2">
+<location>
+<position position="49"/>
+</location>
+</feature>
+<feature type="modified residue" description="Tele-methylhistidine" evidence="4">
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-methyllysine" evidence="5">
+<location>
+<position position="86"/>
+</location>
+</feature>
+<feature type="cross-link" description="Isoglutamyl lysine isopeptide (Lys-Glu) (interchain with E-272); by Vibrio toxins RtxA and VgrG1" evidence="3">
+<location>
+<position position="52"/>
+</location>
+</feature>
+<feature type="cross-link" description="Isoglutamyl lysine isopeptide (Glu-Lys) (interchain with K-52); by Vibrio toxins RtxA and VgrG1" evidence="3">
+<location>
+<position position="272"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AAT6; dbSNP:rs794728021." id="VAR_062577" evidence="8">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="39"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AAT6." id="VAR_045915" evidence="7 8">
+<original>N</original>
+<variation>T</variation>
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AAT6; dbSNP:rs112602953." id="VAR_045916" evidence="7 8">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="118"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AAT6; dbSNP:rs751300489." id="VAR_045917" evidence="7">
+<original>Y</original>
+<variation>H</variation>
+<location>
+<position position="135"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AAT6." id="VAR_062578" evidence="9">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="145"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AAT6; dbSNP:rs121434526." id="VAR_045918" evidence="7 8 9">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="149"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AAT6." id="VAR_045919" evidence="7 8">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="154"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MYMY5 and MSMDYS; disease phenotype include smooth muscle cells dysfunction in organs throughout the body with decreased contractile function in the iris, bladder and gastrointestinal tract; dbSNP:rs387906592." id="VAR_064516" evidence="10 11">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="179"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AAT6." id="VAR_062579" evidence="8">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="185"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1803028." id="VAR_011944">
+<original>T</original>
+<variation>S</variation>
+<location>
+<position position="196"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AAT6; dbSNP:rs397516685." id="VAR_062580" evidence="8 9">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="212"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AAT6; dbSNP:rs121434528." id="VAR_045920" evidence="7 8">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="258"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AAT6; dbSNP:rs121434527." id="VAR_045921" evidence="7 8">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="258"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AAT6." id="VAR_045922" evidence="7">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="292"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1803027." id="VAR_011945">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="320"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AAT6; dbSNP:rs777832794." id="VAR_062581" evidence="8">
+<original>T</original>
+<variation>N</variation>
+<location>
+<position position="326"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AAT6." id="VAR_045923" evidence="7 8">
+<original>T</original>
+<variation>N</variation>
+<location>
+<position position="353"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1062398." id="VAR_011946">
+<original>H</original>
+<variation>P</variation>
+<location>
+<position position="373"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAA51577." ref="2" evidence="12">
+<original>S</original>
+<variation>W</variation>
+<location>
+<position position="234"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="22223895"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P60709"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P62739"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P68032"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16548883"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17994018"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19409525"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19639654"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20734336"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20970362"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000305"/>
+<evidence key="13" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="19015515"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="26228148"/>
+</source>
+</evidence>
+<sequence length="377" mass="42009" checksum="2D0543262DB35CA5" modified="2004-08-16" version="1" precursor="true">
+MCEEEDSTALVCDNGSGLCKAGFAGDDAPRAVFPSIVGRPRHQGVMVGMGQKDSYVGDEA
+QSKRGILTLKYPIEHGIITNWDDMEKIWHHSFYNELRVAPEEHPTLLTEAPLNPKANREK
+MTQIMFETFNVPAMYVAIQAVLSLYASGRTTGIVLDSGDGVTHNVPIYEGYALPHAIMRL
+DLAGRDLTDYLMKILTERGYSFVTTAEREIVRDIKEKLCYVALDFENEMATAASSSSLEK
+SYELPDGQVITIGNERFRCPETLFQPSFIGMESAGIHETTYNSIMKCDIDIRKDLYANNV
+LSGGTTMYPGIADRMQKEITALAPSTMKIKIIAPPERKYSVWIGGSILASLSTFQQMWIS
+KQEYDEAGPSIVHRKCF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

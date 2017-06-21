@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2009-03-03" modified="2017-05-10" version="57">
+<accession>B7Z7P4</accession>
+<name>B7Z7P4_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="5">cDNA FLJ53627, highly similar to Antigen peptide transporter 1</fullName>
+</submittedName>
+</protein>
+<organism evidence="5">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project focused on splicing variants.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="5">Testis</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AK302340">
+<property type="protein sequence ID" value="BAH13680.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001278951.1">
+<property type="nucleotide sequence ID" value="NM_001292022.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.352018"/>
+<dbReference type="UniGene" id="Hs.731555"/>
+<dbReference type="ProteinModelPortal" id="B7Z7P4"/>
+<dbReference type="STRING" id="9606.ENSP00000346206"/>
+<dbReference type="PaxDb" id="B7Z7P4"/>
+<dbReference type="PeptideAtlas" id="B7Z7P4"/>
+<dbReference type="PRIDE" id="B7Z7P4"/>
+<dbReference type="GeneID" id="6890"/>
+<dbReference type="CTD" id="6890"/>
+<dbReference type="eggNOG" id="KOG0058">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1132">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG008358"/>
+<dbReference type="GenomeRNAi" id="6890"/>
+<dbReference type="GO" id="GO:0042825">
+<property type="term" value="C:TAP complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042287">
+<property type="term" value="F:MHC protein binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015440">
+<property type="term" value="F:peptide-transporting ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046979">
+<property type="term" value="F:TAP2 binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019885">
+<property type="term" value="P:antigen processing and presentation of endogenous peptide antigen via MHC class I"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011527">
+<property type="entry name" value="ABC1_TM_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013305">
+<property type="entry name" value="ABC_Tap-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003439">
+<property type="entry name" value="ABC_transporter-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017871">
+<property type="entry name" value="ABC_transporter_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013306">
+<property type="entry name" value="Tap1/ABCB2"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24221:SF280">
+<property type="entry name" value="PTHR24221:SF280"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00664">
+<property type="entry name" value="ABC_membrane"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00005">
+<property type="entry name" value="ABC_tran"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF90123">
+<property type="entry name" value="SSF90123"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00958">
+<property type="entry name" value="3a01208"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50929">
+<property type="entry name" value="ABC_TM1F"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00211">
+<property type="entry name" value="ABC_TRANSPORTER_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50893">
+<property type="entry name" value="ABC_TRANSPORTER_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0472" evidence="2">Membrane</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0812" evidence="2">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="2">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="105"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transmembrane type-1" evidence="4">
+<location>
+<begin position="1"/>
+<end position="269"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transporter" evidence="3">
+<location>
+<begin position="302"/>
+<end position="541"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="337"/>
+<end position="344"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00434"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50893"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50929"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAH13680.1"/>
+</source>
+</evidence>
+<sequence length="547" mass="59940" checksum="0DC4A144CA6D6D6A" modified="2009-03-03" version="1">
+MAIPFFTGRLTDWILQDGSADTFTRNLTLMSILTIASAVLEFVGDGIYNNTMGHVHSHLQ
+GEVFGAVLRQETEFFQQNQTGNIMSRVTEDTSTLSDSLSENLSLFLWYLVRGLCLLGIML
+WGSVSLTMVTLITLPLLFLLPKKVGKWYQLLEVQVRESLAKSSQVAIEALSAMPTVRSFA
+NEEGEAQKFREKLQEIKTLNQKEAVAYAVNSWTTSISGMLLKVGILYIGGQLVTSGAVSS
+GNLVTFVLCQMQFTQAVEVLLSIYPRVQKAVGSSEKIFEYLDRTPRCPPSGLLTPLHLEG
+LVQFQDVSFAYPNRPDVLVLQGLTFTLRPGEVTALVGPNGSGKSTVAALLQNLYQPTGGQ
+LLLDGKPLPQYEHRYLHRQVAAVGQEPQVFGRSLQENIAYGLTQKPTMEEITAAAVKSGA
+HSFISGLPQGYDTEVDEAGSQLSGGQRQAVALARALIRKPCVLILDDATSALDANSQLQV
+EQLLYESPERYSRSVLLITQHLSLVEQADHILFLEGGAIREGGTHQQLMEKKGCYWAMVQ
+APADAPE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

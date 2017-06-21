@@ -1,0 +1,900 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2006-10-17" modified="2017-05-10" version="126">
+<accession>Q96J65</accession>
+<accession>Q49AL2</accession>
+<accession>Q8TAF0</accession>
+<accession>Q8TEY2</accession>
+<name>MRP9_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Multidrug resistance-associated protein 9</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>ATP-binding cassette sub-family C member 12</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ABCC12</name>
+<name type="synonym">MRP9</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2001" name="Biochem. Biophys. Res. Commun." volume="288" first="933" last="939">
+<title>Multiple splicing variants of two new human ATP-binding cassette transporters, ABCC11 and ABCC12.</title>
+<authorList>
+<person name="Yabuuchi H."/>
+<person name="Shimizu H."/>
+<person name="Takayanagi S."/>
+<person name="Ishikawa T."/>
+</authorList>
+<dbReference type="PubMed" id="11688999"/>
+<dbReference type="DOI" id="10.1006/bbrc.2001.5865"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 2 AND 3)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>DEVELOPMENTAL STAGE</scope>
+<source>
+<tissue>Liver</tissue>
+<tissue>Pancreas</tissue>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2001" name="Gene" volume="273" first="89" last="96">
+<title>Two new genes from the human ATP-binding cassette transporter superfamily, ABCC11 and ABCC12, tandemly duplicated on chromosome 16q12.</title>
+<authorList>
+<person name="Tammur J."/>
+<person name="Prades C."/>
+<person name="Arnould I."/>
+<person name="Rzhetsky A."/>
+<person name="Hutchinson A."/>
+<person name="Adachi M."/>
+<person name="Schuetz J.D."/>
+<person name="Swoboda K.J."/>
+<person name="Ptacek L.J."/>
+<person name="Rosier M."/>
+<person name="Dean M."/>
+<person name="Allikmets R."/>
+</authorList>
+<dbReference type="PubMed" id="11483364"/>
+<dbReference type="DOI" id="10.1016/S0378-1119(01)00572-8"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>VARIANT CYS-1117</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<source>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2002" name="Proc. Natl. Acad. Sci. U.S.A." volume="99" first="6997" last="7002">
+<title>MRP9, an unusual truncated member of the ABC transporter superfamily, is highly expressed in breast cancer.</title>
+<authorList>
+<person name="Bera T.K."/>
+<person name="Iavarone C."/>
+<person name="Kumar V."/>
+<person name="Lee S."/>
+<person name="Lee B."/>
+<person name="Pastan I."/>
+</authorList>
+<dbReference type="PubMed" id="12011458"/>
+<dbReference type="DOI" id="10.1073/pnas.102187299"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 5)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Nature" volume="432" first="988" last="994">
+<title>The sequence and analysis of duplication-rich human chromosome 16.</title>
+<authorList>
+<person name="Martin J."/>
+<person name="Han C."/>
+<person name="Gordon L.A."/>
+<person name="Terry A."/>
+<person name="Prabhakar S."/>
+<person name="She X."/>
+<person name="Xie G."/>
+<person name="Hellsten U."/>
+<person name="Chan Y.M."/>
+<person name="Altherr M."/>
+<person name="Couronne O."/>
+<person name="Aerts A."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Blumer H."/>
+<person name="Branscomb E."/>
+<person name="Brown N.C."/>
+<person name="Bruno W.J."/>
+<person name="Buckingham J.M."/>
+<person name="Callen D.F."/>
+<person name="Campbell C.S."/>
+<person name="Campbell M.L."/>
+<person name="Campbell E.W."/>
+<person name="Caoile C."/>
+<person name="Challacombe J.F."/>
+<person name="Chasteen L.A."/>
+<person name="Chertkov O."/>
+<person name="Chi H.C."/>
+<person name="Christensen M."/>
+<person name="Clark L.M."/>
+<person name="Cohn J.D."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Dickson M."/>
+<person name="Dimitrijevic-Bussod M."/>
+<person name="Escobar J."/>
+<person name="Fawcett J.J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Goodstein D."/>
+<person name="Goodwin L.A."/>
+<person name="Grady D.L."/>
+<person name="Grigoriev I."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Hildebrand C.E."/>
+<person name="Huang W."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Jewett P.B."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Krawczyk M.-C."/>
+<person name="Leyba T."/>
+<person name="Longmire J.L."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Lowry S."/>
+<person name="Ludeman T."/>
+<person name="Manohar C.F."/>
+<person name="Mark G.A."/>
+<person name="McMurray K.L."/>
+<person name="Meincke L.J."/>
+<person name="Morgan J."/>
+<person name="Moyzis R.K."/>
+<person name="Mundt M.O."/>
+<person name="Munk A.C."/>
+<person name="Nandkeshwar R.D."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Predki P."/>
+<person name="Parson-Quintana B."/>
+<person name="Ramirez L."/>
+<person name="Rash S."/>
+<person name="Retterer J."/>
+<person name="Ricke D.O."/>
+<person name="Robinson D.L."/>
+<person name="Rodriguez A."/>
+<person name="Salamov A."/>
+<person name="Saunders E.H."/>
+<person name="Scott D."/>
+<person name="Shough T."/>
+<person name="Stallings R.L."/>
+<person name="Stalvey M."/>
+<person name="Sutherland R.D."/>
+<person name="Tapia R."/>
+<person name="Tesmer J.G."/>
+<person name="Thayer N."/>
+<person name="Thompson L.S."/>
+<person name="Tice H."/>
+<person name="Torney D.C."/>
+<person name="Tran-Gyamfi M."/>
+<person name="Tsai M."/>
+<person name="Ulanovsky L.E."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="White P.S."/>
+<person name="Williams A.L."/>
+<person name="Wills P.L."/>
+<person name="Wu J.-R."/>
+<person name="Wu K."/>
+<person name="Yang J."/>
+<person name="DeJong P."/>
+<person name="Bruce D."/>
+<person name="Doggett N.A."/>
+<person name="Deaven L."/>
+<person name="Schmutz J."/>
+<person name="Grimwood J."/>
+<person name="Richardson P."/>
+<person name="Rokhsar D.S."/>
+<person name="Eichler E.E."/>
+<person name="Gilna P."/>
+<person name="Lucas S.M."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+<person name="Pennacchio L.A."/>
+</authorList>
+<dbReference type="PubMed" id="15616553"/>
+<dbReference type="DOI" id="10.1038/nature03187"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 4)</scope>
+<source>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">Probable transporter.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Membrane</location>
+<topology evidence="4">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q96J65-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q96J65-2</id>
+<name>2</name>
+<name>A</name>
+<name>C</name>
+<name>D</name>
+<sequence type="described" ref="VSP_021084 VSP_021088 VSP_021092"/>
+<text>May be produced at very low levels due to a premature stop codon in the mRNA, leading to nonsense-mediated mRNA decay.</text>
+</isoform>
+<isoform>
+<id>Q96J65-3</id>
+<name>3</name>
+<name>B</name>
+<sequence type="described" ref="VSP_021084 VSP_021088 VSP_021090 VSP_021091"/>
+<text>May be produced at very low levels due to a premature stop codon in the mRNA, leading to nonsense-mediated mRNA decay.</text>
+</isoform>
+<isoform>
+<id>Q96J65-4</id>
+<name>4</name>
+<sequence type="described" ref="VSP_021084 VSP_021086 VSP_021087"/>
+<text>No experimental confirmation available. May be produced at very low levels due to a premature stop codon in the mRNA, leading to nonsense-mediated mRNA decay.</text>
+</isoform>
+<isoform>
+<id>Q96J65-5</id>
+<name>5</name>
+<sequence type="described" ref="VSP_021084 VSP_021085 VSP_021089 VSP_021092"/>
+<text>May be produced at very low levels due to a premature stop codon in the mRNA, leading to nonsense-mediated mRNA decay.</text>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="5 6 7">Expressed in testis (at protein level). Widely expressed at low level. Isoform 5 is specifically expressed in brain, testis and breast cancer cells.</text>
+</comment>
+<comment type="developmental stage">
+<text evidence="6">Expressed in fetal tissues.</text>
+</comment>
+<comment type="similarity">
+<text evidence="11">Belongs to the ABC transporter superfamily. ABCC family. Conjugate transporter (TC 3.A.1.208) subfamily.</text>
+</comment>
+<comment type="online information" name="ABCMdb">
+<link uri="http://abcmutations.hegelab.org/proteinDetails?uniprot_id=Q96J65"/>
+<text>Database for mutations in ABC proteins</text>
+</comment>
+<dbReference type="EMBL" id="AF395908">
+<property type="protein sequence ID" value="AAL79528.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF395909">
+<property type="protein sequence ID" value="AAL79529.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF411577">
+<property type="protein sequence ID" value="AAL99900.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF411578">
+<property type="protein sequence ID" value="AAL99901.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY040220">
+<property type="protein sequence ID" value="AAK76740.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196326">
+<property type="protein sequence ID" value="AAO40749.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC096996">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC036378">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS10730.1">
+<molecule id="Q96J65-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_150229.2">
+<molecule id="Q96J65-1"/>
+<property type="nucleotide sequence ID" value="NM_033226.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.410111"/>
+<dbReference type="ProteinModelPortal" id="Q96J65"/>
+<dbReference type="SMR" id="Q96J65"/>
+<dbReference type="BioGrid" id="125142">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="IntAct" id="Q96J65">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000311030"/>
+<dbReference type="TCDB" id="3.A.1.208.29">
+<property type="family name" value="the atp-binding cassette (abc) superfamily"/>
+</dbReference>
+<dbReference type="iPTMnet" id="Q96J65"/>
+<dbReference type="PhosphoSitePlus" id="Q96J65"/>
+<dbReference type="BioMuta" id="ABCC12"/>
+<dbReference type="DMDM" id="161788999"/>
+<dbReference type="PaxDb" id="Q96J65"/>
+<dbReference type="PeptideAtlas" id="Q96J65"/>
+<dbReference type="PRIDE" id="Q96J65"/>
+<dbReference type="DNASU" id="94160"/>
+<dbReference type="Ensembl" id="ENST00000311303">
+<molecule id="Q96J65-1"/>
+<property type="protein sequence ID" value="ENSP00000311030"/>
+<property type="gene ID" value="ENSG00000140798"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000497206">
+<molecule id="Q96J65-2"/>
+<property type="protein sequence ID" value="ENSP00000431232"/>
+<property type="gene ID" value="ENSG00000140798"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000529084">
+<molecule id="Q96J65-4"/>
+<property type="protein sequence ID" value="ENSP00000434510"/>
+<property type="gene ID" value="ENSG00000140798"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000529504">
+<molecule id="Q96J65-3"/>
+<property type="protein sequence ID" value="ENSP00000433333"/>
+<property type="gene ID" value="ENSG00000140798"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000532494">
+<molecule id="Q96J65-2"/>
+<property type="protein sequence ID" value="ENSP00000437047"/>
+<property type="gene ID" value="ENSG00000140798"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000534418">
+<molecule id="Q96J65-5"/>
+<property type="protein sequence ID" value="ENSP00000431354"/>
+<property type="gene ID" value="ENSG00000140798"/>
+</dbReference>
+<dbReference type="GeneID" id="94160"/>
+<dbReference type="KEGG" id="hsa:94160"/>
+<dbReference type="UCSC" id="uc002efc.1">
+<molecule id="Q96J65-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="94160"/>
+<dbReference type="DisGeNET" id="94160"/>
+<dbReference type="GeneCards" id="ABCC12"/>
+<dbReference type="H-InvDB" id="HIX0026945"/>
+<dbReference type="HGNC" id="HGNC:14640">
+<property type="gene designation" value="ABCC12"/>
+</dbReference>
+<dbReference type="HPA" id="HPA043100"/>
+<dbReference type="MIM" id="607041">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q96J65"/>
+<dbReference type="OpenTargets" id="ENSG00000140798"/>
+<dbReference type="PharmGKB" id="PA24394"/>
+<dbReference type="eggNOG" id="KOG0054">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1132">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00870000136442"/>
+<dbReference type="HOVERGEN" id="HBG108314"/>
+<dbReference type="InParanoid" id="Q96J65"/>
+<dbReference type="KO" id="K05672"/>
+<dbReference type="OMA" id="VPECTHP"/>
+<dbReference type="OrthoDB" id="EOG091G01TC"/>
+<dbReference type="PhylomeDB" id="Q96J65"/>
+<dbReference type="TreeFam" id="TF105202"/>
+<dbReference type="GeneWiki" id="ABCC12"/>
+<dbReference type="GenomeRNAi" id="94160"/>
+<dbReference type="PRO" id="PR:Q96J65"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 16"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000140798"/>
+<dbReference type="CleanEx" id="HS_ABCC12"/>
+<dbReference type="ExpressionAtlas" id="Q96J65">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q96J65">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042626">
+<property type="term" value="F:ATPase activity, coupled to transmembrane movement of substances"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055085">
+<property type="term" value="P:transmembrane transport"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011527">
+<property type="entry name" value="ABC1_TM_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003439">
+<property type="entry name" value="ABC_transporter-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017871">
+<property type="entry name" value="ABC_transporter_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030250">
+<property type="entry name" value="MRP9"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24223:SF317">
+<property type="entry name" value="PTHR24223:SF317"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00664">
+<property type="entry name" value="ABC_membrane"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00005">
+<property type="entry name" value="ABC_tran"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF90123">
+<property type="entry name" value="SSF90123"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50929">
+<property type="entry name" value="ABC_TM1F"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00211">
+<property type="entry name" value="ABC_TRANSPORTER_1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50893">
+<property type="entry name" value="ABC_TRANSPORTER_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="Multidrug resistance-associated protein 9" id="PRO_0000253578">
+<location>
+<begin position="1"/>
+<end position="1359"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="4">
+<location>
+<begin position="125"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="4">
+<location>
+<begin position="159"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="4">
+<location>
+<begin position="231"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="4">
+<location>
+<begin position="256"/>
+<end position="276"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="4">
+<location>
+<begin position="348"/>
+<end position="368"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="4">
+<location>
+<begin position="376"/>
+<end position="396"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="4">
+<location>
+<begin position="791"/>
+<end position="811"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="4">
+<location>
+<begin position="853"/>
+<end position="873"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="4">
+<location>
+<begin position="934"/>
+<end position="954"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="4">
+<location>
+<begin position="1031"/>
+<end position="1051"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transmembrane type-1 1" evidence="4">
+<location>
+<begin position="123"/>
+<end position="403"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transporter 1" evidence="3">
+<location>
+<begin position="467"/>
+<end position="701"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transmembrane type-1 2" evidence="4">
+<location>
+<begin position="795"/>
+<end position="1082"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transporter 2" evidence="3">
+<location>
+<begin position="1120"/>
+<end position="1354"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP 1" evidence="3">
+<location>
+<begin position="513"/>
+<end position="520"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP 2" evidence="3">
+<location>
+<begin position="1154"/>
+<end position="1161"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="405"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="438"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="540"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="981"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2, isoform 3, isoform 4 and isoform 5." id="VSP_021084" evidence="8 9 10">
+<original>VI</original>
+<variation>TV</variation>
+<location>
+<begin position="142"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 5." id="VSP_021085" evidence="9">
+<location>
+<begin position="220"/>
+<end position="277"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_021086" evidence="10">
+<original>YQHTVRVCGLQKDLSNLPYGDLTEIGERGLNLSGGQRQRISLARAVYSDRQLYLLDDPLSAV</original>
+<variation>LGSGASTSLGGRGRGLAWPALSTPTVSSTCWTTPCRPWTPTWGSTSLRSALRRRSGERQSSW</variation>
+<location>
+<begin position="572"/>
+<end position="633"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_021087" evidence="10">
+<location>
+<begin position="634"/>
+<end position="1359"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2 and isoform 3." id="VSP_021088" evidence="8">
+<location>
+<begin position="734"/>
+<end position="736"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 5." id="VSP_021089" evidence="9">
+<location>
+<begin position="737"/>
+<end position="760"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_021090" evidence="8">
+<original>ILKSPMSFFDTTPTGRLMNRFSKDMDELDVRLPFHAENFLQQFFMVV</original>
+<variation>HFPQRSPGAQEGGECQPVTLVHPHHLLHAGPGHHSRLWQEGELHHLV</variation>
+<location>
+<begin position="892"/>
+<end position="938"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_021091" evidence="8">
+<location>
+<begin position="939"/>
+<end position="1359"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2 and isoform 5." id="VSP_021092" evidence="8 9">
+<location>
+<begin position="1013"/>
+<end position="1359"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs16945901." id="VAR_028392">
+<original>I</original>
+<variation>L</variation>
+<location>
+<position position="9"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs16945874." id="VAR_028393">
+<original>A</original>
+<variation>E</variation>
+<location>
+<position position="102"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs16945816." id="VAR_028394">
+<original>N</original>
+<variation>Y</variation>
+<location>
+<position position="587"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34135219." id="VAR_048139">
+<original>E</original>
+<variation>V</variation>
+<location>
+<position position="690"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs8057474." id="VAR_028395">
+<original>K</original>
+<variation>M</variation>
+<location>
+<position position="894"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6500305." id="VAR_028396">
+<original>T</original>
+<variation>S</variation>
+<location>
+<position position="989"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6500304." id="VAR_028397">
+<original>Y</original>
+<variation>H</variation>
+<location>
+<position position="1013"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs7193955." id="VAR_028398" evidence="5">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="1117"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34106426." id="VAR_048140">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="1187"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs16945787." id="VAR_028399">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="1191"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs12373105." id="VAR_028400">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="1349"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; BC036378." ref="5" evidence="11">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAL79528/AAL79529/AAL99900/AAL99901." ref="1" evidence="11">
+<original>SRK</original>
+<variation>RQE</variation>
+<location>
+<begin position="448"/>
+<end position="450"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAL79528/AAL79529/AAL99900/AAL99901." ref="1" evidence="11">
+<original>W</original>
+<variation>R</variation>
+<location>
+<position position="853"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00434"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00441"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11483364"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11688999"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12011458"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="11688999"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="12011458"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<sequence length="1359" mass="152297" checksum="DA8AF5A3EE9B10E8" modified="2007-12-04" version="2">
+MVGEGPYLISDLDQRGRRRSFAERYDPSLKTMIPVRPCARLAPNPVDDAGLLSFATFSWL
+TPVMVKGYRQRLTVDTLPPLSTYDSSDTNAKRFRVLWDEEVARVGPEKASLSHVVWKFQR
+TRVLMDIVANILCIIMAAIGPVILIHQILQQTERTSGKVWVGIGLCIALFATEFTKVFFW
+ALAWAINYRTAIRLKVALSTLVFENLVSFKTLTHISVGEVLNILSSDSYSLFEAALFCPL
+PATIPILMVFCAAYAFFILGPTALIGISVYVIFIPVQMFMAKLNSAFRRSAILVTDKRVQ
+TMNEFLTCIRLIKMYAWEKSFTNTIQDIRRRERKLLEKAGFVQSGNSALAPIVSTIAIVL
+TLSCHILLRRKLTAPVAFSVIAMFNVMKFSIAILPFSIKAMAEANVSLRRMKKILIDKSP
+PSYITQPEDPDTVLLLANATLTWEHEASRKSTPKKLQNQKRHLCKKQRSEAYSERSPPAK
+GATGPEEQSDSLKSVLHSISFVVRKGKILGICGNVGSGKSSLLAALLGQMQLQKGVVAVN
+GTLAYVSQQAWIFHGNVRENILFGEKYDHQRYQHTVRVCGLQKDLSNLPYGDLTEIGERG
+LNLSGGQRQRISLARAVYSDRQLYLLDDPLSAVDAHVGKHVFEECIKKTLRGKTVVLVTH
+QLQFLESCDEVILLEDGEICEKGTHKELMEERGRYAKLIHNLRGLQFKDPEHLYNAAMVE
+AFKESPAEREEDAGIIVLAPGNEKDEGKESETGSEFVDTKVPEHQLIQTESPQEGTVTWK
+TYHTYIKASGGYLLSLFTVFLFLLMIGSAAFSNWWLGLWLDKGSRMTCGPQGNRTMCEVG
+AVLADIGQHVYQWVYTASMVFMLVFGVTKGFVFTKTTLMASSSLHDTVFDKILKSPMSFF
+DTTPTGRLMNRFSKDMDELDVRLPFHAENFLQQFFMVVFILVILAAVFPAVLLVVASLAV
+GFFILLRIFHRGVQELKKVENVSRSPWFTHITSSMQGLGIIHAYGKKESCITYHLLYFNC
+ALRWFALRMDVLMNILTFTVALLVTLSFSSISTSSKGLSLSYIIQLSGLLQVCVRTGTET
+QAKFTSVELLREYISTCVPECTHPLKVGTCPKDWPSRGEITFRDYQMRYRDNTPLVLDSL
+NLNIQSGQTVGIVGRTGSGKSSLGMALFRLVEPASGTIFIDEVDICILSLEDLRTKLTVI
+PQDPVLFVGTVRYNLDPFESHTDEMLWQVLERTFMRDTIMKLPEKLQAEVTENGENFSVG
+ERQLLCVARALLRNSKIILLDEATASMDSKTDTLVQNTIKDAFKGCTVLTIAHRLNTVLN
+CDHVLVMENGKVIEFDKPEVLAEKPDSAFAMLLAAEVRL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2004-07-05" modified="2017-04-12" version="100">
+<accession>Q6ZSZ4</accession>
+<name>Q6ZSZ4_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="9">cDNA FLJ45103 fis, clone BRAWH3032571, moderately similar to Chromodomain helicase-DNA-binding protein 4</fullName>
+</submittedName>
+</protein>
+<organism evidence="9">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="9">
+<citation type="submission" date="2003-07" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizuguchi H."/>
+<person name="Inagaki H."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Otsuki T."/>
+<person name="Sato H."/>
+<person name="Wakamatsu A."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Isono Y."/>
+<person name="Kawai-Hio Y."/>
+<person name="Saito K."/>
+<person name="Nishikawa T."/>
+<person name="Kimura K."/>
+<person name="Yamashita H."/>
+<person name="Matsuo K."/>
+<person name="Nakamura Y."/>
+<person name="Sekine M."/>
+<person name="Kikuchi H."/>
+<person name="Kanda K."/>
+<person name="Wagatsuma M."/>
+<person name="Murakawa K."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Oshima A."/>
+<person name="Sugiyama A."/>
+<person name="Kawakami B."/>
+<person name="Suzuki Y."/>
+<person name="Sugano S."/>
+<person name="Nagahari K."/>
+<person name="Masuho Y."/>
+<person name="Nagai K."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="9">Brain</tissue>
+</source>
+</reference>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2">Nucleus</location>
+</subcellularLocation>
+</comment>
+<dbReference type="EMBL" id="AK127046">
+<property type="protein sequence ID" value="BAC86802.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.522898"/>
+<dbReference type="ProteinModelPortal" id="Q6ZSZ4"/>
+<dbReference type="STRING" id="9606.ENSP00000262450"/>
+<dbReference type="PaxDb" id="Q6ZSZ4"/>
+<dbReference type="PeptideAtlas" id="Q6ZSZ4"/>
+<dbReference type="eggNOG" id="ENOG410IREB">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XNUT">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG005326"/>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008026">
+<property type="term" value="F:ATP-dependent helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006355">
+<property type="term" value="P:regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.30.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.40.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012958">
+<property type="entry name" value="CHD_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000953">
+<property type="entry name" value="Chromo/chromo_shadow_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023780">
+<property type="entry name" value="Chromo_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016197">
+<property type="entry name" value="Chromodomain-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002464">
+<property type="entry name" value="DNA/RNA_helicase_DEAH_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009071">
+<property type="entry name" value="HMG_box_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000330">
+<property type="entry name" value="SNF2_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019786">
+<property type="entry name" value="Zinc_finger_PHD-type_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011011">
+<property type="entry name" value="Znf_FYVE_PHD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001965">
+<property type="entry name" value="Znf_PHD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019787">
+<property type="entry name" value="Znf_PHD-finger"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013083">
+<property type="entry name" value="Znf_RING/FYVE/PHD"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08073">
+<property type="entry name" value="CHDNT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00385">
+<property type="entry name" value="Chromo"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00628">
+<property type="entry name" value="PHD"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00176">
+<property type="entry name" value="SNF2_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00298">
+<property type="entry name" value="CHROMO"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00490">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00249">
+<property type="entry name" value="PHD"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54160">
+<property type="entry name" value="SSF54160"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF57903">
+<property type="entry name" value="SSF57903"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50013">
+<property type="entry name" value="CHROMO_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00690">
+<property type="entry name" value="DEAH_ATP_HELICASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01359">
+<property type="entry name" value="ZF_PHD_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50016">
+<property type="entry name" value="ZF_PHD_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="9">ATP-binding</keyword>
+<keyword id="KW-0175" evidence="4">Coiled coil</keyword>
+<keyword id="KW-0238" evidence="9">DNA-binding</keyword>
+<keyword id="KW-0347" evidence="9">Helicase</keyword>
+<keyword id="KW-0378" evidence="9">Hydrolase</keyword>
+<keyword id="KW-0479" evidence="3">Metal-binding</keyword>
+<keyword id="KW-0547" evidence="9">Nucleotide-binding</keyword>
+<keyword id="KW-0539" evidence="1">Nucleus</keyword>
+<keyword id="KW-0862" evidence="3">Zinc</keyword>
+<keyword id="KW-0863" evidence="3">Zinc-finger</keyword>
+<feature type="domain" description="PHD-type" evidence="6">
+<location>
+<begin position="343"/>
+<end position="390"/>
+</location>
+</feature>
+<feature type="domain" description="PHD-type" evidence="6">
+<location>
+<begin position="416"/>
+<end position="463"/>
+</location>
+</feature>
+<feature type="domain" description="Chromo" evidence="5">
+<location>
+<begin position="497"/>
+<end position="554"/>
+</location>
+</feature>
+<feature type="domain" description="Chromo" evidence="5">
+<location>
+<begin position="592"/>
+<end position="625"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase ATP-binding" evidence="7">
+<location>
+<begin position="712"/>
+<end position="896"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase C-terminal" evidence="8">
+<location>
+<begin position="1028"/>
+<end position="1174"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="4">
+<location>
+<begin position="65"/>
+<end position="92"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="4">
+<location>
+<begin position="96"/>
+<end position="120"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00497105"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00539527"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00592111"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50013"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50016"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51192"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51194"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAC86802.1"/>
+</source>
+</evidence>
+<sequence length="1225" mass="141229" checksum="5DCDF1935CA63669" modified="2004-07-05" version="1">
+MRGPVGTEEELPRLFAEEMENEDEMSEEEDGGLEAFDDFFPVEPVSLPKKKKPKKLKENK
+CKGKRKKKEGSNDELSENEEDLEEKSESEGSDYSPNKKKKKKLKDKKEKKAKRKKKDEDE
+DDNDDGCLKEPKSSGQLMAEWGLDDVDYLFSEEDYHTLTNYKAFSQFLRPLIAKKNPKIP
+MSKMMTVLGAKWREFSANNPFKGSSAAAAAAAVAAAVETVTISPPLAVSPPQVPQPVPIR
+KAKTKEGKGPGVRKKIKGSKDGKKKGKGKKTAGLKFRFGGISNKRKKGSSSEEDEREESD
+FDSASIHSASVRSECSAALGKKSKRRRKKKRIDDGDGYETDHQDYCEVCQQGGEIILCDT
+CPRAYHLVCLDPELEKAPEGKWSCPHCEKEGIQWEPKDDDDEEEEGGCEEEEDDHMEFCR
+VCKDGGELLCCDACPSSYHLHCLNPPLPEIPNGEWLCPRCTCPPLKGKVQRILHWRWTEP
+PAPFMVGLPGPDVEPSLPPPKPLEGIPEREFFVKWAGLSYWHCSWVKELQLELYHTVMYR
+NYQRKNDMDEPPPFDYGSGDEDGKSEKRKNKDPLYAKMEERFYRYGIKPEWMMIHRILNH
+SFDKKGDVHYLIKWKDLPYDQCTWEIDDIDIPYYDNLKQAYWGHRELMLGEDTGLPKRLL
+KKGKKLRDDKQEKPPDTPIVDPTVKFDKQPWYIDSTGGTLHPYQLEGLNWLRFSWAQGTD
+TILADEMGLGKTVQTIVFLYSLYKEGHSKGPYLVSAPLSTIINWEREFEMWAPDFYVVTY
+TGDKESRSVIRENEFSFEDNAIRSGKKVFRMKKEVQIKFHVLLTSYELITIDQAILGSIE
+WACLVVDEAHRLKNNQSKFFRVLNSYKIDYKLLLTGTPLQNNLEELFHLLNFLTPERFNN
+LEGFLEEFADISKEDQIKKLHDLLGPHMLRRLKADVFKNMPAKTELIVRVELSQMQKKYY
+KFILTRNFEALNSKGGGNQVSLLNIMMDLKKCCNHPYLFPVAAVEAPVLPNGSYDGSSLV
+KSSGKLMLLQKMLKKLRDEGHRVLIFSQMTKMLDLLEDFLEYEGYKYERIDGGITGGLRQ
+EAIDRFNAPGAQQFCFLLSTRAGGLGINLATADTVIIYDSDWNPHNDIQAFSRAHRIGQT
+KWKPSWATWMRKTPGHRSQGSPWKSRPFQPPWIEWRVRTSTRAQPARREPERSGQRRRRR
+PRPPRSSCRERRCFLRRRRSWTSWS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

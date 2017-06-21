@@ -1,0 +1,992 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1994-02-01" modified="2017-05-10" version="182">
+<accession>P35250</accession>
+<accession>B5BU07</accession>
+<accession>D3DXG3</accession>
+<accession>P32846</accession>
+<accession>Q9BU93</accession>
+<name>RFC2_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Replication factor C subunit 2</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Activator 1 40 kDa subunit</fullName>
+<shortName>A1 40 kDa subunit</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Activator 1 subunit 2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Replication factor C 40 kDa subunit</fullName>
+<shortName>RF-C 40 kDa subunit</shortName>
+<shortName>RFC40</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">RFC2</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1992" name="Proc. Natl. Acad. Sci. U.S.A." volume="89" first="2516" last="2520">
+<title>Sequence and expression in Escherichia coli of the 40-kDa subunit of activator 1 (replication factor C) of HeLa cells.</title>
+<authorList>
+<person name="Chen M."/>
+<person name="Pan Z.-Q."/>
+<person name="Hurwitz J."/>
+</authorList>
+<dbReference type="PubMed" id="1313560"/>
+<dbReference type="DOI" id="10.1073/pnas.89.7.2516"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>PROTEIN SEQUENCE OF 232-249</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="1996-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Hurwitz J."/>
+</authorList>
+</citation>
+<scope>SEQUENCE REVISION</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2000" name="Mamm. Genome" volume="11" first="890" last="898">
+<title>Comparative genomic sequence analysis of the Williams syndrome region (LIMK1-RFC2) of human chromosome 7q11.23.</title>
+<authorList>
+<person name="Martindale D.W."/>
+<person name="Wilson M.D."/>
+<person name="Wang D."/>
+<person name="Burke R.D."/>
+<person name="Chen X."/>
+<person name="Duronio V."/>
+<person name="Koop B.F."/>
+</authorList>
+<dbReference type="PubMed" id="11003705"/>
+<dbReference type="DOI" id="10.1007/s003350010166"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE (ISOFORM 1)</scope>
+<scope>POSSIBLE INVOLVEMENT IN WBS</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2002-02" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NIEHS SNPs program"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>VARIANT VAL-232</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2008" name="Nat. Methods" volume="5" first="1011" last="1017">
+<title>Human protein factory for converting the transcriptome into an in vitro-expressed proteome.</title>
+<authorList>
+<person name="Goshima N."/>
+<person name="Kawamura Y."/>
+<person name="Fukumoto A."/>
+<person name="Miura A."/>
+<person name="Honma R."/>
+<person name="Satoh R."/>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Nishikawa T."/>
+<person name="Andoh T."/>
+<person name="Iida Y."/>
+<person name="Ishikawa K."/>
+<person name="Ito E."/>
+<person name="Kagawa N."/>
+<person name="Kaminaga C."/>
+<person name="Kanehori K."/>
+<person name="Kawakami B."/>
+<person name="Kenmochi K."/>
+<person name="Kimura R."/>
+<person name="Kobayashi M."/>
+<person name="Kuroita T."/>
+<person name="Kuwayama H."/>
+<person name="Maruyama Y."/>
+<person name="Matsuo K."/>
+<person name="Minami K."/>
+<person name="Mitsubori M."/>
+<person name="Mori M."/>
+<person name="Morishita R."/>
+<person name="Murase A."/>
+<person name="Nishikawa A."/>
+<person name="Nishikawa S."/>
+<person name="Okamoto T."/>
+<person name="Sakagami N."/>
+<person name="Sakamoto Y."/>
+<person name="Sasaki Y."/>
+<person name="Seki T."/>
+<person name="Sono S."/>
+<person name="Sugiyama A."/>
+<person name="Sumiya T."/>
+<person name="Takayama T."/>
+<person name="Takayama Y."/>
+<person name="Takeda H."/>
+<person name="Togashi T."/>
+<person name="Yahata K."/>
+<person name="Yamada H."/>
+<person name="Yanagisawa Y."/>
+<person name="Endo Y."/>
+<person name="Imamoto F."/>
+<person name="Kisu Y."/>
+<person name="Tanaka S."/>
+<person name="Isogai T."/>
+<person name="Imai J."/>
+<person name="Watanabe S."/>
+<person name="Nomura N."/>
+</authorList>
+<dbReference type="PubMed" id="19054851"/>
+<dbReference type="DOI" id="10.1038/nmeth.1273"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2003" name="Nature" volume="424" first="157" last="164">
+<title>The DNA sequence of human chromosome 7.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Graves T.A."/>
+<person name="Pepin K.H."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Maas J."/>
+<person name="Jaeger S."/>
+<person name="Walker R."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="O'Laughlin M.D."/>
+<person name="Schaller M.E."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Cordes M."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Edwards J."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Andrews S."/>
+<person name="Isak A."/>
+<person name="Vanbrunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Lamar B."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Bielicki L."/>
+<person name="Scott K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Harris A."/>
+<person name="Strong C.M."/>
+<person name="Hou S."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Leonard S."/>
+<person name="Rohlfing T."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Abbott A."/>
+<person name="Minx P."/>
+<person name="Maupin R."/>
+<person name="Strowmatt C."/>
+<person name="Latreille P."/>
+<person name="Miller N."/>
+<person name="Johnson D."/>
+<person name="Murray J."/>
+<person name="Woessner J.P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Schultz B.R."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Nelson J.O."/>
+<person name="Berkowicz N."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Bedell J.A."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Chissoe S.L."/>
+<person name="Marra M.A."/>
+<person name="Raymond C."/>
+<person name="Haugen E."/>
+<person name="Gillett W."/>
+<person name="Zhou Y."/>
+<person name="James R."/>
+<person name="Phelps K."/>
+<person name="Iadanoto S."/>
+<person name="Bubb K."/>
+<person name="Simms E."/>
+<person name="Levy R."/>
+<person name="Clendenning J."/>
+<person name="Kaul R."/>
+<person name="Kent W.J."/>
+<person name="Furey T.S."/>
+<person name="Baertsch R.A."/>
+<person name="Brent M.R."/>
+<person name="Keibler E."/>
+<person name="Flicek P."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Bailey J.A."/>
+<person name="Portnoy M.E."/>
+<person name="Torrents D."/>
+<person name="Chinwalla A.T."/>
+<person name="Gish W.R."/>
+<person name="Eddy S.R."/>
+<person name="McPherson J.D."/>
+<person name="Olson M.V."/>
+<person name="Eichler E.E."/>
+<person name="Green E.D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="12853948"/>
+<dbReference type="DOI" id="10.1038/nature01782"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA] (ISOFORM 1)</scope>
+</reference>
+<reference key="7">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+<source>
+<tissue>Placenta</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2005" name="Cell Cycle" volume="4" first="323" last="329">
+<title>The second subunit of the replication factor C complex (RFC40) and the regulatory subunit (RIalpha) of protein kinase A form a protein complex promoting cell survival.</title>
+<authorList>
+<person name="Gupte R.S."/>
+<person name="Weng Y."/>
+<person name="Liu L."/>
+<person name="Lee M.Y."/>
+</authorList>
+<dbReference type="PubMed" id="15655353"/>
+</citation>
+<scope>INTERACTION WITH PRKAR1A</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2008" name="J. Biol. Chem." volume="283" first="20925" last="20936">
+<title>Studies with the human cohesin establishment factor, ChlR1. Association of ChlR1 with Ctf18-RFC and Fen1.</title>
+<authorList>
+<person name="Farina A."/>
+<person name="Shin J.H."/>
+<person name="Kim D.H."/>
+<person name="Bermudez V.P."/>
+<person name="Kelman Z."/>
+<person name="Seo Y.S."/>
+<person name="Hurwitz J."/>
+</authorList>
+<dbReference type="PubMed" id="18499658"/>
+<dbReference type="DOI" id="10.1074/jbc.M802696200"/>
+</citation>
+<scope>INTERACTION WITH DDX11</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2009" name="Science" volume="325" first="834" last="840">
+<title>Lysine acetylation targets protein complexes and co-regulates major cellular functions.</title>
+<authorList>
+<person name="Choudhary C."/>
+<person name="Kumar C."/>
+<person name="Gnad F."/>
+<person name="Nielsen M.L."/>
+<person name="Rehman M."/>
+<person name="Walther T.C."/>
+<person name="Olsen J.V."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="19608861"/>
+<dbReference type="DOI" id="10.1126/science.1175371"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-163 AND LYS-304</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2012" name="Mol. Cell. Proteomics" volume="11" first="M111.015131" last="M111.015131">
+<title>Comparative large-scale characterisation of plant vs. mammal proteins reveals similar and idiosyncratic N-alpha acetylation features.</title>
+<authorList>
+<person name="Bienvenut W.V."/>
+<person name="Sumpton D."/>
+<person name="Martinez A."/>
+<person name="Lilla S."/>
+<person name="Espagne C."/>
+<person name="Meinnel T."/>
+<person name="Giglione C."/>
+</authorList>
+<dbReference type="PubMed" id="22223895"/>
+<dbReference type="DOI" id="10.1074/mcp.M111.015131"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-30</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-18</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<comment type="function">
+<text evidence="5">The elongation of primed DNA templates by DNA polymerase delta and epsilon requires the action of the accessory proteins proliferating cell nuclear antigen (PCNA) and activator 1. This subunit binds ATP (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="8 9">Heterotetramer of subunits RFC2, RFC3, RFC4 and RFC5 that can form a complex either with RFC1 or with RAD17. The former interacts with PCNA in the presence of ATP, while the latter has ATPase activity but is not stimulated by PCNA. RFC2 also interacts with PRKAR1A; the complex may be involved in cell survival (PubMed:15655353). Interacts with DDX11 (PubMed:18499658).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-476409"/>
+<interactant intactId="EBI-476431">
+<id>P10644</id>
+<label>PRKAR1A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-476409"/>
+<interactant intactId="EBI-476616">
+<id>P35251</id>
+<label>RFC1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-476409"/>
+<interactant intactId="EBI-476655">
+<id>P35249</id>
+<label>RFC4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="12">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>P35250-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P35250-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_005660"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+</comment>
+<comment type="disease">
+<text evidence="7">RFC2 is located in the Williams-Beuren syndrome (WBS) critical region. WBS results from a hemizygous deletion of several genes on chromosome 7q11.23, thought to arise as a consequence of unequal crossing over between highly homologous low-copy repeat sequences flanking the deleted region (PubMed:11003705).</text>
+</comment>
+<comment type="similarity">
+<text evidence="12">Belongs to the activator 1 small subunits family.</text>
+</comment>
+<comment type="online information" name="NIEHS-SNPs">
+<link uri="http://egp.gs.washington.edu/data/rfc2/"/>
+</comment>
+<dbReference type="EMBL" id="M87338">
+<property type="protein sequence ID" value="AAB09786.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF045555">
+<property type="protein sequence ID" value="AAC04860.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF483622">
+<property type="protein sequence ID" value="AAL82503.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC005081">
+<property type="protein sequence ID" value="AAP22334.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB451243">
+<property type="protein sequence ID" value="BAG70057.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471200">
+<property type="protein sequence ID" value="EAW69607.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471200">
+<property type="protein sequence ID" value="EAW69608.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC002813">
+<property type="protein sequence ID" value="AAH02813.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS5567.1">
+<molecule id="P35250-2"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS5568.1">
+<molecule id="P35250-1"/>
+</dbReference>
+<dbReference type="PIR" id="A42700">
+<property type="entry name" value="A42700"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001265720.1">
+<property type="nucleotide sequence ID" value="NM_001278791.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001265721.1">
+<property type="nucleotide sequence ID" value="NM_001278792.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001265722.1">
+<property type="nucleotide sequence ID" value="NM_001278793.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_002905.2">
+<molecule id="P35250-2"/>
+<property type="nucleotide sequence ID" value="NM_002914.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_852136.1">
+<molecule id="P35250-1"/>
+<property type="nucleotide sequence ID" value="NM_181471.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.647062"/>
+<dbReference type="ProteinModelPortal" id="P35250"/>
+<dbReference type="SMR" id="P35250"/>
+<dbReference type="BioGrid" id="111914">
+<property type="interactions" value="67"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-34367N"/>
+<dbReference type="IntAct" id="P35250">
+<property type="interactions" value="33"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-3013724"/>
+<dbReference type="STRING" id="9606.ENSP00000055077"/>
+<dbReference type="iPTMnet" id="P35250"/>
+<dbReference type="PhosphoSitePlus" id="P35250"/>
+<dbReference type="DMDM" id="2507300"/>
+<dbReference type="EPD" id="P35250"/>
+<dbReference type="MaxQB" id="P35250"/>
+<dbReference type="PaxDb" id="P35250"/>
+<dbReference type="PeptideAtlas" id="P35250"/>
+<dbReference type="PRIDE" id="P35250"/>
+<dbReference type="DNASU" id="5982"/>
+<dbReference type="Ensembl" id="ENST00000055077">
+<molecule id="P35250-1"/>
+<property type="protein sequence ID" value="ENSP00000055077"/>
+<property type="gene ID" value="ENSG00000049541"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000352131">
+<molecule id="P35250-2"/>
+<property type="protein sequence ID" value="ENSP00000275627"/>
+<property type="gene ID" value="ENSG00000049541"/>
+</dbReference>
+<dbReference type="GeneID" id="5982"/>
+<dbReference type="KEGG" id="hsa:5982"/>
+<dbReference type="UCSC" id="uc003uaj.5">
+<molecule id="P35250-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="5982"/>
+<dbReference type="DisGeNET" id="5982"/>
+<dbReference type="GeneCards" id="RFC2"/>
+<dbReference type="HGNC" id="HGNC:9970">
+<property type="gene designation" value="RFC2"/>
+</dbReference>
+<dbReference type="HPA" id="HPA029493"/>
+<dbReference type="MalaCards" id="RFC2"/>
+<dbReference type="MIM" id="194050">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="600404">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P35250"/>
+<dbReference type="OpenTargets" id="ENSG00000049541"/>
+<dbReference type="Orphanet" id="904">
+<property type="disease" value="Williams syndrome"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA34339"/>
+<dbReference type="eggNOG" id="KOG0991">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0470">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00550000075050"/>
+<dbReference type="HOGENOM" id="HOG000224155"/>
+<dbReference type="HOVERGEN" id="HBG002053"/>
+<dbReference type="InParanoid" id="P35250"/>
+<dbReference type="KO" id="K10755"/>
+<dbReference type="OMA" id="THSGFGY"/>
+<dbReference type="OrthoDB" id="EOG091G0CKT"/>
+<dbReference type="PhylomeDB" id="P35250"/>
+<dbReference type="TreeFam" id="TF300585"/>
+<dbReference type="Reactome" id="R-HSA-110312">
+<property type="pathway name" value="Translesion synthesis by REV1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-110314">
+<property type="pathway name" value="Recognition of DNA damage by PCNA-containing replication complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-110320">
+<property type="pathway name" value="Translesion Synthesis by POLH"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-174411">
+<property type="pathway name" value="Polymerase switching on the C-strand of the telomere"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-176187">
+<property type="pathway name" value="Activation of ATR in response to replication stress"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5651801">
+<property type="pathway name" value="PCNA-Dependent Long Patch Base Excision Repair"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5655862">
+<property type="pathway name" value="Translesion synthesis by POLK"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5656121">
+<property type="pathway name" value="Translesion synthesis by POLI"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5656169">
+<property type="pathway name" value="Termination of translesion DNA synthesis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5685938">
+<property type="pathway name" value="HDR through Single Strand Annealing (SSA)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5685942">
+<property type="pathway name" value="HDR through Homologous Recombination (HRR)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5693607">
+<property type="pathway name" value="Processing of DNA double-strand break ends"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5693616">
+<property type="pathway name" value="Presynaptic phase of homologous DNA pairing and strand exchange"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5696397">
+<property type="pathway name" value="Gap-filling DNA repair synthesis and ligation in GG-NER"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5696400">
+<property type="pathway name" value="Dual Incision in GG-NER"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6782135">
+<property type="pathway name" value="Dual incision in TC-NER"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6782210">
+<property type="pathway name" value="Gap-filling DNA repair synthesis and ligation in TC-NER"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6804756">
+<property type="pathway name" value="Regulation of TP53 Activity through Phosphorylation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-69091">
+<property type="pathway name" value="Polymerase switching"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-69473">
+<property type="pathway name" value="G2/M DNA damage checkpoint"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="RFC2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="RFC2"/>
+<dbReference type="GenomeRNAi" id="5982"/>
+<dbReference type="PRO" id="PR:P35250"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 7"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000049541"/>
+<dbReference type="CleanEx" id="HS_RFC2"/>
+<dbReference type="ExpressionAtlas" id="P35250">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P35250">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031390">
+<property type="term" value="C:Ctf18 RFC-like complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005663">
+<property type="term" value="C:DNA replication factor C complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019899">
+<property type="term" value="F:enzyme binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042769">
+<property type="term" value="P:DNA damage response, detection of DNA damage"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006260">
+<property type="term" value="P:DNA replication"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070987">
+<property type="term" value="P:error-free translesion synthesis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042276">
+<property type="term" value="P:error-prone translesion synthesis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006297">
+<property type="term" value="P:nucleotide-excision repair, DNA gap filling"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033683">
+<property type="term" value="P:nucleotide-excision repair, DNA incision"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006296">
+<property type="term" value="P:nucleotide-excision repair, DNA incision, 5'-to lesion"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900264">
+<property type="term" value="P:positive regulation of DNA-directed DNA polymerase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901796">
+<property type="term" value="P:regulation of signal transduction by p53 class mediator"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000722">
+<property type="term" value="P:telomere maintenance via recombination"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006283">
+<property type="term" value="P:transcription-coupled nucleotide-excision repair"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019985">
+<property type="term" value="P:translesion synthesis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003959">
+<property type="entry name" value="ATPase_AAA_core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008921">
+<property type="entry name" value="DNA_pol3_clamp-load_cplx_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013748">
+<property type="entry name" value="Rep_factorC_C"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00004">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08542">
+<property type="entry name" value="Rep_fac_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48019">
+<property type="entry name" value="SSF48019"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0235">DNA replication</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0856">Williams-Beuren syndrome</keyword>
+<feature type="chain" description="Replication factor C subunit 2" id="PRO_0000121766">
+<location>
+<begin position="1"/>
+<end position="354"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="6">
+<location>
+<begin position="76"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylmethionine" evidence="2">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="4">
+<location>
+<position position="18"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="30"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="1">
+<location>
+<position position="163"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="1">
+<location>
+<position position="304"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_005660" evidence="11">
+<location>
+<begin position="111"/>
+<end position="144"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3135684." id="VAR_023126" evidence="10">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="232"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AA sequence." ref="1" evidence="12">
+<original>G</original>
+<variation>L</variation>
+<location>
+<position position="244"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19608861"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="22223895"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="24275569"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000250"/>
+<evidence key="6" type="ECO:0000255"/>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11003705"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15655353"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18499658"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source ref="4"/>
+</evidence>
+<evidence key="11" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000305"/>
+<sequence length="354" mass="39157" checksum="B50AC8EEF89F64A9" modified="1997-11-01" version="3">
+MEVEAVCGGAGEVEAQDSDPAPAFSKAPGSAGHYELPWVEKYRPVKLNEIVGNEDTVSRL
+EVFAREGNVPNIIIAGPPGTGKTTSILCLARALLGPALKDAMLELNASNDRGIDVVRNKI
+KMFAQQKVTLPKGRHKIIILDEADSMTDGAQQALRRTMEIYSKTTRFALACNASDKIIEP
+IQSRCAVLRYTKLTDAQILTRLMNVIEKERVPYTDDGLEAIIFTAQGDMRQALNNLQSTF
+SGFGFINSENVFKVCDEPHPLLVKEMIQHCVNANIDEAYKILAHLWHLGYSPEDIIGNIF
+RVCKTFQMAEYLKLEFIKEIGYTHMKIAEGVNSLLQMAGLLARLCQKTMAPVAS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

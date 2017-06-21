@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2004-07-05" modified="2017-05-10" version="74">
+<accession>Q6ZMN5</accession>
+<name>Q6ZMN5_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">PAB-dependent poly(A)-specific ribonuclease subunit PAN3</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">PAB1P-dependent poly(A)-nuclease</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="1">PAN deadenylation complex subunit 3</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">PAN3</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="submission" date="2004-03" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project.</title>
+<authorList>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Shibahara T."/>
+<person name="Goto Y."/>
+<person name="Hirao M."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Ono T."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Ozaki K."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Otsuki T."/>
+<person name="Sato H."/>
+<person name="Wakamatsu A."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Isono Y."/>
+<person name="Kawai-Hio Y."/>
+<person name="Saito K."/>
+<person name="Nishikawa T."/>
+<person name="Kimura K."/>
+<person name="Yamashita H."/>
+<person name="Matsuo K."/>
+<person name="Nakamura Y."/>
+<person name="Sekine M."/>
+<person name="Kikuchi H."/>
+<person name="Kanda K."/>
+<person name="Wagatsuma M."/>
+<person name="Murakawa K."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Oshima A."/>
+<person name="Sugiyama A."/>
+<person name="Kawakami B."/>
+<person name="Suzuki Y."/>
+<person name="Sugano S."/>
+<person name="Nagahari K."/>
+<person name="Masuho Y."/>
+<person name="Nagai K."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="3">Testis</tissue>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">Regulatory subunit of the poly(A)-nuclease (PAN) deadenylation complex, one of two cytoplasmic mRNA deadenylases involved in general and miRNA-mediated mRNA turnover. PAN specifically shortens poly(A) tails of RNA when the poly(A) stretch is bound by poly(A)-binding protein (PABP), which is followed by rapid degradation of the shortened mRNA tails by the CCR4-NOT complex. Deadenylated mRNAs are then degraded by two alternative mechanisms, namely exosome-mediated 3'-5' exonucleolytic degradation, or deadenlyation-dependent mRNA decaping and subsequent 5'-3' exonucleolytic degradation by XRN1. PAN3 acts as a positive regulator for PAN activity, recruiting the catalytic subunit PAN2 to mRNA via its interaction with PABP and to miRNA targets via its interaction with GW182 family proteins.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Homodimer. Interacts with the catalytic subunit PAN2 to form the poly(A)-nuclease (PAN) deadenylation complex. Interacts (via PAM-2 motif) with poly(A)-binding protein PABPC1 (via PABC domain), conferring substrate-specificity of the enzyme complex. Interacts with the GW182 family proteins TNRC6A, TNRC6B and TNRC6C.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+<location evidence="1">P-body</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text evidence="1">The protein kinase domain is predicted to be catalytically inactive. However it still binds ATP and ATP-binding is required for mRNA degradation.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the protein kinase superfamily. PAN3 family.</text>
+</comment>
+<comment type="caution">
+<text evidence="1">Lacks conserved residue(s) required for the propagation of feature annotation.</text>
+</comment>
+<dbReference type="EMBL" id="AK131556">
+<property type="protein sequence ID" value="BAD18690.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.645015"/>
+<dbReference type="ProteinModelPortal" id="Q6ZMN5"/>
+<dbReference type="STRING" id="9606.ENSP00000370345"/>
+<dbReference type="PaxDb" id="Q6ZMN5"/>
+<dbReference type="PeptideAtlas" id="Q6ZMN5"/>
+<dbReference type="eggNOG" id="KOG3741">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XQ42">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000007619"/>
+<dbReference type="HOVERGEN" id="HBG058849"/>
+<dbReference type="Bgee" id="ENSG00000152520"/>
+<dbReference type="GO" id="GO:0000932">
+<property type="term" value="C:P-body"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031251">
+<property type="term" value="C:PAN complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004672">
+<property type="term" value="F:protein kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003723">
+<property type="term" value="F:RNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006397">
+<property type="term" value="P:mRNA processing"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000289">
+<property type="term" value="P:nuclear-transcribed mRNA poly(A) tail shortening"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010606">
+<property type="term" value="P:positive regulation of cytoplasmic mRNA processing body assembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_03181">
+<property type="entry name" value="PAN3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030844">
+<property type="entry name" value="PAN3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0963" evidence="1">Cytoplasm</keyword>
+<keyword id="KW-0507" evidence="1">mRNA processing</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="domain" description="Protein kinase" evidence="2">
+<location>
+<begin position="77"/>
+<end position="339"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="155"/>
+<end position="160"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="229"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with PAN2" evidence="1">
+<location>
+<begin position="80"/>
+<end position="472"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="106"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_03181"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAD18690.1"/>
+</source>
+</evidence>
+<sequence length="472" mass="53636" checksum="02BCF5F554B2A530" modified="2004-07-05" version="1">
+MVFPNYHIYPPTAPHVAYMQPKANAPSFFMADELRQELINRHLITMAQIDQADMPAVPTE
+VDSYHSLFPLEPLPPPNRIQKSSNFGYITSCYKAVNSKDDLPYCLRRIHGFRLVNTKCMV
+LVDMWKKIQHSNIVTLREVFTTKAFAEPSLVFAYDFHAGGETMMSRHFNDPNADAYFTKR
+KWGQHEGPLPRQHAGLLPESLIWAYIVQLSSALRTIHTAGLACRVMDPTKILITGKTRLR
+VNCVGVFDVLTFDNSQNNNPLALMAQYQQADLISLGKVVLALACNSLAGIQRENLQKAME
+LVTINYSSDLKNLILYLLTDQNRMRSVNDIMPMIGARFYTQLDAAQMRNDVIEEDLAKEV
+QNGRLFRLLAKLGTINERPEFQKDPTWSETGDRYLLKLFRDHLFHQVTEAGAPWIDLSHI
+ISCLNKLDAGVPEKISLISRDEKSVLVVTYSDLKRCFENTFQELIAAANGQL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

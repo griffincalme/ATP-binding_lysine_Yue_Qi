@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="1996-11-01" modified="2017-04-12" version="64">
+<accession>Q13038</accession>
+<name>Q13038_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="2">ATP-binding cassette protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">ABC2</name>
+</gene>
+<organism evidence="2">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="journal article" date="1992" name="Nature" volume="355" first="632" last="634">
+<title>Sequence identification of 2,375 human brain genes.</title>
+<authorList>
+<person name="Adams M.D."/>
+<person name="Dubnick M."/>
+<person name="Kerlavage A.R."/>
+<person name="Moreno R."/>
+<person name="Kelley J.M."/>
+<person name="Utterback T.R."/>
+<person name="Nagle J.W."/>
+<person name="Fields C."/>
+<person name="Venter J.C."/>
+</authorList>
+<dbReference type="PubMed" id="1538749"/>
+<dbReference type="DOI" id="10.1038/355632a0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="2" evidence="2">
+<citation type="submission" date="1994-12" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Dean M.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="3" evidence="2">
+<citation type="journal article" date="1995" name="Mamm. Genome" volume="6" first="114" last="117">
+<title>Characterization and mapping of three new mammalian ATP-binding transporter genes from an EST database.</title>
+<authorList>
+<person name="Allikmets R."/>
+<person name="Gerrard B."/>
+<person name="Glavac D."/>
+<person name="Ravnik-Glavac M."/>
+<person name="Jenkins N.A."/>
+<person name="Gilbert D.J."/>
+<person name="Copeland N.G."/>
+<person name="Modi W."/>
+<person name="Dean M."/>
+</authorList>
+<dbReference type="PubMed" id="7766993"/>
+<dbReference type="DOI" id="10.1007/BF00303254"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<dbReference type="EMBL" id="U18235">
+<property type="protein sequence ID" value="AAA84436.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="I38905">
+<property type="entry name" value="I38905"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.421202"/>
+<dbReference type="ProteinModelPortal" id="Q13038"/>
+<dbReference type="PeptideAtlas" id="Q13038"/>
+<dbReference type="ChiTaRS" id="ABCA2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005215">
+<property type="term" value="F:transporter activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026082">
+<property type="entry name" value="ABC_A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003439">
+<property type="entry name" value="ABC_transporter-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR19229">
+<property type="entry name" value="PTHR19229"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00005">
+<property type="entry name" value="ABC_tran"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<feature type="domain" description="ABC transporter" evidence="1">
+<location>
+<begin position="10"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="2">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF00005"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAA84436.1"/>
+</source>
+</evidence>
+<sequence length="149" mass="16732" checksum="8D0EACE8D3F2B6CC" modified="1996-11-01" version="1" fragment="single">
+FYSRLKSMAQEEIRREMDKMIEDLELSNKRHSLVQTLSGGMKRKCTVAIAFVGGSRAIIL
+DEPTRAWTPTRAAIWDLILKYKPGRTILLSTHHMDEADLLGEPHCIISMGSQVLRLSALP
+QGHLWRRVPPHTGLAVRRSGGPPRTRAGI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

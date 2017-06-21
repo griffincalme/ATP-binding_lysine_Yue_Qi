@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2006-03-07" modified="2017-05-10" version="85">
+<accession>Q2I0A9</accession>
+<name>Q2I0A9_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">Cystic fibrosis transmembrane conductance regulator</fullName>
+<ecNumber evidence="2">3.6.3.49</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="2">ATP-binding cassette sub-family C member 7</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="2">Channel conductance-controlling ATPase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="2">cAMP-dependent chloride channel</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="6">CFTR</name>
+</gene>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="submission" date="2006-01" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Stacy R."/>
+<person name="Subramanian S."/>
+<person name="Deodato C."/>
+<person name="Burkhardt P."/>
+<person name="Song Y."/>
+<person name="Paddock M."/>
+<person name="Chang J."/>
+<person name="Zhou Y."/>
+<person name="Haugen E."/>
+<person name="Waring D."/>
+<person name="Chapman P."/>
+<person name="Hayden H."/>
+<person name="Levy R."/>
+<person name="Wu Z."/>
+<person name="Rouse G."/>
+<person name="James R."/>
+<person name="Phelps K."/>
+<person name="Olson M.V."/>
+<person name="Kaul R."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="6">Cftr10471_A</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2">Epithelial ion channel that plays an important role in the regulation of epithelial ion and water transport and fluid homeostasis. Mediates the transport of chloride ions across the cell membrane. Channel activity is coupled to ATP hydrolysis. The ion channel is also permeable to HCO(3-); selectivity depends on the extracellular chloride concentration. Exerts its function also by modulating the activity of other ion channels and transporters. Contributes to the regulation of the pH and the ion content of the epithelial fluid layer.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="2">ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2">Cell membrane</location>
+<topology evidence="2">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the ABC transporter superfamily. ABCC family. CFTR transporter (TC 3.A.1.202) subfamily.</text>
+</comment>
+<dbReference type="EC" id="3.6.3.49" evidence="2"/>
+<dbReference type="EMBL" id="DQ356257">
+<property type="protein sequence ID" value="ABC87053.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.489786"/>
+<dbReference type="UniGene" id="Hs.621460"/>
+<dbReference type="UniGene" id="Hs.661104"/>
+<dbReference type="STRING" id="9606.ENSP00000003084"/>
+<dbReference type="PaxDb" id="Q2I0A9"/>
+<dbReference type="PeptideAtlas" id="Q2I0A9"/>
+<dbReference type="PRIDE" id="Q2I0A9"/>
+<dbReference type="eggNOG" id="KOG0054">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1132">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG004169"/>
+<dbReference type="GO" id="GO:0034707">
+<property type="term" value="C:chloride channel complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031901">
+<property type="term" value="C:early endosome membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042626">
+<property type="term" value="F:ATPase activity, coupled to transmembrane movement of substances"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005260">
+<property type="term" value="F:intracellular ATPase-gated chloride channel activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011527">
+<property type="entry name" value="ABC1_TM_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003439">
+<property type="entry name" value="ABC_transporter-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009147">
+<property type="entry name" value="CFTR/ABCC7"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025837">
+<property type="entry name" value="CFTR_reg_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24223:SF273">
+<property type="entry name" value="PTHR24223:SF273"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00664">
+<property type="entry name" value="ABC_membrane"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00005">
+<property type="entry name" value="ABC_tran"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF14396">
+<property type="entry name" value="CFTR_R"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01851">
+<property type="entry name" value="CYSFIBREGLTR"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF90123">
+<property type="entry name" value="SSF90123"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01271">
+<property type="entry name" value="CFTR_protein"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50929">
+<property type="entry name" value="ABC_TM1F"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50893">
+<property type="entry name" value="ABC_TRANSPORTER_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0067" evidence="1 2 6">ATP-binding</keyword>
+<keyword id="KW-0868" evidence="2">Chloride</keyword>
+<keyword id="KW-0869" evidence="2">Chloride channel</keyword>
+<keyword id="KW-0378" evidence="2">Hydrolase</keyword>
+<keyword id="KW-0407" evidence="2">Ion channel</keyword>
+<keyword id="KW-0406" evidence="2">Ion transport</keyword>
+<keyword id="KW-0472" evidence="2">Membrane</keyword>
+<keyword id="KW-0547" evidence="1 2 6">Nucleotide-binding</keyword>
+<keyword id="KW-0597" evidence="2">Phosphoprotein</keyword>
+<keyword id="KW-0677" evidence="3">Repeat</keyword>
+<keyword id="KW-0812" evidence="2">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="2">Transmembrane helix</keyword>
+<keyword id="KW-0813" evidence="2">Transport</keyword>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="119"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="195"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="221"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="304"/>
+<end position="326"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="859"/>
+<end position="883"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="903"/>
+<end position="927"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="986"/>
+<end position="1008"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="1014"/>
+<end position="1033"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="1105"/>
+<end position="1123"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="1129"/>
+<end position="1147"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transmembrane type-1" evidence="5">
+<location>
+<begin position="86"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transporter" evidence="4">
+<location>
+<begin position="423"/>
+<end position="646"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transmembrane type-1" evidence="5">
+<location>
+<begin position="860"/>
+<end position="1155"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transporter" evidence="4">
+<location>
+<begin position="1210"/>
+<end position="1443"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="458"/>
+<end position="465"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="1244"/>
+<end position="1251"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00434"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU362037"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00761389"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50893"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50929"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ABC87053.1"/>
+</source>
+</evidence>
+<sequence length="1480" mass="168381" checksum="40D45B1A5142AA9E" modified="2006-03-07" version="1">
+MQRSPLEKASVVSKLFFSWTRPILRKGYRQRLELSDIYQIPSVDSADNLSEKLEREWDRE
+LASKKNPKLINALRRCFFWRFMFYGIFLYLGEVTKAVQPLLLGRIIASYDPDNKEERSIA
+IYLGIGLCLLFIVRTLLLHPAIFGLHHIGMQMRIAMFSLIYKKTLKLSSRVLDKISIGQL
+VSLLSNNLNKFDEGLALAHFVWIAPLQVALLMGLIWELLQASAFCGLGFLIVLALFQAGL
+GRMMMKYRDQRAGKISERLVITSEMIENIQSVKAYCWEEAMEKMIENLRQTELKLTRKAA
+YVRYFNSSAFFFSGFFVVFLSVLPYALIKGIILRKIFTTISFCIVLRMAVTRQFPWAVQT
+WYDSLGAINKIQDFLQKQEYKTLEYNLTTTEVVMENVTAFWEEGFGELFEKAKQNNNNRK
+TSNGDDSLFFSNFSLLGTPVLKDINFKIERGQLLAVAGSTGAGKTSLLMMIMGELEPSEG
+KIKHSGRISFCSQFSWIMPGTIKENIIFGVSYDEYRYRSVIKACQLEEXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXAVYKDADLYLLDSPFGYLDVLTEKEIFESCVCKLMANKTR
+ILVTSKMEHLKKADKILILHEGSSYFYGTFSELQNLQPDFSSKLMGCDSFDQFSAERRNS
+ILTETLHRFSLEGDAPVSWTETKKQSFKQTGEFGEKRKNSILNPINSIRKFSIVQKTPLQ
+MNGIEEDSDEPLERRLSLVPDSEQGEAILPRISVISTGPTLQARRRQSVLNLMTHSVNQG
+QNIHRKTTASTRKVSLAPQANLTELDIYSRRLSQETGLEISEEINEEDLKECFFDDMESI
+PAVTTWNTYLRYITVHKSLIFVLIWCLVIFLAEVAASLVVLWLLGNTPLQDKGNSTHSRN
+NSYAVIITSTSSYYVFYIYVGVADTLLAMGFFRGLPLVHTLITVSKILHHKMLHSVLQAP
+MSTLNTLKAGGILNRFSKDIAILDDLLPLTIFDFIQLLLIVIGAIAVVAVLQPYIFVATV
+PVIVAFIMLRAYFLQTSQQLKQLESEGRSPIFTHLVTSLKGLWTLRAFGRQPYFETLFHK
+ALNLHTANWFLYLSTLRWFQMRIEMIFVIFFIAVTFISILTTGEGEGRVGIILTLAMNIM
+STLQWAVNSSIDVDSLMRSVSRVFKFIDMPTEGKPTKSTKPYKNGQLSKVMIIENSHVKK
+DDIWPSGGQMTVKDLTAKYTEGGNAILENISFSISPGQRVGLLGRTGSGKSTLLSAFLRL
+LNTEGEIQIDGVSWDSITLQQWRKAFGVIPQKVFIFSGTFRKNLDPYEQWSDQEIWKVAD
+EVGLRSVIEQFPGKLDFVLVDGGCVLSHGHKQLMCLARSVLSKAKILLLDEPSAHLDPVT
+YQIIRRTLKQAFADCTVILCEHRIEAMLECQQFLVIEENKVRQYDSIQKLLNERSLFRQA
+ISPSDRVKLFPHRNSSKCKSKPQIAALKEETEEEVQDTRL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2011-11-16" modified="2017-05-10" version="44">
+<accession>G1UI30</accession>
+<name>G1UI30_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="3">Kinesin-like protein KIF1A</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">KIF1A</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="journal article" date="2011" name="Invest. Ophthalmol. Vis. Sci." volume="52" first="6662" last="6670">
+<title>Full-length transcriptome analysis of human retina-derived cell lines ARPE-19 and Y79 using the vector-capping method.</title>
+<authorList>
+<person name="Oshikawa M."/>
+<person name="Tsutsui C."/>
+<person name="Ikegami T."/>
+<person name="Fuchida Y."/>
+<person name="Matsubara M."/>
+<person name="Toyama S."/>
+<person name="Usami R."/>
+<person name="Ohtoko K."/>
+<person name="Kato S."/>
+</authorList>
+<dbReference type="PubMed" id="21697133"/>
+<dbReference type="DOI" id="10.1167/iovs.11-7479"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family.</text>
+</comment>
+<dbReference type="EMBL" id="AB621817">
+<property type="protein sequence ID" value="BAK64153.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.516802"/>
+<dbReference type="SMR" id="G1UI30"/>
+<dbReference type="STRING" id="9606.ENSP00000322791"/>
+<dbReference type="PaxDb" id="G1UI30"/>
+<dbReference type="PeptideAtlas" id="G1UI30"/>
+<dbReference type="PRIDE" id="G1UI30"/>
+<dbReference type="eggNOG" id="KOG0245">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5059">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="KIF1A">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="547"/>
+<dbReference type="Bgee" id="ENSG00000130294"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008017">
+<property type="term" value="F:microtubule binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003777">
+<property type="term" value="F:microtubule motor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007018">
+<property type="term" value="P:microtubule-based movement"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.850.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001752">
+<property type="entry name" value="Kinesin_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00225">
+<property type="entry name" value="Kinesin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00129">
+<property type="entry name" value="KISc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50067">
+<property type="entry name" value="KINESIN_MOTOR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0505" evidence="1">Motor protein</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="domain" description="Kinesin motor" evidence="2">
+<location>
+<begin position="5"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="97"/>
+<end position="104"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="3">
+<location>
+<position position="184"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00283"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50067"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAK64153.1"/>
+</source>
+</evidence>
+<sequence length="184" mass="21037" checksum="3DBD10378749091B" modified="2011-11-16" version="1" fragment="single">
+MAGASVKVAVRVRPFNSREMSRDSKCIIQMSGSTTTIVNPKQPKETPKSFSFDYSYWSHT
+SPEDINYASQKQVYRDIGEEMLQHAFEGYNVCIFAYGQTGAGKSYTMMGKQEKDQQGIIP
+QLCEDLFSRINDTTNDNMSYSVEVSYMEIYCERVRDLLNPKNKGNLRVREHPLLGPYVED
+LSKL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2003-10-01" modified="2017-04-12" version="99">
+<accession>Q7Z6E5</accession>
+<name>Q7Z6E5_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="7">Putative uncharacterized protein DKFZp779G2251</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="7">DKFZp779G2251</name>
+</gene>
+<organism evidence="7">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7">
+<citation type="submission" date="2003-06" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Wambutt R."/>
+<person name="Heubner D."/>
+<person name="Mewes H.W."/>
+<person name="Weil B."/>
+<person name="Amid C."/>
+<person name="Osanger A."/>
+<person name="Fobo G."/>
+<person name="Han M."/>
+<person name="Wiemann S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="7">Liver</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="4">Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family.</text>
+</comment>
+<dbReference type="EMBL" id="BX537389">
+<property type="protein sequence ID" value="CAD97631.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.657344"/>
+<dbReference type="ProteinModelPortal" id="Q7Z6E5"/>
+<dbReference type="STRING" id="9606.ENSP00000349595"/>
+<dbReference type="PaxDb" id="Q7Z6E5"/>
+<dbReference type="PeptideAtlas" id="Q7Z6E5"/>
+<dbReference type="PRIDE" id="Q7Z6E5"/>
+<dbReference type="eggNOG" id="KOG0202">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0474">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000265621"/>
+<dbReference type="HOVERGEN" id="HBG105648"/>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033017">
+<property type="term" value="C:sarcoplasmic reticulum membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005388">
+<property type="term" value="F:calcium-transporting ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.1110.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.70.150.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.1110.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.1000">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006068">
+<property type="entry name" value="ATPase_P-typ_cation-transptr_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004014">
+<property type="entry name" value="ATPase_P-typ_cation-transptr_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023299">
+<property type="entry name" value="ATPase_P-typ_cyto_domN"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018303">
+<property type="entry name" value="ATPase_P-typ_P_site"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023298">
+<property type="entry name" value="ATPase_P-typ_TM_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008250">
+<property type="entry name" value="ATPase_P-typ_transduc_dom_A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023214">
+<property type="entry name" value="HAD-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005782">
+<property type="entry name" value="P-type_ATPase_IIA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001757">
+<property type="entry name" value="P_typ_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030332">
+<property type="entry name" value="SERCA1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR42861:SF17">
+<property type="entry name" value="PTHR42861:SF17"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00689">
+<property type="entry name" value="Cation_ATPase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00690">
+<property type="entry name" value="Cation_ATPase_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00122">
+<property type="entry name" value="E1-E2_ATPase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08282">
+<property type="entry name" value="Hydrolase_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00120">
+<property type="entry name" value="HATPASE"/>
+</dbReference>
+<dbReference type="SMART" id="SM00831">
+<property type="entry name" value="Cation_ATPase_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56784">
+<property type="entry name" value="SSF56784"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF81660">
+<property type="entry name" value="SSF81660"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01116">
+<property type="entry name" value="ATPase-IIA1_Ca"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01494">
+<property type="entry name" value="ATPase_P-type"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00154">
+<property type="entry name" value="ATPASE_E1_E2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="3">ATP-binding</keyword>
+<keyword id="KW-0378" evidence="1">Hydrolase</keyword>
+<keyword id="KW-0472" evidence="2 5">Membrane</keyword>
+<keyword id="KW-0547" evidence="3">Nucleotide-binding</keyword>
+<keyword id="KW-0812" evidence="2 5">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="2 5">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="120"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="144"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="320"/>
+<end position="340"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="352"/>
+<end position="381"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="820"/>
+<end position="841"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="893"/>
+<end position="917"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="991"/>
+<end position="1010"/>
+</location>
+</feature>
+<feature type="domain" description="Cation_ATPase_N" evidence="6">
+<location>
+<begin position="63"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="7">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00081498"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00092306"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00092325"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00573123"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00831"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAD97631.1"/>
+</source>
+</evidence>
+<sequence length="1054" mass="115716" checksum="FE361229A31D1163" modified="2003-10-01" version="1" fragment="single">
+GCSSGTGVRALWREEKPGGGRRVKRRNPGRQAVGHTEEDPPRVGTPWKEHTGPGPQEGST
+MEAAHAKTTEECLAYFGVGETTGLTPDQVKRNLEKYGLNELPAEEGKTLWELVIEQFEDL
+LVRILLLAACISFVLAWFEEGEETITAFVEPFVILLILIANAIVGVWQERNAENAIEALK
+EYEPEMGKVYRADRKSVQRIKARDIVPGDIVEVAVGDKVPADIRILAIKSTTLRVDQSIL
+TGESVSVIKHTEPVPDPRAVNQDKKNMLFSGTNIAAGKALGIVATTGVGTEIGRIRDQMA
+ATEQDKTPLQQKLDEFGEQLSKVISLICVAVWLINIGHFNDPVHGGSWFRGAIYYFKIAV
+ALAVAAIPEGLPAVITTCLALGTRRMAKKNAIVRSLPSVETLGCTSVICSDKTGTLTTNQ
+MSVCKMFIIDKVDGDICLLNEFSITGSTYAPEGEVLKNDKPVRPGQYDGLVELATICALC
+NDSSLDFNEAKGVYEKVGEATETALTTLVEKMNVFNTDVRSLSKVERANACNSVIRQLMK
+KEFTLEFSRDRKSMSVYCSPAKSSRAAVGNKMFVKGAPEGVIDRCNYVRVGTTRVPPTGP
+VKEKIMAVIKEWGTGRDTLRCLALATRDTPPKREEMVLDDSARFLEYETDLTFVGVVGML
+DPPRKEVTGSIQLCRDAGIRVIMITGDHKGTAIAICRRIGIFGENEEVADRAYTGREFDD
+LPLAEQREACRRACCFARVEPSHKSKIVEYLQSYDEITAMTGDGVNDAPALKKAEIGIAM
+GSGTAVAKTASEMVLADDNFSTIVAAVEEGRAIYNNMKQFIRYLISSNVGEVVCIFLTAA
+LGLPEALIPVQLLWVNLVTDGLPATALGFNPPDLDIMDRPPRSPKEPLISGWLFFRYMAI
+GGYVGAATVGAAAWWFLYAEDGPHVNYSQLTHFMQCTEDNTHFEGIDCEVFEAPEPMTMA
+LSVLVTIEMCNALNSLSENQSLLRMPPWVNIWLLGSICLSMSLHFLILYVDPLPMIFKLR
+ALDLTQWLMVLKISLPVIGLDEILKFVARNYLEG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,854 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2004-07-19" modified="2017-04-12" version="120">
+<accession>Q9NPI5</accession>
+<accession>B7ZKR3</accession>
+<accession>Q52M81</accession>
+<accession>Q9NZK3</accession>
+<name>NRK2_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Nicotinamide riboside kinase 2</fullName>
+<shortName>NRK 2</shortName>
+<shortName>NmR-K 2</shortName>
+<ecNumber evidence="6">2.7.1.22</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Integrin beta-1-binding protein 3</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Muscle integrin-binding protein</fullName>
+<shortName>MIBP</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Nicotinic acid riboside kinase 2</fullName>
+<ecNumber evidence="6">2.7.1.173</ecNumber>
+</alternativeName>
+<alternativeName>
+<fullName>Ribosylnicotinamide kinase 2</fullName>
+<shortName>RNK 2</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Ribosylnicotinic acid kinase 2</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">NMRK2</name>
+<name type="synonym">ITGB1BP3</name>
+<name type="synonym">NRK2</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1999" name="J. Cell Biol." volume="147" first="1391" last="1398">
+<title>A novel muscle-specific beta 1 integrin binding protein (MIBP) that modulates myogenic differentiation.</title>
+<authorList>
+<person name="Li J."/>
+<person name="Mayne R."/>
+<person name="Wu C."/>
+</authorList>
+<dbReference type="PubMed" id="10613898"/>
+<dbReference type="DOI" id="10.1083/jcb.147.7.1391"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INTERACTION WITH ITGB1</scope>
+<source>
+<tissue>Heart</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Cell" volume="117" first="495" last="502">
+<title>Discoveries of nicotinamide riboside as a nutrient and conserved NRK genes establish a Preiss-Handler independent route to NAD+ in fungi and humans.</title>
+<authorList>
+<person name="Bieganowski P."/>
+<person name="Brenner C."/>
+</authorList>
+<dbReference type="PubMed" id="15137942"/>
+<dbReference type="DOI" id="10.1016/S0092-8674(04)00416-7"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2000-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="The European IMAGE consortium"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Teratocarcinoma</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Nature" volume="428" first="529" last="535">
+<title>The DNA sequence and biology of human chromosome 19.</title>
+<authorList>
+<person name="Grimwood J."/>
+<person name="Gordon L.A."/>
+<person name="Olsen A.S."/>
+<person name="Terry A."/>
+<person name="Schmutz J."/>
+<person name="Lamerdin J.E."/>
+<person name="Hellsten U."/>
+<person name="Goodstein D."/>
+<person name="Couronne O."/>
+<person name="Tran-Gyamfi M."/>
+<person name="Aerts A."/>
+<person name="Altherr M."/>
+<person name="Ashworth L."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Branscomb E."/>
+<person name="Caenepeel S."/>
+<person name="Carrano A.V."/>
+<person name="Caoile C."/>
+<person name="Chan Y.M."/>
+<person name="Christensen M."/>
+<person name="Cleland C.A."/>
+<person name="Copeland A."/>
+<person name="Dalin E."/>
+<person name="Dehal P."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Escobar J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Garcia C."/>
+<person name="Georgescu A.M."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Ho I."/>
+<person name="Huang W."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Larionov V."/>
+<person name="Leem S.-H."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Lowry S."/>
+<person name="Malfatti S."/>
+<person name="Martinez D."/>
+<person name="McCready P.M."/>
+<person name="Medina C."/>
+<person name="Morgan J."/>
+<person name="Nelson K."/>
+<person name="Nolan M."/>
+<person name="Ovcharenko I."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Popkie A.P."/>
+<person name="Predki P."/>
+<person name="Quan G."/>
+<person name="Ramirez L."/>
+<person name="Rash S."/>
+<person name="Retterer J."/>
+<person name="Rodriguez A."/>
+<person name="Rogers S."/>
+<person name="Salamov A."/>
+<person name="Salazar A."/>
+<person name="She X."/>
+<person name="Smith D."/>
+<person name="Slezak T."/>
+<person name="Solovyev V."/>
+<person name="Thayer N."/>
+<person name="Tice H."/>
+<person name="Tsai M."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="Wagner M."/>
+<person name="Wheeler J."/>
+<person name="Wu K."/>
+<person name="Xie G."/>
+<person name="Yang J."/>
+<person name="Dubchak I."/>
+<person name="Furey T.S."/>
+<person name="DeJong P."/>
+<person name="Dickson M."/>
+<person name="Gordon D."/>
+<person name="Eichler E.E."/>
+<person name="Pennacchio L.A."/>
+<person name="Richardson P."/>
+<person name="Stubbs L."/>
+<person name="Rokhsar D.S."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+<person name="Lucas S.M."/>
+</authorList>
+<dbReference type="PubMed" id="15057824"/>
+<dbReference type="DOI" id="10.1038/nature02399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2)</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="Dev. Biol." volume="261" first="209" last="219">
+<title>The muscle integrin binding protein (MIBP) interacts with alpha7beta1 integrin and regulates cell adhesion and laminin matrix deposition.</title>
+<authorList>
+<person name="Li J."/>
+<person name="Rao H."/>
+<person name="Burkin D."/>
+<person name="Kaufman S.J."/>
+<person name="Wu C."/>
+</authorList>
+<dbReference type="PubMed" id="12941630"/>
+<dbReference type="DOI" id="10.1016/S0012-1606(03)00304-X"/>
+</citation>
+<scope>INTERACTION WITH INTEGRIN ALPHA-7/BETA-1</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2007" name="PLoS Biol." volume="5" first="2220" last="2230">
+<title>Nicotinamide riboside kinase structures reveal new pathways to NAD+.</title>
+<authorList>
+<person name="Tempel W."/>
+<person name="Rabeh W.M."/>
+<person name="Bogan K.L."/>
+<person name="Belenky P."/>
+<person name="Wojcik M."/>
+<person name="Seidle H.F."/>
+<person name="Nedyalkova L."/>
+<person name="Yang T."/>
+<person name="Sauve A.A."/>
+<person name="Park H.-W."/>
+<person name="Brenner C."/>
+</authorList>
+<dbReference type="PubMed" id="17914902"/>
+<dbReference type="DOI" id="10.1371/journal.pbio.0050263"/>
+</citation>
+<scope>SUBSTRATE SPECIFICITY</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>MUTAGENESIS OF ASP-35 AND GLU-100</scope>
+</reference>
+<comment type="function">
+<text evidence="3 5">Catalyzes the phosphorylation of nicotinamide riboside (NR) and nicotinic acid riboside (NaR) to form nicotinamide mononucleotide (NMN) and nicotinic acid mononucleotide (NaMN). Reduces laminin matrix deposition and cell adhesion to laminin, but not to fibronectin. Involved in the regulation of PXN at the protein level and of PXN tyrosine phosphorylation. May play a role in the regulation of terminal myogenesis.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="6">ATP + 1-(beta-D-ribofuranosyl)-nicotinamide = ADP + beta-nicotinamide D-ribonucleotide.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="6">ATP + beta-D-ribosylnicotinate = ADP + nicotinate beta-D-ribonucleotide.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="6">0.19 mM for nicotinamide riboside (with ATP as cosubstrate)</KM>
+<KM evidence="6">30 mM for nicotinamide riboside (with GTP as cosubstrate)</KM>
+<KM evidence="6">0.11 mM for tiazofurin (with ATP as cosubstrate)</KM>
+<KM evidence="6">0.063 mM for nicotinic acid riboside (with ATP as cosubstrate)</KM>
+<KM evidence="6">1.3 mM for uridine (with ATP as cosubstrate)</KM>
+</kinetics>
+</comment>
+<comment type="pathway" evidence="9">
+<text>Cofactor biosynthesis; NAD(+) biosynthesis.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1 3 4">Monomer (By similarity). Interacts with ITGB1 alone or when associated with alpha-7, but not with alpha-5.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-514059"/>
+<interactant intactId="EBI-296693">
+<id>Q9Y561</id>
+<label>LRP12</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q9NPI5-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q9NPI5-3</id>
+<name>2</name>
+<sequence type="described" ref="VSP_054332"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="3">Predominantly expressed in skeletal muscle and, at a much lower level, in the heart (at protein level). No expression in brain, kidney, liver, lung, pancreas nor placenta.</text>
+</comment>
+<comment type="induction">
+<text evidence="1">Down-regulated during myoblast differentiation.</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Belongs to the uridine kinase family. NRK subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="8">
+<conflict type="miscellaneous discrepancy">
+<sequence resource="EMBL-CDS" id="AAF26711" version="1"/>
+</conflict>
+<text>Aberrant splicing.</text>
+</comment>
+<dbReference type="EC" id="2.7.1.22" evidence="6"/>
+<dbReference type="EC" id="2.7.1.173" evidence="6"/>
+<dbReference type="EMBL" id="AF190819">
+<property type="protein sequence ID" value="AAF26711.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY611481">
+<property type="protein sequence ID" value="AAT11929.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL365377">
+<property type="protein sequence ID" value="CAB96949.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK001663">
+<property type="protein sequence ID" value="BAA91820.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK022514">
+<property type="protein sequence ID" value="BAB14071.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC011488">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC093637">
+<property type="protein sequence ID" value="AAH93637.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC101575">
+<property type="protein sequence ID" value="AAI01576.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC143329">
+<property type="protein sequence ID" value="AAI43330.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS12115.1">
+<molecule id="Q9NPI5-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS74259.1">
+<molecule id="Q9NPI5-3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001276046.1">
+<molecule id="Q9NPI5-3"/>
+<property type="nucleotide sequence ID" value="NM_001289117.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_733778.1">
+<molecule id="Q9NPI5-1"/>
+<property type="nucleotide sequence ID" value="NM_170678.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.135458"/>
+<dbReference type="ProteinModelPortal" id="Q9NPI5"/>
+<dbReference type="SMR" id="Q9NPI5"/>
+<dbReference type="BioGrid" id="118080">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="IntAct" id="Q9NPI5">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1401053"/>
+<dbReference type="STRING" id="9606.ENSP00000168977"/>
+<dbReference type="iPTMnet" id="Q9NPI5"/>
+<dbReference type="PhosphoSitePlus" id="Q9NPI5"/>
+<dbReference type="BioMuta" id="NMRK2"/>
+<dbReference type="DMDM" id="50401178"/>
+<dbReference type="PaxDb" id="Q9NPI5"/>
+<dbReference type="PeptideAtlas" id="Q9NPI5"/>
+<dbReference type="PRIDE" id="Q9NPI5"/>
+<dbReference type="DNASU" id="27231"/>
+<dbReference type="Ensembl" id="ENST00000168977">
+<molecule id="Q9NPI5-1"/>
+<property type="protein sequence ID" value="ENSP00000168977"/>
+<property type="gene ID" value="ENSG00000077009"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000593949">
+<molecule id="Q9NPI5-3"/>
+<property type="protein sequence ID" value="ENSP00000472581"/>
+<property type="gene ID" value="ENSG00000077009"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000616156">
+<molecule id="Q9NPI5-3"/>
+<property type="protein sequence ID" value="ENSP00000480091"/>
+<property type="gene ID" value="ENSG00000077009"/>
+</dbReference>
+<dbReference type="GeneID" id="27231"/>
+<dbReference type="KEGG" id="hsa:27231"/>
+<dbReference type="UCSC" id="uc002lyz.4">
+<molecule id="Q9NPI5-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="27231"/>
+<dbReference type="GeneCards" id="NMRK2"/>
+<dbReference type="HGNC" id="HGNC:17871">
+<property type="gene designation" value="NMRK2"/>
+</dbReference>
+<dbReference type="HPA" id="HPA049909"/>
+<dbReference type="HPA" id="HPA054792"/>
+<dbReference type="HPA" id="HPA072450"/>
+<dbReference type="MIM" id="608705">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9NPI5"/>
+<dbReference type="OpenTargets" id="ENSG00000077009"/>
+<dbReference type="PharmGKB" id="PA134938442"/>
+<dbReference type="eggNOG" id="KOG3308">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0572">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00510000046782"/>
+<dbReference type="HOGENOM" id="HOG000043899"/>
+<dbReference type="HOVERGEN" id="HBG052669"/>
+<dbReference type="InParanoid" id="Q9NPI5"/>
+<dbReference type="KO" id="K10524"/>
+<dbReference type="OMA" id="QKFARAH"/>
+<dbReference type="OrthoDB" id="EOG091G0JV5"/>
+<dbReference type="PhylomeDB" id="Q9NPI5"/>
+<dbReference type="TreeFam" id="TF105395"/>
+<dbReference type="BRENDA" id="2.7.1.173">
+<property type="organism ID" value="2681"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-196807">
+<property type="pathway name" value="Nicotinate metabolism"/>
+</dbReference>
+<dbReference type="UniPathway" id="UPA00253"/>
+<dbReference type="GeneWiki" id="ITGB1BP3"/>
+<dbReference type="GenomeRNAi" id="27231"/>
+<dbReference type="PRO" id="PR:Q9NPI5"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 19"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000077009"/>
+<dbReference type="CleanEx" id="HS_ITGB1BP3"/>
+<dbReference type="ExpressionAtlas" id="Q9NPI5">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9NPI5">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043231">
+<property type="term" value="C:intracellular membrane-bounded organelle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050262">
+<property type="term" value="F:ribosylnicotinamide kinase activity"/>
+<property type="evidence" value="ECO:0000269"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061769">
+<property type="term" value="F:ribosylnicotinate kinase activity"/>
+<property type="evidence" value="ECO:0000269"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009435">
+<property type="term" value="P:NAD biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019674">
+<property type="term" value="P:NAD metabolic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045662">
+<property type="term" value="P:negative regulation of myoblast differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-0662">Pyridine nucleotide biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Nicotinamide riboside kinase 2" id="PRO_0000215894">
+<location>
+<begin position="1"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="9"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="134"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="174"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding" evidence="2">
+<location>
+<begin position="35"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding" evidence="2">
+<location>
+<begin position="54"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding" evidence="2">
+<location>
+<begin position="136"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="2">
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="2">
+<location>
+<position position="16"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="2">
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="2">
+<location>
+<position position="130"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="2">
+<location>
+<position position="131"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_054332" evidence="7">
+<original>K</original>
+<variation>KAPLFQ</variation>
+<location>
+<position position="39"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs16992131." id="VAR_024549">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="178"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="6">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of activity." evidence="6">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="100"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9NWW6"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10613898"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12941630"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15137942"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17914902"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="17914902"/>
+</source>
+</evidence>
+<sequence length="230" mass="26046" checksum="27F8275A596758E7" modified="2000-10-01" version="1">
+MKLIVGIGGMTNGGKTTLTNSLLRALPNCCVIHQDDFFKPQDQIAVGEDGFKQWDVLESL
+DMEAMLDTVQAWLSSPQKFARAHGVSVQPEASDTHILLLEGFLLYSYKPLVDLYSRRYFL
+TVPYEECKWRRSTRNYTVPDPPGLFDGHVWPMYQKYRQEMEANGVEVVYLDGMKSREELF
+REVLEDIQNSLLNRSQESAPSPARPARTQGPGRGCGHRTARPAASQQDSM
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

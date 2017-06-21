@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2001-12-01" modified="2017-04-12" version="86">
+<accession>Q96S08</accession>
+<name>Q96S08_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="2">Some homology with holliday junction DNA helicase RUVB like</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">RUVBL</name>
+</gene>
+<organism evidence="2">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="journal article" date="2001" name="Hum. Mol. Genet." volume="10" first="339" last="352">
+<title>Sequence, structure and pathology of the fully annotated terminal 2 Mb of the short arm of human chromosome 16.</title>
+<authorList>
+<person name="Daniels R.J."/>
+<person name="Peden J.F."/>
+<person name="Lloyd C."/>
+<person name="Horsley S.W."/>
+<person name="Clark K."/>
+<person name="Tufarelli C."/>
+<person name="Kearney L."/>
+<person name="Buckle V.J."/>
+<person name="Doggett N.A."/>
+<person name="Flint J."/>
+<person name="Higgs D.R."/>
+</authorList>
+<dbReference type="PubMed" id="11157797"/>
+<dbReference type="DOI" id="10.1093/hmg/10.4.339"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<dbReference type="EMBL" id="AE006465">
+<property type="protein sequence ID" value="AAK61256.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.153850"/>
+<dbReference type="ProteinModelPortal" id="Q96S08"/>
+<dbReference type="IntAct" id="Q96S08">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000262315"/>
+<dbReference type="iPTMnet" id="Q96S08"/>
+<dbReference type="PaxDb" id="Q96S08"/>
+<dbReference type="PeptideAtlas" id="Q96S08"/>
+<dbReference type="PRIDE" id="Q96S08"/>
+<dbReference type="eggNOG" id="KOG1969">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XP8M">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000067805"/>
+<dbReference type="HOVERGEN" id="HBG062099"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003959">
+<property type="entry name" value="ATPase_AAA_core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00004">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0347" evidence="2">Helicase</keyword>
+<keyword id="KW-0378" evidence="2">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<feature type="domain" description="AAA" evidence="1">
+<location>
+<begin position="561"/>
+<end position="719"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00382"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAK61256.1"/>
+</source>
+</evidence>
+<sequence length="1184" mass="129354" checksum="17AB01556F83DC58" modified="2001-12-01" version="1">
+MHVNASARRWGRGGAAALPGPAASPRRPAPRTGPVGRPTLAPSPSRAHAHAKTNLLPGRA
+VQAPDAVPGAGSSRAPARWRPRDPGSSAPDAWQRFRPAPLRAQPRPPPRPAPGPPPPRKG
+GCGGQWRAPQDRTRGLRSRNSPRPPLAQPRLRHANQWRAPPGTPAADWRRPARSGRAVRD
+GGGGAGGSERELGLADGMEDYEQELCGVEDDFHNQFAAELEVLAELEGASTPSPSGVPLF
+TAGRPPRTFEEALARGDAASSPAPAASVGSSQGGARKRQVDADLQPAGSLPHAPRIKRPR
+LQVVKRLNFRSEEMEEPPPPDSSPTDITPPPSPEDLAELWGHGVSEAAADVGLTRASPAA
+RNPVLRRPPILEDYVHVTSTEGVRAYLVLRADPMAPGVQGSLLHVPWRGGGQLDLLGVSL
+ASLKKQVDGERRERLLQEAQKLSDTLHRSGEEEAAQPLGAPEEEPTDGQDASSHCLWVDE
+FAPRHYTELLSDDFTNRCLLKWLKLWDLVVFGHERPSRKPRPSVEPARVSKEATAPGKWK
+SHEQVLEEMLEAGLDPSQRPKQKVALLCGPPGLGKTTLAHVIARHAGYSVVEMNASDDRS
+PEVFRTRIEAATQMESVLGAGGKPNCLVIDEIDGAPVAAINVLLSILNRKGPQEVGPQGP
+AVPSGGGRRRRAEGGLLMRPIICICNDQFAPSLRQLKQQAFLLHFPPTLPSRLVQRLQEG
+MRADPGVLAALCEKTDNDIRACINTLQFLYSRGQRELSVRDVQATRVGLKDQRRGLFSVW
+QEVFQLPRAQRSSQHVSVLTCHGTPGDAGLVVLQDMGDAGLGLWDVLLLAWTRRGTFPGR
+FYRVLHAAASAGEHEKVVQGLFDNFLRLRLRDSSLGAVCVALDWLAFDDLLAGAAHHSQS
+FQLLRYPPFLPVAFHVLFASSHTPRITFPSSQQEAQNRMSQMRNLIQTLVSGIAPATRSR
+ATPQALLLDALCLLLDILAPKLRPVSTQLYSTREKQQLASLVGTMLAYSLTYRQERTPDG
+QYIYRLEPNVEELCRFPELPARKPLTYQTKQLIAREIEVEKMRRAEASARVENSPQVDGS
+PPGLEGLLGGIGEKGVHRPAPRNHEQRLEHIMRRAAREEQPEKDFFGRVVVRSTAVPSAG
+DTAPEQDSVERRMGTAVGRSEVWFRFNEGVSNAVRRSLYIRDLL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

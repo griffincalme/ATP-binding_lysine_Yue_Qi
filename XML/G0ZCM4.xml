@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2011-10-19" modified="2017-02-15" version="23">
+<accession>G0ZCM4</accession>
+<name>G0ZCM4_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="2">ATP-binding cassette transporter variant ABCC1delta-ex13&amp;14</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">ABCC1</name>
+</gene>
+<organism evidence="2">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="submission" date="2011-01" db="EMBL/GenBank/DDBJ databases">
+<title>Identification and characterization of alternative splice variants (ASV) in human ATP-binding cassette (ABC) transporters involved in drug transport.</title>
+<authorList>
+<person name="Grimholt R.M."/>
+<person name="Piehler A.P."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<dbReference type="EMBL" id="HQ917065">
+<property type="protein sequence ID" value="AEK86269.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.391464"/>
+<dbReference type="STRING" id="9606.ENSP00000382342"/>
+<dbReference type="PaxDb" id="G0ZCM4"/>
+<dbReference type="PeptideAtlas" id="G0ZCM4"/>
+<dbReference type="eggNOG" id="KOG0054">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1132">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="ABCC1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042626">
+<property type="term" value="F:ATPase activity, coupled to transmembrane movement of substances"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011527">
+<property type="entry name" value="ABC1_TM_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030241">
+<property type="entry name" value="ABCC1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24223:SF261">
+<property type="entry name" value="PTHR24223:SF261"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00664">
+<property type="entry name" value="ABC_membrane"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF90123">
+<property type="entry name" value="SSF90123"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50929">
+<property type="entry name" value="ABC_TM1F"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<feature type="domain" description="ABC transmembrane type-1" evidence="1">
+<location>
+<begin position="1"/>
+<end position="85"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="2">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50929"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AEK86269.1"/>
+</source>
+</evidence>
+<sequence length="92" mass="10359" checksum="1C60CD0AEB09D004" modified="2011-10-19" version="1" fragment="single">
+MVPVNAVMAMKTKTYQVAHMKSKDNRIKLMNEILNGIKVLKLYAWELAFKDKVLAIRQEE
+LKVLKKSAYLSAVGTFTWVCTPFLAGARTASP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

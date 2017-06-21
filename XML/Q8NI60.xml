@@ -1,0 +1,2290 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2003-01-27" modified="2017-04-12" version="134">
+<accession>Q8NI60</accession>
+<accession>Q5T7A5</accession>
+<accession>Q63HK0</accession>
+<accession>Q8NCJ6</accession>
+<accession>Q9HBQ1</accession>
+<accession>Q9NQ67</accession>
+<name>COQ8A_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="24">Atypical kinase COQ8A, mitochondrial</fullName>
+<ecNumber evidence="14">2.7.-.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="19">Chaperone activity of bc1 complex-like</fullName>
+<shortName evidence="19">Chaperone-ABC1-like</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="24">Coenzyme Q protein 8A</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="30">aarF domain-containing protein kinase 3</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="22 30">COQ8A</name>
+<name type="synonym" evidence="30">ADCK3</name>
+<name type="synonym" evidence="19">CABC1</name>
+<name type="ORF">PP265</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2002" name="Cancer Res." volume="62" first="1246" last="1250">
+<title>Isolation of a novel gene, CABC1, encoding a mitochondrial protein that is highly homologous to yeast activity of bc1 complex.</title>
+<authorList>
+<person name="Iiizumi M."/>
+<person name="Arakawa H."/>
+<person name="Mori T."/>
+<person name="Ando A."/>
+<person name="Nakamura Y."/>
+</authorList>
+<dbReference type="PubMed" id="11888884"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="2000-05" db="EMBL/GenBank/DDBJ databases">
+<title>Full length sequencing of some human and murine muscular transcript (Telethon Italy project B41).</title>
+<authorList>
+<person name="Ievolella C."/>
+<person name="Stanchi F."/>
+<person name="Bertocco E."/>
+<person name="Millino C."/>
+<person name="Faulkner G."/>
+<person name="Valle G."/>
+<person name="Lanfranchi G."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 4)</scope>
+<source>
+<tissue>Skeletal muscle</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Proc. Natl. Acad. Sci. U.S.A." volume="101" first="15724" last="15729">
+<title>Large-scale cDNA transfection screening for genes related to cancer development and progression.</title>
+<authorList>
+<person name="Wan D."/>
+<person name="Gong Y."/>
+<person name="Qin W."/>
+<person name="Zhang P."/>
+<person name="Li J."/>
+<person name="Wei L."/>
+<person name="Zhou X."/>
+<person name="Li H."/>
+<person name="Qiu X."/>
+<person name="Zhong F."/>
+<person name="He L."/>
+<person name="Yu J."/>
+<person name="Yao G."/>
+<person name="Jiang H."/>
+<person name="Qian L."/>
+<person name="Yu Y."/>
+<person name="Shu H."/>
+<person name="Chen X."/>
+<person name="Xu H."/>
+<person name="Guo M."/>
+<person name="Pan Z."/>
+<person name="Chen Y."/>
+<person name="Ge C."/>
+<person name="Yang S."/>
+<person name="Gu J."/>
+</authorList>
+<dbReference type="PubMed" id="15498874"/>
+<dbReference type="DOI" id="10.1073/pnas.0404089101"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Mammary gland</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2007" name="BMC Genomics" volume="8" first="399" last="399">
+<title>The full-ORF clone resource of the German cDNA consortium.</title>
+<authorList>
+<person name="Bechtel S."/>
+<person name="Rosenfelder H."/>
+<person name="Duda A."/>
+<person name="Schmidt C.P."/>
+<person name="Ernst U."/>
+<person name="Wellenreuther R."/>
+<person name="Mehrle A."/>
+<person name="Schuster C."/>
+<person name="Bahr A."/>
+<person name="Bloecker H."/>
+<person name="Heubner D."/>
+<person name="Hoerlein A."/>
+<person name="Michel G."/>
+<person name="Wedler H."/>
+<person name="Koehrer K."/>
+<person name="Ottenwaelder B."/>
+<person name="Poustka A."/>
+<person name="Wiemann S."/>
+<person name="Schupp I."/>
+</authorList>
+<dbReference type="PubMed" id="17974005"/>
+<dbReference type="DOI" id="10.1186/1471-2164-8-399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3)</scope>
+<source>
+<tissue>Small intestine</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2006" name="Nature" volume="441" first="315" last="321">
+<title>The DNA sequence and biological annotation of human chromosome 1.</title>
+<authorList>
+<person name="Gregory S.G."/>
+<person name="Barlow K.F."/>
+<person name="McLay K.E."/>
+<person name="Kaul R."/>
+<person name="Swarbreck D."/>
+<person name="Dunham A."/>
+<person name="Scott C.E."/>
+<person name="Howe K.L."/>
+<person name="Woodfine K."/>
+<person name="Spencer C.C.A."/>
+<person name="Jones M.C."/>
+<person name="Gillson C."/>
+<person name="Searle S."/>
+<person name="Zhou Y."/>
+<person name="Kokocinski F."/>
+<person name="McDonald L."/>
+<person name="Evans R."/>
+<person name="Phillips K."/>
+<person name="Atkinson A."/>
+<person name="Cooper R."/>
+<person name="Jones C."/>
+<person name="Hall R.E."/>
+<person name="Andrews T.D."/>
+<person name="Lloyd C."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ambrose K.D."/>
+<person name="Anderson F."/>
+<person name="Andrew R.W."/>
+<person name="Ashwell R.I.S."/>
+<person name="Aubin K."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Beasley H."/>
+<person name="Bethel G."/>
+<person name="Bird C.P."/>
+<person name="Bray-Allen S."/>
+<person name="Brown J.Y."/>
+<person name="Brown A.J."/>
+<person name="Buckley D."/>
+<person name="Burton J."/>
+<person name="Bye J."/>
+<person name="Carder C."/>
+<person name="Chapman J.C."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C."/>
+<person name="Cobley V."/>
+<person name="Collier R.E."/>
+<person name="Corby N."/>
+<person name="Coville G.J."/>
+<person name="Davies J."/>
+<person name="Deadman R."/>
+<person name="Dunn M."/>
+<person name="Earthrowl M."/>
+<person name="Ellington A.G."/>
+<person name="Errington H."/>
+<person name="Frankish A."/>
+<person name="Frankland J."/>
+<person name="French L."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Gay L."/>
+<person name="Ghori M.R.J."/>
+<person name="Gibson R."/>
+<person name="Gilby L.M."/>
+<person name="Gillett W."/>
+<person name="Glithero R.J."/>
+<person name="Grafham D.V."/>
+<person name="Griffiths C."/>
+<person name="Griffiths-Jones S."/>
+<person name="Grocock R."/>
+<person name="Hammond S."/>
+<person name="Harrison E.S.I."/>
+<person name="Hart E."/>
+<person name="Haugen E."/>
+<person name="Heath P.D."/>
+<person name="Holmes S."/>
+<person name="Holt K."/>
+<person name="Howden P.J."/>
+<person name="Hunt A.R."/>
+<person name="Hunt S.E."/>
+<person name="Hunter G."/>
+<person name="Isherwood J."/>
+<person name="James R."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Joy A."/>
+<person name="Kay M."/>
+<person name="Kershaw J.K."/>
+<person name="Kibukawa M."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Knights A.J."/>
+<person name="Lad H."/>
+<person name="Laird G."/>
+<person name="Lawlor S."/>
+<person name="Leongamornlert D.A."/>
+<person name="Lloyd D.M."/>
+<person name="Loveland J."/>
+<person name="Lovell J."/>
+<person name="Lush M.J."/>
+<person name="Lyne R."/>
+<person name="Martin S."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="Matthews N.S.W."/>
+<person name="McLaren S."/>
+<person name="Milne S."/>
+<person name="Mistry S."/>
+<person name="Moore M.J.F."/>
+<person name="Nickerson T."/>
+<person name="O'Dell C.N."/>
+<person name="Oliver K."/>
+<person name="Palmeiri A."/>
+<person name="Palmer S.A."/>
+<person name="Parker A."/>
+<person name="Patel D."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Pelan S."/>
+<person name="Phelps K."/>
+<person name="Phillimore B.J."/>
+<person name="Plumb R."/>
+<person name="Rajan J."/>
+<person name="Raymond C."/>
+<person name="Rouse G."/>
+<person name="Saenphimmachak C."/>
+<person name="Sehra H.K."/>
+<person name="Sheridan E."/>
+<person name="Shownkeen R."/>
+<person name="Sims S."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Steward C."/>
+<person name="Subramanian S."/>
+<person name="Sycamore N."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Van Helmond Z."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="White S."/>
+<person name="Whitehead S.L."/>
+<person name="Wilkinson J.E."/>
+<person name="Willey D.L."/>
+<person name="Williams H."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Wu Z."/>
+<person name="Coulson A."/>
+<person name="Vaudin M."/>
+<person name="Sulston J.E."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Wooster R."/>
+<person name="Dunham I."/>
+<person name="Carter N.P."/>
+<person name="McVean G."/>
+<person name="Ross M.T."/>
+<person name="Harrow J."/>
+<person name="Olson M.V."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Bentley D.R."/>
+</authorList>
+<dbReference type="PubMed" id="16710414"/>
+<dbReference type="DOI" id="10.1038/nature04727"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Uterus</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2015" name="Mol. Cell" volume="57" first="83" last="94">
+<title>Mitochondrial ADCK3 employs an atypical protein kinase-like fold to enable coenzyme Q biosynthesis.</title>
+<authorList>
+<person name="Stefely J.A."/>
+<person name="Reidenbach A.G."/>
+<person name="Ulbrich A."/>
+<person name="Oruganty K."/>
+<person name="Floyd B.J."/>
+<person name="Jochem A."/>
+<person name="Saunders J.M."/>
+<person name="Johnson I.E."/>
+<person name="Minogue C.E."/>
+<person name="Wrobel R.L."/>
+<person name="Barber G.E."/>
+<person name="Lee D."/>
+<person name="Li S."/>
+<person name="Kannan N."/>
+<person name="Coon J.J."/>
+<person name="Bingman C.A."/>
+<person name="Pagliarini D.J."/>
+</authorList>
+<dbReference type="PubMed" id="25498144"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2014.11.002"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF N-TERMINUS</scope>
+<scope>X-RAY CRYSTALLOGRAPHY (1.64 ANGSTROMS) OF 256-647</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PATHWAY</scope>
+<scope>DOMAIN</scope>
+<scope>ENZYME REGULATION</scope>
+<scope>MUTAGENESIS OF LYS-276; GLN-279; ALA-339; LYS-358; GLU-405; GLU-411; ASP-488; ASN-493; ASP-507 AND ARG-611</scope>
+<scope>CHARACTERIZATION OF VARIANTS COQ10D4 TRP-299; CYS-429; SER-549 AND LYS-551</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2010" name="Mitochondrion" volume="10" first="510" last="515">
+<title>Nonsense mutations in CABC1/ADCK3 cause progressive cerebellar ataxia and atrophy.</title>
+<authorList>
+<person name="Gerards M."/>
+<person name="van den Bosch B."/>
+<person name="Calis C."/>
+<person name="Schoonderwoerd K."/>
+<person name="van Engelen K."/>
+<person name="Tijssen M."/>
+<person name="de Coo R."/>
+<person name="van der Kooi A."/>
+<person name="Smeets H."/>
+</authorList>
+<dbReference type="PubMed" id="20580948"/>
+<dbReference type="DOI" id="10.1016/j.mito.2010.05.008"/>
+</citation>
+<scope>INVOLVEMENT IN COQ10D4</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2011" name="Biochim. Biophys. Acta" volume="1811" first="348" last="360">
+<title>Expression of the human atypical kinase ADCK3 rescues coenzyme Q biosynthesis and phosphorylation of Coq polypeptides in yeast coq8 mutants.</title>
+<authorList>
+<person name="Xie L.X."/>
+<person name="Hsieh E.J."/>
+<person name="Watanabe S."/>
+<person name="Allan C.M."/>
+<person name="Chen J.Y."/>
+<person name="Tran U.C."/>
+<person name="Clarke C.F."/>
+</authorList>
+<dbReference type="PubMed" id="21296186"/>
+<dbReference type="DOI" id="10.1016/j.bbalip.2011.01.009"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2013" name="J. Clin. Invest." volume="123" first="5179" last="5189">
+<title>ADCK4 mutations promote steroid-resistant nephrotic syndrome through CoQ10 biosynthesis disruption.</title>
+<authorList>
+<person name="Ashraf S."/>
+<person name="Gee H.Y."/>
+<person name="Woerner S."/>
+<person name="Xie L.X."/>
+<person name="Vega-Warner V."/>
+<person name="Lovric S."/>
+<person name="Fang H."/>
+<person name="Song X."/>
+<person name="Cattran D.C."/>
+<person name="Avila-Casado C."/>
+<person name="Paterson A.D."/>
+<person name="Nitschke P."/>
+<person name="Bole-Feysot C."/>
+<person name="Cochat P."/>
+<person name="Esteve-Rudd J."/>
+<person name="Haberberger B."/>
+<person name="Allen S.J."/>
+<person name="Zhou W."/>
+<person name="Airik R."/>
+<person name="Otto E.A."/>
+<person name="Barua M."/>
+<person name="Al-Hamed M.H."/>
+<person name="Kari J.A."/>
+<person name="Evans J."/>
+<person name="Bierzynska A."/>
+<person name="Saleem M.A."/>
+<person name="Bockenhauer D."/>
+<person name="Kleta R."/>
+<person name="El Desoky S."/>
+<person name="Hacihamdioglu D.O."/>
+<person name="Gok F."/>
+<person name="Washburn J."/>
+<person name="Wiggins R.C."/>
+<person name="Choi M."/>
+<person name="Lifton R.P."/>
+<person name="Levy S."/>
+<person name="Han Z."/>
+<person name="Salviati L."/>
+<person name="Prokisch H."/>
+<person name="Williams D.S."/>
+<person name="Pollak M."/>
+<person name="Clarke C.F."/>
+<person name="Pei Y."/>
+<person name="Antignac C."/>
+<person name="Hildebrandt F."/>
+</authorList>
+<dbReference type="PubMed" id="24270420"/>
+<dbReference type="DOI" id="10.1172/JCI69000"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2014" name="J. Am. Chem. Soc." volume="136" first="14068" last="14077">
+<title>A Gly-zipper motif mediates homodimerization of the transmembrane domain of the mitochondrial kinase ADCK3.</title>
+<authorList>
+<person name="Khadria A.S."/>
+<person name="Mueller B.K."/>
+<person name="Stefely J.A."/>
+<person name="Tan C.H."/>
+<person name="Pagliarini D.J."/>
+<person name="Senes A."/>
+</authorList>
+<dbReference type="PubMed" id="25216398"/>
+<dbReference type="DOI" id="10.1021/ja505017f"/>
+</citation>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF LEU-214; ALA-215; ASN-216; PHE-217; GLY-218; GLY-219; LEU-220; ALA-221; VAL-222; GLY-223; LEU-224; GLY-225; PHE-226; GLY-227; ALA-228; LEU-229 AND ALA-230</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2014" name="J. Neurol. Neurosurg. Psych." volume="85" first="493" last="498">
+<title>Autosomal-recessive cerebellar ataxia caused by a novel ADCK3 mutation that elongates the protein: clinical, genetic and biochemical characterisation.</title>
+<authorList>
+<person name="Liu Y.T."/>
+<person name="Hersheson J."/>
+<person name="Plagnol V."/>
+<person name="Fawcett K."/>
+<person name="Duberley K.E."/>
+<person name="Preza E."/>
+<person name="Hargreaves I.P."/>
+<person name="Chalasani A."/>
+<person name="Laura M."/>
+<person name="Wood N.W."/>
+<person name="Reilly M.M."/>
+<person name="Houlden H."/>
+</authorList>
+<dbReference type="PubMed" id="24218524"/>
+<dbReference type="DOI" id="10.1136/jnnp-2013-306483"/>
+</citation>
+<scope>INVOLVEMENT IN COQ10D4</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2015" name="Protein Expr. Purif." volume="108" first="13" last="17">
+<title>Preparation and characterization of human ADCK3, a putative atypical kinase.</title>
+<authorList>
+<person name="Wheeler B."/>
+<person name="Jia Z."/>
+</authorList>
+<dbReference type="PubMed" id="25540914"/>
+<dbReference type="DOI" id="10.1016/j.pep.2014.12.008"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+<dbReference type="DOI" id="10.1002/pmic.201400617"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2016" name="Mol. Cell" volume="63" first="608" last="620">
+<title>Cerebellar ataxia and coenzyme Q deficiency through loss of unorthodox kinase activity.</title>
+<authorList>
+<person name="Stefely J.A."/>
+<person name="Licitra F."/>
+<person name="Laredj L."/>
+<person name="Reidenbach A.G."/>
+<person name="Kemmerer Z.A."/>
+<person name="Grangeray A."/>
+<person name="Jaeg-Ehret T."/>
+<person name="Minogue C.E."/>
+<person name="Ulbrich A."/>
+<person name="Hutchins P.D."/>
+<person name="Wilkerson E.M."/>
+<person name="Ruan Z."/>
+<person name="Aydin D."/>
+<person name="Hebert A.S."/>
+<person name="Guo X."/>
+<person name="Freiberger E.C."/>
+<person name="Reutenauer L."/>
+<person name="Jochem A."/>
+<person name="Chergova M."/>
+<person name="Johnson I.E."/>
+<person name="Lohman D.C."/>
+<person name="Rush M.J."/>
+<person name="Kwiecien N.W."/>
+<person name="Singh P.K."/>
+<person name="Schlagowski A.I."/>
+<person name="Floyd B.J."/>
+<person name="Forsman U."/>
+<person name="Sindelar P.J."/>
+<person name="Westphall M.S."/>
+<person name="Pierrel F."/>
+<person name="Zoll J."/>
+<person name="Dal Peraro M."/>
+<person name="Kannan N."/>
+<person name="Bingman C.A."/>
+<person name="Coon J.J."/>
+<person name="Isope P."/>
+<person name="Puccio H."/>
+<person name="Pagliarini D.J."/>
+</authorList>
+<dbReference type="PubMed" id="27499294"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2016.06.030"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH THE COQ ENZYME COMPLEX</scope>
+<scope>DOMAIN</scope>
+<scope>X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 256-647 IN COMPLEX WITH ANP NUCLEOTIDE</scope>
+<scope>ENZYME REGULATION</scope>
+<scope>MUTAGENESIS OF LYS-276 AND ASP-507</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2016" name="Mol. Cell" volume="63" first="621" last="632">
+<title>Mitochondrial protein interaction mapping identifies regulators of respiratory chain function.</title>
+<authorList>
+<person name="Floyd B.J."/>
+<person name="Wilkerson E.M."/>
+<person name="Veling M.T."/>
+<person name="Minogue C.E."/>
+<person name="Xia C."/>
+<person name="Beebe E.T."/>
+<person name="Wrobel R.L."/>
+<person name="Cho H."/>
+<person name="Kremer L.S."/>
+<person name="Alston C.L."/>
+<person name="Gromek K.A."/>
+<person name="Dolan B.K."/>
+<person name="Ulbrich A."/>
+<person name="Stefely J.A."/>
+<person name="Bohl S.L."/>
+<person name="Werner K.M."/>
+<person name="Jochem A."/>
+<person name="Westphall M.S."/>
+<person name="Rensvold J.W."/>
+<person name="Taylor R.W."/>
+<person name="Prokisch H."/>
+<person name="Kim J.J."/>
+<person name="Coon J.J."/>
+<person name="Pagliarini D.J."/>
+</authorList>
+<dbReference type="PubMed" id="27499296"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2016.06.033"/>
+</citation>
+<scope>INTERACTION WITH THE COQ ENZYME COMPLEX</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2007" name="Nature" volume="446" first="153" last="158">
+<title>Patterns of somatic mutation in human cancer genomes.</title>
+<authorList>
+<person name="Greenman C."/>
+<person name="Stephens P."/>
+<person name="Smith R."/>
+<person name="Dalgliesh G.L."/>
+<person name="Hunter C."/>
+<person name="Bignell G."/>
+<person name="Davies H."/>
+<person name="Teague J."/>
+<person name="Butler A."/>
+<person name="Stevens C."/>
+<person name="Edkins S."/>
+<person name="O'Meara S."/>
+<person name="Vastrik I."/>
+<person name="Schmidt E.E."/>
+<person name="Avis T."/>
+<person name="Barthorpe S."/>
+<person name="Bhamra G."/>
+<person name="Buck G."/>
+<person name="Choudhury B."/>
+<person name="Clements J."/>
+<person name="Cole J."/>
+<person name="Dicks E."/>
+<person name="Forbes S."/>
+<person name="Gray K."/>
+<person name="Halliday K."/>
+<person name="Harrison R."/>
+<person name="Hills K."/>
+<person name="Hinton J."/>
+<person name="Jenkinson A."/>
+<person name="Jones D."/>
+<person name="Menzies A."/>
+<person name="Mironenko T."/>
+<person name="Perry J."/>
+<person name="Raine K."/>
+<person name="Richardson D."/>
+<person name="Shepherd R."/>
+<person name="Small A."/>
+<person name="Tofts C."/>
+<person name="Varian J."/>
+<person name="Webb T."/>
+<person name="West S."/>
+<person name="Widaa S."/>
+<person name="Yates A."/>
+<person name="Cahill D.P."/>
+<person name="Louis D.N."/>
+<person name="Goldstraw P."/>
+<person name="Nicholson A.G."/>
+<person name="Brasseur F."/>
+<person name="Looijenga L."/>
+<person name="Weber B.L."/>
+<person name="Chiew Y.-E."/>
+<person name="DeFazio A."/>
+<person name="Greaves M.F."/>
+<person name="Green A.R."/>
+<person name="Campbell P."/>
+<person name="Birney E."/>
+<person name="Easton D.F."/>
+<person name="Chenevix-Trench G."/>
+<person name="Tan M.-H."/>
+<person name="Khoo S.K."/>
+<person name="Teh B.T."/>
+<person name="Yuen S.T."/>
+<person name="Leung S.Y."/>
+<person name="Wooster R."/>
+<person name="Futreal P.A."/>
+<person name="Stratton M.R."/>
+</authorList>
+<dbReference type="PubMed" id="17344846"/>
+<dbReference type="DOI" id="10.1038/nature05610"/>
+</citation>
+<scope>VARIANT [LARGE SCALE ANALYSIS] THR-341</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2008" name="Am. J. Hum. Genet." volume="82" first="623" last="630">
+<title>CABC1 gene mutations cause ubiquinone deficiency with cerebellar ataxia and seizures.</title>
+<authorList>
+<person name="Mollet J."/>
+<person name="Delahodde A."/>
+<person name="Serre V."/>
+<person name="Chretien D."/>
+<person name="Schlemmer D."/>
+<person name="Lombes A."/>
+<person name="Boddaert N."/>
+<person name="Desguerre I."/>
+<person name="de Lonlay P."/>
+<person name="de Baulny H.O."/>
+<person name="Munnich A."/>
+<person name="Roetig A."/>
+</authorList>
+<dbReference type="PubMed" id="18319072"/>
+<dbReference type="DOI" id="10.1016/j.ajhg.2007.12.022"/>
+</citation>
+<scope>VARIANTS COQ10D4 TRP-213; VAL-272; ASP-272 AND LYS-551</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2008" name="Am. J. Hum. Genet." volume="82" first="661" last="672">
+<title>ADCK3, an ancestral kinase, is mutated in a form of recessive ataxia associated with coenzyme Q10 deficiency.</title>
+<authorList>
+<person name="Lagier-Tourenne C."/>
+<person name="Tazir M."/>
+<person name="Lopez L.C."/>
+<person name="Quinzii C.M."/>
+<person name="Assoum M."/>
+<person name="Drouot N."/>
+<person name="Busso C."/>
+<person name="Makri S."/>
+<person name="Ali-Pacha L."/>
+<person name="Benhassine T."/>
+<person name="Anheim M."/>
+<person name="Lynch D.R."/>
+<person name="Thibault C."/>
+<person name="Plewniak F."/>
+<person name="Bianchetti L."/>
+<person name="Tranchant C."/>
+<person name="Poch O."/>
+<person name="DiMauro S."/>
+<person name="Mandel J.-L."/>
+<person name="Barros M.H."/>
+<person name="Hirano M."/>
+<person name="Koenig M."/>
+</authorList>
+<dbReference type="PubMed" id="18319074"/>
+<dbReference type="DOI" id="10.1016/j.ajhg.2007.12.024"/>
+</citation>
+<scope>VARIANTS COQ10D4 CYS-514; SER-549 AND THR-584 DEL</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2012" name="J. Neurol. Neurosurg. Psych." volume="83" first="174" last="178">
+<title>Adult-onset cerebellar ataxia due to mutations in CABC1/ADCK3.</title>
+<authorList>
+<person name="Horvath R."/>
+<person name="Czermin B."/>
+<person name="Gulati S."/>
+<person name="Demuth S."/>
+<person name="Houge G."/>
+<person name="Pyle A."/>
+<person name="Dineiger C."/>
+<person name="Blakely E.L."/>
+<person name="Hassani A."/>
+<person name="Foley C."/>
+<person name="Brodhun M."/>
+<person name="Storm K."/>
+<person name="Kirschner J."/>
+<person name="Gorman G.S."/>
+<person name="Lochmuller H."/>
+<person name="Holinski-Feder E."/>
+<person name="Taylor R.W."/>
+<person name="Chinnery P.F."/>
+</authorList>
+<dbReference type="PubMed" id="22036850"/>
+<dbReference type="DOI" id="10.1136/jnnp-2011-301258"/>
+</citation>
+<scope>VARIANTS COQ10D4 TRP-213; CYS-271; ASP-272; VAL-272; TRP-299; THR-304; VAL-304; CYS-429; SER-549 AND LYS-551</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2014" name="JIMD Rep." volume="12" first="103" last="107">
+<title>Heterozygous mutations in the ADCK3 gene in siblings with cerebellar atrophy and extreme phenotypic variability.</title>
+<authorList>
+<person name="Blumkin L."/>
+<person name="Leshinsky-Silver E."/>
+<person name="Zerem A."/>
+<person name="Yosovich K."/>
+<person name="Lerman-Sagie T."/>
+<person name="Lev D."/>
+</authorList>
+<dbReference type="PubMed" id="24048965"/>
+<dbReference type="DOI" id="10.1007/8904_2013_251"/>
+</citation>
+<scope>VARIANT COQ10D4 ARG-602</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2016" name="Clin. Genet." volume="90" first="156" last="160">
+<title>Cerebellar ataxia and severe muscle CoQ10 deficiency in a patient with a novel mutation in ADCK3.</title>
+<authorList>
+<person name="Barca E."/>
+<person name="Musumeci O."/>
+<person name="Montagnese F."/>
+<person name="Marino S."/>
+<person name="Granata F."/>
+<person name="Nunnari D."/>
+<person name="Peverelli L."/>
+<person name="DiMauro S."/>
+<person name="Quinzii C.M."/>
+<person name="Toscano A."/>
+</authorList>
+<dbReference type="PubMed" id="26818466"/>
+<dbReference type="DOI" id="10.1111/cge.12742"/>
+</citation>
+<scope>INVOLVEMENT IN COQ10D4</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2016" name="Eur. J. Neurol." volume="23" first="1188" last="1194">
+<title>ADCK3 mutations with epilepsy, stroke-like episodes and ataxia: a POLG mimic?</title>
+<authorList>
+<person name="Hikmat O."/>
+<person name="Tzoulis C."/>
+<person name="Knappskog P.M."/>
+<person name="Johansson S."/>
+<person name="Boman H."/>
+<person name="Sztromwasser P."/>
+<person name="Lien E."/>
+<person name="Brodtkorb E."/>
+<person name="Ghezzi D."/>
+<person name="Bindoff L.A."/>
+</authorList>
+<dbReference type="PubMed" id="27106809"/>
+<dbReference type="DOI" id="10.1111/ene.13003"/>
+</citation>
+<scope>VARIANTS COQ10D4 TRP-299 AND VAL-578</scope>
+</reference>
+<comment type="function">
+<text evidence="14 17 25 28">Atypical kinase involved in the biosynthesis of coenzyme Q, also named ubiquinone, an essential lipid-soluble electron transporter for aerobic cellular respiration (PubMed:25498144, PubMed:21296186, PubMed:25540914, PubMed:27499294). Its substrate specificity is unclear: does not show any protein kinase activity (PubMed:25498144, PubMed:27499294). Probably acts as a small molecule kinase, possibly a lipid kinase that phosphorylates a prenyl lipid in the ubiquinone biosynthesis pathway, as suggested by its ability to bind coenzyme Q lipid intermediates (PubMed:25498144, PubMed:27499294). Shows an unusual selectivity for binding ADP over ATP (PubMed:25498144).</text>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="14 17">Autoinhibited by the N-terminal domain, containing the KxGQ motif, that completely occludes the typical substrate binding pocket. Nucleotide-binding relieves inhibition (PubMed:27499294).</text>
+</comment>
+<comment type="pathway" evidence="14">
+<text>Cofactor biosynthesis; ubiquinone biosynthesis.</text>
+</comment>
+<comment type="subunit">
+<text evidence="13 17 18">Homodimer; homodimerizes via its transmembrane region (PubMed:25216398). Interacts with the multi-subunit COQ enzyme complex, composed of at least COQ3, COQ4, COQ5, COQ6, COQ7 and COQ9 (PubMed:27499294, PubMed:27499296).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-745535"/>
+<interactant intactId="EBI-741181">
+<id>Q6RW13</id>
+<label>AGTRAP</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-745535"/>
+<interactant intactId="EBI-11522760">
+<id>Q6RW13-2</id>
+<label>AGTRAP</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-745535"/>
+<interactant intactId="EBI-11522780">
+<id>Q96DZ9-2</id>
+<label>CMTM5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-745535"/>
+<interactant intactId="EBI-740376">
+<id>Q86UW9</id>
+<label>DTX2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-745535"/>
+<interactant intactId="EBI-712367">
+<id>Q9UI14</id>
+<label>RABAC1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>11</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-745535"/>
+<interactant intactId="EBI-750345">
+<id>Q96HR9</id>
+<label>REEP6</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>10</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-745535"/>
+<interactant intactId="EBI-2623095">
+<id>Q9Y371</id>
+<label>SH3GLB1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-745535"/>
+<interactant intactId="EBI-1105213">
+<id>Q9UBB9</id>
+<label>TFIP11</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>10</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-745535"/>
+<interactant intactId="EBI-7055862">
+<id>Q96B96</id>
+<label>TMEM159</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-745535"/>
+<interactant intactId="EBI-9675724">
+<id>Q8WW34</id>
+<label>TMEM239</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-745535"/>
+<interactant intactId="EBI-11528917">
+<id>Q8WW34-2</id>
+<label>TMEM239</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4 14">Mitochondrion</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="3">Membrane</location>
+<topology evidence="3 26">Single-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q8NI60-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q8NI60-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_022351"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+<isoform>
+<id>Q8NI60-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_022353"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+<isoform>
+<id>Q8NI60-4</id>
+<name>4</name>
+<sequence type="described" ref="VSP_022352"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="12">Widely expressed, with highest levels in adrenal gland, heart, pancreas, nasal mucosa, stomach, uterus and skeletal muscle.</text>
+</comment>
+<comment type="induction">
+<text evidence="4">By p53/TP53.</text>
+</comment>
+<comment type="domain">
+<text evidence="14 17">Adopts an atypical protein kinase-like fold: while it adopts a core fold similar to that of well-characterized protein kinase-like domains, a number of features are positioned to inhibit the kinase activity: (1) an atypical AAAS motif in an alanine-rich (A-rich) loop that replaces the canonical glycine-rich (G-rich) nucleotide-binding loop and limits ATP binding by establishing an unusual selectivity for ADP and (2) an N-terminal domain, containing the KxGQ motif, that completely occludes the typical substrate binding pocket (PubMed:25498144). Nucleotide-binding opens the substrate binding pocket and flips the active site from inside the hydrophobic core into a catalytically competent, solvent-exposed posture (PubMed:27499294).</text>
+</comment>
+<comment type="disease" evidence="6 7 8 9 10 11 14 15 16">
+<disease id="DI-01063">
+<name>Coenzyme Q10 deficiency, primary, 4</name>
+<acronym>COQ10D4</acronym>
+<description>An autosomal recessive disorder characterized by childhood-onset of cerebellar ataxia and exercise intolerance. Patient manifest gait ataxia and cerebellar atrophy with slow progression. Additional features include brisk tendon reflexes and Hoffmann sign, variable psychomotor retardation and variable seizures.</description>
+<dbReference type="MIM" id="612016"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="24">Belongs to the protein kinase superfamily. ADCK protein kinase family.</text>
+</comment>
+<dbReference type="EC" id="2.7.-.-" evidence="14"/>
+<dbReference type="EMBL" id="AB073905">
+<property type="protein sequence ID" value="BAB91363.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ278126">
+<property type="protein sequence ID" value="CAC00482.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF218003">
+<property type="protein sequence ID" value="AAG17245.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK074693">
+<property type="protein sequence ID" value="BAC11143.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BX648860">
+<property type="protein sequence ID" value="CAH56132.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL353689">
+<property type="protein sequence ID" value="CAI19103.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL353689">
+<property type="protein sequence ID" value="CAI19105.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC005171">
+<property type="protein sequence ID" value="AAH05171.2"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS1557.1">
+<molecule id="Q8NI60-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_064632.2">
+<molecule id="Q8NI60-1"/>
+<property type="nucleotide sequence ID" value="NM_020247.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_005273258.1">
+<molecule id="Q8NI60-1"/>
+<property type="nucleotide sequence ID" value="XM_005273201.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011542540.1">
+<molecule id="Q8NI60-1"/>
+<property type="nucleotide sequence ID" value="XM_011544238.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011542541.1">
+<molecule id="Q8NI60-1"/>
+<property type="nucleotide sequence ID" value="XM_011544239.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011542542.1">
+<molecule id="Q8NI60-1"/>
+<property type="nucleotide sequence ID" value="XM_011544240.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011542543.1">
+<molecule id="Q8NI60-1"/>
+<property type="nucleotide sequence ID" value="XM_011544241.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016857341.1">
+<molecule id="Q8NI60-1"/>
+<property type="nucleotide sequence ID" value="XM_017001852.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.118241"/>
+<dbReference type="PDB" id="4PED">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.64"/>
+<property type="chains" value="A=256-647"/>
+</dbReference>
+<dbReference type="PDB" id="5I35">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=256-647"/>
+</dbReference>
+<dbReference type="PDBsum" id="4PED"/>
+<dbReference type="PDBsum" id="5I35"/>
+<dbReference type="ProteinModelPortal" id="Q8NI60"/>
+<dbReference type="SMR" id="Q8NI60"/>
+<dbReference type="BioGrid" id="121312">
+<property type="interactions" value="39"/>
+</dbReference>
+<dbReference type="IntAct" id="Q8NI60">
+<property type="interactions" value="31"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1479202"/>
+<dbReference type="STRING" id="9606.ENSP00000355739"/>
+<dbReference type="BindingDB" id="Q8NI60"/>
+<dbReference type="ChEMBL" id="CHEMBL5550"/>
+<dbReference type="GuidetoPHARMACOLOGY" id="1927"/>
+<dbReference type="iPTMnet" id="Q8NI60"/>
+<dbReference type="PhosphoSitePlus" id="Q8NI60"/>
+<dbReference type="BioMuta" id="ADCK3"/>
+<dbReference type="DMDM" id="27923741"/>
+<dbReference type="EPD" id="Q8NI60"/>
+<dbReference type="MaxQB" id="Q8NI60"/>
+<dbReference type="PaxDb" id="Q8NI60"/>
+<dbReference type="PeptideAtlas" id="Q8NI60"/>
+<dbReference type="PRIDE" id="Q8NI60"/>
+<dbReference type="DNASU" id="56997"/>
+<dbReference type="Ensembl" id="ENST00000366777">
+<molecule id="Q8NI60-1"/>
+<property type="protein sequence ID" value="ENSP00000355739"/>
+<property type="gene ID" value="ENSG00000163050"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000366778">
+<molecule id="Q8NI60-3"/>
+<property type="protein sequence ID" value="ENSP00000355740"/>
+<property type="gene ID" value="ENSG00000163050"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000366779">
+<molecule id="Q8NI60-1"/>
+<property type="protein sequence ID" value="ENSP00000355741"/>
+<property type="gene ID" value="ENSG00000163050"/>
+</dbReference>
+<dbReference type="GeneID" id="56997"/>
+<dbReference type="KEGG" id="hsa:56997"/>
+<dbReference type="UCSC" id="uc001hqm.2">
+<molecule id="Q8NI60-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="56997"/>
+<dbReference type="DisGeNET" id="56997"/>
+<dbReference type="GeneCards" id="COQ8A"/>
+<dbReference type="H-InvDB" id="HIX0001648"/>
+<dbReference type="HGNC" id="HGNC:16812">
+<property type="gene designation" value="COQ8A"/>
+</dbReference>
+<dbReference type="HPA" id="HPA061662"/>
+<dbReference type="MalaCards" id="COQ8A"/>
+<dbReference type="MIM" id="606980">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="612016">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q8NI60"/>
+<dbReference type="OpenTargets" id="ENSG00000163050"/>
+<dbReference type="Orphanet" id="139485">
+<property type="disease" value="Autosomal recessive ataxia due to ubiquinone deficiency"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA25999"/>
+<dbReference type="eggNOG" id="KOG1234">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0661">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00550000074739"/>
+<dbReference type="HOGENOM" id="HOG000201140"/>
+<dbReference type="HOVERGEN" id="HBG061318"/>
+<dbReference type="InParanoid" id="Q8NI60"/>
+<dbReference type="KO" id="K08869"/>
+<dbReference type="OMA" id="YEVKVME"/>
+<dbReference type="OrthoDB" id="EOG091G02P9"/>
+<dbReference type="PhylomeDB" id="Q8NI60"/>
+<dbReference type="TreeFam" id="TF300630"/>
+<dbReference type="UniPathway" id="UPA00232"/>
+<dbReference type="ChiTaRS" id="ADCK3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="CABC1"/>
+<dbReference type="GenomeRNAi" id="56997"/>
+<dbReference type="PRO" id="PR:Q8NI60"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000163050"/>
+<dbReference type="CleanEx" id="HS_CABC1"/>
+<dbReference type="ExpressionAtlas" id="Q8NI60">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q8NI60">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043531">
+<property type="term" value="F:ADP binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016301">
+<property type="term" value="F:kinase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016310">
+<property type="term" value="P:phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006744">
+<property type="term" value="P:ubiquinone biosynthetic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="CDD" id="cd13970">
+<property type="entry name" value="ABC1_ADCK3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR034646">
+<property type="entry name" value="ADCK3_UbiB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR034640">
+<property type="entry name" value="COQ8A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004147">
+<property type="entry name" value="UbiB_dom"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR43851:SF1">
+<property type="entry name" value="PTHR43851:SF1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03109">
+<property type="entry name" value="ABC1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0496">Mitochondrion</keyword>
+<keyword id="KW-0523">Neurodegeneration</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0809">Transit peptide</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0831">Ubiquinone biosynthesis</keyword>
+<feature type="transit peptide" description="Mitochondrion" evidence="14">
+<location>
+<begin position="1"/>
+<end position="162"/>
+</location>
+</feature>
+<feature type="chain" description="Atypical kinase COQ8A, mitochondrial" id="PRO_0000000262">
+<location>
+<begin position="163"/>
+<end position="647"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3 26">
+<location>
+<begin position="214"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase">
+<location>
+<begin position="329"/>
+<end position="518"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="17 31">
+<location>
+<begin position="445"/>
+<end position="448"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="KxGQ motif" evidence="14">
+<location>
+<begin position="276"/>
+<end position="279"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="AAAS motif" evidence="14">
+<location>
+<begin position="337"/>
+<end position="340"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="29">
+<location>
+<position position="488"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="17 27 31">
+<location>
+<position position="340"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="17 31">
+<location>
+<position position="358"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="17 31">
+<location>
+<position position="493"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="17 31">
+<location>
+<position position="507"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_022351" evidence="20">
+<location>
+<begin position="1"/>
+<end position="484"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_022352" evidence="23">
+<location>
+<begin position="1"/>
+<end position="279"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_022353" evidence="21">
+<location>
+<begin position="1"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2297411." id="VAR_020319">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="85"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In COQ10D4; dbSNP:rs119468005." id="VAR_044402" evidence="6 9">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="213"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In COQ10D4; dbSNP:rs145034527." id="VAR_072622" evidence="9">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="271"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In COQ10D4; dbSNP:rs119468006." id="VAR_044403" evidence="6 9">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="272"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In COQ10D4; dbSNP:rs119468006." id="VAR_044404" evidence="6 9">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="272"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In COQ10D4; decreased stability; dbSNP:rs201908721." id="VAR_072623" evidence="9 14 16">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="299"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In COQ10D4; dbSNP:rs778798354." id="VAR_072624" evidence="9">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="304"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In COQ10D4; dbSNP:rs748118737." id="VAR_072625" evidence="9">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="304"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55798516." id="VAR_045576" evidence="5">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="341"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In COQ10D4; decreased stability; dbSNP:rs144147839." id="VAR_072626" evidence="9 14">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="429"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In COQ10D4; dbSNP:rs119468008." id="VAR_044405" evidence="7">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="514"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In COQ10D4; decreased stability; dbSNP:rs119468009." id="VAR_044406" evidence="7 9 14">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="549"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In COQ10D4; decreased stability; dbSNP:rs119468004." id="VAR_044407" evidence="6 9 14">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="551"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In COQ10D4; unknown pathological significance." id="VAR_076860" evidence="16">
+<original>F</original>
+<variation>V</variation>
+<location>
+<position position="578"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In COQ10D4." id="VAR_044408" evidence="7">
+<location>
+<position position="584"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In COQ10D4; found in a compound heterozygote also carrying an intragenic frameshift deletion; dbSNP:rs61995958." id="VAR_072627" evidence="10">
+<original>P</original>
+<variation>R</variation>
+<location>
+<position position="602"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly impairs homodimerization." evidence="13">
+<original>L</original>
+<variation>A</variation>
+<variation>I</variation>
+<variation>L</variation>
+<variation>F</variation>
+<location>
+<position position="214"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly impaired homodimerization." evidence="13">
+<original>L</original>
+<variation>I</variation>
+<variation>F</variation>
+<variation>G</variation>
+<variation>V</variation>
+<location>
+<position position="214"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not impair homodimerization." evidence="13">
+<original>A</original>
+<variation>I</variation>
+<variation>L</variation>
+<variation>G</variation>
+<location>
+<position position="215"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not impair homodimerization." evidence="13">
+<original>N</original>
+<variation>A</variation>
+<variation>L</variation>
+<variation>F</variation>
+<variation>M</variation>
+<location>
+<position position="216"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly impaired homodimerization." evidence="13">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="217"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly impaired homodimerization." evidence="13">
+<original>G</original>
+<variation>I</variation>
+<variation>L</variation>
+<variation>F</variation>
+<location>
+<position position="218"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly impaired homodimerization." evidence="13">
+<original>G</original>
+<variation>A</variation>
+<variation>F</variation>
+<location>
+<position position="219"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly impairs homodimerization." evidence="13">
+<original>G</original>
+<variation>I</variation>
+<location>
+<position position="219"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired homodimerization." evidence="13">
+<original>L</original>
+<variation>G</variation>
+<location>
+<position position="220"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly impaired homodimerization." evidence="13">
+<original>A</original>
+<variation>L</variation>
+<location>
+<position position="221"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly impaired homodimerization." evidence="13">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="222"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly impairs homodimerization." evidence="13">
+<original>G</original>
+<variation>A</variation>
+<variation>I</variation>
+<variation>L</variation>
+<variation>F</variation>
+<location>
+<position position="223"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired homodimerization." evidence="13">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="224"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly impaired homodimerization." evidence="13">
+<original>G</original>
+<variation>L</variation>
+<location>
+<position position="225"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly impaired homodimerization." evidence="13">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="226"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly impairs homodimerization." evidence="13">
+<original>G</original>
+<variation>V</variation>
+<variation>F</variation>
+<variation>L</variation>
+<variation>I</variation>
+<location>
+<position position="227"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not impair homodimerization." evidence="13">
+<original>A</original>
+<variation>I</variation>
+<variation>L</variation>
+<variation>F</variation>
+<location>
+<position position="228"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly impaired homodimerization." evidence="13">
+<original>L</original>
+<variation>A</variation>
+<location>
+<position position="229"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly impaired homodimerization." evidence="13">
+<original>A</original>
+<variation>I</variation>
+<location>
+<position position="230"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect selectivity for binding ADP or ATP. Impaired multi-subunit COQ enzyme complex." evidence="14 17">
+<original>K</original>
+<variation>R</variation>
+<variation>H</variation>
+<location>
+<position position="276"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect selectivity for binding ADP or ATP." evidence="14">
+<original>Q</original>
+<variation>R</variation>
+<variation>H</variation>
+<location>
+<position position="279"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Enables autophosphorylation but inhibits coenzyme Q biosynthesis in vivo." evidence="14">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="339"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes binding ADP or ATP." evidence="14">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="358"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly affects selectivity for binding ADP or ATP." evidence="14">
+<original>E</original>
+<variation>A</variation>
+<variation>Q</variation>
+<location>
+<position position="405"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired binding ADP or ATP." evidence="14">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="411"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired binding ADP or ATP." evidence="14">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="488"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired binding ADP or ATP." evidence="14">
+<original>N</original>
+<variation>A</variation>
+<location>
+<position position="493"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly impairs binding ADP or ATP. Impaired multi-subunit COQ enzyme complex." evidence="14 17">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="507"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect selectivity for binding ADP or ATP." evidence="14">
+<original>R</original>
+<variation>A</variation>
+<variation>Q</variation>
+<location>
+<position position="611"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; BAC11143." ref="4" evidence="24">
+<original>IQ</original>
+<variation>VR</variation>
+<location>
+<begin position="283"/>
+<end position="284"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="260"/>
+<end position="269"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="271"/>
+<end position="281"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="284"/>
+<end position="289"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="291"/>
+<end position="302"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="303"/>
+<end position="306"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="309"/>
+<end position="320"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="325"/>
+<end position="327"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="328"/>
+<end position="331"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="336"/>
+<end position="339"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="342"/>
+<end position="349"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="354"/>
+<end position="360"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="362"/>
+<end position="364"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="365"/>
+<end position="367"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="368"/>
+<end position="382"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="387"/>
+<end position="389"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="391"/>
+<end position="393"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="395"/>
+<end position="405"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="408"/>
+<end position="421"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="422"/>
+<end position="424"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="426"/>
+<end position="429"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="435"/>
+<end position="437"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="442"/>
+<end position="446"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="450"/>
+<end position="452"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="453"/>
+<end position="455"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="461"/>
+<end position="480"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="484"/>
+<end position="488"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="491"/>
+<end position="493"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="494"/>
+<end position="497"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="498"/>
+<end position="501"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="502"/>
+<end position="505"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="508"/>
+<end position="510"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="511"/>
+<end position="513"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="516"/>
+<end position="530"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="534"/>
+<end position="543"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="553"/>
+<end position="571"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="581"/>
+<end position="588"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="589"/>
+<end position="594"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="596"/>
+<end position="600"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="604"/>
+<end position="622"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="630"/>
+<end position="643"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4PED"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5I35"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255"/>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11888884"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17344846"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18319072"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18319074"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20580948"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22036850"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24048965"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24218524"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24270420"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25216398"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25498144"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26818466"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27106809"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27499294"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27499296"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="11888884"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15498874"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="17974005"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="27499294"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000303">
+<source ref="2"/>
+</evidence>
+<evidence key="24" type="ECO:0000305"/>
+<evidence key="25" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="21296186"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="25216398"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="25498144"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="25540914"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="27499294"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:16812"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000312">
+<source>
+<dbReference type="PDB" id="5I35"/>
+</source>
+</evidence>
+<sequence length="647" mass="71950" checksum="DEF8F022027BF6CC" modified="2002-10-01" version="1" precursor="true">
+MAAILGDTIMVAKGLVKLTQAAVETHLQHLGIGGELIMAARALQSTAVEQIGMFLGKVQG
+QDKHEEYFAENFGGPEGEFHFSVPHAAGASTDFSSASAPDQSAPPSLGHAHSEGPAPAYV
+ASGPFREAGFPGQASSPLGRANGRLFANPRDSFSAMGFQRRFFHQDQSPVGGLTAEDIEK
+ARQAKARPENKQHKQTLSEHARERKVPVTRIGRLANFGGLAVGLGFGALAEVAKKSLRSE
+DPSGKKAVLGSSPFLSEANAERIVRTLCKVRGAALKLGQMLSIQDDAFINPHLAKIFERV
+RQSADFMPLKQMMKTLNNDLGPNWRDKLEYFEERPFAAASIGQVHLARMKGGREVAMKIQ
+YPGVAQSINSDVNNLMAVLNMSNMLPEGLFPEHLIDVLRRELALECDYQREAACARKFRD
+LLKGHPFFYVPEIVDELCSPHVLTTELVSGFPLDQAEGLSQEIRNEICYNILVLCLRELF
+EFHFMQTDPNWSNFFYDPQQHKVALLDFGATREYDRSFTDLYIQIIRAAADRDRETVRAK
+SIEMKFLTGYEVKVMEDAHLDAILILGEAFASDEPFDFGTQSTTEKIHNLIPVMLRHRLV
+PPPEETYSLHRKMGGSFLICSKLKARFPCKAMFEEAYSNYCKRQAQQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

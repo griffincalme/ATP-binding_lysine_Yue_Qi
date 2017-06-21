@@ -1,0 +1,558 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2011-04-05" modified="2017-04-12" version="52">
+<accession>E9PL17</accession>
+<name>E9PL17_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="5">Polyribonucleotide 5'-hydroxyl-kinase Clp1</fullName>
+<ecNumber evidence="5">2.7.1.78</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="5">Polyadenylation factor Clp1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="5">Polynucleotide kinase Clp1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="5">Pre-mRNA cleavage complex II protein Clp1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="5 14">CLP1</name>
+</gene>
+<organism evidence="14 15">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="14">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="724" last="731">
+<title>Generation and annotation of the DNA sequences of human chromosomes 2 and 4.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Graves T.A."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Pepin K.H."/>
+<person name="Minx P."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Kremitzki C."/>
+<person name="Oddy L."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Carter J."/>
+<person name="Cordes M."/>
+<person name="Harris A."/>
+<person name="Isak A."/>
+<person name="van Brunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Abbott S."/>
+<person name="Armstrong J."/>
+<person name="Belter E.A."/>
+<person name="Caruso L."/>
+<person name="Cedroni M."/>
+<person name="Cotton M."/>
+<person name="Davidson T."/>
+<person name="Desai A."/>
+<person name="Elliott G."/>
+<person name="Erb T."/>
+<person name="Fronick C."/>
+<person name="Gaige T."/>
+<person name="Haakenson W."/>
+<person name="Haglund K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Kim K."/>
+<person name="Kruchowski S.S."/>
+<person name="Strong C.M."/>
+<person name="Grewal N."/>
+<person name="Goyea E."/>
+<person name="Hou S."/>
+<person name="Levy A."/>
+<person name="Martinka S."/>
+<person name="Mead K."/>
+<person name="McLellan M.D."/>
+<person name="Meyer R."/>
+<person name="Randall-Maher J."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Shah N."/>
+<person name="Swearengen-Shahid S."/>
+<person name="Snider J."/>
+<person name="Strong J.T."/>
+<person name="Thompson J."/>
+<person name="Yoakum M."/>
+<person name="Leonard S."/>
+<person name="Pearman C."/>
+<person name="Trani L."/>
+<person name="Radionenko M."/>
+<person name="Waligorski J.E."/>
+<person name="Wang C."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Maupin R."/>
+<person name="Latreille P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Pohl C."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Berkowicz N."/>
+<person name="Nelson J.O."/>
+<person name="Osborne J."/>
+<person name="Ding L."/>
+<person name="Meyer R."/>
+<person name="Sabo A."/>
+<person name="Shotland Y."/>
+<person name="Sinha P."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Jones T.A."/>
+<person name="She X."/>
+<person name="Ciccarelli F.D."/>
+<person name="Izaurralde E."/>
+<person name="Taylor J."/>
+<person name="Schmutz J."/>
+<person name="Myers R.M."/>
+<person name="Cox D.R."/>
+<person name="Huang X."/>
+<person name="McPherson J.D."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Warren W.C."/>
+<person name="Chinwalla A.T."/>
+<person name="Eddy S.R."/>
+<person name="Marra M.A."/>
+<person name="Ovcharenko I."/>
+<person name="Furey T.S."/>
+<person name="Miller W."/>
+<person name="Eichler E.E."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Torrents D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="15815621"/>
+<dbReference type="DOI" id="10.1038/nature03466"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="15">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="497" last="500">
+<title>Human chromosome 11 DNA sequence and analysis including novel gene identification.</title>
+<authorList>
+<person name="Taylor T.D."/>
+<person name="Noguchi H."/>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Kuroki Y."/>
+<person name="Dewar K."/>
+<person name="Lloyd C."/>
+<person name="Itoh T."/>
+<person name="Takeda T."/>
+<person name="Kim D.W."/>
+<person name="She X."/>
+<person name="Barlow K.F."/>
+<person name="Bloom T."/>
+<person name="Bruford E."/>
+<person name="Chang J.L."/>
+<person name="Cuomo C.A."/>
+<person name="Eichler E."/>
+<person name="FitzGerald M.G."/>
+<person name="Jaffe D.B."/>
+<person name="LaButti K."/>
+<person name="Nicol R."/>
+<person name="Park H.S."/>
+<person name="Seaman C."/>
+<person name="Sougnez C."/>
+<person name="Yang X."/>
+<person name="Zimmer A.R."/>
+<person name="Zody M.C."/>
+<person name="Birren B.W."/>
+<person name="Nusbaum C."/>
+<person name="Fujiyama A."/>
+<person name="Hattori M."/>
+<person name="Rogers J."/>
+<person name="Lander E.S."/>
+<person name="Sakaki Y."/>
+</authorList>
+<dbReference type="PubMed" id="16554811"/>
+<dbReference type="DOI" id="10.1038/nature04632"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3" evidence="14">
+<citation type="submission" date="2011-07" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<reference key="4" evidence="4">
+<citation type="journal article" date="2012" name="Proc. Natl. Acad. Sci. U.S.A." volume="109" first="12449" last="12454">
+<title>N-terminal acetylome analyses and functional insights of the N-terminal acetyltransferase NatB.</title>
+<authorList>
+<person name="Van Damme P."/>
+<person name="Lasa M."/>
+<person name="Polevoda B."/>
+<person name="Gazquez C."/>
+<person name="Elosegui-Artola A."/>
+<person name="Kim D.S."/>
+<person name="De Juan-Pardo E."/>
+<person name="Demeyer K."/>
+<person name="Hole K."/>
+<person name="Larrea E."/>
+<person name="Timmerman E."/>
+<person name="Prieto J."/>
+<person name="Arnesen T."/>
+<person name="Sherman F."/>
+<person name="Gevaert K."/>
+<person name="Aldabe R."/>
+</authorList>
+<dbReference type="PubMed" id="22814378"/>
+<dbReference type="DOI" id="10.1073/pnas.1210303109"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="function">
+<text evidence="5">Polynucleotide kinase that can phosphorylate the 5'-hydroxyl groups of double-stranded RNA (dsRNA), single-stranded RNA (ssRNA), double stranded DNA (dsDNA) and double-stranded DNA:RNA hybrids. dsRNA is phosphorylated more efficiently than dsDNA, and the RNA component of a DNA:RNA hybrid is phosphorylated more efficiently than the DNA component. Appears to have roles in both tRNA splicing and mRNA 3'-end formation. Component of the tRNA splicing endonuclease complex. Phosphorylates the 5'-terminus of the tRNA 3'-exon during tRNA splicing; this phosphorylation event is a prerequisite for the subsequent ligation of the two exon halves and the production of a mature tRNA. Component of the pre-mRNA cleavage complex II (CF-II), which seems to be required for mRNA 3'-end formation. Also phosphorylates the 5'-terminus of exogenously introduced short interfering RNAs (siRNAs), which is a necessary prerequisite for their incorporation into the RNA-induced silencing complex (RISC). However, endogenous siRNAs and microRNAs (miRNAs) that are produced by the cleavage of dsRNA precursors by DICER1 already contain a 5'-phosphate group, so this protein may be dispensible for normal RNA-mediated gene silencing.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="5">ATP + 5'-dephospho-DNA = ADP + 5'-phospho-DNA.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="5">ATP + 5'-dephospho-RNA = ADP + 5'-phospho-RNA.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="5">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<cofactor evidence="5">
+<name>Mn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29035"/>
+</cofactor>
+<cofactor evidence="5">
+<name>Ni(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:49786"/>
+</cofactor>
+</comment>
+<comment type="subunit">
+<text evidence="5">Component of the tRNA splicing endonuclease complex, composed of CLP1, TSEN2, TSEN15, TSEN34 and TSEN54. Component of pre-mRNA cleavage complex II (CF-II). Also associates with numerous components of the pre-mRNA cleavage complex I (CF-I/CFIm), including NUDT21, CPSF2, CPSF3, CPSF6 and CPSF7. Interacts with CSTF2 and SYMPK.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="5 9">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="5 10">Belongs to the Clp1 family. Clp1 subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="5">Lacks conserved residue(s) required for the propagation of feature annotation.</text>
+</comment>
+<comment type="caution">
+<text evidence="14">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EC" id="2.7.1.78" evidence="5"/>
+<dbReference type="EMBL" id="AP000662">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="KF511152">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="ProteinModelPortal" id="E9PL17"/>
+<dbReference type="IntAct" id="E9PL17">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000434995"/>
+<dbReference type="EPD" id="E9PL17"/>
+<dbReference type="MaxQB" id="E9PL17"/>
+<dbReference type="PaxDb" id="E9PL17"/>
+<dbReference type="PRIDE" id="E9PL17"/>
+<dbReference type="Ensembl" id="ENST00000529430">
+<property type="protein sequence ID" value="ENSP00000433406"/>
+<property type="gene ID" value="ENSG00000172409"/>
+</dbReference>
+<dbReference type="UCSC" id="uc058bns.1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="HGNC" id="HGNC:16999">
+<property type="gene designation" value="CLP1"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000172409"/>
+<dbReference type="eggNOG" id="KOG2749">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5623">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000000344"/>
+<dbReference type="OMA" id="AGFCCVT"/>
+<dbReference type="OrthoDB" id="EOG091G088L"/>
+<dbReference type="PhylomeDB" id="E9PL17"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 11"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000172409"/>
+<dbReference type="ExpressionAtlas" id="E9PL17">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005849">
+<property type="term" value="C:mRNA cleavage factor complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000214">
+<property type="term" value="C:tRNA-intron endonuclease complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046404">
+<property type="term" value="F:ATP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051736">
+<property type="term" value="F:ATP-dependent polyribonucleotide 5'-hydroxyl-kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031124">
+<property type="term" value="P:mRNA 3'-end processing"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035087">
+<property type="term" value="P:siRNA loading onto RISC involved in RNA interference"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006388">
+<property type="term" value="P:tRNA splicing, via endonucleolytic cleavage and ligation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_03035">
+<property type="entry name" value="Clp1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028606">
+<property type="entry name" value="Clp1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032324">
+<property type="entry name" value="Clp1_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032319">
+<property type="entry name" value="CLP1_P"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010655">
+<property type="entry name" value="Pre-mRNA_cleavage_Clp1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06807">
+<property type="entry name" value="Clp1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16573">
+<property type="entry name" value="CLP1_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16575">
+<property type="entry name" value="CLP1_P"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="3"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="8">ATP-binding</keyword>
+<keyword id="KW-0181" evidence="15">Complete proteome</keyword>
+<keyword id="KW-0418" evidence="5">Kinase</keyword>
+<keyword id="KW-0460" evidence="5">Magnesium</keyword>
+<keyword id="KW-0464" evidence="5">Manganese</keyword>
+<keyword id="KW-0507" evidence="5 6">mRNA processing</keyword>
+<keyword id="KW-0533" evidence="5">Nickel</keyword>
+<keyword id="KW-0547" evidence="8">Nucleotide-binding</keyword>
+<keyword id="KW-0539" evidence="5 7">Nucleus</keyword>
+<keyword id="KW-1267" evidence="1 2 3">Proteomics identification</keyword>
+<keyword id="KW-1185" evidence="15">Reference proteome</keyword>
+<keyword id="KW-0808" evidence="5">Transferase</keyword>
+<keyword id="KW-0819" evidence="5">tRNA processing</keyword>
+<feature type="domain" description="CLP1_N" evidence="12">
+<location>
+<begin position="27"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="domain" description="CLP1_P" evidence="13">
+<location>
+<begin position="132"/>
+<end position="318"/>
+</location>
+</feature>
+<feature type="domain" description="Clp1" evidence="11">
+<location>
+<begin position="324"/>
+<end position="434"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="5">
+<location>
+<position position="33"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP; via carbonyl oxygen" evidence="5">
+<location>
+<position position="73"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000213">
+<source>
+<dbReference type="EPD" id="E9PL17"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000213">
+<source>
+<dbReference type="MaxQB" id="E9PL17"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000213">
+<source>
+<dbReference type="PeptideAtlas" id="E9PL17"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="22814378"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_03035"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00416328"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00416331"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00494482"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00533943"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00533944"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF06807"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF16573"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF16575"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000433406"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="436" mass="48940" checksum="51576E4951199285" modified="2011-04-05" version="1">
+MTDLHSSYTEEMGEEANDDKKPTTKFELERETELRFEVEASQSVQLELLTGMAEIFGTEL
+TRNKKFTFDAGAKVAVFTWHGCSVQLSGRTEVAYVSKDTPMLLYLNTHTALEQMRRQAEK
+EEERGPRVMVVGPTDVGKSTVCRLLLNYAVRLGRRPTYVELDVGQGSVSIPGTMGALYIE
+RPADVEEGFSIQAPLVYHFGSTTPGTNIKLYNKITSRLADVFNQRCEVNRRASVSGCVIN
+TCGWVKGSGYQALVHAASAFEVDVVVVLDQERLYNELKRDLPHFVRTVLLPKSGGVVERS
+KDFRRECRDERIREYFYGFRGCFYPHAFNVKFSDVKIYKVGAPTIPDSCLPLGMSQEDNQ
+LKLVPVTPGRDMVHHLLSVSTAEGTEENLSETSVAGFIVVTSVDLEHQVFTVLSPAPRPL
+PKNFLLIMDIRFMDLK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

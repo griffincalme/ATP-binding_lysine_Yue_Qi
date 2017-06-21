@@ -1,0 +1,987 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2001-01-11" modified="2017-04-12" version="141">
+<accession>Q9NYC9</accession>
+<accession>A2VCQ8</accession>
+<accession>O15064</accession>
+<accession>O95494</accession>
+<accession>Q9NQ28</accession>
+<name>DYH9_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Dynein heavy chain 9, axonemal</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Axonemal beta dynein heavy chain 9</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Ciliary dynein heavy chain 9</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">DNAH9</name>
+<name type="synonym">DNAH17L</name>
+<name type="synonym">DNAL1</name>
+<name type="synonym">KIAA0357</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="2000-04" db="EMBL/GenBank/DDBJ databases">
+<title>A ciliary dynein heavy chain whose expression is upregulated in differentiating airway epithelium.</title>
+<authorList>
+<person name="Reed W."/>
+<person name="Moats-Staats B.M."/>
+<person name="Carson J.L."/>
+<person name="Leigh M.W."/>
+<person name="Collier A.M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>VARIANTS ARG-445 AND ILE-4374</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2001" name="Genomics" volume="72" first="21" last="33">
+<title>Axonemal beta heavy chain dynein DNAH9: cDNA sequence, genomic structure, and investigation of its role in primary ciliary dyskinesia.</title>
+<authorList>
+<person name="Bartoloni L."/>
+<person name="Blouin J.-L."/>
+<person name="Maiti A.K."/>
+<person name="Sainsbury A."/>
+<person name="Rossier C."/>
+<person name="Gehrig C."/>
+<person name="She J.X."/>
+<person name="Marron M.P."/>
+<person name="Lander E.S."/>
+<person name="Meeks M."/>
+<person name="Chung E.M.K."/>
+<person name="Armengot M."/>
+<person name="Jorissen M."/>
+<person name="Scott H.S."/>
+<person name="Delozier-Blanchet C.D."/>
+<person name="Gardiner R.M."/>
+<person name="Antonarakis S.E."/>
+</authorList>
+<dbReference type="PubMed" id="11247663"/>
+<dbReference type="DOI" id="10.1006/geno.2000.6462"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>VARIANT ARG-445</scope>
+<source>
+<tissue>Nasal epithelium</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="1045" last="1049">
+<title>DNA sequence of human chromosome 17 and analysis of rearrangement in the human lineage.</title>
+<authorList>
+<person name="Zody M.C."/>
+<person name="Garber M."/>
+<person name="Adams D.J."/>
+<person name="Sharpe T."/>
+<person name="Harrow J."/>
+<person name="Lupski J.R."/>
+<person name="Nicholson C."/>
+<person name="Searle S.M."/>
+<person name="Wilming L."/>
+<person name="Young S.K."/>
+<person name="Abouelleil A."/>
+<person name="Allen N.R."/>
+<person name="Bi W."/>
+<person name="Bloom T."/>
+<person name="Borowsky M.L."/>
+<person name="Bugalter B.E."/>
+<person name="Butler J."/>
+<person name="Chang J.L."/>
+<person name="Chen C.-K."/>
+<person name="Cook A."/>
+<person name="Corum B."/>
+<person name="Cuomo C.A."/>
+<person name="de Jong P.J."/>
+<person name="DeCaprio D."/>
+<person name="Dewar K."/>
+<person name="FitzGerald M."/>
+<person name="Gilbert J."/>
+<person name="Gibson R."/>
+<person name="Gnerre S."/>
+<person name="Goldstein S."/>
+<person name="Grafham D.V."/>
+<person name="Grocock R."/>
+<person name="Hafez N."/>
+<person name="Hagopian D.S."/>
+<person name="Hart E."/>
+<person name="Norman C.H."/>
+<person name="Humphray S."/>
+<person name="Jaffe D.B."/>
+<person name="Jones M."/>
+<person name="Kamal M."/>
+<person name="Khodiyar V.K."/>
+<person name="LaButti K."/>
+<person name="Laird G."/>
+<person name="Lehoczky J."/>
+<person name="Liu X."/>
+<person name="Lokyitsang T."/>
+<person name="Loveland J."/>
+<person name="Lui A."/>
+<person name="Macdonald P."/>
+<person name="Major J.E."/>
+<person name="Matthews L."/>
+<person name="Mauceli E."/>
+<person name="McCarroll S.A."/>
+<person name="Mihalev A.H."/>
+<person name="Mudge J."/>
+<person name="Nguyen C."/>
+<person name="Nicol R."/>
+<person name="O'Leary S.B."/>
+<person name="Osoegawa K."/>
+<person name="Schwartz D.C."/>
+<person name="Shaw-Smith C."/>
+<person name="Stankiewicz P."/>
+<person name="Steward C."/>
+<person name="Swarbreck D."/>
+<person name="Venkataraman V."/>
+<person name="Whittaker C.A."/>
+<person name="Yang X."/>
+<person name="Zimmer A.R."/>
+<person name="Bradley A."/>
+<person name="Hubbard T."/>
+<person name="Birren B.W."/>
+<person name="Rogers J."/>
+<person name="Lander E.S."/>
+<person name="Nusbaum C."/>
+</authorList>
+<dbReference type="PubMed" id="16625196"/>
+<dbReference type="DOI" id="10.1038/nature04689"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3)</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1997" name="DNA Res." volume="4" first="141" last="150">
+<title>Prediction of the coding sequences of unidentified human genes. VII. The complete sequences of 100 new cDNA clones from brain which can code for large proteins in vitro.</title>
+<authorList>
+<person name="Nagase T."/>
+<person name="Ishikawa K."/>
+<person name="Nakajima D."/>
+<person name="Ohira M."/>
+<person name="Seki N."/>
+<person name="Miyajima N."/>
+<person name="Tanaka A."/>
+<person name="Kotani H."/>
+<person name="Nomura N."/>
+<person name="Ohara O."/>
+</authorList>
+<dbReference type="PubMed" id="9205841"/>
+<dbReference type="DOI" id="10.1093/dnares/4.2.141"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1419-4486 (ISOFORM 2)</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="submission" date="2003-08" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Ohara O."/>
+<person name="Nagase T."/>
+<person name="Kikuno R."/>
+<person name="Yamakawa H."/>
+<person name="Nomura N."/>
+</authorList>
+</citation>
+<scope>SEQUENCE REVISION</scope>
+</reference>
+<reference key="7">
+<citation type="submission" date="1999-01" db="EMBL/GenBank/DDBJ databases">
+<title>Chromosomal localization of human dynein heavy chain genes.</title>
+<authorList>
+<person name="Maiti A.K."/>
+<person name="Mattei M.-G."/>
+<person name="Jorissen M."/>
+<person name="Volz A."/>
+<person name="Ziegler A."/>
+<person name="Bouvagnet P."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 1874-1974 (ISOFORM 1)</scope>
+<source>
+<tissue>Nasal polyp</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2000" name="Am. J. Respir. Cell Mol. Biol." volume="23" first="734" last="741">
+<title>Characterization of an axonemal dynein heavy chain expressed early in airway epithelial ciliogenesis.</title>
+<authorList>
+<person name="Reed W."/>
+<person name="Carson J.L."/>
+<person name="Moats-Staats B.M."/>
+<person name="Lucier T."/>
+<person name="Hu P.C."/>
+<person name="Brighton L."/>
+<person name="Gambling T.M."/>
+<person name="Huang C.H."/>
+<person name="Leigh M.W."/>
+<person name="Collier A.M."/>
+</authorList>
+<dbReference type="PubMed" id="11104725"/>
+<dbReference type="DOI" id="10.1165/ajrcmb.23.6.4045"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2006" name="Science" volume="314" first="268" last="274">
+<title>The consensus coding sequences of human breast and colorectal cancers.</title>
+<authorList>
+<person name="Sjoeblom T."/>
+<person name="Jones S."/>
+<person name="Wood L.D."/>
+<person name="Parsons D.W."/>
+<person name="Lin J."/>
+<person name="Barber T.D."/>
+<person name="Mandelker D."/>
+<person name="Leary R.J."/>
+<person name="Ptak J."/>
+<person name="Silliman N."/>
+<person name="Szabo S."/>
+<person name="Buckhaults P."/>
+<person name="Farrell C."/>
+<person name="Meeh P."/>
+<person name="Markowitz S.D."/>
+<person name="Willis J."/>
+<person name="Dawson D."/>
+<person name="Willson J.K.V."/>
+<person name="Gazdar A.F."/>
+<person name="Hartigan J."/>
+<person name="Wu L."/>
+<person name="Liu C."/>
+<person name="Parmigiani G."/>
+<person name="Park B.H."/>
+<person name="Bachman K.E."/>
+<person name="Papadopoulos N."/>
+<person name="Vogelstein B."/>
+<person name="Kinzler K.W."/>
+<person name="Velculescu V.E."/>
+</authorList>
+<dbReference type="PubMed" id="16959974"/>
+<dbReference type="DOI" id="10.1126/science.1133427"/>
+</citation>
+<scope>VARIANTS [LARGE SCALE ANALYSIS] LEU-771; HIS-2653 AND ASN-3664</scope>
+</reference>
+<comment type="function">
+<text>Force generating protein of respiratory cilia. Produces force towards the minus ends of microtubules. Dynein has ATPase activity; the force-producing power stroke is thought to occur on release of ADP.</text>
+</comment>
+<comment type="subunit">
+<text>Consists of at least two heavy chains and a number of intermediate and light chains.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Cytoskeleton</location>
+<location>Cilium axoneme</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q9NYC9-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q9NYC9-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_035285"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+<isoform>
+<id>Q9NYC9-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_043443"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+</comment>
+<comment type="domain">
+<text>Dynein heavy chains probably consist of an N-terminal stem (which binds cargo and interacts with other dynein components), and the head or motor domain. The motor contains six tandemly-linked AAA domains in the head, which form a ring. A stalk-like structure (formed by two of the coiled coil domains) protrudes between AAA 4 and AAA 5 and terminates in a microtubule-binding site. A seventh domain may also contribute to this ring; it is not clear whether the N-terminus or the C-terminus forms this extra domain. There are four well-conserved and two non-conserved ATPase sites, one per AAA domain. Probably only one of these (within AAA 1) actually hydrolyzes ATP, the others may serve a regulatory function.</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Belongs to the dynein heavy chain family.</text>
+</comment>
+<dbReference type="EMBL" id="AF257737">
+<property type="protein sequence ID" value="AAF69004.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ404468">
+<property type="protein sequence ID" value="CAB94756.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC005209">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC005410">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC005701">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC128421">
+<property type="protein sequence ID" value="AAI28422.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB002355">
+<property type="protein sequence ID" value="BAA21573.2"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ132088">
+<property type="protein sequence ID" value="CAA10561.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS11160.1">
+<molecule id="Q9NYC9-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS11161.1">
+<molecule id="Q9NYC9-3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001363.2">
+<molecule id="Q9NYC9-1"/>
+<property type="nucleotide sequence ID" value="NM_001372.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_004653.2">
+<molecule id="Q9NYC9-3"/>
+<property type="nucleotide sequence ID" value="NM_004662.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.567259"/>
+<dbReference type="ProteinModelPortal" id="Q9NYC9"/>
+<dbReference type="SMR" id="Q9NYC9"/>
+<dbReference type="BioGrid" id="108109">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="IntAct" id="Q9NYC9">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000262442"/>
+<dbReference type="iPTMnet" id="Q9NYC9"/>
+<dbReference type="PhosphoSitePlus" id="Q9NYC9"/>
+<dbReference type="BioMuta" id="DNAH9"/>
+<dbReference type="DMDM" id="311033454"/>
+<dbReference type="EPD" id="Q9NYC9"/>
+<dbReference type="PaxDb" id="Q9NYC9"/>
+<dbReference type="PeptideAtlas" id="Q9NYC9"/>
+<dbReference type="PRIDE" id="Q9NYC9"/>
+<dbReference type="Ensembl" id="ENST00000262442">
+<molecule id="Q9NYC9-1"/>
+<property type="protein sequence ID" value="ENSP00000262442"/>
+<property type="gene ID" value="ENSG00000007174"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000608377">
+<molecule id="Q9NYC9-3"/>
+<property type="protein sequence ID" value="ENSP00000476951"/>
+<property type="gene ID" value="ENSG00000007174"/>
+</dbReference>
+<dbReference type="GeneID" id="1770"/>
+<dbReference type="KEGG" id="hsa:1770"/>
+<dbReference type="UCSC" id="uc002gne.3">
+<molecule id="Q9NYC9-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="1770"/>
+<dbReference type="DisGeNET" id="1770"/>
+<dbReference type="GeneCards" id="DNAH9"/>
+<dbReference type="H-InvDB" id="HIX0013543"/>
+<dbReference type="HGNC" id="HGNC:2953">
+<property type="gene designation" value="DNAH9"/>
+</dbReference>
+<dbReference type="HPA" id="HPA052641"/>
+<dbReference type="MIM" id="603330">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9NYC9"/>
+<dbReference type="OpenTargets" id="ENSG00000007174"/>
+<dbReference type="PharmGKB" id="PA27406"/>
+<dbReference type="eggNOG" id="KOG3595">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5245">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00870000136423"/>
+<dbReference type="HOGENOM" id="HOG000237309"/>
+<dbReference type="HOVERGEN" id="HBG107831"/>
+<dbReference type="InParanoid" id="Q9NYC9"/>
+<dbReference type="KO" id="K10408"/>
+<dbReference type="OMA" id="NTECKAG"/>
+<dbReference type="OrthoDB" id="EOG091G00Z2"/>
+<dbReference type="PhylomeDB" id="Q9NYC9"/>
+<dbReference type="TreeFam" id="TF316836"/>
+<dbReference type="GeneWiki" id="DNAH9"/>
+<dbReference type="GenomeRNAi" id="1770"/>
+<dbReference type="PRO" id="PR:Q9NYC9"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 17"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000007174"/>
+<dbReference type="CleanEx" id="HS_DNAH9"/>
+<dbReference type="CleanEx" id="HS_DNAL1"/>
+<dbReference type="ExpressionAtlas" id="Q9NYC9">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9NYC9">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005930">
+<property type="term" value="C:axoneme"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="SYSCILIA_CCNET"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030286">
+<property type="term" value="C:dynein complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005874">
+<property type="term" value="C:microtubule"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003777">
+<property type="term" value="F:microtubule motor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030030">
+<property type="term" value="P:cell projection organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007018">
+<property type="term" value="P:microtubule-based movement"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011704">
+<property type="entry name" value="ATPase_dyneun-rel_AAA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026983">
+<property type="entry name" value="DHC_fam"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024743">
+<property type="entry name" value="Dynein_HC_stalk"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024317">
+<property type="entry name" value="Dynein_heavy_chain_D4_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004273">
+<property type="entry name" value="Dynein_heavy_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013594">
+<property type="entry name" value="Dynein_heavy_dom-1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013602">
+<property type="entry name" value="Dynein_heavy_dom-2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10676">
+<property type="entry name" value="PTHR10676"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07728">
+<property type="entry name" value="AAA_5"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12780">
+<property type="entry name" value="AAA_8"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08385">
+<property type="entry name" value="DHC_N1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08393">
+<property type="entry name" value="DHC_N2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03028">
+<property type="entry name" value="Dynein_heavy"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12777">
+<property type="entry name" value="MT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="5"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0966">Cell projection</keyword>
+<keyword id="KW-0969">Cilium</keyword>
+<keyword id="KW-0970">Cilium biogenesis/degradation</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0243">Dynein</keyword>
+<keyword id="KW-0493">Microtubule</keyword>
+<keyword id="KW-0505">Motor protein</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<feature type="chain" description="Dynein heavy chain 9, axonemal" id="PRO_0000114632">
+<location>
+<begin position="1"/>
+<end position="4486"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="1870"/>
+<end position="1877"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="2151"/>
+<end position="2158"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="2478"/>
+<end position="2485"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="2825"/>
+<end position="2832"/>
+</location>
+</feature>
+<feature type="region of interest" description="Stem" evidence="1">
+<location>
+<begin position="1"/>
+<end position="1831"/>
+</location>
+</feature>
+<feature type="region of interest" description="AAA 1" evidence="1">
+<location>
+<begin position="1832"/>
+<end position="2053"/>
+</location>
+</feature>
+<feature type="region of interest" description="AAA 2" evidence="1">
+<location>
+<begin position="2113"/>
+<end position="2334"/>
+</location>
+</feature>
+<feature type="region of interest" description="AAA 3" evidence="1">
+<location>
+<begin position="2440"/>
+<end position="2688"/>
+</location>
+</feature>
+<feature type="region of interest" description="AAA 4" evidence="1">
+<location>
+<begin position="2787"/>
+<end position="3036"/>
+</location>
+</feature>
+<feature type="region of interest" description="Stalk" evidence="1">
+<location>
+<begin position="3051"/>
+<end position="3341"/>
+</location>
+</feature>
+<feature type="region of interest" description="AAA 5" evidence="1">
+<location>
+<begin position="3429"/>
+<end position="3656"/>
+</location>
+</feature>
+<feature type="region of interest" description="AAA 6" evidence="1">
+<location>
+<begin position="3866"/>
+<end position="4092"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="381"/>
+<end position="410"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="504"/>
+<end position="529"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="639"/>
+<end position="662"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="752"/>
+<end position="823"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="1326"/>
+<end position="1355"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="3051"/>
+<end position="3154"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="3285"/>
+<end position="3341"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="3640"/>
+<end position="3675"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_043443" evidence="6">
+<location>
+<begin position="1"/>
+<end position="3688"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_035285" evidence="7">
+<location>
+<begin position="3961"/>
+<end position="4036"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs17599639." id="VAR_046312">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="151"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs9892256." id="VAR_046313" evidence="3 5">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="445"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a breast cancer sample; somatic mutation." id="VAR_036214" evidence="4">
+<original>R</original>
+<variation>L</variation>
+<location>
+<position position="771"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs16945138." id="VAR_046314">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="842"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs8070501." id="VAR_046315">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="1158"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs9916482." id="VAR_046316">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="1221"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs9892290." id="VAR_046317">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="2087"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3744581." id="VAR_046318">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="2195"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2277658." id="VAR_046319">
+<original>Q</original>
+<variation>H</variation>
+<location>
+<position position="2438"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a breast cancer sample; somatic mutation." id="VAR_036215" evidence="4">
+<original>D</original>
+<variation>H</variation>
+<location>
+<position position="2653"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11870983." id="VAR_046320">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="2961"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11871037." id="VAR_046321">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="2968"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a breast cancer sample; somatic mutation; dbSNP:rs138874996." id="VAR_036216" evidence="4">
+<original>T</original>
+<variation>N</variation>
+<location>
+<position position="3664"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs16945431." id="VAR_046322">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="3726"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3760436." id="VAR_046323">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="3726"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs17612861." id="VAR_046324">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="4036"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1990236." id="VAR_046325" evidence="5">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="4374"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs9913494." id="VAR_046326">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="4443"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs8074656." id="VAR_046327">
+<original>W</original>
+<variation>R</variation>
+<location>
+<position position="4462"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; BAA21573." ref="5" evidence="8">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="2216"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAF69004." ref="1" evidence="8">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="2505"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAF69004." ref="1" evidence="8">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="3678"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11247663"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16959974"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source ref="1"/>
+</evidence>
+<evidence key="6" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9205841"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<sequence length="4486" mass="511877" checksum="27EB53C39FA3A293" modified="2010-11-02" version="3">
+MRLAEERAALAAENADGEPGADRRLRLLGTYVAMSLRPAAGAWERCAGSAEAEQLLQAFL
+GRDAAEGPRPLLVVRPGPRGLAIRPGLEVGPESGLAGAKALFFLRTGPEPPGPDSFRGAV
+VCGDLPAAPLEHLAALFSEVVLPVLANEKNRLNWPHMICEDVRRHAHSLQCDLSVILEQV
+KGKTLLPLPAGSEKMEFADSKSETVLDSIDKSVIYAIESAVIKWSYQVQVVLKRESSQPL
+LQGENPTPKVELEFWKSRYEDLKYIYNQLRTITVRGMAKLLDKLQSSYFPAFKAMYRDVV
+AALAEAQDIHVHLIPLQRHLEALENAEFPEVKPQLRPLLHVVCLIWATCKSYRSPGRLTV
+LLQEICNLLIQQASNYLSPEDLLRSEVEESQRKLQVVSDTLSFFKQEFQDRRENLHTYFK
+ENQEVKEWDFQSSLVFVRLDGFLGQLHVVEGLLKTALDFHKLGKVEFSGVRGNALSQQVQ
+QMHEEFQEMYRLLSGSSSDCLYLQSTDFENDVSEFNQKVEDLDRRLGTIFIQAFDDAPGL
+EHAFKLLDIAGNLLERPLVARDTSDKYLVLIQMFNKDLDAVRMIYSQHVQEEAELGFSPV
+HKNMPTVAGGLRWAQELRQRIQGPFSNFGRITHPCMESAEGKRMQQKYEDMLSLLEKYET
+RLYEDWCRTVSEKSQYNLSQPLLKRDPETKEITINFNPQLISVLKEMSYLEPREMKHMPE
+TAAAMFSSRDFYRQLVANLELMANWYNKVMKTLLEVEFPLVEEELQNIDLRLRAAEETLN
+WKTEGICDYVTEITSSIHDLEQRIQKTKDNVEEIQNIMKTWVTPIFKTKDGKRESLLSLD
+DRHDRMEKYYNLIKESGLKIHALVQENLGLFSADPTSNIWKTYVNSIDNLLLNGFFLAIE
+CSLKYLLENTECKAGLTPIFEAQLSLAIPELVFYPSLESGVKGGFCDIVEGLITSIFRIP
+SLVPRLSPQNGSPHYQVDLDGIPDLANMRRTLMERVQRMMGLCCGYQSTFSQYSYLYVED
+RKEVLGQFLLYGHILTPEEIEDHVEDGIPENPPLLSQFKVQIDSYETLYEEVCRLEPIKV
+FDGWMKIDIRPFKASLLNIIKRWSLLFKQHLVDHVTHSLANLDAFIKKSESGLLKKVEKG
+DFQGLVEIMGHLMAVKERQSNTDEMFEPLKQTIELLKTYEQELPETVFKQLEELPEKWNN
+IKKVAITVKQQVAPLQANEVTLLRQRCTAFDAEQQQFWEQFHKEAPFRFDSIHPHQMLDA
+RHIEIQQMESTMASISESASLFEVNVPDYKQLRQCRKEVCQLKELWDTIGMVTSSIHAWE
+TTPWRNINVEAMELECKQFARHIRNLDKEVRAWDAFTGLESTVWNTLSSLRAVAELQNPA
+IRERHWRQLMQATGVSFTMDQDTTLAHLLQLQLHHYEDEVRGIVDKAAKEMGMEKTLKEL
+QTTWAGMEFQYEPHPRTNVPLLCSDEDLIEVLEDNQVQLQNLVMSKYVAFFLEEVSGWQK
+KLSTVDAVISIWFEVQRTWTHLESIFTGSEDIRAQLPQDSKRFEGIDIDFKELAYDAQKI
+PNVVQTTNKPGLYEKLEDIQGRLCLCEKALAEYLDTKRLAFPRFYFLSSSDLLDILSNGT
+APQQVQRHLSKLFDNMAKMRFQLDASGEPTKTSLGMYSKEEEYVAFSEPCDCSGQVEIWL
+NHVLGHMKATVRHEMTEGVTAYEEKPREQWLFDHPAQVALTCTQIWWTTEVGMAFARLEE
+GYESAMKDYYKKQVAQLKTLITMLIGQLSKGDRQKIMTICTIDVHARDVVAKMIAQKVDN
+AQAFLWLSQLRHRWDDEVKHCFANICDAQFLYSYEYLGNTPRLVITPLTDRCYITLTQSL
+HLTMSGAPAGPAGTGKTETTKDLGRALGILVYVFNCSEQMDYKSCGNIYKGLAQTGAWGC
+FDEFNRISVEVLSVVAVQVKSIQDAIRDKKQWFSFLGEEISLNPSVGIFITMNPGYAGRT
+ELPENLKSLFRPCAMVVPDFELICEIMLVAEGFIEAQSLARKFITLYQLCKELLSKQDHY
+DWGLRAIKSVLVVAGSLKRGDPDRPEDQVLMRSLRDFNIPKIVTDDMPIFMGLIGDLFPA
+LDVPRRRDPNFEALVRKAIVDLKLQAEDNFVLKVVQLEELLAVRHSVFVVGGAGTGKSQV
+LRSLHKTYQIMKRRPVWTDLNPKAVTNDELFGIINPATGEWKDGLFSSIMRELANITHDG
+PKWILLDGDIDPMWIESLNTVMDDNKVLTLASNERIPLNPTMKLLFEISHLRTATPATVS
+RAGILYINPADLGWNPPVSSWIEKREIQTERANLTILFDKYLPTCLDTLRTRFKKIIPIP
+EQSMVQMVCHLLECLLTTEDIPADCPKEIYEHYFVFAAIWAFGGAMVQDQLVDYRAEFSK
+WWLTEFKTVKFPSQGTIFDYYIDPETKKFEPWSKLVPQFEFDPEMPLQACLVHTSETIRV
+CYFMERLMARQRPVMLVGTAGTGKSVLVGAKLASLDPEAYLVKNVPFNYYTTSAMLQAVL
+EKPLEKKAGRNYGPPGNKKLIYFIDDMNMPEVDAYGTVQPHTIIRQHLDYGHWYDRSKLS
+LKEITNVQYVSCMNPTAGSFTINPRLQRHFSVFVLSFPGADALSSIYSIILTQHLKLGNF
+PASLQKSIPPLIDLALAFHQKIATTFLPTGIKFHYIFNLRDFANIFQGILFSSVECVKST
+WDLIRLYLHESNRVYRDKMVEEKDFDLFDKIQTEVLKKTFDDIEDPVEQTQSPNLYCHFA
+NGIGEPKYMPVQSWELLTQTLVEALENHNEVNTVMDLVLFEDAMRHVCHINRILESPRGN
+ALLVGVGGSGKQSLTRLAAFISSMDVFQITLRKGYQIQDFKMDLASLCLKAGVKNLNTVF
+LMTDAQVADERFLVLINDLLASGEIPDLYSDDEVENIISNVRNEVKSQGLVDNRENCWKF
+FIDRIRRQLKVTLCFSPVGNKLRVRSRKFPAIVNCTAIHWFHEWPQQALESVSLRFLQNT
+EGIEPTVKQSISKFMAFVHTSVNQTSQSYLSNEQRYNYTTPKSFLEFIRLYQSLLHRHRK
+ELKCKTERLENGLLKLHSTSAQVDDLKAKLAAQEVELKQKNEDADKLIQVVGVETDKVSR
+EKAMADEEEQKVAVIMLEVKQKQKDCEEDLAKAEPALTAAQAALNTLNKTNLTELKSFGS
+PPLAVSNVSAAVMVLMAPRGRVPKDRSWKAAKVTMAKVDGFLDSLINFNKENIHENCLKA
+IRPYLQDPEFNPEFVATKSYAAAGLCSWVINIVRFYEVFCDVEPKRQALNKATADLTAAQ
+EKLAAIKAKIAHLNENLAKLTARFEKATADKLKCQQEAEVTAVTISLANRLVGGLASENV
+RWADAVQNFKQQERTLCGDILLITAFISYLGFFTKKYRQSLLDRTWRPYLSQLKTPIPVT
+PALDPLRMLMDDADVAAWQNEGLPADRMSVENATILINCERWPLMVDPQLQGIKWIKNKY
+GEDLRVTQIGQKGYLQIIEQALEAGAVVLIENLEESIDPVLGPLLGREVIKKGRFIKIGD
+KECEYNPKFRLILHTKLANPHYQPELQAQATLINFTVTRDGLEDQLLAAVVSMERPDLEQ
+LKSDLTKQQNGFKITLKTLEDSLLSRLSSASGNFLGETVLVENLEITKQTAAEVEKKVQE
+AKVTEVKINEAREHYRPAAARASLLYFIMNDLSKIHPMYQFSLKAFSIVFQKAVERAAPD
+ESLRERVANLIDSITFSVYQYTIRGLFECDKLTYLAQLTFQILLMNREVNAVELDFLLRS
+PVQTGTASPVEFLSHQAWGAVKVLSSMEEFSNLDRDIEGSAKSWKKFVESECPEKEKLPQ
+EWKNKTALQRLCMLRAMRPDRMTYALRDFVEEKLGSKYVVGRALDFATSFEESGPATPMF
+FILSPGVDPLKDVESQGRKLGYTFNNQNFHNVSLGQGQEVVAEAALDLAAKKGHWVILQN
+IHLVAKWLSTLEKKLEEHSENSHPEFRVFMSAEPAPSPEGHIIPQGILENSIKITNEPPT
+GMHANLHKALDNFTQDTLEMCSRETEFKSILFALCYFHAVVAERRKFGPQGWNRSYPFNT
+GDLTISVNVLYNFLEANAKVPYDDLRYLFGEIMYGGHITDDWDRRLCRTYLGEFIRPEML
+EGELSLAPGFPLPGNMDYNGYHQYIDAELPPESPYLYGLHPNAEIGFLTQTSEKLFRTVL
+ELQPRDSQARDGAGATREEKVKALLEEILERVTDEFNIPELMAKVEERTPYIVVAFQECG
+RMNILTREIQRSLRELELGLKGELTMTSHMENLQNALYFDMVPESWARRAYPSTAGLAAW
+FPDLLNRIKELEAWTGDFTMPSTVWLTGFFNPQSFLTAIMQSTARKNEWPLDQMALQCDM
+TKKNREEFRSPPREGAYIHGLFMEGACWDTQAGIITEAKLKDLTPPMPVMFIKAIPADKQ
+DCRSVYSCPVYKTSQRGPTYVWTFNLKTKENPSKWVLAGVALLLQI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

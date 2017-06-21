@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2012-10-03" modified="2017-05-10" version="48">
+<accession>J3KPD6</accession>
+<name>J3KPD6_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="6">Tyrosine-protein kinase</fullName>
+<ecNumber evidence="6">2.7.10.2</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="14">HCK</name>
+</gene>
+<organism evidence="14 16">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="14 16">
+<citation type="journal article" date="2001" name="Nature" volume="414" first="865" last="871">
+<title>The DNA sequence and comparative analysis of human chromosome 20.</title>
+<authorList>
+<person name="Deloukas P."/>
+<person name="Matthews L.H."/>
+<person name="Ashurst J.L."/>
+<person name="Burton J."/>
+<person name="Gilbert J.G.R."/>
+<person name="Jones M."/>
+<person name="Stavrides G."/>
+<person name="Almeida J.P."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Barlow K.F."/>
+<person name="Bates K.N."/>
+<person name="Beard L.M."/>
+<person name="Beare D.M."/>
+<person name="Beasley O.P."/>
+<person name="Bird C.P."/>
+<person name="Blakey S.E."/>
+<person name="Bridgeman A.M."/>
+<person name="Brown A.J."/>
+<person name="Buck D."/>
+<person name="Burrill W.D."/>
+<person name="Butler A.P."/>
+<person name="Carder C."/>
+<person name="Carter N.P."/>
+<person name="Chapman J.C."/>
+<person name="Clamp M."/>
+<person name="Clark G."/>
+<person name="Clark L.N."/>
+<person name="Clark S.Y."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Cobley V.E."/>
+<person name="Collier R.E."/>
+<person name="Connor R.E."/>
+<person name="Corby N.R."/>
+<person name="Coulson A."/>
+<person name="Coville G.J."/>
+<person name="Deadman R."/>
+<person name="Dhami P.D."/>
+<person name="Dunn M."/>
+<person name="Ellington A.G."/>
+<person name="Frankland J.A."/>
+<person name="Fraser A."/>
+<person name="French L."/>
+<person name="Garner P."/>
+<person name="Grafham D.V."/>
+<person name="Griffiths C."/>
+<person name="Griffiths M.N.D."/>
+<person name="Gwilliam R."/>
+<person name="Hall R.E."/>
+<person name="Hammond S."/>
+<person name="Harley J.L."/>
+<person name="Heath P.D."/>
+<person name="Ho S."/>
+<person name="Holden J.L."/>
+<person name="Howden P.J."/>
+<person name="Huckle E."/>
+<person name="Hunt A.R."/>
+<person name="Hunt S.E."/>
+<person name="Jekosch K."/>
+<person name="Johnson C.M."/>
+<person name="Johnson D."/>
+<person name="Kay M.P."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Knights A."/>
+<person name="Laird G.K."/>
+<person name="Lawlor S."/>
+<person name="Lehvaeslaiho M.H."/>
+<person name="Leversha M.A."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Lovell J.D."/>
+<person name="Marsh V.L."/>
+<person name="Martin S.L."/>
+<person name="McConnachie L.J."/>
+<person name="McLay K."/>
+<person name="McMurray A.A."/>
+<person name="Milne S.A."/>
+<person name="Mistry D."/>
+<person name="Moore M.J.F."/>
+<person name="Mullikin J.C."/>
+<person name="Nickerson T."/>
+<person name="Oliver K."/>
+<person name="Parker A."/>
+<person name="Patel R."/>
+<person name="Pearce T.A.V."/>
+<person name="Peck A.I."/>
+<person name="Phillimore B.J.C.T."/>
+<person name="Prathalingam S.R."/>
+<person name="Plumb R.W."/>
+<person name="Ramsay H."/>
+<person name="Rice C.M."/>
+<person name="Ross M.T."/>
+<person name="Scott C.E."/>
+<person name="Sehra H.K."/>
+<person name="Shownkeen R."/>
+<person name="Sims S."/>
+<person name="Skuce C.D."/>
+<person name="Smith M.L."/>
+<person name="Soderlund C."/>
+<person name="Steward C.A."/>
+<person name="Sulston J.E."/>
+<person name="Swann R.M."/>
+<person name="Sycamore N."/>
+<person name="Taylor R."/>
+<person name="Tee L."/>
+<person name="Thomas D.W."/>
+<person name="Thorpe A."/>
+<person name="Tracey A."/>
+<person name="Tromans A.C."/>
+<person name="Vaudin M."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="Whitehead S.L."/>
+<person name="Whittaker P."/>
+<person name="Willey D.L."/>
+<person name="Williams L."/>
+<person name="Williams S.A."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Hubbard T."/>
+<person name="Durbin R.M."/>
+<person name="Bentley D.R."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+</authorList>
+<dbReference type="PubMed" id="11780052"/>
+<dbReference type="DOI" id="10.1038/414865a"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="3">
+<citation type="journal article" date="2009" name="Mol. Cell. Proteomics" volume="8" first="1751" last="1764">
+<title>Large-scale proteomics analysis of the human kinome.</title>
+<authorList>
+<person name="Oppermann F.S."/>
+<person name="Gnad F."/>
+<person name="Olsen J.V."/>
+<person name="Hornberger R."/>
+<person name="Greff Z."/>
+<person name="Keri G."/>
+<person name="Mann M."/>
+<person name="Daub H."/>
+</authorList>
+<dbReference type="PubMed" id="19369195"/>
+<dbReference type="DOI" id="10.1074/mcp.M800588-MCP200"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="3" evidence="15">
+<citation type="submission" date="2012-02" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<reference key="4" evidence="14">
+<citation type="submission" date="2012-08" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<reference key="5" evidence="4">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="6" evidence="5">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="6 8">ATP + a [protein]-L-tyrosine = ADP + a [protein]-L-tyrosine phosphate.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the protein kinase superfamily. Tyr protein kinase family.</text>
+</comment>
+<comment type="caution">
+<text evidence="14">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EC" id="2.7.10.2" evidence="6"/>
+<dbReference type="EMBL" id="AL049539">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL353092">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000365012"/>
+<dbReference type="DNASU" id="3055"/>
+<dbReference type="Ensembl" id="ENST00000375852">
+<property type="protein sequence ID" value="ENSP00000365012"/>
+<property type="gene ID" value="ENSG00000101336"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000534862">
+<property type="protein sequence ID" value="ENSP00000444986"/>
+<property type="gene ID" value="ENSG00000101336"/>
+</dbReference>
+<dbReference type="UCSC" id="uc061wdn.1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="HGNC" id="HGNC:4840">
+<property type="gene designation" value="HCK"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000101336"/>
+<dbReference type="eggNOG" id="KOG0197">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0515">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00760000118938"/>
+<dbReference type="HOVERGEN" id="HBG008761"/>
+<dbReference type="OMA" id="MMRCWKN"/>
+<dbReference type="OrthoDB" id="EOG091G0D46"/>
+<dbReference type="TreeFam" id="TF351634"/>
+<dbReference type="ChiTaRS" id="HCK">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 20"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000101336"/>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004715">
+<property type="term" value="F:non-membrane spanning protein tyrosine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.505.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001245">
+<property type="entry name" value="Ser-Thr/Tyr_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000980">
+<property type="entry name" value="SH2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001452">
+<property type="entry name" value="SH3_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008266">
+<property type="entry name" value="Tyr_kinase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020635">
+<property type="entry name" value="Tyr_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07714">
+<property type="entry name" value="Pkinase_Tyr"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00017">
+<property type="entry name" value="SH2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00018">
+<property type="entry name" value="SH3_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00401">
+<property type="entry name" value="SH2DOMAIN"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00452">
+<property type="entry name" value="SH3DOMAIN"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00109">
+<property type="entry name" value="TYRKINASE"/>
+</dbReference>
+<dbReference type="SMART" id="SM00252">
+<property type="entry name" value="SH2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00326">
+<property type="entry name" value="SH3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00219">
+<property type="entry name" value="TyrKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50044">
+<property type="entry name" value="SSF50044"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55550">
+<property type="entry name" value="SSF55550"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00109">
+<property type="entry name" value="PROTEIN_KINASE_TYR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50001">
+<property type="entry name" value="SH2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50002">
+<property type="entry name" value="SH3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="6 10">ATP-binding</keyword>
+<keyword id="KW-0181" evidence="16">Complete proteome</keyword>
+<keyword id="KW-0418" evidence="6 9">Kinase</keyword>
+<keyword id="KW-0547" evidence="6 10">Nucleotide-binding</keyword>
+<keyword id="KW-1267" evidence="1 2">Proteomics identification</keyword>
+<keyword id="KW-1185" evidence="16">Reference proteome</keyword>
+<keyword id="KW-0728" evidence="7">SH3 domain</keyword>
+<keyword id="KW-0808" evidence="6 9">Transferase</keyword>
+<keyword id="KW-0829" evidence="6 9">Tyrosine-protein kinase</keyword>
+<feature type="domain" description="SH3" evidence="12">
+<location>
+<begin position="78"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="domain" description="SH2" evidence="11">
+<location>
+<begin position="144"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase" evidence="13">
+<location>
+<begin position="262"/>
+<end position="515"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000213">
+<source>
+<dbReference type="MaxQB" id="J3KPD6"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000213">
+<source>
+<dbReference type="PeptideAtlas" id="J3KPD6"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="19369195"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="24275569"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="25944712"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU362096"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00128814"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00407660"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00485797"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00802662"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50001"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50002"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000365012"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000444986"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="526" mass="59582" checksum="6D0E877A0A64730A" modified="2012-10-03" version="1">
+LGGRSSCEDPGCPRDEERAPRMGCMKSKFLQVGGNTFSKTETSASPHCPVYVPDPTSTIK
+PGPNSHNSNTPGIREAGSEDIIVVALYDYEAIHHEDLSFQKGDQMVVLEESGEWWKARSL
+ATRKEGYIPSNYVARVDSLETEEWFFKGISRKDAERQLLAPGNMLGSFMIRDSETTKGSY
+SLSVRDYDPRQGDTVKHYKIRTLDNGGFYISPRSTFSTLQELVDHYKKGNDGLCQKLSVP
+CMSSKPQKPWEKDAWEIPRESLKLEKKLGAGQFGEVWMATYNKHTKVAVKTMKPGSMSVE
+AFLAEANVMKTLQHDKLVKLHAVVTKEPIYIITEFMAKGSLLDFLKSDEGSKQPLPKLID
+FSAQIAEGMAFIEQRNYIHRDLRAANILVSASLVCKIADFGLARVIEDNEYTAREGAKFP
+IKWTAPEAINFGSFTIKSDVWSFGILLMEIVTYGRIPYPGMSNPEVIRALERGYRMPRPE
+NCPEELYNIMMRCWKNRPEERPTFEYIQSVLDDFYTATESQYQQQP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

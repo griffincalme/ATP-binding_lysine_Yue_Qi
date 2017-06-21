@@ -1,0 +1,591 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2013-01-09" modified="2017-05-10" version="43">
+<accession>K7EJE8</accession>
+<name>K7EJE8_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="8">Lon protease homolog, mitochondrial</fullName>
+<ecNumber evidence="8">3.4.21.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="8">Lon protease-like protein</fullName>
+<shortName evidence="8">LONP</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="8">Mitochondrial ATP-dependent protease Lon</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="8">Serine protease 15</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="8 13">LONP1</name>
+</gene>
+<organism evidence="13 14">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="13 14">
+<citation type="journal article" date="2004" name="Nature" volume="428" first="529" last="535">
+<title>The DNA sequence and biology of human chromosome 19.</title>
+<authorList>
+<person name="Grimwood J."/>
+<person name="Gordon L.A."/>
+<person name="Olsen A.S."/>
+<person name="Terry A."/>
+<person name="Schmutz J."/>
+<person name="Lamerdin J.E."/>
+<person name="Hellsten U."/>
+<person name="Goodstein D."/>
+<person name="Couronne O."/>
+<person name="Tran-Gyamfi M."/>
+<person name="Aerts A."/>
+<person name="Altherr M."/>
+<person name="Ashworth L."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Branscomb E."/>
+<person name="Caenepeel S."/>
+<person name="Carrano A.V."/>
+<person name="Caoile C."/>
+<person name="Chan Y.M."/>
+<person name="Christensen M."/>
+<person name="Cleland C.A."/>
+<person name="Copeland A."/>
+<person name="Dalin E."/>
+<person name="Dehal P."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Escobar J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Garcia C."/>
+<person name="Georgescu A.M."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Ho I."/>
+<person name="Huang W."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Larionov V."/>
+<person name="Leem S.-H."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Lowry S."/>
+<person name="Malfatti S."/>
+<person name="Martinez D."/>
+<person name="McCready P.M."/>
+<person name="Medina C."/>
+<person name="Morgan J."/>
+<person name="Nelson K."/>
+<person name="Nolan M."/>
+<person name="Ovcharenko I."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Popkie A.P."/>
+<person name="Predki P."/>
+<person name="Quan G."/>
+<person name="Ramirez L."/>
+<person name="Rash S."/>
+<person name="Retterer J."/>
+<person name="Rodriguez A."/>
+<person name="Rogers S."/>
+<person name="Salamov A."/>
+<person name="Salazar A."/>
+<person name="She X."/>
+<person name="Smith D."/>
+<person name="Slezak T."/>
+<person name="Solovyev V."/>
+<person name="Thayer N."/>
+<person name="Tice H."/>
+<person name="Tsai M."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="Wagner M."/>
+<person name="Wheeler J."/>
+<person name="Wu K."/>
+<person name="Xie G."/>
+<person name="Yang J."/>
+<person name="Dubchak I."/>
+<person name="Furey T.S."/>
+<person name="DeJong P."/>
+<person name="Dickson M."/>
+<person name="Gordon D."/>
+<person name="Eichler E.E."/>
+<person name="Pennacchio L.A."/>
+<person name="Richardson P."/>
+<person name="Stubbs L."/>
+<person name="Rokhsar D.S."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+<person name="Lucas S.M."/>
+</authorList>
+<dbReference type="PubMed" id="15057824"/>
+<dbReference type="DOI" id="10.1038/nature02399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="4">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Burckstummer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="3" evidence="13">
+<citation type="submission" date="2012-11" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<reference key="4" evidence="5">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="5" evidence="6">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="6" evidence="7">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="function">
+<text evidence="8">ATP-dependent serine protease that mediates the selective degradation of misfolded, unassembled or oxidatively damaged polypeptides as well as certain short-lived regulatory proteins in the mitochondrial matrix. May also have a chaperone function in the assembly of inner membrane protein complexes. Participates in the regulation of mitochondrial gene expression and in the maintenance of the integrity of the mitochondrial genome. Binds to mitochondrial promoters and RNA in a single-stranded, site-specific, and strand-specific manner. May regulate mitochondrial DNA replication and/or gene expression using site-specific, single-stranded DNA binding to target the degradation of regulatory proteins binding to adjacent sites in mitochondrial promoters.</text>
+</comment>
+<comment type="subunit">
+<text evidence="8">Homohexamer or homoheptamer. Organized in a ring with a central cavity. DNA and RNA binding is stimulated by substrate and inhibited by ATP binding. Interacts with PEO1 and mitochondrial DNA polymerase subunit POLG.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="8">Mitochondrion matrix</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="8 9 10">Belongs to the peptidase S16 family.</text>
+</comment>
+<comment type="caution">
+<text evidence="13">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EC" id="3.4.21.-" evidence="8"/>
+<dbReference type="EMBL" id="AC011499">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="ProteinModelPortal" id="K7EJE8"/>
+<dbReference type="STRING" id="9606.ENSP00000353826"/>
+<dbReference type="MaxQB" id="K7EJE8"/>
+<dbReference type="PaxDb" id="K7EJE8"/>
+<dbReference type="PeptideAtlas" id="K7EJE8"/>
+<dbReference type="PRIDE" id="K7EJE8"/>
+<dbReference type="Ensembl" id="ENST00000590729">
+<property type="protein sequence ID" value="ENSP00000465139"/>
+<property type="gene ID" value="ENSG00000196365"/>
+</dbReference>
+<dbReference type="UCSC" id="uc031riz.2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="HGNC" id="HGNC:9479">
+<property type="gene designation" value="LONP1"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000196365"/>
+<dbReference type="eggNOG" id="KOG2004">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0466">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00530000063553"/>
+<dbReference type="ChiTaRS" id="LONP1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 19"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000196365"/>
+<dbReference type="ExpressionAtlas" id="K7EJE8">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005759">
+<property type="term" value="C:mitochondrial matrix"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004176">
+<property type="term" value="F:ATP-dependent peptidase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004252">
+<property type="term" value="F:serine-type endopeptidase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034599">
+<property type="term" value="P:cellular response to oxidative stress"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051131">
+<property type="term" value="P:chaperone-mediated protein complex assembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006515">
+<property type="term" value="P:misfolded or incompletely synthesized protein catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070407">
+<property type="term" value="P:oxidation-dependent protein catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090296">
+<property type="term" value="P:regulation of mitochondrial DNA replication"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.230.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_03120">
+<property type="entry name" value="lonm_euk"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003959">
+<property type="entry name" value="ATPase_AAA_core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004815">
+<property type="entry name" value="Lon_bac/euk-typ"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008269">
+<property type="entry name" value="Lon_proteolytic"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027065">
+<property type="entry name" value="Lon_Prtase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003111">
+<property type="entry name" value="Lon_substr-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027503">
+<property type="entry name" value="Lonm_euk"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008268">
+<property type="entry name" value="Peptidase_S16_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015947">
+<property type="entry name" value="PUA-like_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020568">
+<property type="entry name" value="Ribosomal_S5_D2-typ_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014721">
+<property type="entry name" value="Ribosomal_S5_D2-typ_fold_subgr"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR43718">
+<property type="entry name" value="PTHR43718"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00004">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05362">
+<property type="entry name" value="Lon_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02190">
+<property type="entry name" value="LON_substr_bdg"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00464">
+<property type="entry name" value="LON"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54211">
+<property type="entry name" value="SSF54211"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF88697">
+<property type="entry name" value="SSF88697"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00763">
+<property type="entry name" value="lon"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51787">
+<property type="entry name" value="LON_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51786">
+<property type="entry name" value="LON_PROTEOLYTIC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01046">
+<property type="entry name" value="LON_SER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="8 10">ATP-binding</keyword>
+<keyword id="KW-0181" evidence="14">Complete proteome</keyword>
+<keyword id="KW-0238" evidence="8">DNA-binding</keyword>
+<keyword id="KW-0378" evidence="8 9 10">Hydrolase</keyword>
+<keyword id="KW-0496" evidence="8">Mitochondrion</keyword>
+<keyword id="KW-0547" evidence="8 10">Nucleotide-binding</keyword>
+<keyword id="KW-0645" evidence="8 9 10">Protease</keyword>
+<keyword id="KW-1267" evidence="1 2 3">Proteomics identification</keyword>
+<keyword id="KW-1185" evidence="14">Reference proteome</keyword>
+<keyword id="KW-0720" evidence="8 9 10">Serine protease</keyword>
+<keyword id="KW-0809" evidence="8">Transit peptide</keyword>
+<feature type="transit peptide" description="Mitochondrion" evidence="8">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="domain" description="Lon N-terminal" evidence="12">
+<location>
+<begin position="10"/>
+<end position="238"/>
+</location>
+</feature>
+<feature type="domain" description="Lon proteolytic" evidence="11">
+<location>
+<begin position="629"/>
+<end position="819"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="8">
+<location>
+<begin position="393"/>
+<end position="400"/>
+</location>
+</feature>
+<feature type="active site" evidence="8 9">
+<location>
+<position position="725"/>
+</location>
+</feature>
+<feature type="active site" evidence="8 9">
+<location>
+<position position="768"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000213">
+<source>
+<dbReference type="EPD" id="K7EJE8"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000213">
+<source>
+<dbReference type="MaxQB" id="K7EJE8"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000213">
+<source>
+<dbReference type="PeptideAtlas" id="K7EJE8"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="21269460"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="24275569"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="25944712"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000256">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_03120"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01122"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000591"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51786"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51787"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000465139"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="829" mass="93297" checksum="3759D8532E59D4C3" modified="2013-01-09" version="1">
+MTIPDVFPHLPLIAITRNPVFPRFIKIIEVKNKKLVELLRRKVRLAQPYVGVFLKRDDSN
+ESDVVESLDEIYHTGTFAQIHEMQDLGDKLRMIVMGHRRVHISRQLEVEPEEPEAENKHK
+PRRKSKRGKKEAEDELSARHPAELAMEPTPELPAEVLMVEALTAEIVKTIRDIIALNPLY
+RESVLQMMQAGQRVVDNPIYLSDMGAALTGAESHELQDVLEETNIPKRLYKALSLLKKEF
+ELSKLQQRLGREVEEKIKQTHRKYLLQEQLKIIKKELGLEKDDKDAIEEKFRERLKELVV
+PKHVMDVVDEELSKLGLLDNHSSEFNVTRNYLDWLTSIPWGKYSNENLDLARAQAVLEED
+HYGMEDVKKRILEFIAVSQLRGSTQGKILCFYGPPGVGKTSIARSIARALNREYFRFSVG
+GMTDVAEIKGHRRTYVGAMPGKIIQCLKKTKTENPLILIDEVDKIGRGYQGDPSSALLEL
+LDPEQNANFLDHYLDVPVDLSKVLFICTANVTDTIPEPLRDRMEMINVSGYVAQEKLAIA
+ERYLVPQARALCGLDESKAKLSSDVLTLLIKQYCRESGVRNLQKQVEKVLRKSAYKIVSG
+EAESVEVTPENLQDFVGKPVFTVERMYDVTPPGVVMGLAWTAMGGSTLFVETSLRRPQDK
+DAKGDKDGSLEVTGQLGEVMKESARIAYTFARAFLMQHAPANDYLVTSHIHLHVPEGATP
+KDGPSAGCTIVTALLSLAMGRPVRQNLAMTGEVSLTGKILPVGGIKEKTIAAKRAGVTCI
+VLPAENKKDFYDLAAFITEGLEVHFVEHYREIFDIAFPDEQAEALAVER
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

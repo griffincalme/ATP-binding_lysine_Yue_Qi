@@ -1,0 +1,414 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-10-14" modified="2017-04-12" version="60">
+<accession>B5BU77</accession>
+<name>B5BU77_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Protein kinase C eta type</fullName>
+<ecNumber evidence="1">2.7.11.13</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">PKC-L</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="1">nPKC-eta</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="11">PRKCH</name>
+</gene>
+<organism evidence="11">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="11">
+<citation type="submission" date="2008-07" db="EMBL/GenBank/DDBJ databases">
+<title>Human Protein Factory: an infrastructure to convert the human transcriptome into the in vitro-expressed human proteome of versatile utility.</title>
+<authorList>
+<person name="Goshima N."/>
+<person name="Kawamura Y."/>
+<person name="Fukumoto A."/>
+<person name="Miura A."/>
+<person name="Honma R."/>
+<person name="Satoh R."/>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J.-I."/>
+<person name="Kimura K."/>
+<person name="Nishikawa T."/>
+<person name="Andoh T."/>
+<person name="Iida Y."/>
+<person name="Ishikawa K."/>
+<person name="Ito E."/>
+<person name="Kagawa N."/>
+<person name="Kaminaga C."/>
+<person name="Kanehori K."/>
+<person name="Kawakami B."/>
+<person name="Kenmochi K.-I."/>
+<person name="Kimura R."/>
+<person name="Kobayashi M."/>
+<person name="Kuroita T."/>
+<person name="Kuwayama H."/>
+<person name="Maruyama Y."/>
+<person name="Matsuo K."/>
+<person name="Minami K."/>
+<person name="Mitsubori M."/>
+<person name="Mori M."/>
+<person name="Morishita R."/>
+<person name="Murase A."/>
+<person name="Nishikawa A."/>
+<person name="Nishikawa S."/>
+<person name="Okamoto T."/>
+<person name="Sakagami N."/>
+<person name="Sakamoto Y."/>
+<person name="Sasaki Y."/>
+<person name="Seki T."/>
+<person name="Sono S."/>
+<person name="Sugiyama A."/>
+<person name="Sumiya T."/>
+<person name="Takayama T."/>
+<person name="Takayama Y."/>
+<person name="Takeda H."/>
+<person name="Togashi T."/>
+<person name="Yahata K."/>
+<person name="Yamada H."/>
+<person name="Yanagisawa Y."/>
+<person name="Endo Y."/>
+<person name="Imamoto F."/>
+<person name="Kisu Y."/>
+<person name="Tanaka S."/>
+<person name="Isogai T."/>
+<person name="Imai J.-I."/>
+<person name="Watanabe S."/>
+<person name="Nomura N."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Calcium-independent, phospholipid- and diacylglycerol (DAG)-dependent serine/threonine-protein kinase that is involved in the regulation of cell differentiation in keratinocytes and pre-B cell receptor, mediates regulation of epithelial tight junction integrity and foam cell formation, and is required for glioblastoma proliferation and apoptosis prevention in MCF-7 cells. In keratinocytes, binds and activates the tyrosine kinase FYN, which in turn blocks epidermal growth factor receptor (EGFR) signaling and leads to keratinocyte growth arrest and differentiation. Associates with the cyclin CCNE1-CDK2-CDKN1B complex and inhibits CDK2 kinase activity, leading to RB1 dephosphorylation and thereby G1 arrest in keratinocytes. In association with RALA activates actin depolymerization, which is necessary for keratinocyte differentiation. In the pre-B cell receptor signaling, functions downstream of BLNK by up-regulating IRF4, which in turn activates L chain gene rearrangement. Regulates epithelial tight junctions (TJs) by phosphorylating occludin (OCLN) on threonine residues, which is necessary for the assembly and maintenance of TJs. In association with PLD2 and via TLR4 signaling, is involved in lipopolysaccharide (LPS)-induced RGS2 down-regulation and foam cell formation. Upon PMA stimulation, mediates glioblastoma cell proliferation by activating the mTOR pathway, the PI3K/AKT pathway and the ERK1-dependent phosphorylation of ELK1. Involved in the protection of glioblastoma cells from irradiation-induced apoptosis by preventing caspase-9 activation. In camptothecin-treated MCF-7 cells, regulates NF-kappa-B upstream signaling by activating IKBKB, and confers protection against DNA damage-induced apoptosis.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1 4">ATP + a protein = ADP + a phosphoprotein.</text>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="1">Novel PKCs (PRKCD, PRKCE, PRKCH and PRKCQ) are calcium-insensitive, but activated by diacylglycerol (DAG) and phosphatidylserine. Three specific sites; Thr-513 (activation loop of the kinase domain), Thr-656 (turn motif) and Ser-675 (hydrophobic region), need to be phosphorylated for its full activation.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1 6">Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. PKC subfamily.</text>
+</comment>
+<dbReference type="EC" id="2.7.11.13" evidence="1"/>
+<dbReference type="EMBL" id="AB451313">
+<property type="protein sequence ID" value="BAG70127.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.333907"/>
+<dbReference type="ProteinModelPortal" id="B5BU77"/>
+<dbReference type="STRING" id="9606.ENSP00000329127"/>
+<dbReference type="PaxDb" id="B5BU77"/>
+<dbReference type="PeptideAtlas" id="B5BU77"/>
+<dbReference type="eggNOG" id="KOG0694">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XNPH">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG108317"/>
+<dbReference type="SignaLink" id="B5BU77"/>
+<dbReference type="ChiTaRS" id="PRKCH">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004697">
+<property type="term" value="F:protein kinase C activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030154">
+<property type="term" value="P:cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035556">
+<property type="term" value="P:intracellular signal transduction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd00029">
+<property type="entry name" value="C1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="CDD" id="cd05590">
+<property type="entry name" value="STKc_nPKC_eta"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.40.150">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000961">
+<property type="entry name" value="AGC-kinase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000008">
+<property type="entry name" value="C2_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020454">
+<property type="entry name" value="DAG/PE-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR034665">
+<property type="entry name" value="nPKC_eta"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002219">
+<property type="entry name" value="PE/DAG-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027431">
+<property type="entry name" value="PKC_eta"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017892">
+<property type="entry name" value="Pkinase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014376">
+<property type="entry name" value="Prot_kin_PKC_delta"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00130">
+<property type="entry name" value="C1_1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00168">
+<property type="entry name" value="C2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00433">
+<property type="entry name" value="Pkinase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000551">
+<property type="entry name" value="PKC_delta"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF501107">
+<property type="entry name" value="Protein_kin_C_eta"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00008">
+<property type="entry name" value="DAGPEDOMAIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00109">
+<property type="entry name" value="C1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00239">
+<property type="entry name" value="C2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00133">
+<property type="entry name" value="S_TK_X"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF49562">
+<property type="entry name" value="SSF49562"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51285">
+<property type="entry name" value="AGC_KINASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50004">
+<property type="entry name" value="C2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00479">
+<property type="entry name" value="ZF_DAG_PE_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50081">
+<property type="entry name" value="ZF_DAG_PE_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1 2">ATP-binding</keyword>
+<keyword id="KW-0963" evidence="1">Cytoplasm</keyword>
+<keyword id="KW-0221" evidence="1">Differentiation</keyword>
+<keyword id="KW-0418" evidence="1 3">Kinase</keyword>
+<keyword id="KW-0479" evidence="5">Metal-binding</keyword>
+<keyword id="KW-0547" evidence="1 2">Nucleotide-binding</keyword>
+<keyword id="KW-0723" evidence="1 3">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808" evidence="1 3">Transferase</keyword>
+<keyword id="KW-0862" evidence="5">Zinc</keyword>
+<keyword id="KW-0863" evidence="5">Zinc-finger</keyword>
+<feature type="domain" description="C2" evidence="7">
+<location>
+<begin position="12"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="domain" description="Phorbol-ester/DAG-type" evidence="9">
+<location>
+<begin position="171"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="domain" description="Phorbol-ester/DAG-type" evidence="9">
+<location>
+<begin position="245"/>
+<end position="295"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase" evidence="8">
+<location>
+<begin position="355"/>
+<end position="614"/>
+</location>
+</feature>
+<feature type="domain" description="AGC-kinase C-terminal" evidence="10">
+<location>
+<begin position="615"/>
+<end position="683"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PIRNR" id="PIRNR000551"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00593399"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00593706"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00594266"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00732991"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00784276"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50004"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50081"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51285"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG70127.1"/>
+</source>
+</evidence>
+<sequence length="683" mass="77812" checksum="D9826DD5A542E1E3" modified="2008-10-14" version="1">
+MSSGTMKFNGYLRVRIGEAVGLQPTRWSPRHSLFKKGHQLLDPYLTVSVDQVRVGQTSTK
+QKTNKPTYNEEFCANVTDGGHLELAVFHETPLGYDHFVANCTLQFQELLRTTGASDTFEG
+WVDLEPEGKVFVVITLTGSFTEATLQRDRIFKHFTRKRQRAMRRRVHQINGHKFMATYLR
+QPTYCSHCREFIWGVFGKQGYQCQVCTCVVHKRCHHLIVTACTCQNNINKVDSKIAEQRF
+GINIPHKFSIHNYKVPTFCDHCGSLLWGIMRQGLQCKICKMNVHIRCQANVAPNCGVNAV
+ELAKTLAGMGLQPGNISPTSKLVSRSTLRRQGKESSKEGNGIGVNSSNRLGIDNFEFIRV
+LGKGSFGKVMLARVKETGDLYAVKVLKKDVILQDDDVECTMTEKRILSLARNHPFLTQLF
+CCFQTPDRLFFVMEFVNGGDLMFHIQKSRRFDEARARFYAAEIISALMFLHDKGIIYRDL
+KLDNVLLDHEGHCKLADFGMCKEGICNGVTTATFCGTPDYIAPEILQEMLYGPAVDWWAM
+GVLLYEMLCGHAPFEAENEDDLFEAILNDEVVYPTWLHEDATGILKSFMTKNPTMRLGSL
+TQGGEHAILRHPFFKEIDWAQLNHRQIEPPFRPRIKSREDVSNFDPDFIKEEPVLTPIDE
+GHLPMINQDEFRNFSYVSPELQP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

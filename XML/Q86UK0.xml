@@ -1,0 +1,1553 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2004-08-16" modified="2017-05-10" version="138">
+<accession>Q86UK0</accession>
+<accession>Q53QE2</accession>
+<accession>Q53S55</accession>
+<accession>Q8IZW6</accession>
+<accession>Q96JT3</accession>
+<accession>Q9Y4M5</accession>
+<name>ABCAC_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>ATP-binding cassette sub-family A member 12</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>ATP-binding cassette transporter 12</fullName>
+<shortName>ATP-binding cassette 12</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ABCA12</name>
+<name type="synonym">ABC12</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2002" name="Cytogenet. Genome Res." volume="98" first="169" last="176">
+<title>Identification and characterization of a novel ABCA subfamily member, ABCA12, located in the lamellar ichthyosis region on 2q34.</title>
+<authorList>
+<person name="Annilo T."/>
+<person name="Shulemin S."/>
+<person name="Chen Z.Q."/>
+<person name="Arnould I."/>
+<person name="Prades C."/>
+<person name="Lemoine C."/>
+<person name="Maintoux-Larois C."/>
+<person name="Devaud C."/>
+<person name="Dean M."/>
+<person name="Denefle P."/>
+<person name="Rosier M."/>
+</authorList>
+<dbReference type="PubMed" id="12697999"/>
+<dbReference type="DOI" id="10.1159/000069811"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>VARIANT THR-777</scope>
+<source>
+<tissue>Placenta</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="2001-04" db="EMBL/GenBank/DDBJ databases">
+<title>A retinal cDNA for the ATP-binding cassette transporter ABCA12.</title>
+<authorList>
+<person name="Bonner T.I."/>
+<person name="Moses T."/>
+<person name="Detera-Wadleigh S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2)</scope>
+<scope>VARIANT THR-777</scope>
+<source>
+<tissue>Retina</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="724" last="731">
+<title>Generation and annotation of the DNA sequences of human chromosomes 2 and 4.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Graves T.A."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Pepin K.H."/>
+<person name="Minx P."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Kremitzki C."/>
+<person name="Oddy L."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Carter J."/>
+<person name="Cordes M."/>
+<person name="Harris A."/>
+<person name="Isak A."/>
+<person name="van Brunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Abbott S."/>
+<person name="Armstrong J."/>
+<person name="Belter E.A."/>
+<person name="Caruso L."/>
+<person name="Cedroni M."/>
+<person name="Cotton M."/>
+<person name="Davidson T."/>
+<person name="Desai A."/>
+<person name="Elliott G."/>
+<person name="Erb T."/>
+<person name="Fronick C."/>
+<person name="Gaige T."/>
+<person name="Haakenson W."/>
+<person name="Haglund K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Kim K."/>
+<person name="Kruchowski S.S."/>
+<person name="Strong C.M."/>
+<person name="Grewal N."/>
+<person name="Goyea E."/>
+<person name="Hou S."/>
+<person name="Levy A."/>
+<person name="Martinka S."/>
+<person name="Mead K."/>
+<person name="McLellan M.D."/>
+<person name="Meyer R."/>
+<person name="Randall-Maher J."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Shah N."/>
+<person name="Swearengen-Shahid S."/>
+<person name="Snider J."/>
+<person name="Strong J.T."/>
+<person name="Thompson J."/>
+<person name="Yoakum M."/>
+<person name="Leonard S."/>
+<person name="Pearman C."/>
+<person name="Trani L."/>
+<person name="Radionenko M."/>
+<person name="Waligorski J.E."/>
+<person name="Wang C."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Maupin R."/>
+<person name="Latreille P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Pohl C."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Berkowicz N."/>
+<person name="Nelson J.O."/>
+<person name="Osborne J."/>
+<person name="Ding L."/>
+<person name="Meyer R."/>
+<person name="Sabo A."/>
+<person name="Shotland Y."/>
+<person name="Sinha P."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Jones T.A."/>
+<person name="She X."/>
+<person name="Ciccarelli F.D."/>
+<person name="Izaurralde E."/>
+<person name="Taylor J."/>
+<person name="Schmutz J."/>
+<person name="Myers R.M."/>
+<person name="Cox D.R."/>
+<person name="Huang X."/>
+<person name="McPherson J.D."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Warren W.C."/>
+<person name="Chinwalla A.T."/>
+<person name="Eddy S.R."/>
+<person name="Marra M.A."/>
+<person name="Ovcharenko I."/>
+<person name="Furey T.S."/>
+<person name="Miller W."/>
+<person name="Eichler E.E."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Torrents D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="15815621"/>
+<dbReference type="DOI" id="10.1038/nature03466"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2001-09" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of a novel ABC transporter (ABCA12) tentatively involved in lipid homeostatis.</title>
+<authorList>
+<person name="Schaap F.G."/>
+<person name="van Wijland M."/>
+<person name="Groen A.K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 221-2595</scope>
+<scope>VARIANT THR-777</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2007" name="BMC Genomics" volume="8" first="399" last="399">
+<title>The full-ORF clone resource of the German cDNA consortium.</title>
+<authorList>
+<person name="Bechtel S."/>
+<person name="Rosenfelder H."/>
+<person name="Duda A."/>
+<person name="Schmidt C.P."/>
+<person name="Ernst U."/>
+<person name="Wellenreuther R."/>
+<person name="Mehrle A."/>
+<person name="Schuster C."/>
+<person name="Bahr A."/>
+<person name="Bloecker H."/>
+<person name="Heubner D."/>
+<person name="Hoerlein A."/>
+<person name="Michel G."/>
+<person name="Wedler H."/>
+<person name="Koehrer K."/>
+<person name="Ottenwaelder B."/>
+<person name="Poustka A."/>
+<person name="Wiemann S."/>
+<person name="Schupp I."/>
+</authorList>
+<dbReference type="PubMed" id="17974005"/>
+<dbReference type="DOI" id="10.1186/1471-2164-8-399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 2400-2595</scope>
+<source>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2010" name="Hum. Mutat." volume="31" first="1090" last="1096">
+<title>ABCA12 mutations and autosomal recessive congenital ichthyosis: a review of genotype/phenotype correlations and of pathogenetic concepts.</title>
+<authorList>
+<person name="Akiyama M."/>
+</authorList>
+<dbReference type="PubMed" id="20672373"/>
+<dbReference type="DOI" id="10.1002/humu.21326"/>
+</citation>
+<scope>REVIEW ON VARIANTS</scope>
+<scope>INVOLVEMENT IN ARCI</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="Hum. Mol. Genet." volume="12" first="2369" last="2378">
+<title>Mutations in the transporter ABCA12 are associated with lamellar ichthyosis type 2.</title>
+<authorList>
+<person name="Lefevre C."/>
+<person name="Audebert S."/>
+<person name="Jobard F."/>
+<person name="Bouadjar B."/>
+<person name="Lakhdar H."/>
+<person name="Boughdene-Stambouli O."/>
+<person name="Blanchet-Bardon C."/>
+<person name="Heilig R."/>
+<person name="Foglio M."/>
+<person name="Weissenbach J."/>
+<person name="Lathrop M."/>
+<person name="Prud'homme J.F."/>
+<person name="Fischer J."/>
+</authorList>
+<dbReference type="PubMed" id="12915478"/>
+<dbReference type="DOI" id="10.1093/hmg/ddg235"/>
+</citation>
+<scope>VARIANTS ARCI4A SER-1380; GLU-1381; HIS-1514; LYS-1539 AND SER-1651</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2005" name="Am. J. Hum. Genet." volume="76" first="794" last="803">
+<title>Mutations in ABCA12 underlie the severe congenital skin disease harlequin ichthyosis.</title>
+<authorList>
+<person name="Kelsell D.P."/>
+<person name="Norgett E.E."/>
+<person name="Unsworth H."/>
+<person name="Teh M.-T."/>
+<person name="Cullup T."/>
+<person name="Mein C.A."/>
+<person name="Dopping-Hepenstal P.J."/>
+<person name="Dale B.A."/>
+<person name="Tadini G."/>
+<person name="Fleckman P."/>
+<person name="Stephens K.G."/>
+<person name="Sybert V.P."/>
+<person name="Mallory S.B."/>
+<person name="North B.V."/>
+<person name="Witt D.R."/>
+<person name="Sprecher E."/>
+<person name="Taylor A.E.M."/>
+<person name="Ilchyshyn A."/>
+<person name="Kennedy C.T."/>
+<person name="Goodyear H."/>
+<person name="Moss C."/>
+<person name="Paige D."/>
+<person name="Harper J.I."/>
+<person name="Young B.D."/>
+<person name="Leigh I.M."/>
+<person name="Eady R.A.J."/>
+<person name="O'Toole E.A."/>
+</authorList>
+<dbReference type="PubMed" id="15756637"/>
+<dbReference type="DOI" id="10.1086/429844"/>
+</citation>
+<scope>VARIANT ASN-2365</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2006" name="J. Invest. Dermatol." volume="126" first="1518" last="1523">
+<title>Compound heterozygous mutations including a de novo missense mutation in ABCA12 led to a case of harlequin ichthyosis with moderate clinical severity.</title>
+<authorList>
+<person name="Akiyama M."/>
+<person name="Sakai K."/>
+<person name="Sugiyama-Nakagiri Y."/>
+<person name="Yamanaka Y."/>
+<person name="McMillan J.R."/>
+<person name="Sawamura D."/>
+<person name="Niizeki H."/>
+<person name="Miyagawa S."/>
+<person name="Shimizu H."/>
+</authorList>
+<dbReference type="PubMed" id="16675967"/>
+<dbReference type="DOI" id="10.1038/sj.jid.5700295"/>
+</citation>
+<scope>VARIANT ARCI4B ASN-387</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2006" name="J. Invest. Dermatol." volume="126" first="2408" last="2413">
+<title>ABCA12 is the major harlequin ichthyosis gene.</title>
+<authorList>
+<person name="Thomas A.C."/>
+<person name="Cullup T."/>
+<person name="Norgett E.E."/>
+<person name="Hill T."/>
+<person name="Barton S."/>
+<person name="Dale B.A."/>
+<person name="Sprecher E."/>
+<person name="Sheridan E."/>
+<person name="Taylor A.E."/>
+<person name="Wilroy R.S."/>
+<person name="DeLozier C."/>
+<person name="Burrows N."/>
+<person name="Goodyear H."/>
+<person name="Fleckman P."/>
+<person name="Stephens K.G."/>
+<person name="Mehta L."/>
+<person name="Watson R.M."/>
+<person name="Graham R."/>
+<person name="Wolf R."/>
+<person name="Slavotinek A."/>
+<person name="Martin M."/>
+<person name="Bourn D."/>
+<person name="Mein C.A."/>
+<person name="O'Toole E.A."/>
+<person name="Kelsell D.P."/>
+</authorList>
+<dbReference type="PubMed" id="16902423"/>
+<dbReference type="DOI" id="10.1038/sj.jid.5700455"/>
+</citation>
+<scope>VARIANT ARCI4B ARG-1179</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2007" name="J. Invest. Dermatol." volume="127" first="2669" last="2673">
+<title>Novel ABCA12 mutations identified in two cases of non-bullous congenital ichthyosiform erythroderma associated with multiple skin malignant neoplasia.</title>
+<authorList>
+<person name="Natsuga K."/>
+<person name="Akiyama M."/>
+<person name="Kato N."/>
+<person name="Sakai K."/>
+<person name="Sugiyama-Nakagiri Y."/>
+<person name="Nishimura M."/>
+<person name="Hata H."/>
+<person name="Abe M."/>
+<person name="Arita K."/>
+<person name="Tsuji-Abe Y."/>
+<person name="Onozuka T."/>
+<person name="Aoyagi S."/>
+<person name="Kodama K."/>
+<person name="Ujiie H."/>
+<person name="Tomita Y."/>
+<person name="Shimizu H."/>
+</authorList>
+<dbReference type="PubMed" id="17508018"/>
+<dbReference type="DOI" id="10.1038/sj.jid.5700885"/>
+</citation>
+<scope>VARIANTS ARCI4A PRO-345 AND THR-1494</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2008" name="Br. J. Dermatol." volume="158" first="864" last="867">
+<title>Novel compound heterozygous nonsense and missense ABCA12 mutations lead to nonbullous congenital ichthyosiform erythroderma.</title>
+<authorList>
+<person name="Akiyama M."/>
+<person name="Sakai K."/>
+<person name="Hatamochi A."/>
+<person name="Yamazaki S."/>
+<person name="McMillan J.R."/>
+<person name="Shimizu H."/>
+</authorList>
+<dbReference type="PubMed" id="18284401"/>
+<dbReference type="DOI" id="10.1111/j.1365-2133.2008.08439.x"/>
+</citation>
+<scope>VARIANT ARCI4A ASP-1136</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2008" name="Science" volume="321" first="1801" last="1806">
+<title>Core signaling pathways in human pancreatic cancers revealed by global genomic analyses.</title>
+<authorList>
+<person name="Jones S."/>
+<person name="Zhang X."/>
+<person name="Parsons D.W."/>
+<person name="Lin J.C."/>
+<person name="Leary R.J."/>
+<person name="Angenendt P."/>
+<person name="Mankoo P."/>
+<person name="Carter H."/>
+<person name="Kamiyama H."/>
+<person name="Jimeno A."/>
+<person name="Hong S.M."/>
+<person name="Fu B."/>
+<person name="Lin M.T."/>
+<person name="Calhoun E.S."/>
+<person name="Kamiyama M."/>
+<person name="Walter K."/>
+<person name="Nikolskaya T."/>
+<person name="Nikolsky Y."/>
+<person name="Hartigan J."/>
+<person name="Smith D.R."/>
+<person name="Hidalgo M."/>
+<person name="Leach S.D."/>
+<person name="Klein A.P."/>
+<person name="Jaffee E.M."/>
+<person name="Goggins M."/>
+<person name="Maitra A."/>
+<person name="Iacobuzio-Donahue C."/>
+<person name="Eshleman J.R."/>
+<person name="Kern S.E."/>
+<person name="Hruban R.H."/>
+<person name="Karchin R."/>
+<person name="Papadopoulos N."/>
+<person name="Parmigiani G."/>
+<person name="Vogelstein B."/>
+<person name="Velculescu V.E."/>
+<person name="Kinzler K.W."/>
+</authorList>
+<dbReference type="PubMed" id="18772397"/>
+<dbReference type="DOI" id="10.1126/science.1164368"/>
+</citation>
+<scope>VARIANT [LARGE SCALE ANALYSIS] VAL-476</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2009" name="J. Invest. Dermatol." volume="129" first="2306" last="2309">
+<title>ABCA12 is a major causative gene for non-bullous congenital ichthyosiform erythroderma.</title>
+<authorList>
+<person name="Sakai K."/>
+<person name="Akiyama M."/>
+<person name="Yanagi T."/>
+<person name="McMillan J.R."/>
+<person name="Suzuki T."/>
+<person name="Tsukamoto K."/>
+<person name="Sugiyama H."/>
+<person name="Hatano Y."/>
+<person name="Hayashitani M."/>
+<person name="Takamori K."/>
+<person name="Nakashima K."/>
+<person name="Shimizu H."/>
+</authorList>
+<dbReference type="PubMed" id="19262603"/>
+<dbReference type="DOI" id="10.1038/jid.2009.23"/>
+</citation>
+<scope>VARIANTS ARCI4A SER-1235; HIS-1514; LEU-1798 AND LYS-1980</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2012" name="Eur. J. Dermatol." volume="22" first="178" last="181">
+<title>Non-bullous congenital ichthyosiform erythroderma associated with homozygosity for a novel missense mutation in an ATP binding domain of ABCA12.</title>
+<authorList>
+<person name="Nawaz S."/>
+<person name="Tariq M."/>
+<person name="Ahmad I."/>
+<person name="Malik N.A."/>
+<person name="Baig S.M."/>
+<person name="Dahl N."/>
+<person name="Klar J."/>
+</authorList>
+<dbReference type="PubMed" id="22257947"/>
+<dbReference type="DOI" id="10.1684/ejd.2011.1638"/>
+</citation>
+<scope>VARIANT ARCI4A VAL-1559</scope>
+</reference>
+<comment type="function">
+<text>Probable transporter involved in lipid homeostasis.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9541582"/>
+<interactant intactId="EBI-784112">
+<id>O95477</id>
+<label>ABCA1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="17">Membrane</location>
+<topology evidence="17">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q86UK0-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q86UK0-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_011283 VSP_011284"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+<text>Additional isoforms seem to exist.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="4">Mainly expressed in the stomach, placenta, testis and fetal brain.</text>
+</comment>
+<comment type="domain">
+<text evidence="1">Multifunctional polypeptide with two homologous halves, each containing a hydrophobic membrane-anchoring domain and an ATP binding cassette (ABC) domain.</text>
+</comment>
+<comment type="disease" evidence="5 9 10 12 13">
+<disease id="DI-00588">
+<name>Ichthyosis, congenital, autosomal recessive 4A</name>
+<acronym>ARCI4A</acronym>
+<description>A form of autosomal recessive congenital ichthyosis, a disorder of keratinization with abnormal differentiation and desquamation of the epidermis, resulting in abnormal skin scaling over the whole body. The main skin phenotypes are lamellar ichthyosis (LI) and non-bullous congenital ichthyosiform erythroderma (NCIE), although phenotypic overlap within the same patient or among patients from the same family can occur. Lamellar ichthyosis is a condition often associated with an embedment in a collodion-like membrane at birth; skin scales later develop, covering the entire body surface. Non-bullous congenital ichthyosiform erythroderma characterized by fine whitish scaling on an erythrodermal background; larger brownish scales are present on the buttocks, neck and legs.</description>
+<dbReference type="MIM" id="601277"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="7 8">
+<disease id="DI-00584">
+<name>Ichthyosis, congenital, autosomal recessive 4B</name>
+<acronym>ARCI4B</acronym>
+<description>A rare, very severe form of congenital ichthyosis, in which the neonate is born with a thick covering of armor-like scales. The skin dries out to form hard diamond-shaped plaques separated by fissures, resembling 'armor plating'. The normal facial features are severely affected, with distortion of the lips (eclabion), eyelids (ectropion), ears, and nostrils. Affected babies are often born prematurely and rarely survive the perinatal period. Babies who survive into infancy and beyond develop skin changes resembling severe non-bullous congenital ichthyosiform erythroderma.</description>
+<dbReference type="MIM" id="242500"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="17">Belongs to the ABC transporter superfamily. ABCA family.</text>
+</comment>
+<comment type="sequence caution" evidence="17">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAN40735" version="1"/>
+</conflict>
+</comment>
+<comment type="online information" name="ABCMdb">
+<link uri="http://abcmutations.hegelab.org/proteinDetails?uniprot_id=Q86UK0"/>
+<text>Database for mutations in ABC proteins</text>
+</comment>
+<dbReference type="EMBL" id="AY219711">
+<property type="protein sequence ID" value="AAP21093.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY033486">
+<property type="protein sequence ID" value="AAK54355.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC072062">
+<property type="protein sequence ID" value="AAY24276.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC114780">
+<property type="protein sequence ID" value="AAY24230.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF418105">
+<property type="protein sequence ID" value="AAN40735.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL080207">
+<property type="protein sequence ID" value="CAB45776.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS33372.1">
+<molecule id="Q86UK0-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS33373.1">
+<molecule id="Q86UK0-2"/>
+</dbReference>
+<dbReference type="PIR" id="T12512">
+<property type="entry name" value="T12512"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_056472.2">
+<molecule id="Q86UK0-2"/>
+<property type="nucleotide sequence ID" value="NM_015657.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_775099.2">
+<molecule id="Q86UK0-1"/>
+<property type="nucleotide sequence ID" value="NM_173076.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.134585"/>
+<dbReference type="ProteinModelPortal" id="Q86UK0"/>
+<dbReference type="SMR" id="Q86UK0"/>
+<dbReference type="IntAct" id="Q86UK0">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000272895"/>
+<dbReference type="TCDB" id="3.A.1.211.13">
+<property type="family name" value="the atp-binding cassette (abc) superfamily"/>
+</dbReference>
+<dbReference type="iPTMnet" id="Q86UK0"/>
+<dbReference type="PhosphoSitePlus" id="Q86UK0"/>
+<dbReference type="BioMuta" id="ABCA12"/>
+<dbReference type="DMDM" id="269849713"/>
+<dbReference type="EPD" id="Q86UK0"/>
+<dbReference type="PaxDb" id="Q86UK0"/>
+<dbReference type="PeptideAtlas" id="Q86UK0"/>
+<dbReference type="PRIDE" id="Q86UK0"/>
+<dbReference type="Ensembl" id="ENST00000272895">
+<molecule id="Q86UK0-1"/>
+<property type="protein sequence ID" value="ENSP00000272895"/>
+<property type="gene ID" value="ENSG00000144452"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000389661">
+<molecule id="Q86UK0-2"/>
+<property type="protein sequence ID" value="ENSP00000374312"/>
+<property type="gene ID" value="ENSG00000144452"/>
+</dbReference>
+<dbReference type="GeneID" id="26154"/>
+<dbReference type="KEGG" id="hsa:26154"/>
+<dbReference type="UCSC" id="uc002vev.4">
+<molecule id="Q86UK0-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="26154"/>
+<dbReference type="DisGeNET" id="26154"/>
+<dbReference type="GeneCards" id="ABCA12"/>
+<dbReference type="GeneReviews" id="ABCA12"/>
+<dbReference type="HGNC" id="HGNC:14637">
+<property type="gene designation" value="ABCA12"/>
+</dbReference>
+<dbReference type="MalaCards" id="ABCA12"/>
+<dbReference type="MIM" id="242500">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="601277">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="607800">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q86UK0"/>
+<dbReference type="OpenTargets" id="ENSG00000144452"/>
+<dbReference type="Orphanet" id="79394">
+<property type="disease" value="Congenital non-bullous ichthyosiform erythroderma"/>
+</dbReference>
+<dbReference type="Orphanet" id="457">
+<property type="disease" value="Harlequin ichthyosis"/>
+</dbReference>
+<dbReference type="Orphanet" id="313">
+<property type="disease" value="Lamellar ichthyosis"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA29604"/>
+<dbReference type="eggNOG" id="KOG0059">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1131">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00760000118965"/>
+<dbReference type="HOGENOM" id="HOG000168538"/>
+<dbReference type="HOVERGEN" id="HBG080807"/>
+<dbReference type="InParanoid" id="Q86UK0"/>
+<dbReference type="KO" id="K05646"/>
+<dbReference type="OMA" id="NYSPPHR"/>
+<dbReference type="OrthoDB" id="EOG091G007E"/>
+<dbReference type="PhylomeDB" id="Q86UK0"/>
+<dbReference type="TreeFam" id="TF105191"/>
+<dbReference type="Reactome" id="R-HSA-1369062">
+<property type="pathway name" value="ABC transporters in lipid homeostasis"/>
+</dbReference>
+<dbReference type="GeneWiki" id="ABCA12"/>
+<dbReference type="GenomeRNAi" id="26154"/>
+<dbReference type="PRO" id="PR:Q86UK0"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 2"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000144452"/>
+<dbReference type="CleanEx" id="HS_ABCA12"/>
+<dbReference type="ExpressionAtlas" id="Q86UK0">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q86UK0">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097209">
+<property type="term" value="C:epidermal lamellar body"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043231">
+<property type="term" value="C:intracellular membrane-bounded organelle"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005743">
+<property type="term" value="C:mitochondrial inner membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034191">
+<property type="term" value="F:apolipoprotein A-I receptor binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042626">
+<property type="term" value="F:ATPase activity, coupled to transmembrane movement of substances"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005319">
+<property type="term" value="F:lipid transporter activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034040">
+<property type="term" value="F:lipid-transporting ATPase activity"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005102">
+<property type="term" value="F:receptor binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019725">
+<property type="term" value="P:cellular homeostasis"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035627">
+<property type="term" value="P:ceramide transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061436">
+<property type="term" value="P:establishment of skin barrier"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031424">
+<property type="term" value="P:keratinization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055088">
+<property type="term" value="P:lipid homeostasis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006869">
+<property type="term" value="P:lipid transport"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048286">
+<property type="term" value="P:lung alveolus development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033700">
+<property type="term" value="P:phospholipid efflux"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010875">
+<property type="term" value="P:positive regulation of cholesterol efflux"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000010">
+<property type="term" value="P:positive regulation of protein localization to cell surface"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072659">
+<property type="term" value="P:protein localization to plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045055">
+<property type="term" value="P:regulated exocytosis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032940">
+<property type="term" value="P:secretion by cell"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043129">
+<property type="term" value="P:surfactant homeostasis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055085">
+<property type="term" value="P:transmembrane transport"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026082">
+<property type="entry name" value="ABC_A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003439">
+<property type="entry name" value="ABC_transporter-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017871">
+<property type="entry name" value="ABC_transporter_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030371">
+<property type="entry name" value="ABCA12"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR19229">
+<property type="entry name" value="PTHR19229"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR19229:SF171">
+<property type="entry name" value="PTHR19229:SF171"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00005">
+<property type="entry name" value="ABC_tran"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00211">
+<property type="entry name" value="ABC_TRANSPORTER_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50893">
+<property type="entry name" value="ABC_TRANSPORTER_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0977">Ichthyosis</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="ATP-binding cassette sub-family A member 12" id="PRO_0000093300">
+<location>
+<begin position="1"/>
+<end position="2595"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="23"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="1065"/>
+<end position="1085"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="1112"/>
+<end position="1132"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="1145"/>
+<end position="1165"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="1174"/>
+<end position="1194"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="1200"/>
+<end position="1220"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="1250"/>
+<end position="1270"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="1747"/>
+<end position="1767"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="1979"/>
+<end position="1999"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="2035"/>
+<end position="2055"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="2072"/>
+<end position="2092"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="2103"/>
+<end position="2123"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="2187"/>
+<end position="2207"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="2270"/>
+<end position="2290"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transporter 1" evidence="3">
+<location>
+<begin position="1346"/>
+<end position="1577"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transporter 2" evidence="3">
+<location>
+<begin position="2254"/>
+<end position="2489"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP 1" evidence="3">
+<location>
+<begin position="1378"/>
+<end position="1385"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP 2" evidence="3">
+<location>
+<begin position="2290"/>
+<end position="2297"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="156"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="174"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="214"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="275"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="333"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="367"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="383"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="412"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="435"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="528"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="543"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="577"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="608"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="623"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="648"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="752"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="826"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="920"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="963"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="1170"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="1524"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="1663"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="1704"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="1769"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="1819"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="1835"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="1876"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="1921"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="1952"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="2178"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="2208"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="2223"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="2318"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="2542"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="2547"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_011283" evidence="16">
+<location>
+<begin position="1"/>
+<end position="318"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_011284" evidence="16">
+<original>LLYTLDSPAQ</original>
+<variation>MFTYIKIITS</variation>
+<location>
+<begin position="319"/>
+<end position="328"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs16853238." id="VAR_055473">
+<original>W</original>
+<variation>C</variation>
+<location>
+<position position="199"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11890512." id="VAR_055474">
+<original>N</original>
+<variation>H</variation>
+<location>
+<position position="237"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11890468." id="VAR_055475">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="274"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11891778." id="VAR_055476">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="287"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ARCI4A; skin phenotype consistent with non-bullous congenital ichthyosiform erythroderma." id="VAR_067075" evidence="9">
+<original>T</original>
+<variation>P</variation>
+<location>
+<position position="345"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ARCI4B; dbSNP:rs746315995." id="VAR_067076" evidence="7">
+<original>S</original>
+<variation>N</variation>
+<location>
+<position position="387"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs7560008." id="VAR_019597">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="459"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a pancreatic ductal adenocarcinoma sample; somatic mutation; dbSNP:rs370640837." id="VAR_062663" evidence="11">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="476"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs16853149." id="VAR_027444">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="550"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs7560008." id="VAR_027445" evidence="4 14 15">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="777"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ARCI4A; skin phenotype consistent with non-bullous congenital ichthyosiform erythroderma." id="VAR_067077" evidence="10">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="1136"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ARCI4B; dbSNP:rs267606622." id="VAR_067078" evidence="8">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="1179"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ARCI4A; skin phenotype consistent with non-bullous congenital ichthyosiform erythroderma." id="VAR_067079" evidence="12">
+<original>W</original>
+<variation>S</variation>
+<location>
+<position position="1235"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs13414448." id="VAR_027446">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="1251"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ARCI4A; dbSNP:rs28940269." id="VAR_019598" evidence="5">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="1380"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ARCI4A; dbSNP:rs28940268." id="VAR_019599" evidence="5">
+<original>G</original>
+<variation>E</variation>
+<location>
+<position position="1381"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ARCI4A; skin phenotype consistent with non-bullous congenital ichthyosiform erythroderma." id="VAR_067080" evidence="9">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="1494"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ARCI4A; dbSNP:rs28940270." id="VAR_019600" evidence="5 12">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="1514"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ARCI4A; dbSNP:rs28940271." id="VAR_019601" evidence="5">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="1539"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs13401480." id="VAR_027447">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="1546"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ARCI4A; skin phenotype consistent with non-bullous congenital ichthyosiform erythroderma." id="VAR_067081" evidence="13">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="1559"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ARCI4A; dbSNP:rs28940568." id="VAR_019602" evidence="5">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="1651"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ARCI4A; skin phenotype consistent with non-bullous congenital ichthyosiform erythroderma; dbSNP:rs181314573." id="VAR_067082" evidence="12">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="1798"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ARCI4A; skin phenotype consistent with non-bullous congenital ichthyosiform erythroderma." id="VAR_067083" evidence="12">
+<original>T</original>
+<variation>K</variation>
+<location>
+<position position="1980"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1213011." id="VAR_027448">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="2064"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs726070." id="VAR_027449" evidence="6">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="2365"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAP21093." ref="1" evidence="17">
+<original>Y</original>
+<variation>D</variation>
+<location>
+<position position="651"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAP21093." ref="1" evidence="17">
+<original>Y</original>
+<variation>H</variation>
+<location>
+<position position="811"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAK54355." ref="2" evidence="17">
+<original>N</original>
+<variation>D</variation>
+<location>
+<position position="826"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAP21093." ref="1" evidence="17">
+<original>Y</original>
+<variation>H</variation>
+<location>
+<position position="2079"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00434"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12697999"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12915478"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15756637"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16675967"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16902423"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17508018"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18284401"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18772397"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19262603"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22257947"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source ref="2"/>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source ref="4"/>
+</evidence>
+<evidence key="16" type="ECO:0000303">
+<source ref="2"/>
+</evidence>
+<evidence key="17" type="ECO:0000305"/>
+<sequence length="2595" mass="293237" checksum="5B71359B642BBAE6" modified="2009-11-24" version="3">
+MASLFHQLQILVWKNWLGVKRQPLWTLVLILWPVIIFIILAITRTKFPPTAKPTCYLAPR
+NLPSTGFFPFLQTLLCDTDSKCKDTPYGPQDLLRRKGIDDALFKDSEILRKSSNLDKDSS
+LSFQSTQVPERRHASLATVFPSPSSDLEIPGTYTFNGSQVLARILGLEKLLKQNSTSEDI
+RRELCDSYSGYIVDDAFSWTFLGRNVFNKFCLSNMTLLESSLQELNKQFSQLSSDPNNQK
+IVFQEIVRMLSFFSQVQEQKAVWQLLSSFPNVFQNDTSLSNLFDVLRKANSVLLVVQKVY
+PRFATNEGFRTLQKSVKHLLYTLDSPAQGDSDNITHVWNEDDGQTLSPSSLAAQLLILEN
+FEDALLNISANSPYIPYLACVRNVTDSLARGSPENLRLLQSTIRFKKSFLRNGSYEDYFP
+PVPEVLKSKLSQLRNLTELLCESETFSLIEKSCQLSDMSFGSLCEESEFDLQLLEAAELG
+TEIAASLLYHDNVISKKVRDLLTGDPSKINLNMDQFLEQALQMNYLENITQLIPIIEAML
+HVNNSADASEKPGQLLEMFKNVEELKEDLRRTTGMSNRTIDKLLAIPIPDNRAEIISQVF
+WLHSCDTNITTPKLEDAMKEFCNLSLSERSRQSYLIGLTLLHYLNIYNFTYKVFFPRKDQ
+KPVEKMMELFIRLKEILNQMASGTHPLLDKMRSLKQMHLPRSVPLTQAMYRSNRMNTPQG
+SFSTISQALCSQGITTEYLTAMLPSSQRPKGNHTKDFLTYKLTKEQIASKYGIPINSTPF
+CFSLYKDIINMPAGPVIWAFLKPMLLGRILYAPYNPVTKAIMEKSNVTLRQLAELREKSQ
+EWMDKSPLFMNSFHLLNQAIPMLQNTLRNPFVQVFVKFSVGLDAVELLKQIDELDILRLK
+LENNIDIIDQLNTLSSLTVNISSCVLYDRIQAAKTIDEMEREAKRLYKSNELFGSVIFKL
+PSNRSWHRGYDSGNVFLPPVIKYTIRMSLKTAQTTRSLRTKIWAPGPHNSPSHNQIYGRA
+FIYLQDSIERAIIELQTGRNSQEIAVQVQAIPYPCFMKDNFLTSVSYSLPIVLMVAWVVF
+IAAFVKKLVYEKDLRLHEYMKMMGVNSCSHFFAWLIESVGFLLVTIVILIIILKFGNILP
+KTNGFILFLYFSDYSFSVIAMSYLISVFFNNTNIAALIGSLIYIIAFFPFIVLVTVENEL
+SYVLKVFMSLLSPTAFSYASQYIARYEEQGIGLQWENMYTSPVQDDTTSFGWLCCLILAD
+SFIYFLIAWYVRNVFPGTYGMAAPWYFPILPSYWKERFGCAEVKPEKSNGLMFTNIMMQN
+TNPSASPEYMFSSNIEPEPKDLTVGVALHGVTKIYGSKVAVDNLNLNFYEGHITSLLGPN
+GAGKTTTISMLTGLFGASAGTIFVYGKDIKTDLHTVRKNMGVCMQHDVLFSYLTTKEHLL
+LYGSIKVPHWTKKQLHEEVKRTLKDTGLYSHRHKRVGTLSGGMKRKLSISIALIGGSRVV
+ILDEPSTGVDPCSRRSIWDVISKNKTARTIILSTHHLDEAEVLSDRIAFLEQGGLRCCGS
+PFYLKEAFGDGYHLTLTKKKSPNLNANAVCDTMAVTAMIQSHLPEAYLKEDIGGELVYVL
+PPFSTKVSGAYLSLLRALDNGMGDLNIGCYGISDTTVEEVFLNLTKESQKNSAMSLEHLT
+QKKIGNSNANGISTPDDLSVSSSNFTDRDDKILTRGERLDGFGLLLKKIMAILIKRFHHT
+RRNWKGLIAQVILPIVFVTTAMGLGTLRNSSNSYPEIQISPSLYGTSEQTAFYANYHPST
+EALVSAMWDFPGIDNMCLNTSDLQCLNKDSLEKWNTSGEPITNFGVCSCSENVQECPKFN
+YSPPHRRTYSSQVIYNLTGQRVENYLISTANEFVQKRYGGWSFGLPLTKDLRFDITGVPA
+NRTLAKVWYDPEGYHSLPAYLNSLNNFLLRVNMSKYDAARHGIIMYSHPYPGVQDQEQAT
+ISSLIDILVALSILMGYSVTTASFVTYVVREHQTKAKQLQHISGIGVTCYWVTNFIYDMV
+FYLVPVAFSIGIIAIFKLPAFYSENNLGAVSLLLLLFGYATFSWMYLLAGLFHETGMAFI
+TYVCVNLFFGINSIVSLSVVYFLSKEKPNDPTLELISETLKRIFLIFPQFCFGYGLIELS
+QQQSVLDFLKAYGVEYPNETFEMNKLGAMFVALVSQGTMFFSLRLLINESLIKKLRLFFR
+KFNSSHVRETIDEDEDVRAERLRVESGAAEFDLVQLYCLTKTYQLIHKKIIAVNNISIGI
+PAGECFGLLGVNGAGKTTIFKMLTGDIIPSSGNILIRNKTGSLGHVDSHSSLVGYCPQED
+ALDDLVTVEEHLYFYARVHGIPEKDIKETVHKLLRRLHLMPFKDRATSMCSYGTKRKLST
+ALALIGKPSILLLDEPSSGMDPKSKRHLWKIISEEVQNKCSVILTSHSMEECEALCTRLA
+IMVNGKFQCIGSLQHIKSRFGRGFTVKVHLKNNKVTMETLTKFMQLHFPKTYLKDQHLSM
+LEYHVPVTAGGVANIFDLLETNKTALNITNFLVSQTTLEEVFINFAKDQKSYETADTSSQ
+GSTISVDSQDDQMES
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2012-07-11" modified="2017-05-10" version="46">
+<accession>I1SRC5</accession>
+<name>I1SRC5_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="7">UBE2L3/KRAS fusion protein</fullName>
+</submittedName>
+</protein>
+<organism evidence="7">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7">
+<citation type="submission" date="2011-02" db="EMBL/GenBank/DDBJ databases">
+<title>Characterization of KRAS Rearrangements in Metastatic Prostate Cancer.</title>
+<authorList>
+<person name="Wang X.-S."/>
+<person name="Shankar S."/>
+<person name="Dhanasekaran S.M."/>
+<person name="Ateeq B."/>
+<person name="Sasaki A.T."/>
+<person name="Jing X."/>
+<person name="Robinson D."/>
+<person name="Cao Q."/>
+<person name="Prensner J.R."/>
+<person name="Yocum A.K."/>
+<person name="Wang R."/>
+<person name="Fries D.F."/>
+<person name="Han B."/>
+<person name="Asangani I.A."/>
+<person name="Cao X."/>
+<person name="Li Y."/>
+<person name="Omenn G.S."/>
+<person name="Pflueger D."/>
+<person name="Gopalan A."/>
+<person name="Reuter V.E."/>
+<person name="Rose Kahoud E."/>
+<person name="Cantley L.C."/>
+<person name="Rubin M.A."/>
+<person name="Palanisamy N."/>
+<person name="Varambally S."/>
+<person name="Chinnaiyan A.M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="7">Prostate cancer</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1 2 4">Belongs to the ubiquitin-conjugating enzyme family.</text>
+</comment>
+<dbReference type="EMBL" id="JF343812">
+<property type="protein sequence ID" value="AEA35014.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_203524.1">
+<property type="nucleotide sequence ID" value="NM_033360.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.505033"/>
+<dbReference type="ProteinModelPortal" id="I1SRC5"/>
+<dbReference type="STRING" id="9606.ENSP00000256078"/>
+<dbReference type="PaxDb" id="I1SRC5"/>
+<dbReference type="PeptideAtlas" id="I1SRC5"/>
+<dbReference type="PRIDE" id="I1SRC5"/>
+<dbReference type="GeneID" id="3845"/>
+<dbReference type="KEGG" id="hsa:3845"/>
+<dbReference type="CTD" id="3845"/>
+<dbReference type="eggNOG" id="KOG0395">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1100">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="KO" id="K07827"/>
+<dbReference type="GenomeRNAi" id="3845"/>
+<dbReference type="Bgee" id="ENSG00000133703"/>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005525">
+<property type="term" value="F:GTP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003924">
+<property type="term" value="F:GTPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007165">
+<property type="term" value="P:signal transduction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd00195">
+<property type="entry name" value="UBCc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.10.110.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005225">
+<property type="entry name" value="Small_GTP-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001806">
+<property type="entry name" value="Small_GTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020849">
+<property type="entry name" value="Small_GTPase_Ras"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000608">
+<property type="entry name" value="UBQ-conjugat_E2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023313">
+<property type="entry name" value="UBQ-conjugating_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016135">
+<property type="entry name" value="UBQ-conjugating_enzyme/RWD"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24070">
+<property type="entry name" value="PTHR24070"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00071">
+<property type="entry name" value="Ras"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00179">
+<property type="entry name" value="UQ_con"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54495">
+<property type="entry name" value="SSF54495"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00231">
+<property type="entry name" value="small_GTP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51421">
+<property type="entry name" value="RAS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00183">
+<property type="entry name" value="UBIQUITIN_CONJUGAT_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50127">
+<property type="entry name" value="UBIQUITIN_CONJUGAT_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0342" evidence="3">GTP-binding</keyword>
+<keyword id="KW-0547" evidence="2 3">Nucleotide-binding</keyword>
+<keyword id="KW-0833" evidence="2 5">Ubl conjugation pathway</keyword>
+<feature type="domain" description="UBIQUITIN_CONJUGAT_2" evidence="6">
+<location>
+<begin position="5"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="active site" description="Glycyl thioester intermediate" evidence="1">
+<location>
+<position position="86"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00388"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU362109"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00426399"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00805669"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00805691"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50127"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AEA35014.1"/>
+</source>
+</evidence>
+<sequence length="296" mass="33983" checksum="564873E7568723AF" modified="2012-07-11" version="1">
+MAASRRLMKELEEIRKCGMKNFRNIQVDEANLLTWQGLIVPDNPPYDKGAFRIEINFPAE
+YPFKPPKITFKTKIYHPNIDEKGQVCLPVISAENWKPATKTDQGLLKMTEYKLVVVGAGG
+VGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMR
+TGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNKCDLPSRTVDTKQAQDL
+ARSYGIPFIETSAKTRQRVEDAFYTLVREIRQYRLKKISKEEKTPGCVKIKKCIIM
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

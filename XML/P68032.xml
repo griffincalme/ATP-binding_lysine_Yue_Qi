@@ -1,0 +1,870 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1987-03-20" modified="2017-05-10" version="134">
+<accession>P68032</accession>
+<accession>P04270</accession>
+<name>ACTC_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Actin, alpha cardiac muscle 1</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Alpha-cardiac actin</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ACTC1</name>
+<name type="synonym">ACTC</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1982" name="Proc. Natl. Acad. Sci. U.S.A." volume="79" first="5901" last="5905">
+<title>Molecular structure and evolutionary origin of human cardiac muscle actin gene.</title>
+<authorList>
+<person name="Hamada H."/>
+<person name="Petrino M.G."/>
+<person name="Kakunaga T."/>
+</authorList>
+<dbReference type="PubMed" id="6310553"/>
+<dbReference type="DOI" id="10.1073/pnas.79.19.5901"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="2004-06" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full open reading frames in Gateway(TM) system entry vector (pDONR201).</title>
+<authorList>
+<person name="Ebert L."/>
+<person name="Schick M."/>
+<person name="Neubert P."/>
+<person name="Schatten R."/>
+<person name="Henze S."/>
+<person name="Korn B."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Muscle</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="18537" last="18542">
+<title>Connecting actin monomers by iso-peptide bond is a toxicity mechanism of the Vibrio cholerae MARTX toxin.</title>
+<authorList>
+<person name="Kudryashov D.S."/>
+<person name="Durer Z.A."/>
+<person name="Ytterberg A.J."/>
+<person name="Sawaya M.R."/>
+<person name="Pashkov I."/>
+<person name="Prochazkova K."/>
+<person name="Yeates T.O."/>
+<person name="Loo R.R."/>
+<person name="Loo J.A."/>
+<person name="Satchell K.J."/>
+<person name="Reisler E."/>
+</authorList>
+<dbReference type="PubMed" id="19015515"/>
+<dbReference type="DOI" id="10.1073/pnas.0808082105"/>
+</citation>
+<scope>CROSS-LINK BY V.CHOLERAE TOXIN RTXA (MICROBIAL INFECTION)</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2013" name="Nat. Commun." volume="4" first="1832" last="1832">
+<title>ALKBH4-dependent demethylation of actin regulates actomyosin dynamics.</title>
+<authorList>
+<person name="Li M.M."/>
+<person name="Nilsen A."/>
+<person name="Shi Y."/>
+<person name="Fusser M."/>
+<person name="Ding Y.H."/>
+<person name="Fu Y."/>
+<person name="Liu B."/>
+<person name="Niu Y."/>
+<person name="Wu Y.S."/>
+<person name="Huang C.M."/>
+<person name="Olofsson M."/>
+<person name="Jin K.X."/>
+<person name="Lv Y."/>
+<person name="Xu X.Z."/>
+<person name="He C."/>
+<person name="Dong M.Q."/>
+<person name="Rendtlew Danielsen J.M."/>
+<person name="Klungland A."/>
+<person name="Yang Y.G."/>
+</authorList>
+<dbReference type="PubMed" id="23673617"/>
+<dbReference type="DOI" id="10.1038/ncomms2863"/>
+</citation>
+<scope>METHYLATION AT LYS-86</scope>
+<scope>DEMETHYLATION BY ALKBH4</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2015" name="Science" volume="349" first="535" last="539">
+<title>ACD toxin-produced actin oligomers poison formin-controlled actin polymerization.</title>
+<authorList>
+<person name="Heisler D.B."/>
+<person name="Kudryashova E."/>
+<person name="Grinevich D.O."/>
+<person name="Suarez C."/>
+<person name="Winkelman J.D."/>
+<person name="Birukov K.G."/>
+<person name="Kotha S.R."/>
+<person name="Parinandi N.L."/>
+<person name="Vavylonis D."/>
+<person name="Kovar D.R."/>
+<person name="Kudryashov D.S."/>
+</authorList>
+<dbReference type="PubMed" id="26228148"/>
+<dbReference type="DOI" id="10.1126/science.aab4090"/>
+</citation>
+<scope>CROSS-LINK BY V.CHOLERAE TOXIN RTXA (MICROBIAL INFECTION)</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1998" name="Science" volume="280" first="750" last="752">
+<title>Actin mutations in dilated cardiomyopathy, a heritable form of heart failure.</title>
+<authorList>
+<person name="Olson T.M."/>
+<person name="Michels V.V."/>
+<person name="Thibodeau S.N."/>
+<person name="Tai Y.-S."/>
+<person name="Keating M.T."/>
+</authorList>
+<dbReference type="PubMed" id="9563954"/>
+<dbReference type="DOI" id="10.1126/science.280.5364.750"/>
+</citation>
+<scope>VARIANTS CMD1R HIS-314 AND GLY-363</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1999" name="J. Clin. Invest." volume="103" first="R39" last="R43">
+<title>Alpha-cardiac actin is a novel disease gene in familial hypertrophic cardiomyopathy.</title>
+<authorList>
+<person name="Mogensen J."/>
+<person name="Klausen I.C."/>
+<person name="Pedersen A.K."/>
+<person name="Egeblad H."/>
+<person name="Bross P."/>
+<person name="Kruse T.A."/>
+<person name="Gregersen N."/>
+<person name="Hansen P.S."/>
+<person name="Baandrup U."/>
+<person name="Boerglum A.D."/>
+</authorList>
+<dbReference type="PubMed" id="10330430"/>
+<dbReference type="DOI" id="10.1172/JCI6460"/>
+</citation>
+<scope>VARIANT CMH11 SER-297</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2000" name="J. Mol. Cell. Cardiol." volume="32" first="1687" last="1694">
+<title>Inherited and de novo mutations in the cardiac actin gene cause hypertrophic cardiomyopathy.</title>
+<authorList>
+<person name="Olson T.M."/>
+<person name="Doan T.P."/>
+<person name="Kishimoto N.Y."/>
+<person name="Whitby F.G."/>
+<person name="Ackerman M.J."/>
+<person name="Fananapazir L."/>
+</authorList>
+<dbReference type="PubMed" id="10966831"/>
+<dbReference type="DOI" id="10.1006/jmcc.2000.1204"/>
+</citation>
+<scope>VARIANTS CMH11 LYS-101; ALA-166 AND PRO-333</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2004" name="J. Med. Genet." volume="41" first="E10" last="E10">
+<title>Clinical and genetic characteristics of alpha cardiac actin gene mutations in hypertrophic cardiomyopathy.</title>
+<authorList>
+<person name="Mogensen J."/>
+<person name="Perrot A."/>
+<person name="Andersen P.S."/>
+<person name="Havndrup O."/>
+<person name="Klausen I.C."/>
+<person name="Christiansen M."/>
+<person name="Bross P."/>
+<person name="Egeblad H."/>
+<person name="Bundgaard H."/>
+<person name="Osterziel K.J."/>
+<person name="Haltern G."/>
+<person name="Lapp H."/>
+<person name="Reinecke P."/>
+<person name="Gregersen N."/>
+<person name="Borglum A.D."/>
+</authorList>
+<dbReference type="PubMed" id="14729850"/>
+<dbReference type="DOI" id="10.1136/jmg.2003.010447"/>
+</citation>
+<scope>VARIANTS CMH11 CYS-168 AND LEU-307</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2008" name="Hum. Mol. Genet." volume="17" first="256" last="265">
+<title>Alpha-cardiac actin mutations produce atrial septal defects.</title>
+<authorList>
+<person name="Matsson H."/>
+<person name="Eason J."/>
+<person name="Bookwalter C.S."/>
+<person name="Klar J."/>
+<person name="Gustavsson P."/>
+<person name="Sunnegardh J."/>
+<person name="Enell H."/>
+<person name="Jonzon A."/>
+<person name="Vikkula M."/>
+<person name="Gutierrez I."/>
+<person name="Granados-Riveron J."/>
+<person name="Pope M."/>
+<person name="Bu'Lock F."/>
+<person name="Cox J."/>
+<person name="Robinson T.E."/>
+<person name="Song F."/>
+<person name="Brook D.J."/>
+<person name="Marston S."/>
+<person name="Trybus K.M."/>
+<person name="Dahl N."/>
+</authorList>
+<dbReference type="PubMed" id="17947298"/>
+<dbReference type="DOI" id="10.1093/hmg/ddm302"/>
+</citation>
+<scope>VARIANT ASD5 VAL-125</scope>
+<scope>CHARACTERIZATION OF VARIANT ASD5 VAL-125</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2008" name="N. Engl. J. Med." volume="358" first="1899" last="1908">
+<title>Shared genetic causes of cardiac hypertrophy in children and adults.</title>
+<authorList>
+<person name="Morita H."/>
+<person name="Rehm H.L."/>
+<person name="Menesses A."/>
+<person name="McDonough B."/>
+<person name="Roberts A.E."/>
+<person name="Kucherlapati R."/>
+<person name="Towbin J.A."/>
+<person name="Seidman J.G."/>
+<person name="Seidman C.E."/>
+</authorList>
+<dbReference type="PubMed" id="18403758"/>
+<dbReference type="DOI" id="10.1056/NEJMoa075463"/>
+</citation>
+<scope>VARIANTS CMH11 TYR-90 AND CYS-97</scope>
+</reference>
+<comment type="function">
+<text>Actins are highly conserved proteins that are involved in various types of cell motility and are ubiquitously expressed in all eukaryotic cells.</text>
+</comment>
+<comment type="subunit">
+<text>Polymerization of globular actin (G-actin) leads to a structural filament (F-actin) in the form of a two-stranded helix. Each actin can bind to 4 others.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Cytoskeleton</location>
+</subcellularLocation>
+</comment>
+<comment type="PTM">
+<text evidence="1">Oxidation of Met-46 and Met-49 by MICALs (MICAL1, MICAL2 or MICAL3) to form methionine sulfoxide promotes actin filament depolymerization. MICAL1 and MICAL2 produce the (R)-S-oxide form. The (R)-S-oxide form is reverted by MSRB1 and MSRB2, which promote actin repolymerization (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="9">Monomethylation at Lys-86 (K84me1) regulates actin-myosin interaction and actomyosin-dependent processes. Demethylation by ALKBH4 is required for maintaining actomyosin dynamics supporting normal cleavage furrow ingression during cytokinesis and cell migration.</text>
+</comment>
+<comment type="PTM">
+<text evidence="12 13">(Microbial infection) Monomeric actin is cross-linked by V.cholerae toxins RtxA and VgrG1 in case of infection: bacterial toxins mediate the cross-link between Lys-52 of one monomer and Glu-272 of another actin monomer, resulting in formation of highly toxic actin oligomers that cause cell rounding (PubMed:19015515). The toxin can be highly efficient at very low concentrations by acting on formin homology family proteins: toxic actin oligomers bind with high affinity to formins and adversely affect both nucleation and elongation abilities of formins, causing their potent inhibition in both profilin-dependent and independent manners (PubMed:26228148).</text>
+</comment>
+<comment type="disease" evidence="10">
+<disease id="DI-00223">
+<name>Cardiomyopathy, dilated 1R</name>
+<acronym>CMD1R</acronym>
+<description>A disorder characterized by ventricular dilation and impaired systolic function, resulting in congestive heart failure and arrhythmia. Patients are at risk of premature death.</description>
+<dbReference type="MIM" id="613424"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="4 5 6 8">
+<disease id="DI-00241">
+<name>Cardiomyopathy, familial hypertrophic 11</name>
+<acronym>CMH11</acronym>
+<description>A hereditary heart disorder characterized by ventricular hypertrophy, which is usually asymmetric and often involves the interventricular septum. The symptoms include dyspnea, syncope, collapse, palpitations, and chest pain. They can be readily provoked by exercise. The disorder has inter- and intrafamilial variability ranging from benign to malignant forms with high risk of cardiac failure and sudden cardiac death.</description>
+<dbReference type="MIM" id="612098"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="7">
+<disease id="DI-02497">
+<name>Atrial septal defect 5</name>
+<acronym>ASD5</acronym>
+<description>A congenital heart malformation characterized by incomplete closure of the wall between the atria resulting in blood flow from the left to the right atria.</description>
+<dbReference type="MIM" id="612794"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="miscellaneous">
+<text>In vertebrates 3 main groups of actin isoforms, alpha, beta and gamma have been identified. The alpha actins are found in muscle tissues and are a major constituent of the contractile apparatus. The beta and gamma actins coexist in most cell types as components of the cytoskeleton and as mediators of internal cell motility.</text>
+</comment>
+<comment type="similarity">
+<text evidence="11">Belongs to the actin family.</text>
+</comment>
+<dbReference type="EMBL" id="J00073">
+<property type="protein sequence ID" value="AAB59619.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="J00070">
+<property type="protein sequence ID" value="AAB59619.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="J00071">
+<property type="protein sequence ID" value="AAB59619.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="J00072">
+<property type="protein sequence ID" value="AAB59619.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CR541795">
+<property type="protein sequence ID" value="CAG46594.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC009978">
+<property type="protein sequence ID" value="AAH09978.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS10041.1"/>
+<dbReference type="PIR" id="A02998">
+<property type="entry name" value="ATHUC"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_005150.1">
+<property type="nucleotide sequence ID" value="NM_005159.4"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.118127"/>
+<dbReference type="ProteinModelPortal" id="P68032"/>
+<dbReference type="SMR" id="P68032"/>
+<dbReference type="BioGrid" id="106585">
+<property type="interactions" value="40"/>
+</dbReference>
+<dbReference type="IntAct" id="P68032">
+<property type="interactions" value="32"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1425728"/>
+<dbReference type="STRING" id="9606.ENSP00000290378"/>
+<dbReference type="iPTMnet" id="P68032"/>
+<dbReference type="PhosphoSitePlus" id="P68032"/>
+<dbReference type="SwissPalm" id="P68032"/>
+<dbReference type="BioMuta" id="ACTC1"/>
+<dbReference type="DMDM" id="54036697"/>
+<dbReference type="REPRODUCTION-2DPAGE" id="P68032"/>
+<dbReference type="EPD" id="P68032"/>
+<dbReference type="MaxQB" id="P68032"/>
+<dbReference type="PaxDb" id="P68032"/>
+<dbReference type="PeptideAtlas" id="P68032"/>
+<dbReference type="PRIDE" id="P68032"/>
+<dbReference type="TopDownProteomics" id="P68032"/>
+<dbReference type="DNASU" id="70"/>
+<dbReference type="Ensembl" id="ENST00000290378">
+<property type="protein sequence ID" value="ENSP00000290378"/>
+<property type="gene ID" value="ENSG00000159251"/>
+</dbReference>
+<dbReference type="GeneID" id="70"/>
+<dbReference type="KEGG" id="hsa:70"/>
+<dbReference type="UCSC" id="uc001ziu.2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="70"/>
+<dbReference type="DisGeNET" id="70"/>
+<dbReference type="GeneCards" id="ACTC1"/>
+<dbReference type="GeneReviews" id="ACTC1"/>
+<dbReference type="HGNC" id="HGNC:143">
+<property type="gene designation" value="ACTC1"/>
+</dbReference>
+<dbReference type="HPA" id="CAB003761"/>
+<dbReference type="HPA" id="CAB037330"/>
+<dbReference type="HPA" id="HPA041264"/>
+<dbReference type="HPA" id="HPA041271"/>
+<dbReference type="MalaCards" id="ACTC1"/>
+<dbReference type="MIM" id="102540">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="612098">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="612794">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="613424">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P68032"/>
+<dbReference type="OpenTargets" id="ENSG00000159251"/>
+<dbReference type="Orphanet" id="99103">
+<property type="disease" value="Atrial septal defect, ostium secundum type"/>
+</dbReference>
+<dbReference type="Orphanet" id="154">
+<property type="disease" value="Familial isolated dilated cardiomyopathy"/>
+</dbReference>
+<dbReference type="Orphanet" id="155">
+<property type="disease" value="Familial isolated hypertrophic cardiomyopathy"/>
+</dbReference>
+<dbReference type="Orphanet" id="54260">
+<property type="disease" value="Left ventricular noncompaction"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA162375571"/>
+<dbReference type="eggNOG" id="KOG0676">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5277">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00760000118957"/>
+<dbReference type="HOGENOM" id="HOG000233340"/>
+<dbReference type="HOVERGEN" id="HBG003771"/>
+<dbReference type="InParanoid" id="P68032"/>
+<dbReference type="KO" id="K12314"/>
+<dbReference type="OMA" id="SCHAGCG"/>
+<dbReference type="OrthoDB" id="EOG091G08LD"/>
+<dbReference type="PhylomeDB" id="P68032"/>
+<dbReference type="TreeFam" id="TF354237"/>
+<dbReference type="Reactome" id="R-HSA-390522">
+<property type="pathway name" value="Striated Muscle Contraction"/>
+</dbReference>
+<dbReference type="SignaLink" id="P68032"/>
+<dbReference type="GeneWiki" id="ACTC1"/>
+<dbReference type="GenomeRNAi" id="70"/>
+<dbReference type="PRO" id="PR:P68032"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 15"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000159251"/>
+<dbReference type="CleanEx" id="HS_ACTC1"/>
+<dbReference type="Genevisible" id="P68032">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005884">
+<property type="term" value="C:actin filament"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042643">
+<property type="term" value="C:actomyosin, actin portion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072562">
+<property type="term" value="C:blood microparticle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044297">
+<property type="term" value="C:cell body"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005615">
+<property type="term" value="C:extracellular space"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030175">
+<property type="term" value="C:filopodium"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005925">
+<property type="term" value="C:focal adhesion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031674">
+<property type="term" value="C:I band"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030027">
+<property type="term" value="C:lamellipodium"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030017">
+<property type="term" value="C:sarcomere"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017022">
+<property type="term" value="F:myosin binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030048">
+<property type="term" value="P:actin filament-based movement"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033275">
+<property type="term" value="P:actin-myosin filament sliding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031032">
+<property type="term" value="P:actomyosin structure organization"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006915">
+<property type="term" value="P:apoptotic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060048">
+<property type="term" value="P:cardiac muscle contraction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055008">
+<property type="term" value="P:cardiac muscle tissue morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055003">
+<property type="term" value="P:cardiac myofibril assembly"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060047">
+<property type="term" value="P:heart contraction"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090131">
+<property type="term" value="P:mesenchyme migration"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030049">
+<property type="term" value="P:muscle filament sliding"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043066">
+<property type="term" value="P:negative regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010628">
+<property type="term" value="P:positive regulation of gene expression"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042493">
+<property type="term" value="P:response to drug"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045471">
+<property type="term" value="P:response to ethanol"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030240">
+<property type="term" value="P:skeletal muscle thin filament assembly"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004000">
+<property type="entry name" value="Actin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020902">
+<property type="entry name" value="Actin/actin-like_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004001">
+<property type="entry name" value="Actin_CS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11937">
+<property type="entry name" value="PTHR11937"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00022">
+<property type="entry name" value="Actin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00190">
+<property type="entry name" value="ACTIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00268">
+<property type="entry name" value="ACTIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00406">
+<property type="entry name" value="ACTINS_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00432">
+<property type="entry name" value="ACTINS_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01132">
+<property type="entry name" value="ACTINS_ACT_LIKE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0976">Atrial septal defect</keyword>
+<keyword id="KW-0122">Cardiomyopathy</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0488">Methylation</keyword>
+<keyword id="KW-0514">Muscle protein</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0558">Oxidation</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="propeptide" description="Removed in mature form" id="PRO_0000000812" evidence="1">
+<location>
+<begin position="1"/>
+<end position="2"/>
+</location>
+</feature>
+<feature type="chain" description="Actin, alpha cardiac muscle 1" id="PRO_0000000813">
+<location>
+<begin position="3"/>
+<end position="377"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylaspartate" evidence="3">
+<location>
+<position position="3"/>
+</location>
+</feature>
+<feature type="modified residue" description="Methionine (R)-sulfoxide" evidence="1">
+<location>
+<position position="46"/>
+</location>
+</feature>
+<feature type="modified residue" description="Methionine (R)-sulfoxide" evidence="1">
+<location>
+<position position="49"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-methyllysine" evidence="9">
+<location>
+<position position="86"/>
+</location>
+</feature>
+<feature type="cross-link" description="Isoglutamyl lysine isopeptide (Lys-Glu) (interchain with E-272); by Vibrio toxins RtxA and VgrG1" evidence="2">
+<location>
+<position position="52"/>
+</location>
+</feature>
+<feature type="cross-link" description="Isoglutamyl lysine isopeptide (Glu-Lys) (interchain with K-52); by Vibrio toxins RtxA and VgrG1" evidence="2">
+<location>
+<position position="272"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMH11; dbSNP:rs121912676." id="VAR_045924" evidence="8">
+<original>H</original>
+<variation>Y</variation>
+<location>
+<position position="90"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMH11; dbSNP:rs759495229." id="VAR_045925" evidence="8">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="97"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMH11; dbSNP:rs193922680." id="VAR_012857" evidence="5">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="101"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ASD5; reduced affinity for myosin; normal actin filament polymerization ability; normal actomyosin motor function; dbSNP:rs121912677." id="VAR_046502" evidence="7">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="125"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMH11; dbSNP:rs267606628." id="VAR_012858" evidence="5">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="166"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMH11." id="VAR_046503" evidence="6">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="168"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMH11; dbSNP:rs121912675." id="VAR_012859" evidence="4">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="297"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMH11." id="VAR_046504" evidence="6">
+<original>M</original>
+<variation>L</variation>
+<location>
+<position position="307"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1R; dbSNP:rs121912673." id="VAR_012860" evidence="10">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="314"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMH11; dbSNP:rs267606629." id="VAR_012861" evidence="5">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="333"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1R; dbSNP:rs121912674." id="VAR_012862" evidence="10">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="363"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P60709"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P68135"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10330430"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10966831"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14729850"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17947298"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18403758"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23673617"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9563954"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<evidence key="12" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="19015515"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="26228148"/>
+</source>
+</evidence>
+<sequence length="377" mass="42019" checksum="E5C10FA19730CAD2" modified="1987-03-20" version="1" precursor="true">
+MCDDEETTALVCDNGSGLVKAGFAGDDAPRAVFPSIVGRPRHQGVMVGMGQKDSYVGDEA
+QSKRGILTLKYPIEHGIITNWDDMEKIWHHTFYNELRVAPEEHPTLLTEAPLNPKANREK
+MTQIMFETFNVPAMYVAIQAVLSLYASGRTTGIVLDSGDGVTHNVPIYEGYALPHAIMRL
+DLAGRDLTDYLMKILTERGYSFVTTAEREIVRDIKEKLCYVALDFENEMATAASSSSLEK
+SYELPDGQVITIGNERFRCPETLFQPSFIGMESAGIHETTYNSIMKCDIDIRKDLYANNV
+LSGGTTMYPGIADRMQKEITALAPSTMKIKIIAPPERKYSVWIGGSILASLSTFQQMWIS
+KQEYDEAGPSIVHRKCF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

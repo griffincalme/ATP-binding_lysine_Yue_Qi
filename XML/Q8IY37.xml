@@ -1,0 +1,436 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2003-11-07" modified="2017-04-12" version="133">
+<accession>Q8IY37</accession>
+<accession>Q9BUI7</accession>
+<accession>Q9P211</accession>
+<name>DHX37_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Probable ATP-dependent RNA helicase DHX37</fullName>
+<ecNumber>3.6.4.13</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>DEAH box protein 37</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">DHX37</name>
+<name type="synonym">DDX37</name>
+<name type="synonym">KIAA1517</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<scope>VARIANTS GLY-869 AND GLN-1081</scope>
+<source>
+<tissue>Brain</tissue>
+<tissue>Duodenum</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2000" name="DNA Res." volume="7" first="143" last="150">
+<title>Prediction of the coding sequences of unidentified human genes. XVII. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro.</title>
+<authorList>
+<person name="Nagase T."/>
+<person name="Kikuno R."/>
+<person name="Ishikawa K."/>
+<person name="Hirosawa M."/>
+<person name="Ohara O."/>
+</authorList>
+<dbReference type="PubMed" id="10819331"/>
+<dbReference type="DOI" id="10.1093/dnares/7.2.143"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 178-1157</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="catalytic activity">
+<text>ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the DEAD box helicase family. DEAH subfamily.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.13"/>
+<dbReference type="EMBL" id="BC002575">
+<property type="protein sequence ID" value="AAH02575.2"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC037964">
+<property type="protein sequence ID" value="AAH37964.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB040950">
+<property type="protein sequence ID" value="BAA96041.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS9261.1"/>
+<dbReference type="RefSeq" id="NP_116045.2">
+<property type="nucleotide sequence ID" value="NM_032656.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.107382"/>
+<dbReference type="ProteinModelPortal" id="Q8IY37"/>
+<dbReference type="SMR" id="Q8IY37"/>
+<dbReference type="BioGrid" id="121684">
+<property type="interactions" value="20"/>
+</dbReference>
+<dbReference type="IntAct" id="Q8IY37">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-3038283"/>
+<dbReference type="STRING" id="9606.ENSP00000311135"/>
+<dbReference type="iPTMnet" id="Q8IY37"/>
+<dbReference type="PhosphoSitePlus" id="Q8IY37"/>
+<dbReference type="BioMuta" id="DHX37"/>
+<dbReference type="DMDM" id="38257651"/>
+<dbReference type="EPD" id="Q8IY37"/>
+<dbReference type="MaxQB" id="Q8IY37"/>
+<dbReference type="PaxDb" id="Q8IY37"/>
+<dbReference type="PeptideAtlas" id="Q8IY37"/>
+<dbReference type="PRIDE" id="Q8IY37"/>
+<dbReference type="Ensembl" id="ENST00000308736">
+<property type="protein sequence ID" value="ENSP00000311135"/>
+<property type="gene ID" value="ENSG00000150990"/>
+</dbReference>
+<dbReference type="GeneID" id="57647"/>
+<dbReference type="KEGG" id="hsa:57647"/>
+<dbReference type="UCSC" id="uc001ugy.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="57647"/>
+<dbReference type="GeneCards" id="DHX37"/>
+<dbReference type="HGNC" id="HGNC:17210">
+<property type="gene designation" value="DHX37"/>
+</dbReference>
+<dbReference type="HPA" id="HPA047607"/>
+<dbReference type="MIM" id="617362">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q8IY37"/>
+<dbReference type="OpenTargets" id="ENSG00000150990"/>
+<dbReference type="PharmGKB" id="PA27224"/>
+<dbReference type="eggNOG" id="KOG0926">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1643">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00550000074985"/>
+<dbReference type="HOGENOM" id="HOG000201240"/>
+<dbReference type="HOVERGEN" id="HBG051356"/>
+<dbReference type="InParanoid" id="Q8IY37"/>
+<dbReference type="KO" id="K14780"/>
+<dbReference type="OMA" id="QAQVFKP"/>
+<dbReference type="OrthoDB" id="EOG091G02IP"/>
+<dbReference type="PhylomeDB" id="Q8IY37"/>
+<dbReference type="TreeFam" id="TF105654"/>
+<dbReference type="Reactome" id="R-HSA-6790901">
+<property type="pathway name" value="rRNA modification in the nucleus and cytosol"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6791226">
+<property type="pathway name" value="Major pathway of rRNA processing in the nucleolus and cytosol"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="57647"/>
+<dbReference type="PRO" id="PR:Q8IY37"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 12"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000150990"/>
+<dbReference type="CleanEx" id="HS_DHX37"/>
+<dbReference type="ExpressionAtlas" id="Q8IY37">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q8IY37">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005730">
+<property type="term" value="C:nucleolus"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004004">
+<property type="term" value="F:ATP-dependent RNA helicase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003676">
+<property type="term" value="F:nucleic acid binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006396">
+<property type="term" value="P:RNA processing"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006364">
+<property type="term" value="P:rRNA processing"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011545">
+<property type="entry name" value="DEAD/DEAH_box_helicase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011709">
+<property type="entry name" value="DUF1605"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007502">
+<property type="entry name" value="Helicase-assoc_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00270">
+<property type="entry name" value="DEAD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04408">
+<property type="entry name" value="HA2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07717">
+<property type="entry name" value="OB_NTP_bind"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00847">
+<property type="entry name" value="HA2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00490">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0347">Helicase</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Probable ATP-dependent RNA helicase DHX37" id="PRO_0000055172">
+<location>
+<begin position="1"/>
+<end position="1157"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase ATP-binding" evidence="1">
+<location>
+<begin position="262"/>
+<end position="429"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase C-terminal" evidence="2">
+<location>
+<begin position="459"/>
+<end position="716"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="275"/>
+<end position="282"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="DEAH box">
+<location>
+<begin position="372"/>
+<end position="375"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11558556." id="VAR_061826">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="96"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11057939." id="VAR_052185">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="458"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35165507." id="VAR_052186">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="508"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35016004." id="VAR_052187">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="717"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4516060." id="VAR_052188" evidence="3">
+<original>S</original>
+<variation>G</variation>
+<location>
+<position position="869"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4447263." id="VAR_052189" evidence="3">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="1081"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAH02575." ref="1" evidence="4">
+<original>E</original>
+<variation>R</variation>
+<location>
+<position position="174"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; BAA96041." ref="2" evidence="4">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="898"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2." ref="2" evidence="4">
+<original>YLLAEYCEWLPQAMHPDIEKAWPPTTVH</original>
+<variation>CEFDQGQGVGVDRMGSLRQGLCALCTVSPGLAEGSGPTAAGQLFAT</variation>
+<location>
+<begin position="1130"/>
+<end position="1157"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00541"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00542"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="1157" mass="129545" checksum="49332175221B30C5" modified="2003-03-01" version="1">
+MGKLRRRYNIKGRQQAGPGPSKGPPEPPPVQLELEDKDTLKGVDASNALVLPGKKKKKTK
+APPLSKKEKKPLTKKEKKVLQKILEQKEKKSQRAEMLQKLSEVQASEAEMRLFYTTSKLG
+TGNRMYHTKEKADEVVAPGQEKISSLSGAHRKRRRWPSAEEEEEEEEESESELEEESELD
+EDPAAEPAEAGVGTTVAPLPPAPAPSSQPVPAGMTVPPPPAAAPPLPRALAKPAVFIPVN
+RSPEMQEERLKLPILSEEQVIMEAVAEHPIVIVCGETGSGKTTQVPQFLYEAGFSSEDSI
+IGVTEPRRVAAVAMSQRVAKEMNLSQRVVSYQIRYEGNVTEETRIKFMTDGVLLKEIQKD
+FLLLRYKVVIIDEAHERSVYTDILIGLLSRIVTLRAKRNLPLKLLIMSATLRVEDFTQNP
+RLFAKPPPVIKVESRQFPVTVHFNKRTPLEDYSGECFRKVCKIHRMLPAGGILVFLTGQA
+EVHALCRRLRKAFPPSRARPQEKDDDQKDSVEEMRKFKKSRARAKKARAEVLPQINLDHY
+SVLPAGEGDEDREAEVDEEEGALDSDLDLDLGDGGQDGGEQPDASLPLHVLPLYSLLAPE
+KQAQVFKPPPEGTRLCVVATNVAETSLTIPGIKYVVDCGKVKKRYYDRVTGVSSFRVTWV
+SQASADQRAGRAGRTEPGHCYRLYSSAVFGDFEQFPPPEITRRPVEDLILQMKALNVEKV
+INFPFPTPPSVEALLAAEELLIALGALQPPQKAERVKQLQENRLSCPITALGRTMATFPV
+APRYAKMLALSRQHGCLPYAITIVASMTVRELFEELDRPAASDEELTRLKSKRARVAQMK
+RTWAGQGASLKLGDLMVLLGAVGACEYASCTPQFCEANGLRYKAMMEIRRLRGQLTTAVN
+AVCPEAELFVDPKMQPPTESQVTYLRQIVTAGLGDHLARRVQSEEMLEDKWRNAYKTPLL
+DDPVFIHPSSVLFKELPEFVVYQEIVETTKMYMKGVSSVEVQWIPALLPSYCQFDKPLEE
+PAPTYCPERGRVLCHRASVFYRVGWPLPAIEVDFPEGIDRYKHFARFLLEGQVFRKLASY
+RSCLLSSPGTMLKTWARLQPRTESLLRALVAEKADCHEALLAAWKKNPKYLLAEYCEWLP
+QAMHPDIEKAWPPTTVH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

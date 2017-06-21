@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2009-03-03" modified="2017-02-15" version="61">
+<accession>B7Z5X7</accession>
+<name>B7Z5X7_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="2">cDNA FLJ50844, highly similar to Tryptophanyl-tRNA synthetase, mitochondrial (EC 6.1.1.2)</fullName>
+</submittedName>
+</protein>
+<organism evidence="2">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project focused on splicing variants.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="2">Brain</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the class-I aminoacyl-tRNA synthetase family.</text>
+</comment>
+<dbReference type="EMBL" id="AK299547">
+<property type="protein sequence ID" value="BAH13063.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.523506"/>
+<dbReference type="ProteinModelPortal" id="B7Z5X7"/>
+<dbReference type="IntAct" id="B7Z5X7">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000235521"/>
+<dbReference type="MaxQB" id="B7Z5X7"/>
+<dbReference type="PaxDb" id="B7Z5X7"/>
+<dbReference type="PeptideAtlas" id="B7Z5X7"/>
+<dbReference type="PRIDE" id="B7Z5X7"/>
+<dbReference type="eggNOG" id="KOG2713">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0180">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG027444"/>
+<dbReference type="ChiTaRS" id="WARS2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="10352"/>
+<dbReference type="Bgee" id="ENSG00000116874"/>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004830">
+<property type="term" value="F:tryptophan-tRNA ligase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006436">
+<property type="term" value="P:tryptophanyl-tRNA aminoacylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd00806">
+<property type="entry name" value="TrpRS_core"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.620">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002305">
+<property type="entry name" value="aa-tRNA-synth_Ic"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014729">
+<property type="entry name" value="Rossmann-like_a/b/a_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002306">
+<property type="entry name" value="Trp-tRNA-ligase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00579">
+<property type="entry name" value="tRNA-synt_1b"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01039">
+<property type="entry name" value="TRNASYNTHTRP"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00233">
+<property type="entry name" value="trpS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0030" evidence="1 2">Aminoacyl-tRNA synthetase</keyword>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0436" evidence="1 2">Ligase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0648" evidence="1">Protein biosynthesis</keyword>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU363036"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAH13063.1"/>
+</source>
+</evidence>
+<sequence length="266" mass="29594" checksum="05723624BFD53234" modified="2009-03-03" version="1">
+MTAVLLACGINPEKSILFQQSQVSEHTQLSWILSCMVRLPRLQHLHQWKAKTTKQKHDGT
+VGLLTYPVLQAADILLYKSTHVPVGEDQVQHMELVQDLAQGFNKKYGEFFPVPESILTSM
+KKVKSLRDPSAKMSKSDPDKLATVRITDSPEEIVQKFRKAVTDFTSEVTYDPAGRAGVSN
+IVAVHAAVTGLSVEEVVRRSAGMNTARYKLAVADAVIEKFAPIKREIEKLKLDKDHLEKV
+LQIGSAKAKELAYTVCQEVKKLVGFL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

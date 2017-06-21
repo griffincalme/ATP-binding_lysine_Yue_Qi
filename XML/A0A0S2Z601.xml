@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2016-02-17" modified="2017-04-12" version="11">
+<accession>A0A0S2Z601</accession>
+<name>A0A0S2Z601_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Uridine kinase</fullName>
+<ecNumber evidence="1">2.7.1.48</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">Uridine-cytidine kinase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="3">UCK1</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="journal article" date="2016" name="Cell" volume="164" first="805" last="817">
+<title>Widespread Expansion of Protein Interaction Capabilities by Alternative Splicing.</title>
+<authorList>
+<person name="Yang X."/>
+<person name="Coulombe-Huntington J."/>
+<person name="Kang S."/>
+<person name="Sheynkman G.M."/>
+<person name="Hao T."/>
+<person name="Richardson A."/>
+<person name="Sun S."/>
+<person name="Yang F."/>
+<person name="Shen Y.A."/>
+<person name="Murray R."/>
+<person name="Spirohn K."/>
+<person name="Begg B.E."/>
+<person name="Duran-Frigola M."/>
+<person name="MacWilliams A."/>
+<person name="Pevzner S.J."/>
+<person name="Zhong Q."/>
+<person name="Trigg S.A."/>
+<person name="Tam S."/>
+<person name="Ghamsari L."/>
+<person name="Sahni N."/>
+<person name="Yi S."/>
+<person name="Rodriguez M.D."/>
+<person name="Balcha D."/>
+<person name="Tan G."/>
+<person name="Costanzo M."/>
+<person name="Andrews B."/>
+<person name="Boone C."/>
+<person name="Zhou X.J."/>
+<person name="Salehi-Ashtiani K."/>
+<person name="Charloteaux B."/>
+<person name="Chen A."/>
+<person name="Calderwood M.A."/>
+<person name="Aloy P."/>
+<person name="Roth F.P."/>
+<person name="Hill D.E."/>
+<person name="Iakoucheva L.M."/>
+<person name="Xia Y."/>
+<person name="Vidal M."/>
+</authorList>
+<dbReference type="PubMed" id="26871637"/>
+<dbReference type="DOI" id="10.1016/j.cell.2016.01.029"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="1">ATP + cytidine = ADP + CMP.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1">ATP + uridine = ADP + UMP.</text>
+</comment>
+<comment type="pathway" evidence="1">
+<text>Pyrimidine metabolism; CTP biosynthesis via salvage pathway; CTP from cytidine: step 1/3.</text>
+</comment>
+<comment type="pathway" evidence="1">
+<text>Pyrimidine metabolism; UMP biosynthesis via salvage pathway; UMP from uridine: step 1/1.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the uridine kinase family.</text>
+</comment>
+<dbReference type="EC" id="2.7.1.48" evidence="1"/>
+<dbReference type="EMBL" id="KU178795">
+<property type="protein sequence ID" value="ALQ34253.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.9597"/>
+<dbReference type="PeptideAtlas" id="A0A0S2Z601"/>
+<dbReference type="UniPathway" id="UPA00574">
+<property type="reaction ID" value="UER00637"/>
+</dbReference>
+<dbReference type="UniPathway" id="UPA00579">
+<property type="reaction ID" value="UER00640"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004849">
+<property type="term" value="F:uridine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044211">
+<property type="term" value="P:CTP salvage"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044206">
+<property type="term" value="P:UMP salvage"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006083">
+<property type="entry name" value="PRK/URK"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029920">
+<property type="entry name" value="UCK-1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000764">
+<property type="entry name" value="Uridine_kinase-like"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10285:SF92">
+<property type="entry name" value="PTHR10285:SF92"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00485">
+<property type="entry name" value="PRK"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00988">
+<property type="entry name" value="URIDINKINASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00235">
+<property type="entry name" value="udk"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="1 3">Kinase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0808" evidence="1 3">Transferase</keyword>
+<feature type="domain" description="PRK" evidence="2">
+<location>
+<begin position="25"/>
+<end position="218"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="3">
+<location>
+<position position="233"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU003825"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF00485"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ALQ34253.1"/>
+</source>
+</evidence>
+<sequence length="233" mass="26515" checksum="D379987E494B0E40" modified="2016-02-17" version="1" fragment="single">
+MASAGGEDCESPAPEADRPHQRPFLIGVSGGTASGKSTVCEKIMELLGQNEVEQRQRKVV
+ILSQDRFYKVLTAEQKAKALKGQYNFDHPDAFDNDLMHRTLKNIVEGKTVEVPTYDFVTH
+SRLPETTVVYPADVVLFEGILVFYSQEIRDMFHLRLFVDTDSDVRLSRRVLRDVRRGRDL
+EQILTQYTTFVKPAFEEFCLPTKKYADVIIPRGVDNMVAINLIVQHIQDILNG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

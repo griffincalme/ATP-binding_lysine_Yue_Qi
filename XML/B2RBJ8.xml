@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-07-01" modified="2017-03-15" version="60">
+<accession>B2RBJ8</accession>
+<name>B2RBJ8_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial</fullName>
+<shortName evidence="1">Glu-AdT subunit A</shortName>
+<ecNumber evidence="1">6.3.5.7</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">Glutaminyl-tRNA synthase-like protein 1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">QRSL1</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="submission" date="2008-01" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO functional analysis of protein and research application project.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Iida Y."/>
+<person name="Takayama Y."/>
+<person name="Murakawa K."/>
+<person name="Kanehori K."/>
+<person name="Andoh T."/>
+<person name="Kagawa N."/>
+<person name="Sato R."/>
+<person name="Kawamura Y."/>
+<person name="Tanaka S."/>
+<person name="Kisu Y."/>
+<person name="Sugano S."/>
+<person name="Goshima N."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="3">Trachea</tissue>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">Allows the formation of correctly charged Gln-tRNA(Gln) through the transamidation of misacylated Glu-tRNA(Gln) in the mitochondria. The reaction takes place in the presence of glutamine and ATP through an activated gamma-phospho-Glu-tRNA(Gln).</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1">ATP + L-glutamyl-tRNA(Gln) + L-glutamine = ADP + phosphate + L-glutaminyl-tRNA(Gln) + L-glutamate.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Subunit of the heterotrimeric GatCAB amidotransferase (AdT) complex, composed of A (QRSL1), B (GATB) and C (GATC) subunits.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Mitochondrion</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the amidase family. GatA subfamily.</text>
+</comment>
+<dbReference type="EC" id="6.3.5.7" evidence="1"/>
+<dbReference type="EMBL" id="AK314694">
+<property type="protein sequence ID" value="BAG37245.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.406917"/>
+<dbReference type="STRING" id="9606.ENSP00000358042"/>
+<dbReference type="PaxDb" id="B2RBJ8"/>
+<dbReference type="PeptideAtlas" id="B2RBJ8"/>
+<dbReference type="eggNOG" id="KOG1211">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0154">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG101134"/>
+<dbReference type="ChiTaRS" id="QRSL1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030956">
+<property type="term" value="C:glutamyl-tRNA(Gln) amidotransferase complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004040">
+<property type="term" value="F:amidase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050567">
+<property type="term" value="F:glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070681">
+<property type="term" value="P:glutaminyl-tRNAGln biosynthesis via transamidation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032543">
+<property type="term" value="P:mitochondrial translation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.1300.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00120">
+<property type="entry name" value="GatA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000120">
+<property type="entry name" value="Amidase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023631">
+<property type="entry name" value="Amidase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004412">
+<property type="entry name" value="GatA"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11895">
+<property type="entry name" value="PTHR11895"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11895:SF104">
+<property type="entry name" value="PTHR11895:SF104"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01425">
+<property type="entry name" value="Amidase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF75304">
+<property type="entry name" value="SSF75304"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00132">
+<property type="entry name" value="gatA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0436" evidence="1">Ligase</keyword>
+<keyword id="KW-0496" evidence="1">Mitochondrion</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0648" evidence="1">Protein biosynthesis</keyword>
+<feature type="domain" description="Amidase" evidence="2">
+<location>
+<begin position="26"/>
+<end position="488"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system" evidence="1">
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system" evidence="1">
+<location>
+<position position="171"/>
+</location>
+</feature>
+<feature type="active site" description="Acyl-ester intermediate" evidence="1">
+<location>
+<position position="195"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_03150"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF01425"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG37245.1"/>
+</source>
+</evidence>
+<sequence length="528" mass="57432" checksum="69DD81059AF27C75" modified="2008-07-01" version="1">
+MLGRSLREVSAALKQGQITPTELCQKCLSLIKKTKFLNAYITVSEEVALKQAEESEKRYK
+NGQSLGDLDGIPIAVKDNFSTSGIETTCASNMLKGYIPPYNATVVQKLLDQGALLMGKTN
+LDEFAMGSGSTDGVFGPVKNPWSYSKQYREKRKQNPHSENEDSDWLITGGSSGGSAAAVS
+AFTCYAALGSDTGGSTRNPAAHCGLVGFKPSYGLVSRHGLIPLVNSMDVPGILTRCVNDA
+AIVLGALAGPDPRDSTTVHEPISKPFMLPSLADVSKLCIGIPKEYLVPELSSEVQSLWSK
+AADLFESEGAKVIEVSLPHTSYSIVCYHVLCTSEVASNMARFDGLQYGHRCDIDVSTEAM
+YAATRREGFNDVVRGRILSGNFFLLKENYENYFVKAQKVRRLIANDFVNAFNSGVDVLLT
+PTTLSEAVPYLEFIKEDNRTRSAQDDIFTQAVNMAGLPAVSIPVALSNQGLPIGLQFIGR
+AFCDQQLLTVAKWFEKQVQFPVIQLQELMDDCSAVLENEKLASVSLKQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

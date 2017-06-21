@@ -1,0 +1,894 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2004-05-24" modified="2017-05-10" version="153">
+<accession>Q99973</accession>
+<accession>A0AUV9</accession>
+<name>TEP1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Telomerase protein component 1</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Telomerase-associated protein 1</fullName>
+<shortName>Telomerase protein 1</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>p240</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>p80 telomerase homolog</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">TEP1</name>
+<name type="synonym">TLP1</name>
+<name type="synonym">TP1</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Science" volume="275" first="973" last="977">
+<title>A mammalian telomerase-associated protein.</title>
+<authorList>
+<person name="Harrington L."/>
+<person name="McPhail T."/>
+<person name="Mar V."/>
+<person name="Zhou W."/>
+<person name="Oulton R."/>
+<person name="Bass M.B."/>
+<person name="Arruda I."/>
+<person name="Robinson M.O."/>
+</authorList>
+<dbReference type="PubMed" id="9020079"/>
+<dbReference type="DOI" id="10.1126/science.275.5302.973"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>VARIANTS PRO-116; GLY-553; CYS-1055; GLN-1155 AND PRO-1195</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Cerebellum</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2007" name="BMC Genomics" volume="8" first="399" last="399">
+<title>The full-ORF clone resource of the German cDNA consortium.</title>
+<authorList>
+<person name="Bechtel S."/>
+<person name="Rosenfelder H."/>
+<person name="Duda A."/>
+<person name="Schmidt C.P."/>
+<person name="Ernst U."/>
+<person name="Wellenreuther R."/>
+<person name="Mehrle A."/>
+<person name="Schuster C."/>
+<person name="Bahr A."/>
+<person name="Bloecker H."/>
+<person name="Heubner D."/>
+<person name="Hoerlein A."/>
+<person name="Michel G."/>
+<person name="Wedler H."/>
+<person name="Koehrer K."/>
+<person name="Ottenwaelder B."/>
+<person name="Poustka A."/>
+<person name="Wiemann S."/>
+<person name="Schupp I."/>
+</authorList>
+<dbReference type="PubMed" id="17974005"/>
+<dbReference type="DOI" id="10.1186/1471-2164-8-399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 2288-2627 (ISOFORM 2)</scope>
+<source>
+<tissue>Salivary gland</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Genes Dev." volume="11" first="3109" last="3115">
+<title>Human telomerase contains evolutionarily conserved catalytic and structural subunits.</title>
+<authorList>
+<person name="Harrington L."/>
+<person name="Zhou W."/>
+<person name="McPhail T."/>
+<person name="Oulton R."/>
+<person name="Yeung D.S."/>
+<person name="Mar V."/>
+<person name="Bass M.B."/>
+<person name="Robinson M.O."/>
+</authorList>
+<dbReference type="PubMed" id="9389643"/>
+<dbReference type="DOI" id="10.1101/gad.11.23.3109"/>
+</citation>
+<scope>IDENTIFICATION IN THE TELOMERASE RIBONUCLEOPROTEIN COMPLEX</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1999" name="J. Biol. Chem." volume="274" first="32712" last="32717">
+<title>Vaults and telomerase share a common subunit, TEP1.</title>
+<authorList>
+<person name="Kickhoefer V.A."/>
+<person name="Stephen A.G."/>
+<person name="Harrington L."/>
+<person name="Robinson M.O."/>
+<person name="Rome L.H."/>
+</authorList>
+<dbReference type="PubMed" id="10551828"/>
+<dbReference type="DOI" id="10.1074/jbc.274.46.32712"/>
+</citation>
+<scope>IDENTIFICATION IN THE VAULTS RIBONUCLEOPROTEIN PARTICLE</scope>
+<scope>RNA-BINDING</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2000" name="Mol. Biol. Cell" volume="11" first="3329" last="3340">
+<title>Polymerization defects within human telomerase are distinct from telomerase RNA and TEP1 binding.</title>
+<authorList>
+<person name="Beattie T.L."/>
+<person name="Zhou W."/>
+<person name="Robinson M.O."/>
+<person name="Harrington L."/>
+</authorList>
+<dbReference type="PubMed" id="11029039"/>
+<dbReference type="DOI" id="10.1091/mbc.11.10.3329"/>
+</citation>
+<scope>IDENTIFICATION IN THE TELOMERASE RIBONUCLEOPROTEIN COMPLEX</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2009" name="Science" volume="323" first="644" last="648">
+<title>A human telomerase holoenzyme protein required for Cajal body localization and telomere synthesis.</title>
+<authorList>
+<person name="Venteicher A.S."/>
+<person name="Abreu E.B."/>
+<person name="Meng Z."/>
+<person name="McCann K.E."/>
+<person name="Terns R.M."/>
+<person name="Veenstra T.D."/>
+<person name="Terns M.P."/>
+<person name="Artandi S.E."/>
+</authorList>
+<dbReference type="PubMed" id="19179534"/>
+<dbReference type="DOI" id="10.1126/science.1165357"/>
+</citation>
+<scope>IDENTIFICATION IN THE TELOMERASE HOLOENZYME COMPLEX</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Component of the telomerase ribonucleoprotein complex that is essential for the replication of chromosome termini. Also component of the ribonucleoprotein vaults particle, a multi-subunit structure involved in nucleo-cytoplasmic transport. Responsible for the localizing and stabilizing vault RNA (vRNA) association in the vault ribonucleoprotein particle. Binds to TERC (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Component of the telomerase holoenzyme complex at least composed of TERT, DKC1, WRAP53/TCAB1, NOP10, NHP2, GAR1, TEP1, EST1A, POT1 and a telomerase RNA template component (TERC). Component of the vault ribonucleoprotein particle, at least composed of MVP, PARP4 and one or more vault RNAs (vRNAs). Binds to VAULTRC1, VAULTRC2 and VAULTRC4/hvg4 vRNAs (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="6">Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Chromosome</location>
+<location>Telomere</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q99973-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q99973-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_010359"/>
+<text>May be due to an exon inclusion.</text>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="4">Ubiquitous.</text>
+</comment>
+<dbReference type="EMBL" id="U86136">
+<property type="protein sequence ID" value="AAC51107.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC126107">
+<property type="protein sequence ID" value="AAI26108.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BX640983">
+<property type="protein sequence ID" value="CAE45993.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS9548.1">
+<molecule id="Q99973-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_009041.2">
+<molecule id="Q99973-1"/>
+<property type="nucleotide sequence ID" value="NM_007110.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_005268084.1">
+<molecule id="Q99973-1"/>
+<property type="nucleotide sequence ID" value="XM_005268027.4"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.508835"/>
+<dbReference type="ProteinModelPortal" id="Q99973"/>
+<dbReference type="BioGrid" id="112870">
+<property type="interactions" value="13"/>
+</dbReference>
+<dbReference type="IntAct" id="Q99973">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-112815"/>
+<dbReference type="STRING" id="9606.ENSP00000262715"/>
+<dbReference type="iPTMnet" id="Q99973"/>
+<dbReference type="PhosphoSitePlus" id="Q99973"/>
+<dbReference type="SwissPalm" id="Q99973"/>
+<dbReference type="BioMuta" id="TEP1"/>
+<dbReference type="DMDM" id="215273899"/>
+<dbReference type="EPD" id="Q99973"/>
+<dbReference type="MaxQB" id="Q99973"/>
+<dbReference type="PaxDb" id="Q99973"/>
+<dbReference type="PeptideAtlas" id="Q99973"/>
+<dbReference type="PRIDE" id="Q99973"/>
+<dbReference type="Ensembl" id="ENST00000262715">
+<molecule id="Q99973-1"/>
+<property type="protein sequence ID" value="ENSP00000262715"/>
+<property type="gene ID" value="ENSG00000129566"/>
+</dbReference>
+<dbReference type="GeneID" id="7011"/>
+<dbReference type="KEGG" id="hsa:7011"/>
+<dbReference type="UCSC" id="uc001vxe.4">
+<molecule id="Q99973-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="7011"/>
+<dbReference type="DisGeNET" id="7011"/>
+<dbReference type="GeneCards" id="TEP1"/>
+<dbReference type="H-InvDB" id="HIX0026646"/>
+<dbReference type="HGNC" id="HGNC:11726">
+<property type="gene designation" value="TEP1"/>
+</dbReference>
+<dbReference type="HPA" id="HPA029206"/>
+<dbReference type="MIM" id="601686">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q99973"/>
+<dbReference type="OpenTargets" id="ENSG00000129566"/>
+<dbReference type="PharmGKB" id="PA36443"/>
+<dbReference type="eggNOG" id="KOG3602">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG4155">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XP3K">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00870000136448"/>
+<dbReference type="HOGENOM" id="HOG000154545"/>
+<dbReference type="HOVERGEN" id="HBG059633"/>
+<dbReference type="InParanoid" id="Q99973"/>
+<dbReference type="KO" id="K11127"/>
+<dbReference type="OMA" id="AQLWKTC"/>
+<dbReference type="OrthoDB" id="EOG091G003L"/>
+<dbReference type="PhylomeDB" id="Q99973"/>
+<dbReference type="TreeFam" id="TF328424"/>
+<dbReference type="SignaLink" id="Q99973"/>
+<dbReference type="ChiTaRS" id="TEP1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="TEP1"/>
+<dbReference type="GenomeRNAi" id="7011"/>
+<dbReference type="PRO" id="PR:Q99973"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 14"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000129566"/>
+<dbReference type="CleanEx" id="HS_TEP1"/>
+<dbReference type="ExpressionAtlas" id="Q99973">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q99973">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071013">
+<property type="term" value="C:catalytic step 2 spliceosome"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000781">
+<property type="term" value="C:chromosome, telomeric region"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030529">
+<property type="term" value="C:intracellular ribonucleoprotein complex"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016363">
+<property type="term" value="C:nuclear matrix"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071011">
+<property type="term" value="C:precatalytic spliceosome"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005697">
+<property type="term" value="C:telomerase holoenzyme complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005682">
+<property type="term" value="C:U5 snRNP"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019899">
+<property type="term" value="F:enzyme binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002039">
+<property type="term" value="F:p53 binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003723">
+<property type="term" value="F:RNA binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003720">
+<property type="term" value="F:telomerase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070034">
+<property type="term" value="F:telomerase RNA binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008380">
+<property type="term" value="P:RNA splicing"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000722">
+<property type="term" value="P:telomere maintenance via recombination"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.130.10.10">
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025139">
+<property type="entry name" value="DUF4062"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007111">
+<property type="entry name" value="NACHT_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008850">
+<property type="entry name" value="TEP1_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008858">
+<property type="entry name" value="TROVE_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015943">
+<property type="entry name" value="WD40/YVTN_repeat-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001680">
+<property type="entry name" value="WD40_repeat"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019775">
+<property type="entry name" value="WD40_repeat_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017986">
+<property type="entry name" value="WD40_repeat_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13271">
+<property type="entry name" value="DUF4062"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05386">
+<property type="entry name" value="TEP1_N"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05731">
+<property type="entry name" value="TROVE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00400">
+<property type="entry name" value="WD40"/>
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="SMART" id="SM00320">
+<property type="entry name" value="WD40"/>
+<property type="match status" value="18"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50978">
+<property type="entry name" value="SSF50978"/>
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50837">
+<property type="entry name" value="NACHT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51226">
+<property type="entry name" value="TEP1_N"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50988">
+<property type="entry name" value="TROVE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00678">
+<property type="entry name" value="WD_REPEATS_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50082">
+<property type="entry name" value="WD_REPEATS_2"/>
+<property type="match status" value="7"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50294">
+<property type="entry name" value="WD_REPEATS_REGION"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0158">Chromosome</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0687">Ribonucleoprotein</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0779">Telomere</keyword>
+<keyword id="KW-0853">WD repeat</keyword>
+<feature type="chain" description="Telomerase protein component 1" id="PRO_0000050982">
+<location>
+<begin position="1"/>
+<end position="2627"/>
+</location>
+</feature>
+<feature type="repeat" description="TEP1 N-terminal 1">
+<location>
+<begin position="1"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="repeat" description="TEP1 N-terminal 2">
+<location>
+<begin position="31"/>
+<end position="60"/>
+</location>
+</feature>
+<feature type="repeat" description="TEP1 N-terminal 3">
+<location>
+<begin position="61"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="repeat" description="TEP1 N-terminal 4">
+<location>
+<begin position="91"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="domain" description="TROVE" evidence="3">
+<location>
+<begin position="223"/>
+<end position="676"/>
+</location>
+</feature>
+<feature type="domain" description="NACHT" evidence="2">
+<location>
+<begin position="1162"/>
+<end position="1490"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 1">
+<location>
+<begin position="1411"/>
+<end position="1448"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 2">
+<location>
+<begin position="1674"/>
+<end position="1713"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 3">
+<location>
+<begin position="1716"/>
+<end position="1754"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 4">
+<location>
+<begin position="1757"/>
+<end position="1796"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 5">
+<location>
+<begin position="1798"/>
+<end position="1837"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 6">
+<location>
+<begin position="1840"/>
+<end position="1879"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 7">
+<location>
+<begin position="1882"/>
+<end position="1921"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 8">
+<location>
+<begin position="1925"/>
+<end position="1964"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 9">
+<location>
+<begin position="1967"/>
+<end position="2005"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 10">
+<location>
+<begin position="2008"/>
+<end position="2047"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 11">
+<location>
+<begin position="2059"/>
+<end position="2098"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 12">
+<location>
+<begin position="2105"/>
+<end position="2143"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 13">
+<location>
+<begin position="2146"/>
+<end position="2183"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 14">
+<location>
+<begin position="2185"/>
+<end position="2233"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 15">
+<location>
+<begin position="2236"/>
+<end position="2275"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 16">
+<location>
+<begin position="2278"/>
+<end position="2317"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 17">
+<location>
+<begin position="2319"/>
+<end position="2355"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 18">
+<location>
+<begin position="2368"/>
+<end position="2417"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 19">
+<location>
+<begin position="2459"/>
+<end position="2500"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 20">
+<location>
+<begin position="2553"/>
+<end position="2590"/>
+</location>
+</feature>
+<feature type="repeat" description="WD 21">
+<location>
+<begin position="2592"/>
+<end position="2626"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="1168"/>
+<end position="1175"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_010359" evidence="5">
+<original>ESSFLCASSDGILWNLAKCSPEGEWTTGNMWQ</original>
+<variation>ALMGSYGTWPNAAQKENGPQVTCGR</variation>
+<location>
+<begin position="2475"/>
+<end position="2506"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1760897." id="VAR_018490" evidence="4">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="116"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs10083536." id="VAR_047631">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="137"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1760898." id="VAR_018491">
+<original>N</original>
+<variation>K</variation>
+<location>
+<position position="307"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2228035." id="VAR_047632">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="368"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs17111188." id="VAR_047633">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="434"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4982051." id="VAR_047634">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="510"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2228040." id="VAR_047635" evidence="4">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="553"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34179031." id="VAR_047636">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="933"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1760903." id="VAR_018492" evidence="4">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="1055"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2228041." id="VAR_047637" evidence="4">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="1155"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1760904." id="VAR_018493" evidence="4">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="1195"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs12886088." id="VAR_047638">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="1351"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2229100." id="VAR_047639">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="1408"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1713457." id="VAR_018494">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="1447"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1713456." id="VAR_018495">
+<original>C</original>
+<variation>Y</variation>
+<location>
+<position position="1468"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34401320." id="VAR_047640">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="1661"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs8022805." id="VAR_047641">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="1772"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1713449." id="VAR_018496">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="2214"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35929175." id="VAR_047642">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="2310"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs938886." id="VAR_018497">
+<original>I</original>
+<variation>M</variation>
+<location>
+<position position="2486"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2104978." id="VAR_018498">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="2562"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00136"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00343"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9020079"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="17974005"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="2627" mass="290490" checksum="32628238704A8860" modified="2008-11-25" version="2">
+MEKLHGHVSAHPDILSLENRCLAMLPDLQPLEKLHQHVSTHSDILSLKNQCLATLPDLKT
+MEKPHGYVSAHPDILSLENQCLATLSDLKTMEKPHGHVSAHPDILSLENRCLATLSSLKS
+TVSASPLFQSLQISHMTQADLYRVNNSNCLLSEPPSWRAQHFSKGLDLSTCPIALKSISA
+TETAQEATLGRWFDSEEKKGAETQMPSYSLSLGEEEEVEDLAVKLTSGDSESHPEPTDHV
+LQEKKMALLSLLCSTLVSEVNMNNTSDPTLAAIFEICRELALLEPEFILKASLYARQQLN
+VRNVANNILAIAAFLPACRPHLRRYFCAIVQLPSDWIQVAELYQSLAEGDKNKLVPLPAC
+LRTAMTDKFAQFDEYQLAKYNPRKHRAKRHPRRPPRSPGMEPPFSHRCFPRYIGFLREEQ
+RKFEKAGDTVSEKKNPPRFTLKKLVQRLHIHKPAQHVQALLGYRYPSNLQLFSRSRLPGP
+WDSSRAGKRMKLSRPETWERELSLRGNKASVWEELIENGKLPFMAMLRNLCNLLRVGISS
+RHHELILQRLQHAKSVIHSRQFPFRFLNAHDAIDALEAQLRNQALPFPSNITLMRRILTR
+NEKNRPRRRFLCHLSRQQLRMAMRIPVLYEQLKREKLRVHKARQWKYDGEMLNRYRQALE
+TAVNLSVKHSLPLLPGRTVLVYLTDANADRLCPKSNPQGPPLNYALLLIGMMITRAEQVD
+VVLCGGDTLKTAVLKAEEGILKTAIKLQAQVQEFDENDGWSLNTFGKYLLSLAGQRVPVD
+RVILLGQSMDDGMINVAKQLYWQRVNSKCLFVGILLRRVQYLSTDLNPNDVTLSGCTDAI
+LKFIAEHGASHLLEHVGQMDKIFKIPPPPGKTGVQSLRPLEEDTPSPLAPVSQQGWRSIR
+LFISSTFRDMHGERDLLLRSVLPALQARAAPHRISLHGIDLRWGVTEEETRRNRQLEVCL
+GEVENAQLFVGILGSRYGYIPPSYNLPDHPHFHWAQQYPSGRSVTEMEVMQFLNRNQRLQ
+PSAQALIYFRDSSFLSSVPDAWKSDFVSESEEAARRISELKSYLSRQKGITCRRYPCEWG
+GVAAGRPYVGGLEEFGQLVLQDVWNMIQKLYLQPGALLEQPVSIPDDDLVQATFQQLQKP
+PSPARPRLLQDTVQRLMLPHGRLSLVTGQSGQGKTAFLASLVSALQAPDGAKVASLVFFH
+FSGARPDQGLALTLLRRLCTYLRGQLKEPGALPSTYRSLVWELQQRLLPKSAESLHPGQT
+QVLIIDGADRLVDQNGQLISDWIPKKLPRCVHLVLSVSSDAGLGETLEQSQGAHVLALGP
+LEASARARLVREELALYGKRLEESPFNNQMRLLLVKRESGRPLYLRLVTDHLRLFTLYEQ
+VSERLRTLPATVPLLLQHILSTLEKEHGPDVLPQALTALEVTRSGLTVDQLHGVLSVWRT
+LPKGTKSWEEAVAAGNSGDPYPMGPFACLVQSLRSLLGEGPLERPGARLCLPDGPLRTAA
+KRCYGKRPGLEDTAHILIAAQLWKTCDADASGTFRSCPPEALGDLPYHLLQSGNRGLLSK
+FLTNLHVVAAHLELGLVSRLLEAHALYASSVPKEEQKLPEADVAVFRTFLRQQASILSQY
+PRLLPQQAANQPLDSPLCHQASLLSRRWHLQHTLRWLNKPRTMKNQQSSSLSLAVSSSPT
+AVAFSTNGQRAAVGTANGTVYLLDLRTWQEEKSVVSGCDGISACLFLSDDTLFLTAFDGL
+LELWDLQHGCRVLQTKAHQYQITGCCLSPDCRLLATVCLGGCLKLWDTVRGQLAFQHTYP
+KSLNCVAFHPEGQVIATGSWAGSISFFQVDGLKVTKDLGAPGASIRTLAFNVPGGVVAVG
+RLDSMVELWAWREGARLAAFPAHHGFVAAALFLHAGCQLLTAGEDGKVQVWSGSLGRPRG
+HLGSLSLSPALSVALSPDGDRVAVGYRADGIRIYKISSGSQGAQGQALDVAVSALAWLSP
+KVLVSGAEDGSLQGWALKECSLQSLWLLSRFQKPVLGLATSQELLASASEDFTVQLWPRQ
+LLTRPHKAEDFPCGTELRGHEGPVSCCSFSTDGGSLATGGRDRSLLCWDVRTPKTPVLIH
+SFPACHRDWVTGCAWTKDNLLISCSSDGSVGLWDPESGQRLGQFLGHQSAVSAVAAVEEH
+VVSVSRDGTLKVWDHQGVELTSIPAHSGPISHCAAAMEPRAAGQPGSELLVVTVGLDGAT
+RLWHPLLVCQTHTLLGHSGPVRAAAVSETSGLMLTASEDGSVRLWQVPKEADDTCIPRSS
+AAVTAVAWAPDGSMAVSGNQAGELILWQEAKAVATAQAPGHIGALIWSSAHTFFVLSADE
+KISEWQVKLRKGSAPGNLSLHLNRILQEDLGVLTSLDWAPDGHFLILAKADLKLLCMKPG
+DAPSEIWSSYTENPMILSTHKEYGIFVLQPKDPGVLSFLRQKESGEFEERLNFDINLENP
+SRTLISITQAKPESESSFLCASSDGILWNLAKCSPEGEWTTGNMWQKKANTPETQTPGTD
+PSTCRESDASMDSDASMDSEPTPHLKTRQRRKIHSGSVTALHVLPELLVTASKDRDVKLW
+ERPSMQLLGLFRCEGSVSCLEPWLGANSTLQLAVGDVQGNVYFLNWE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

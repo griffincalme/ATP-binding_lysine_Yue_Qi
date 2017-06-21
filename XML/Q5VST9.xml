@@ -1,0 +1,4176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2006-05-16" modified="2017-05-10" version="155">
+<accession>Q5VST9</accession>
+<accession>Q2A664</accession>
+<accession>Q5T7G8</accession>
+<accession>Q5T7G9</accession>
+<accession>Q5VSU2</accession>
+<accession>Q86YC7</accession>
+<accession>Q8NHN0</accession>
+<accession>Q8NHN1</accession>
+<accession>Q8NHN2</accession>
+<accession>Q8NHN3</accession>
+<accession>Q8NHN4</accession>
+<accession>Q8NHN5</accession>
+<accession>Q8NHN6</accession>
+<accession>Q8NHN7</accession>
+<accession>Q8NHN8</accession>
+<accession>Q8NHN9</accession>
+<accession>Q96AA2</accession>
+<accession>Q9HCD3</accession>
+<accession>Q9HCL6</accession>
+<name>OBSCN_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Obscurin</fullName>
+<ecNumber evidence="19">2.7.11.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Obscurin-RhoGEF</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Obscurin-myosin light chain kinase</fullName>
+<shortName>Obscurin-MLCK</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">OBSCN</name>
+<name type="synonym">KIAA1556</name>
+<name type="synonym">KIAA1639</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2001" name="J. Cell Biol." volume="154" first="123" last="136">
+<title>Obscurin, a giant sarcomeric Rho guanine nucleotide exchange factor protein involved in sarcomere assembly.</title>
+<authorList>
+<person name="Young P.W."/>
+<person name="Ehler E."/>
+<person name="Gautel M."/>
+</authorList>
+<dbReference type="PubMed" id="11448995"/>
+<dbReference type="DOI" id="10.1083/jcb.200102110"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORM 3)</scope>
+<scope>VARIANTS THR-51; ARG-502; ASP-1508 THR-3300; ARG-4381; ARG-4450 AND HIS-4534</scope>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH TTN AND CALMODULIN</scope>
+<source>
+<tissue>Heart</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Nature" volume="441" first="315" last="321">
+<title>The DNA sequence and biological annotation of human chromosome 1.</title>
+<authorList>
+<person name="Gregory S.G."/>
+<person name="Barlow K.F."/>
+<person name="McLay K.E."/>
+<person name="Kaul R."/>
+<person name="Swarbreck D."/>
+<person name="Dunham A."/>
+<person name="Scott C.E."/>
+<person name="Howe K.L."/>
+<person name="Woodfine K."/>
+<person name="Spencer C.C.A."/>
+<person name="Jones M.C."/>
+<person name="Gillson C."/>
+<person name="Searle S."/>
+<person name="Zhou Y."/>
+<person name="Kokocinski F."/>
+<person name="McDonald L."/>
+<person name="Evans R."/>
+<person name="Phillips K."/>
+<person name="Atkinson A."/>
+<person name="Cooper R."/>
+<person name="Jones C."/>
+<person name="Hall R.E."/>
+<person name="Andrews T.D."/>
+<person name="Lloyd C."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ambrose K.D."/>
+<person name="Anderson F."/>
+<person name="Andrew R.W."/>
+<person name="Ashwell R.I.S."/>
+<person name="Aubin K."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Beasley H."/>
+<person name="Bethel G."/>
+<person name="Bird C.P."/>
+<person name="Bray-Allen S."/>
+<person name="Brown J.Y."/>
+<person name="Brown A.J."/>
+<person name="Buckley D."/>
+<person name="Burton J."/>
+<person name="Bye J."/>
+<person name="Carder C."/>
+<person name="Chapman J.C."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C."/>
+<person name="Cobley V."/>
+<person name="Collier R.E."/>
+<person name="Corby N."/>
+<person name="Coville G.J."/>
+<person name="Davies J."/>
+<person name="Deadman R."/>
+<person name="Dunn M."/>
+<person name="Earthrowl M."/>
+<person name="Ellington A.G."/>
+<person name="Errington H."/>
+<person name="Frankish A."/>
+<person name="Frankland J."/>
+<person name="French L."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Gay L."/>
+<person name="Ghori M.R.J."/>
+<person name="Gibson R."/>
+<person name="Gilby L.M."/>
+<person name="Gillett W."/>
+<person name="Glithero R.J."/>
+<person name="Grafham D.V."/>
+<person name="Griffiths C."/>
+<person name="Griffiths-Jones S."/>
+<person name="Grocock R."/>
+<person name="Hammond S."/>
+<person name="Harrison E.S.I."/>
+<person name="Hart E."/>
+<person name="Haugen E."/>
+<person name="Heath P.D."/>
+<person name="Holmes S."/>
+<person name="Holt K."/>
+<person name="Howden P.J."/>
+<person name="Hunt A.R."/>
+<person name="Hunt S.E."/>
+<person name="Hunter G."/>
+<person name="Isherwood J."/>
+<person name="James R."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Joy A."/>
+<person name="Kay M."/>
+<person name="Kershaw J.K."/>
+<person name="Kibukawa M."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Knights A.J."/>
+<person name="Lad H."/>
+<person name="Laird G."/>
+<person name="Lawlor S."/>
+<person name="Leongamornlert D.A."/>
+<person name="Lloyd D.M."/>
+<person name="Loveland J."/>
+<person name="Lovell J."/>
+<person name="Lush M.J."/>
+<person name="Lyne R."/>
+<person name="Martin S."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="Matthews N.S.W."/>
+<person name="McLaren S."/>
+<person name="Milne S."/>
+<person name="Mistry S."/>
+<person name="Moore M.J.F."/>
+<person name="Nickerson T."/>
+<person name="O'Dell C.N."/>
+<person name="Oliver K."/>
+<person name="Palmeiri A."/>
+<person name="Palmer S.A."/>
+<person name="Parker A."/>
+<person name="Patel D."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Pelan S."/>
+<person name="Phelps K."/>
+<person name="Phillimore B.J."/>
+<person name="Plumb R."/>
+<person name="Rajan J."/>
+<person name="Raymond C."/>
+<person name="Rouse G."/>
+<person name="Saenphimmachak C."/>
+<person name="Sehra H.K."/>
+<person name="Sheridan E."/>
+<person name="Shownkeen R."/>
+<person name="Sims S."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Steward C."/>
+<person name="Subramanian S."/>
+<person name="Sycamore N."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Van Helmond Z."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="White S."/>
+<person name="Whitehead S.L."/>
+<person name="Wilkinson J.E."/>
+<person name="Willey D.L."/>
+<person name="Williams H."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Wu Z."/>
+<person name="Coulson A."/>
+<person name="Vaudin M."/>
+<person name="Sulston J.E."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Wooster R."/>
+<person name="Dunham I."/>
+<person name="Carter N.P."/>
+<person name="McVean G."/>
+<person name="Ross M.T."/>
+<person name="Harrow J."/>
+<person name="Olson M.V."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Bentley D.R."/>
+</authorList>
+<dbReference type="PubMed" id="16710414"/>
+<dbReference type="DOI" id="10.1038/nature04727"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2005" name="J. Muscle Res. Cell Motil." volume="26" first="427" last="434">
+<title>Complete human gene structure of obscurin: implications for isoform generation by differential splicing.</title>
+<authorList>
+<person name="Fukuzawa A."/>
+<person name="Idowu S."/>
+<person name="Gautel M."/>
+</authorList>
+<dbReference type="PubMed" id="16625316"/>
+<dbReference type="DOI" id="10.1007/s10974-005-9025-6"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 2734-4428 (ISOFORM 5)</scope>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 6009-7968 (ISOFORM 1)</scope>
+<source>
+<tissue>Cardiac myocyte</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2000" name="DNA Res." volume="7" first="273" last="281">
+<title>Prediction of the coding sequences of unidentified human genes. XVIII. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro.</title>
+<authorList>
+<person name="Nagase T."/>
+<person name="Kikuno R."/>
+<person name="Nakayama M."/>
+<person name="Hirosawa M."/>
+<person name="Ohara O."/>
+</authorList>
+<dbReference type="PubMed" id="10997877"/>
+<dbReference type="DOI" id="10.1093/dnares/7.4.271"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 5386-7968 (ISOFORM 2)</scope>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 2726-7968 (ISOFORM 4)</scope>
+<scope>VARIANT VAL-7172</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2001" name="Circ. Res." volume="89" first="1065" last="1072">
+<title>The complete gene sequence of titin, expression of an unusual ~700 kDa titin isoform and its interaction with obscurin identify a novel Z-line to I-band linking system.</title>
+<authorList>
+<person name="Bang M.-L."/>
+<person name="Centner T."/>
+<person name="Fornoff F."/>
+<person name="Geach A.J."/>
+<person name="Gotthardt M."/>
+<person name="McNabb M."/>
+<person name="Witt C.C."/>
+<person name="Labeit D."/>
+<person name="Gregorio C.C."/>
+<person name="Granzier H."/>
+<person name="Labeit S."/>
+</authorList>
+<dbReference type="PubMed" id="11717165"/>
+<dbReference type="DOI" id="10.1161/hh2301.100981"/>
+</citation>
+<scope>INTERACTION WITH TTN</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2002" name="Gene" volume="282" first="237" last="246">
+<title>Identification, tissue expression and chromosomal localization of human obscurin-MLCK, a member of the titin and Dbl families of myosin light chain kinases.</title>
+<authorList>
+<person name="Russell M.W."/>
+<person name="Raeker M.O."/>
+<person name="Korytkowski K.A."/>
+<person name="Sonneman K.J."/>
+</authorList>
+<dbReference type="PubMed" id="11814696"/>
+<dbReference type="DOI" id="10.1016/S0378-1119(01)00795-8"/>
+</citation>
+<scope>ALTERNATIVE SPLICING</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="J. Cell Biol." volume="160" first="245" last="253">
+<title>Binding of an ankyrin-1 isoform to obscurin suggests a molecular link between the sarcoplasmic reticulum and myofibrils in striated muscles.</title>
+<authorList>
+<person name="Bagnato P."/>
+<person name="Barone V."/>
+<person name="Giacomello E."/>
+<person name="Rossi D."/>
+<person name="Sorrentino V."/>
+</authorList>
+<dbReference type="PubMed" id="12527750"/>
+<dbReference type="DOI" id="10.1083/jcb.200208109"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH ANK1</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2003" name="Oncogene" volume="22" first="1371" last="1380">
+<title>The parathyroid hormone-responsive B1 gene is interrupted by a t(1;7)(q42;p15) breakpoint associated with Wilms' tumour.</title>
+<authorList>
+<person name="Vernon E.G."/>
+<person name="Malik K."/>
+<person name="Reynolds P."/>
+<person name="Powlesland R."/>
+<person name="Dallosso A.R."/>
+<person name="Jackson S."/>
+<person name="Henthorn K."/>
+<person name="Green E.D."/>
+<person name="Brown K.W."/>
+</authorList>
+<dbReference type="PubMed" id="12618763"/>
+<dbReference type="DOI" id="10.1038/sj.onc.1206332"/>
+</citation>
+<scope>CHROMOSOMAL TRANSLOCATION WITH PTHB1</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2006" name="Histochem. Cell Biol." volume="125" first="227" last="238">
+<title>Essential role of obscurin in cardiac myofibrillogenesis and hypertrophic response: evidence from small interfering RNA-mediated gene silencing.</title>
+<authorList>
+<person name="Borisov A.B."/>
+<person name="Sutter S.B."/>
+<person name="Kontrogianni-Konstantopoulos A."/>
+<person name="Bloch R.J."/>
+<person name="Westfall M.V."/>
+<person name="Russell M.W."/>
+</authorList>
+<dbReference type="PubMed" id="16205939"/>
+<dbReference type="DOI" id="10.1007/s00418-005-0069-x"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-6831 AND SER-7244</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="11">
+<citation type="submission" date="2007-08" db="PDB data bank">
+<title>Solution structure of the Ig domains of human obscurin.</title>
+<authorList>
+<consortium name="RIKEN structural genomics initiative (RSGI)"/>
+</authorList>
+</citation>
+<scope>STRUCTURE BY NMR OF 2826-3806</scope>
+</reference>
+<reference key="12">
+<citation type="submission" date="2005-04" db="PDB data bank">
+<title>Solution structure of the SH3 domain of obscurin.</title>
+<authorList>
+<person name="Pfuhl M."/>
+<person name="Gautel M."/>
+</authorList>
+</citation>
+<scope>STRUCTURE BY NMR OF 5601-5668</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2006" name="Science" volume="314" first="268" last="274">
+<title>The consensus coding sequences of human breast and colorectal cancers.</title>
+<authorList>
+<person name="Sjoeblom T."/>
+<person name="Jones S."/>
+<person name="Wood L.D."/>
+<person name="Parsons D.W."/>
+<person name="Lin J."/>
+<person name="Barber T.D."/>
+<person name="Mandelker D."/>
+<person name="Leary R.J."/>
+<person name="Ptak J."/>
+<person name="Silliman N."/>
+<person name="Szabo S."/>
+<person name="Buckhaults P."/>
+<person name="Farrell C."/>
+<person name="Meeh P."/>
+<person name="Markowitz S.D."/>
+<person name="Willis J."/>
+<person name="Dawson D."/>
+<person name="Willson J.K.V."/>
+<person name="Gazdar A.F."/>
+<person name="Hartigan J."/>
+<person name="Wu L."/>
+<person name="Liu C."/>
+<person name="Parmigiani G."/>
+<person name="Park B.H."/>
+<person name="Bachman K.E."/>
+<person name="Papadopoulos N."/>
+<person name="Vogelstein B."/>
+<person name="Kinzler K.W."/>
+<person name="Velculescu V.E."/>
+</authorList>
+<dbReference type="PubMed" id="16959974"/>
+<dbReference type="DOI" id="10.1126/science.1133427"/>
+</citation>
+<scope>VARIANTS [LARGE SCALE ANALYSIS] VAL-1136; HIS-1792; MET-1930; LYS-2090; PHE-2314; GLN-3983; HIS-4558; GLN-4810 AND THR-5071</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2007" name="Nature" volume="446" first="153" last="158">
+<title>Patterns of somatic mutation in human cancer genomes.</title>
+<authorList>
+<person name="Greenman C."/>
+<person name="Stephens P."/>
+<person name="Smith R."/>
+<person name="Dalgliesh G.L."/>
+<person name="Hunter C."/>
+<person name="Bignell G."/>
+<person name="Davies H."/>
+<person name="Teague J."/>
+<person name="Butler A."/>
+<person name="Stevens C."/>
+<person name="Edkins S."/>
+<person name="O'Meara S."/>
+<person name="Vastrik I."/>
+<person name="Schmidt E.E."/>
+<person name="Avis T."/>
+<person name="Barthorpe S."/>
+<person name="Bhamra G."/>
+<person name="Buck G."/>
+<person name="Choudhury B."/>
+<person name="Clements J."/>
+<person name="Cole J."/>
+<person name="Dicks E."/>
+<person name="Forbes S."/>
+<person name="Gray K."/>
+<person name="Halliday K."/>
+<person name="Harrison R."/>
+<person name="Hills K."/>
+<person name="Hinton J."/>
+<person name="Jenkinson A."/>
+<person name="Jones D."/>
+<person name="Menzies A."/>
+<person name="Mironenko T."/>
+<person name="Perry J."/>
+<person name="Raine K."/>
+<person name="Richardson D."/>
+<person name="Shepherd R."/>
+<person name="Small A."/>
+<person name="Tofts C."/>
+<person name="Varian J."/>
+<person name="Webb T."/>
+<person name="West S."/>
+<person name="Widaa S."/>
+<person name="Yates A."/>
+<person name="Cahill D.P."/>
+<person name="Louis D.N."/>
+<person name="Goldstraw P."/>
+<person name="Nicholson A.G."/>
+<person name="Brasseur F."/>
+<person name="Looijenga L."/>
+<person name="Weber B.L."/>
+<person name="Chiew Y.-E."/>
+<person name="DeFazio A."/>
+<person name="Greaves M.F."/>
+<person name="Green A.R."/>
+<person name="Campbell P."/>
+<person name="Birney E."/>
+<person name="Easton D.F."/>
+<person name="Chenevix-Trench G."/>
+<person name="Tan M.-H."/>
+<person name="Khoo S.K."/>
+<person name="Teh B.T."/>
+<person name="Yuen S.T."/>
+<person name="Leung S.Y."/>
+<person name="Wooster R."/>
+<person name="Futreal P.A."/>
+<person name="Stratton M.R."/>
+</authorList>
+<dbReference type="PubMed" id="17344846"/>
+<dbReference type="DOI" id="10.1038/nature05610"/>
+</citation>
+<scope>VARIANTS [LARGE SCALE ANALYSIS] ARG-502; SER-804; ARG-1027; SER-1086; THR-1090; THR-1091; PRO-1101; ARG-1121; VAL-1133; VAL-1136; GLN-1156; HIS-1248; VAL-1532; MET-1566; THR-1601; VAL-3389; GLU-3426; GLY-3834; SER-4823; GLN-5598 AND GLN-6473</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2014" name="Circ. Cardiovasc. Genet." volume="7" first="741" last="750">
+<title>Novel alpha-actinin 2 variant associated with familial hypertrophic cardiomyopathy and juvenile atrial arrhythmias: a massively parallel sequencing study.</title>
+<authorList>
+<person name="Girolami F."/>
+<person name="Iascone M."/>
+<person name="Tomberli B."/>
+<person name="Bardi S."/>
+<person name="Benelli M."/>
+<person name="Marseglia G."/>
+<person name="Pescucci C."/>
+<person name="Pezzoli L."/>
+<person name="Sana M.E."/>
+<person name="Basso C."/>
+<person name="Marziliano N."/>
+<person name="Merlini P.A."/>
+<person name="Fornaro A."/>
+<person name="Cecchi F."/>
+<person name="Torricelli F."/>
+<person name="Olivotto I."/>
+</authorList>
+<dbReference type="PubMed" id="25173926"/>
+<dbReference type="DOI" id="10.1161/CIRCGENETICS.113.000486"/>
+</citation>
+<scope>VARIANT ARG-4492</scope>
+</reference>
+<comment type="function">
+<text evidence="19 27 31">Structural component of striated muscles which plays a role in myofibrillogenesis. Probably involved in the assembly of myosin into sarcomeric A bands in striated muscle (PubMed:11448995, PubMed:16205939). Has serine/threonine protein kinase activity and phosphorylates N-cadherin CDH2 and sodium/potassium-transporting ATPase subunit ATP1B1 (By similarity).</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="19">ATP + a protein = ADP + a phosphoprotein.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="19">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+</comment>
+<comment type="subunit">
+<text evidence="19 27 28 29">Interacts (via protein kinase domain 2) with CDH2 and (via protein kinase domain 1) with ATP1B1 (By similarity). Isoform 3 interacts with TTN/titin and calmodulin (PubMed:11448995, PubMed:11717165). Isoform 3 interacts with ANK1 isoform Mu17/ank1.5 (PubMed:12527750).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-941921"/>
+<interactant intactId="EBI-941686">
+<id>P16157</id>
+<label>ANK1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-941921"/>
+<interactant intactId="EBI-941819">
+<id>P16157-17</id>
+<label>ANK1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-941850"/>
+<interactant intactId="EBI-681210">
+<id>Q8WZ42</id>
+<label>TTN</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>11</experiments>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform 3</molecule>
+<subcellularLocation>
+<location evidence="29">Cytoplasm</location>
+<location evidence="29">Myofibril</location>
+<location evidence="29">Sarcomere</location>
+<location evidence="29">M line</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="29">Cytoplasm</location>
+<location evidence="29">Myofibril</location>
+<location evidence="29">Sarcomere</location>
+<location evidence="29">Z line</location>
+</subcellularLocation>
+<text>In differentiating skeletal muscle cells, isoform 3 primarily localizes to the sarcomeric M-line and less frequently to the Z-disk (PubMed:12527750). Isoform 3 colocalizes with ANK1 isoform Mu17/ank1.5 at the M-line in differentiated skeletal muscle cells (PubMed:12527750).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="19">Cytoplasm</location>
+<location evidence="19">Myofibril</location>
+<location evidence="19">Sarcomere</location>
+<location evidence="19">M line</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="19">Cytoplasm</location>
+<location evidence="19">Myofibril</location>
+<location evidence="19">Sarcomere</location>
+<location evidence="19">Z line</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="19">Cell membrane</location>
+<location evidence="19">Sarcolemma</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="19">Nucleus</location>
+</subcellularLocation>
+<text evidence="19">Colocalizes with CDH2 and ATP1B1 to the sarcolemma and to intercalating disks in cardiac muscles. Colocalizes with ATP1B1 to M line and Z line in cardiac muscles.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q5VST9-1</id>
+<name>1</name>
+<name>B</name>
+<name>obscurin-MLCK giant kinase</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q5VST9-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_018436"/>
+</isoform>
+<isoform>
+<id>Q5VST9-3</id>
+<name>3</name>
+<name>unc-89-like</name>
+<sequence type="described" ref="VSP_018437 VSP_018438"/>
+<text>Lacks the kinase domain. Initially described as obscurin.</text>
+</isoform>
+<isoform>
+<id>Q5VST9-5</id>
+<name>4</name>
+<sequence type="described" ref="VSP_020086 VSP_020087"/>
+<text evidence="37">No experimental confirmation available. Ref.4 (BAB13382) sequence differs from that shown due to frameshifts in positions 3891, 5061, 5093, 5268, 6352 and 6919.</text>
+</isoform>
+<isoform>
+<id>Q5VST9-6</id>
+<name>5</name>
+<sequence type="described" ref="VSP_026970"/>
+</isoform>
+<text>Additional isoforms seem to exist.</text>
+</comment>
+<comment type="PTM">
+<text evidence="19">Autophosphorylated by protein kinase domains 1 and 2.</text>
+</comment>
+<comment type="disease">
+<text evidence="30">A chromosomal aberration involving OBSCN has been found in Wilms tumor. Translocation t(1;7)(q42;p15) with PTHB1.</text>
+</comment>
+<comment type="similarity">
+<text evidence="37">Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.</text>
+</comment>
+<comment type="caution">
+<text evidence="37">Initially the name obscurin was used to describe isoform 3 which lacks the kinase domains.</text>
+</comment>
+<comment type="sequence caution" evidence="37">
+<conflict type="erroneous gene model prediction">
+<sequence resource="EMBL-CDS" id="CAC85746" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="37">
+<conflict type="erroneous gene model prediction">
+<sequence resource="EMBL-CDS" id="CAC85749" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="37">
+<conflict type="erroneous gene model prediction">
+<sequence resource="EMBL-CDS" id="CAC85750" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="37">
+<conflict type="erroneous gene model prediction">
+<sequence resource="EMBL-CDS" id="CAH71670" version="2"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="37">
+<conflict type="erroneous gene model prediction">
+<sequence resource="EMBL-CDS" id="CAI19283" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="37">
+<conflict type="erroneous gene model prediction">
+<sequence resource="EMBL-CDS" id="CAI19284" version="1"/>
+</conflict>
+</comment>
+<dbReference type="EC" id="2.7.11.1" evidence="19"/>
+<dbReference type="EMBL" id="AJ002535">
+<property type="protein sequence ID" value="CAC44768.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ314896">
+<property type="protein sequence ID" value="CAC85745.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ314898">
+<property type="protein sequence ID" value="CAC85746.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ314900">
+<property type="protein sequence ID" value="CAC85747.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ314901">
+<property type="protein sequence ID" value="CAC85749.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ314903">
+<property type="protein sequence ID" value="CAC85750.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ314904">
+<property type="protein sequence ID" value="CAC85751.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ314905">
+<property type="protein sequence ID" value="CAC85752.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ314906">
+<property type="protein sequence ID" value="CAC85753.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ314907">
+<property type="protein sequence ID" value="CAC85754.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ314908">
+<property type="protein sequence ID" value="CAC85755.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL670729">
+<property type="protein sequence ID" value="CAH71673.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL353593">
+<property type="protein sequence ID" value="CAH71673.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL359510">
+<property type="protein sequence ID" value="CAH71673.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL359510">
+<property type="protein sequence ID" value="CAI15072.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL670729">
+<property type="protein sequence ID" value="CAI15072.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL353593">
+<property type="protein sequence ID" value="CAI15072.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL353593">
+<property type="protein sequence ID" value="CAI19283.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL353593">
+<property type="protein sequence ID" value="CAI19284.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL353593">
+<property type="protein sequence ID" value="CAI19285.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL670729">
+<property type="protein sequence ID" value="CAI19285.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL359510">
+<property type="protein sequence ID" value="CAI19285.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL670729">
+<property type="protein sequence ID" value="CAH71670.2"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AM231061">
+<property type="protein sequence ID" value="CAJ76912.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB046776">
+<property type="protein sequence ID" value="BAB13382.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB046859">
+<property type="protein sequence ID" value="BAB13465.2"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS1570.2">
+<molecule id="Q5VST9-3"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS58065.1">
+<molecule id="Q5VST9-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001092093.2">
+<molecule id="Q5VST9-1"/>
+<property type="nucleotide sequence ID" value="NM_001098623.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_443075.3">
+<molecule id="Q5VST9-3"/>
+<property type="nucleotide sequence ID" value="NM_052843.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.650039"/>
+<dbReference type="UniGene" id="Hs.656999"/>
+<dbReference type="PDB" id="1V1C">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=5601-5668"/>
+</dbReference>
+<dbReference type="PDB" id="2CR6">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=2999-3100"/>
+</dbReference>
+<dbReference type="PDB" id="2DKU">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=2915-3004"/>
+</dbReference>
+<dbReference type="PDB" id="2DM7">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=3551-3631"/>
+</dbReference>
+<dbReference type="PDB" id="2E7B">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=3184-3273"/>
+</dbReference>
+<dbReference type="PDB" id="2EDF">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=2826-2915"/>
+</dbReference>
+<dbReference type="PDB" id="2EDH">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=3614-3713"/>
+</dbReference>
+<dbReference type="PDB" id="2EDL">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=3801-3887"/>
+</dbReference>
+<dbReference type="PDB" id="2EDQ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=3713-3806"/>
+</dbReference>
+<dbReference type="PDB" id="2EDR">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=3361-3449"/>
+</dbReference>
+<dbReference type="PDB" id="2EDT">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=3449-3537"/>
+</dbReference>
+<dbReference type="PDB" id="2EDW">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=3537-3630"/>
+</dbReference>
+<dbReference type="PDB" id="2ENY">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=2735-2825"/>
+</dbReference>
+<dbReference type="PDB" id="2EO1">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1623-1712"/>
+</dbReference>
+<dbReference type="PDB" id="2GQH">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=3450-3543"/>
+</dbReference>
+<dbReference type="PDB" id="2MWC">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=4337-4429"/>
+</dbReference>
+<dbReference type="PDB" id="2N56">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=4430-4524"/>
+</dbReference>
+<dbReference type="PDB" id="2YZ8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=3184-3273"/>
+</dbReference>
+<dbReference type="PDB" id="4C4K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="O=9-103"/>
+</dbReference>
+<dbReference type="PDB" id="4RSV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.41"/>
+<property type="chains" value="A=4337-4429"/>
+</dbReference>
+<dbReference type="PDBsum" id="1V1C"/>
+<dbReference type="PDBsum" id="2CR6"/>
+<dbReference type="PDBsum" id="2DKU"/>
+<dbReference type="PDBsum" id="2DM7"/>
+<dbReference type="PDBsum" id="2E7B"/>
+<dbReference type="PDBsum" id="2EDF"/>
+<dbReference type="PDBsum" id="2EDH"/>
+<dbReference type="PDBsum" id="2EDL"/>
+<dbReference type="PDBsum" id="2EDQ"/>
+<dbReference type="PDBsum" id="2EDR"/>
+<dbReference type="PDBsum" id="2EDT"/>
+<dbReference type="PDBsum" id="2EDW"/>
+<dbReference type="PDBsum" id="2ENY"/>
+<dbReference type="PDBsum" id="2EO1"/>
+<dbReference type="PDBsum" id="2GQH"/>
+<dbReference type="PDBsum" id="2MWC"/>
+<dbReference type="PDBsum" id="2N56"/>
+<dbReference type="PDBsum" id="2YZ8"/>
+<dbReference type="PDBsum" id="4C4K"/>
+<dbReference type="PDBsum" id="4RSV"/>
+<dbReference type="ProteinModelPortal" id="Q5VST9"/>
+<dbReference type="SMR" id="Q5VST9"/>
+<dbReference type="BioGrid" id="123847">
+<property type="interactions" value="22"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-35727N"/>
+<dbReference type="IntAct" id="Q5VST9">
+<property type="interactions" value="24"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-254901"/>
+<dbReference type="iPTMnet" id="Q5VST9"/>
+<dbReference type="PhosphoSitePlus" id="Q5VST9"/>
+<dbReference type="DMDM" id="215274225"/>
+<dbReference type="MaxQB" id="Q5VST9"/>
+<dbReference type="PeptideAtlas" id="Q5VST9"/>
+<dbReference type="PRIDE" id="Q5VST9"/>
+<dbReference type="Ensembl" id="ENST00000284548">
+<molecule id="Q5VST9-3"/>
+<property type="protein sequence ID" value="ENSP00000284548"/>
+<property type="gene ID" value="ENSG00000154358"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000422127">
+<molecule id="Q5VST9-1"/>
+<property type="protein sequence ID" value="ENSP00000409493"/>
+<property type="gene ID" value="ENSG00000154358"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000636875">
+<molecule id="Q5VST9-1"/>
+<property type="protein sequence ID" value="ENSP00000490900"/>
+<property type="gene ID" value="ENSG00000154358"/>
+</dbReference>
+<dbReference type="GeneID" id="84033"/>
+<dbReference type="KEGG" id="hsa:84033"/>
+<dbReference type="UCSC" id="uc001hsn.4">
+<molecule id="Q5VST9-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="84033"/>
+<dbReference type="DisGeNET" id="84033"/>
+<dbReference type="GeneCards" id="OBSCN"/>
+<dbReference type="H-InvDB" id="HIX0001664"/>
+<dbReference type="H-InvDB" id="HIX0159663"/>
+<dbReference type="H-InvDB" id="HIX0159975"/>
+<dbReference type="H-InvDB" id="HIX0160154"/>
+<dbReference type="HGNC" id="HGNC:15719">
+<property type="gene designation" value="OBSCN"/>
+</dbReference>
+<dbReference type="HPA" id="HPA019497"/>
+<dbReference type="HPA" id="HPA021186"/>
+<dbReference type="MIM" id="608616">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q5VST9"/>
+<dbReference type="OpenTargets" id="ENSG00000154358"/>
+<dbReference type="PharmGKB" id="PA31888"/>
+<dbReference type="GeneTree" id="ENSGT00860000133679"/>
+<dbReference type="HOVERGEN" id="HBG108206"/>
+<dbReference type="InParanoid" id="Q5VST9"/>
+<dbReference type="KO" id="K17531"/>
+<dbReference type="PhylomeDB" id="Q5VST9"/>
+<dbReference type="Reactome" id="R-HSA-193648">
+<property type="pathway name" value="NRAGE signals death through JNK"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-194840">
+<property type="pathway name" value="Rho GTPase cycle"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-416482">
+<property type="pathway name" value="G alpha (12/13) signalling events"/>
+</dbReference>
+<dbReference type="SignaLink" id="Q5VST9"/>
+<dbReference type="ChiTaRS" id="OBSCN">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="Q5VST9"/>
+<dbReference type="GeneWiki" id="OBSCN"/>
+<dbReference type="GeneWiki" id="Obscurin"/>
+<dbReference type="GenomeRNAi" id="84033"/>
+<dbReference type="PRO" id="PR:Q5VST9"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000154358"/>
+<dbReference type="ExpressionAtlas" id="Q5VST9">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q5VST9">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031430">
+<property type="term" value="C:M band"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030016">
+<property type="term" value="C:myofibril"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016604">
+<property type="term" value="C:nuclear body"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042383">
+<property type="term" value="C:sarcolemma"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030018">
+<property type="term" value="C:Z disc"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030506">
+<property type="term" value="F:ankyrin binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005516">
+<property type="term" value="F:calmodulin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005085">
+<property type="term" value="F:guanyl-nucleotide exchange factor activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005089">
+<property type="term" value="F:Rho guanyl-nucleotide exchange factor activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008307">
+<property type="term" value="F:structural constituent of muscle"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031432">
+<property type="term" value="F:titin binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007275">
+<property type="term" value="P:multicellular organism development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043065">
+<property type="term" value="P:positive regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036309">
+<property type="term" value="P:protein localization to M-band"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035023">
+<property type="term" value="P:regulation of Rho protein signal transduction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051056">
+<property type="term" value="P:regulation of small GTPase mediated signal transduction"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045214">
+<property type="term" value="P:sarcomere organization"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="CDD" id="cd00063">
+<property type="entry name" value="FN3"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.30.29.30">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.40.10">
+<property type="match status" value="61"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000219">
+<property type="entry name" value="DH-domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003961">
+<property type="entry name" value="FN3_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007110">
+<property type="entry name" value="Ig-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013783">
+<property type="entry name" value="Ig-like_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013098">
+<property type="entry name" value="Ig_I-set"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003599">
+<property type="entry name" value="Ig_sub"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003598">
+<property type="entry name" value="Ig_sub2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013106">
+<property type="entry name" value="Ig_V-set"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000048">
+<property type="entry name" value="IQ_motif_EF-hand-BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011993">
+<property type="entry name" value="PH_dom-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001849">
+<property type="entry name" value="PH_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001452">
+<property type="entry name" value="SH3_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008266">
+<property type="entry name" value="Tyr_kinase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00041">
+<property type="entry name" value="fn3"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07679">
+<property type="entry name" value="I-set"/>
+<property type="match status" value="51"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00612">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00621">
+<property type="entry name" value="RhoGEF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00060">
+<property type="entry name" value="FN3"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="SMART" id="SM00409">
+<property type="entry name" value="IG"/>
+<property type="match status" value="56"/>
+</dbReference>
+<dbReference type="SMART" id="SM00408">
+<property type="entry name" value="IGc2"/>
+<property type="match status" value="49"/>
+</dbReference>
+<dbReference type="SMART" id="SM00406">
+<property type="entry name" value="IGv"/>
+<property type="match status" value="14"/>
+</dbReference>
+<dbReference type="SMART" id="SM00015">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00233">
+<property type="entry name" value="PH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00325">
+<property type="entry name" value="RhoGEF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48065">
+<property type="entry name" value="SSF48065"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48726">
+<property type="entry name" value="SSF48726"/>
+<property type="match status" value="57"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF49265">
+<property type="entry name" value="SSF49265"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50044">
+<property type="entry name" value="SSF50044"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50729">
+<property type="entry name" value="SSF50729"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50010">
+<property type="entry name" value="DH_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50853">
+<property type="entry name" value="FN3"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50835">
+<property type="entry name" value="IG_LIKE"/>
+<property type="match status" value="47"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50096">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50003">
+<property type="entry name" value="PH_DOMAIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00109">
+<property type="entry name" value="PROTEIN_KINASE_TYR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0112">Calmodulin-binding</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0160">Chromosomal rearrangement</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0217">Developmental protein</keyword>
+<keyword id="KW-0221">Differentiation</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0393">Immunoglobulin domain</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0514">Muscle protein</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0723">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0728">SH3 domain</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Obscurin" id="PRO_0000235298">
+<location>
+<begin position="1"/>
+<end position="7968"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 1">
+<location>
+<begin position="10"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 2">
+<location>
+<begin position="110"/>
+<end position="202"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 3">
+<location>
+<begin position="236"/>
+<end position="322"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 4">
+<location>
+<begin position="331"/>
+<end position="414"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 5">
+<location>
+<begin position="420"/>
+<end position="508"/>
+</location>
+</feature>
+<feature type="domain" description="Fibronectin type-III 1" evidence="25">
+<location>
+<begin position="515"/>
+<end position="612"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 6">
+<location>
+<begin position="619"/>
+<end position="698"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 7">
+<location>
+<begin position="701"/>
+<end position="790"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 8">
+<location>
+<begin position="798"/>
+<end position="884"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 9">
+<location>
+<begin position="886"/>
+<end position="977"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 10">
+<location>
+<begin position="978"/>
+<end position="1066"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 11">
+<location>
+<begin position="1070"/>
+<end position="1161"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 12">
+<location>
+<begin position="1162"/>
+<end position="1252"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 13">
+<location>
+<begin position="1254"/>
+<end position="1345"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 14">
+<location>
+<begin position="1346"/>
+<end position="1432"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 15">
+<location>
+<begin position="1438"/>
+<end position="1524"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 16">
+<location>
+<begin position="1530"/>
+<end position="1621"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 17">
+<location>
+<begin position="1622"/>
+<end position="1719"/>
+</location>
+</feature>
+<feature type="domain" description="Fibronectin type-III 2" evidence="25">
+<location>
+<begin position="1731"/>
+<end position="1808"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 18">
+<location>
+<begin position="1809"/>
+<end position="1894"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 19">
+<location>
+<begin position="1896"/>
+<end position="1982"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 20">
+<location>
+<begin position="1987"/>
+<end position="2071"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 21">
+<location>
+<begin position="2077"/>
+<end position="2162"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 22">
+<location>
+<begin position="2165"/>
+<end position="2249"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 23">
+<location>
+<begin position="2289"/>
+<end position="2380"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 24">
+<location>
+<begin position="2468"/>
+<end position="2559"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 25">
+<location>
+<begin position="2564"/>
+<end position="2643"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 26">
+<location>
+<begin position="2646"/>
+<end position="2730"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 27">
+<location>
+<begin position="2736"/>
+<end position="2823"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 28">
+<location>
+<begin position="2826"/>
+<end position="2908"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 29">
+<location>
+<begin position="2920"/>
+<end position="2999"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 30">
+<location>
+<begin position="3003"/>
+<end position="3092"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 31">
+<location>
+<begin position="3095"/>
+<end position="3183"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 32">
+<location>
+<begin position="3184"/>
+<end position="3268"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 33">
+<location>
+<begin position="3273"/>
+<end position="3356"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 34">
+<location>
+<begin position="3359"/>
+<end position="3444"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 35">
+<location>
+<begin position="3449"/>
+<end position="3532"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 36">
+<location>
+<begin position="3537"/>
+<end position="3620"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 37">
+<location>
+<begin position="3625"/>
+<end position="3708"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 38">
+<location>
+<begin position="3713"/>
+<end position="3796"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 39">
+<location>
+<begin position="3801"/>
+<end position="3884"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 40">
+<location>
+<begin position="3890"/>
+<end position="3973"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 41">
+<location>
+<begin position="3978"/>
+<end position="4062"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 42">
+<location>
+<begin position="4068"/>
+<end position="4160"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 43">
+<location>
+<begin position="4171"/>
+<end position="4239"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 44">
+<location>
+<begin position="4248"/>
+<end position="4337"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 45">
+<location>
+<begin position="4340"/>
+<end position="4427"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 46">
+<location>
+<begin position="4430"/>
+<end position="4518"/>
+</location>
+</feature>
+<feature type="domain" description="Fibronectin type-III 3" evidence="25">
+<location>
+<begin position="4525"/>
+<end position="4619"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 47">
+<location>
+<begin position="4624"/>
+<end position="4714"/>
+</location>
+</feature>
+<feature type="domain" description="IQ" evidence="22">
+<location>
+<begin position="4872"/>
+<end position="4901"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 48">
+<location>
+<begin position="4898"/>
+<end position="4989"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 49">
+<location>
+<begin position="5126"/>
+<end position="5215"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 50">
+<location>
+<begin position="5260"/>
+<end position="5349"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 51">
+<location>
+<begin position="5371"/>
+<end position="5467"/>
+</location>
+</feature>
+<feature type="domain" description="SH3">
+<location>
+<begin position="5601"/>
+<end position="5668"/>
+</location>
+</feature>
+<feature type="domain" description="DH" evidence="20">
+<location>
+<begin position="5693"/>
+<end position="5877"/>
+</location>
+</feature>
+<feature type="domain" description="PH" evidence="23">
+<location>
+<begin position="5895"/>
+<end position="6004"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 52">
+<location>
+<begin position="6014"/>
+<end position="6097"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 53">
+<location>
+<begin position="6108"/>
+<end position="6200"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 54">
+<location>
+<begin position="6357"/>
+<end position="6445"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase 1" evidence="24">
+<location>
+<begin position="6468"/>
+<end position="6721"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like 55">
+<location>
+<begin position="7463"/>
+<end position="7552"/>
+</location>
+</feature>
+<feature type="domain" description="Fibronectin type-III 4" evidence="25">
+<location>
+<begin position="7557"/>
+<end position="7649"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase 2" evidence="24">
+<location>
+<begin position="7672"/>
+<end position="7924"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="24">
+<location>
+<begin position="6474"/>
+<end position="6482"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="24">
+<location>
+<begin position="7678"/>
+<end position="7686"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ala">
+<location>
+<begin position="192"/>
+<end position="198"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ala">
+<location>
+<begin position="710"/>
+<end position="713"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ser">
+<location>
+<begin position="931"/>
+<end position="934"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ser">
+<location>
+<begin position="1115"/>
+<end position="1118"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ser">
+<location>
+<begin position="1207"/>
+<end position="1210"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ser">
+<location>
+<begin position="1299"/>
+<end position="1302"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ser">
+<location>
+<begin position="1391"/>
+<end position="1394"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ser">
+<location>
+<begin position="1575"/>
+<end position="1578"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ser">
+<location>
+<begin position="1667"/>
+<end position="1670"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Leu">
+<location>
+<begin position="4398"/>
+<end position="4401"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Gln">
+<location>
+<begin position="4846"/>
+<end position="4849"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ser">
+<location>
+<begin position="6789"/>
+<end position="6796"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Pro-rich">
+<location>
+<begin position="6969"/>
+<end position="7117"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="18">
+<location>
+<position position="6587"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="18">
+<location>
+<position position="7791"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="24">
+<location>
+<position position="6497"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="24">
+<location>
+<position position="7701"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="19">
+<location>
+<position position="395"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="19">
+<location>
+<position position="2889"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="19">
+<location>
+<position position="4015"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="19">
+<location>
+<position position="4750"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="19">
+<location>
+<position position="4754"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="19">
+<location>
+<position position="4757"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="19">
+<location>
+<position position="4788"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="19">
+<location>
+<position position="4805"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="19">
+<location>
+<position position="5563"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="19">
+<location>
+<position position="5569"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="19">
+<location>
+<position position="5571"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="19">
+<location>
+<position position="5573"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="17">
+<location>
+<position position="6831"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="17">
+<location>
+<position position="7244"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="31"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="259"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="354"/>
+<end position="404"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="819"/>
+<end position="870"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="912"/>
+<end position="962"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="1004"/>
+<end position="1054"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="1096"/>
+<end position="1146"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="1188"/>
+<end position="1238"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="1280"/>
+<end position="1330"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="1372"/>
+<end position="1422"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="1464"/>
+<end position="1514"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="1556"/>
+<end position="1606"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="1648"/>
+<end position="1698"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="1723"/>
+<end position="1791"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="1830"/>
+<end position="1880"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="2187"/>
+<end position="2237"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="2311"/>
+<end position="2361"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="2490"/>
+<end position="2540"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="2668"/>
+<end position="2718"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="2848"/>
+<end position="2898"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="2937"/>
+<end position="2987"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="3117"/>
+<end position="3167"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="3206"/>
+<end position="3256"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="3295"/>
+<end position="3344"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="3383"/>
+<end position="3432"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="3471"/>
+<end position="3520"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="3559"/>
+<end position="3608"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="3647"/>
+<end position="3696"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="3735"/>
+<end position="3784"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="3823"/>
+<end position="3872"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="3911"/>
+<end position="3961"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="4000"/>
+<end position="4050"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="4089"/>
+<end position="4141"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="4453"/>
+<end position="4508"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="4919"/>
+<end position="4971"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="5147"/>
+<end position="5199"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="6035"/>
+<end position="6087"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="6129"/>
+<end position="6182"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="7484"/>
+<end position="7536"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 5." id="VSP_026970" evidence="37">
+<original>R</original>
+<variation>RALPARFTQDLKTKEASEGATATLQCELSKVAPVEWKKGPETLRDGGRYSLKQDGTRCELQIHDLSVADAGEYSCMCGQERTSATLTVRALPARFTEGLRNEEAMEGATATLQCELSKAAPVEWRKGLEALRDGDKYSLRQDGAVCELQIHGLAMADNGVYSCVCGQERTSATLTVRALPARFIEDMRNQKATEGATVTLQCKLRKAAPVEWRKGPNTLKDGDRYSLKQDGTSCELQIRGLVIADAGEYSCICEQERTSATLTVRALPARFIEDVRNHEATEGATAVLQCELSKAAPVEWRKGSETLRDGDRYSLRQDGTRCELQIRGLAVEDTGEYLCVCGQERTSATLTVRALPARFIDNMTNQEAREGATATLHCELSKVAPVEWRKGPETLRDGDRHSLRQDGTRCELQIRGLSVADAGEYSCVCGQERTSATLTIREATEGATAMLQCELSKVAPVEWRKGPETLRDGDRYNLRQDGTRCELQIHGLSVADTGEYSCVCGQEKTSATLTVK</variation>
+<location>
+<position position="3886"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_020086" evidence="35">
+<original>PQPVFREPLQSLQAEEGSTATLQCEL</original>
+<variation>LPARIHSRSEDQGGLRRGHSYTAV</variation>
+<location>
+<begin position="3888"/>
+<end position="3913"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_020087" evidence="35">
+<location>
+<begin position="3914"/>
+<end position="7968"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_018436" evidence="35">
+<original>S</original>
+<variation>SS</variation>
+<location>
+<position position="5753"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_018437" evidence="36">
+<original>DTTLERADQEVTSVLKRLLGPKAPGPSTGDLTGPGPCPRGAPALQETGSQPPVTGTSEAPAVPPRVPQPLLHEGPEQEPEAIARAQEWTVPIRMEGAAWPGAGTGELLWDVHSHVVRETTQRTYTYQAIDTHTARPPSMQVTIEDVQAQTGGTAQFEAIIEGDPQPSVTWYKDSVQLVDSTRLSQQQEGTTYSLVLRHVASKDAGVYTCLAQNTGGQVLCKAELLVLGGDNEPDSEKQSHRRKLHSFYEVKEEIGRGVFGFVKRVQHKGNKILCAAKFIPLRSRTRAQAYRERDILAALSHPLVTGLLDQFETRKTLILILELCSSEELLDRLYRKGVVTEAEVKVYIQQLVEGLHYLHSHGVLHLDIKPSNILMVHPAREDIKICDFGFAQNITPAELQ</original>
+<variation>VTEQETKVPKKTVIIEETITTVVKSPRGQRRSPSKSPSRSPSRCSASPLRPGLLAPDLLYLPGAGQPRRPEAEPGQKPVVPTLYVTEAEAHSPALPGLSGPQPKWVEVEETIEVRVKKMGPQGVSPTTEVPRSSSGHLFTLPGATPGGDPNSNNSNNKLLAQEAWAQGTAMVGVREPLVFRVDARGSVDWAASGMGSLEEEGTMEEAGEEEGEDGDAFVTEESQDTHSLGDRDPKILTHNGRMLTLADLEDYVPGEGETFHCGGPGPGAPDDPPCEVSVIQREIGEPTVGQPVLLSVGHALGPRGPLGLFRPEPRGASPPGPQVRSLEGTSFLLREAPARPVGSAPWTQSFCTRIRRSADSGQSSFTTELSTQTVNFGTVGETVTLHICPDRDGDEAAQP</variation>
+<location>
+<begin position="6221"/>
+<end position="6620"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_018438" evidence="36">
+<location>
+<begin position="6621"/>
+<end position="7968"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1771487." id="VAR_026409" evidence="27">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="51"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1771487." id="VAR_034618" evidence="27 33">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="502"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55950009." id="VAR_042276" evidence="33">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="804"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1757153." id="VAR_047743">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="908"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55760713." id="VAR_042277" evidence="33">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="1027"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs117147433." id="VAR_042278" evidence="33">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="1086"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_042279" evidence="33">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="1090"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_042280" evidence="33">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="1091"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_042281" evidence="33">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="1101"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_042282" evidence="33">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="1121"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs777214598." id="VAR_042283" evidence="33">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="1133"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a colorectal cancer sample; somatic mutation." id="VAR_035530" evidence="32 33">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="1136"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_042284" evidence="33">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="1156"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs199523598." id="VAR_042285" evidence="33">
+<original>Q</original>
+<variation>H</variation>
+<location>
+<position position="1248"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs7532342." id="VAR_034619">
+<original>V</original>
+<variation>D</variation>
+<location>
+<position position="1508"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs453140." id="VAR_042286" evidence="33">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="1532"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs56217040." id="VAR_042287" evidence="33">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="1566"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55706639." id="VAR_042288" evidence="33">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="1601"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a colorectal cancer sample; somatic mutation; dbSNP:rs750681123." id="VAR_035531" evidence="32">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="1792"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a colorectal cancer sample; somatic mutation; dbSNP:rs545316651." id="VAR_035532" evidence="32">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="1930"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a colorectal cancer sample; somatic mutation." id="VAR_035533" evidence="32">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="2090"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1188721." id="VAR_047744">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="2106"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1188722." id="VAR_047745">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="2116"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a breast cancer sample; somatic mutation." id="VAR_035534" evidence="32">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="2314"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3795783." id="VAR_047746">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="2529"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1188697." id="VAR_047747">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="2720"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3795785." id="VAR_047748">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="2812"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs437129." id="VAR_034620" evidence="27">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="3300"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3795789." id="VAR_047749">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="3372"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3795790." id="VAR_047750">
+<original>S</original>
+<variation>C</variation>
+<location>
+<position position="3373"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs770177081." id="VAR_042289" evidence="33">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="3389"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_042290" evidence="33">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="3426"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_042291" evidence="33">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="3834"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a colorectal cancer sample; somatic mutation; dbSNP:rs539154039." id="VAR_035535" evidence="32">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="3983"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs435776." id="VAR_047751">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="4039"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1150912." id="VAR_034621" evidence="27">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="4381"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1188732." id="VAR_034622" evidence="27">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="4450"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs369570923." id="VAR_074295" evidence="34">
+<original>L</original>
+<variation>R</variation>
+<location>
+<position position="4492"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11810627." id="VAR_059429">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="4516"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4653942." id="VAR_026410" evidence="27">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="4534"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a colorectal cancer sample; somatic mutation; dbSNP:rs199865640." id="VAR_035536" evidence="32">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="4558"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1188729." id="VAR_056102">
+<original>S</original>
+<variation>C</variation>
+<location>
+<position position="4642"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3795800." id="VAR_056103">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="4662"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3795801." id="VAR_056104">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="4666"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a breast cancer sample; somatic mutation; dbSNP:rs570805670." id="VAR_035537" evidence="32">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="4810"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_042292" evidence="33">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="4823"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs373610." id="VAR_056105">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="4962"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a breast cancer sample; somatic mutation." id="VAR_035538" evidence="32">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="5071"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs369909." id="VAR_056106">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="5269"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3795809." id="VAR_056107">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="5575"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs867550675." id="VAR_042293" evidence="33">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="5598"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1188710." id="VAR_056108">
+<original>Q</original>
+<variation>E</variation>
+<location>
+<position position="5891"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_042294" evidence="33">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="6473"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs500049." id="VAR_056109" evidence="26">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="7172"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="888"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="895"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="897"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>KL</original>
+<variation>EV</variation>
+<location>
+<begin position="899"/>
+<end position="900"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="904"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>A</original>
+<variation>D</variation>
+<location>
+<position position="917"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="919"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>CM</original>
+<variation>HV</variation>
+<location>
+<begin position="937"/>
+<end position="938"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>T</original>
+<variation>V</variation>
+<location>
+<position position="941"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="944"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="952"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="957"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="965"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="969"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="972"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC44768." ref="1" evidence="37">
+<original>S</original>
+<variation>N</variation>
+<location>
+<position position="999"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC44768." ref="1" evidence="37">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="1011"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="1348"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85749." ref="1" evidence="37">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="1355"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="1357"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85749." ref="1" evidence="37">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="1359"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="1360"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746/CAC85749." ref="1" evidence="37">
+<original>I</original>
+<variation>S</variation>
+<location>
+<position position="1367"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85749." ref="1" evidence="37">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="1394"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85749." ref="1" evidence="37">
+<original>RM</original>
+<variation>HV</variation>
+<location>
+<begin position="1397"/>
+<end position="1398"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="1397"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85749." ref="1" evidence="37">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="1401"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>V</original>
+<variation>T</variation>
+<location>
+<position position="1401"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746/CAC85749." ref="1" evidence="37">
+<original>C</original>
+<variation>G</variation>
+<location>
+<position position="1413"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="1417"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85749." ref="1" evidence="37">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="1428"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85746." ref="1" evidence="37">
+<original>S</original>
+<variation>H</variation>
+<location>
+<position position="1432"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85750." ref="1" evidence="37">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="1445"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85750." ref="1" evidence="37">
+<original>Q</original>
+<variation>E</variation>
+<location>
+<position position="1455"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85750." ref="1" evidence="37">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="1458"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85750." ref="1" evidence="37">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="1461"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85749." ref="1" evidence="37">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="1524"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85749." ref="1" evidence="37">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="1526"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85750." ref="1" evidence="37">
+<original>VRM</original>
+<variation>MRV</variation>
+<location>
+<begin position="1580"/>
+<end position="1582"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85750." ref="1" evidence="37">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="1607"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85750." ref="1" evidence="37">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="1610"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85750." ref="1" evidence="37">
+<original>H</original>
+<variation>C</variation>
+<location>
+<position position="1633"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85750." ref="1" evidence="37">
+<original>AQT</original>
+<variation>GQM</variation>
+<location>
+<begin position="1653"/>
+<end position="1655"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85750." ref="1" evidence="37">
+<original>RV</original>
+<variation>HM</variation>
+<location>
+<begin position="1673"/>
+<end position="1674"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85750." ref="1" evidence="37">
+<original>VGC</original>
+<variation>SGY</variation>
+<location>
+<begin position="1677"/>
+<end position="1679"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC44768/CAC85750." ref="1" evidence="37">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="1692"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC44768/CAC85750." ref="1" evidence="37">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="1704"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC44768/CAC85750." ref="1" evidence="37">
+<original>Q</original>
+<variation>H</variation>
+<location>
+<position position="1710"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC44768." ref="1" evidence="37">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="1848"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85750." ref="1" evidence="37">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="2014"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC44768." ref="1" evidence="37">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="3126"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; CAC85752." ref="3" evidence="37">
+<original>T</original>
+<variation>TG</variation>
+<location>
+<position position="4155"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC44768." ref="1" evidence="37">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="4489"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC44768." ref="1" evidence="37">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="4959"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC85753." ref="1" evidence="37">
+<original>S</original>
+<variation>ST</variation>
+<location>
+<position position="5243"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; BAB13465." ref="4" evidence="37">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="5391"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC44768." ref="1" evidence="37">
+<original>LE</original>
+<variation>FQ</variation>
+<location>
+<begin position="5499"/>
+<end position="5500"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC44768." ref="1" evidence="37">
+<original>R</original>
+<variation>L</variation>
+<location>
+<position position="6115"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; CAJ76912." ref="3" evidence="37">
+<original>Q</original>
+<variation>E</variation>
+<location>
+<position position="6570"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; CAJ76912." ref="3" evidence="37">
+<original>PS</original>
+<variation>SG</variation>
+<location>
+<begin position="6710"/>
+<end position="6711"/>
+</location>
+</feature>
+<feature type="strand" evidence="15">
+<location>
+<begin position="9"/>
+<end position="14"/>
+</location>
+</feature>
+<feature type="strand" evidence="15">
+<location>
+<begin position="17"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="strand" evidence="15">
+<location>
+<begin position="27"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="strand" evidence="15">
+<location>
+<begin position="40"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="strand" evidence="15">
+<location>
+<begin position="53"/>
+<end position="61"/>
+</location>
+</feature>
+<feature type="strand" evidence="15">
+<location>
+<begin position="64"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="helix" evidence="15">
+<location>
+<begin position="74"/>
+<end position="76"/>
+</location>
+</feature>
+<feature type="strand" evidence="15">
+<location>
+<begin position="78"/>
+<end position="85"/>
+</location>
+</feature>
+<feature type="strand" evidence="15">
+<location>
+<begin position="87"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="strand" evidence="12">
+<location>
+<begin position="1634"/>
+<end position="1639"/>
+</location>
+</feature>
+<feature type="strand" evidence="12">
+<location>
+<begin position="1644"/>
+<end position="1646"/>
+</location>
+</feature>
+<feature type="strand" evidence="12">
+<location>
+<begin position="1653"/>
+<end position="1655"/>
+</location>
+</feature>
+<feature type="strand" evidence="12">
+<location>
+<begin position="1658"/>
+<end position="1661"/>
+</location>
+</feature>
+<feature type="strand" evidence="12">
+<location>
+<begin position="1670"/>
+<end position="1677"/>
+</location>
+</feature>
+<feature type="strand" evidence="12">
+<location>
+<begin position="1680"/>
+<end position="1685"/>
+</location>
+</feature>
+<feature type="turn" evidence="12">
+<location>
+<begin position="1690"/>
+<end position="1692"/>
+</location>
+</feature>
+<feature type="strand" evidence="12">
+<location>
+<begin position="1696"/>
+<end position="1700"/>
+</location>
+</feature>
+<feature type="strand" evidence="12">
+<location>
+<begin position="1707"/>
+<end position="1712"/>
+</location>
+</feature>
+<feature type="strand" evidence="11">
+<location>
+<begin position="2745"/>
+<end position="2750"/>
+</location>
+</feature>
+<feature type="strand" evidence="11">
+<location>
+<begin position="2753"/>
+<end position="2758"/>
+</location>
+</feature>
+<feature type="strand" evidence="11">
+<location>
+<begin position="2771"/>
+<end position="2776"/>
+</location>
+</feature>
+<feature type="strand" evidence="11">
+<location>
+<begin position="2784"/>
+<end position="2788"/>
+</location>
+</feature>
+<feature type="strand" evidence="11">
+<location>
+<begin position="2791"/>
+<end position="2796"/>
+</location>
+</feature>
+<feature type="turn" evidence="11">
+<location>
+<begin position="2801"/>
+<end position="2803"/>
+</location>
+</feature>
+<feature type="strand" evidence="11">
+<location>
+<begin position="2807"/>
+<end position="2811"/>
+</location>
+</feature>
+<feature type="strand" evidence="11">
+<location>
+<begin position="2814"/>
+<end position="2818"/>
+</location>
+</feature>
+<feature type="strand" evidence="11">
+<location>
+<begin position="2820"/>
+<end position="2823"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2829"/>
+<end position="2831"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2836"/>
+<end position="2838"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2844"/>
+<end position="2846"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2849"/>
+<end position="2854"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2859"/>
+<end position="2863"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2869"/>
+<end position="2877"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2880"/>
+<end position="2887"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="2890"/>
+<end position="2892"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2894"/>
+<end position="2899"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2904"/>
+<end position="2911"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="2925"/>
+<end position="2928"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="2931"/>
+<end position="2938"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="2947"/>
+<end position="2952"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="2957"/>
+<end position="2966"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="2969"/>
+<end position="2976"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="2979"/>
+<end position="2981"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="2983"/>
+<end position="2988"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="2996"/>
+<end position="3001"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="3006"/>
+<end position="3009"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="3013"/>
+<end position="3017"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="3027"/>
+<end position="3030"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="3037"/>
+<end position="3042"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="3048"/>
+<end position="3050"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="3057"/>
+<end position="3059"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="3063"/>
+<end position="3065"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="3070"/>
+<end position="3072"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="3074"/>
+<end position="3080"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="3087"/>
+<end position="3092"/>
+</location>
+</feature>
+<feature type="strand" evidence="14">
+<location>
+<begin position="3187"/>
+<end position="3189"/>
+</location>
+</feature>
+<feature type="strand" evidence="14">
+<location>
+<begin position="3194"/>
+<end position="3197"/>
+</location>
+</feature>
+<feature type="strand" evidence="14">
+<location>
+<begin position="3202"/>
+<end position="3210"/>
+</location>
+</feature>
+<feature type="strand" evidence="14">
+<location>
+<begin position="3216"/>
+<end position="3219"/>
+</location>
+</feature>
+<feature type="strand" evidence="14">
+<location>
+<begin position="3227"/>
+<end position="3235"/>
+</location>
+</feature>
+<feature type="strand" evidence="14">
+<location>
+<begin position="3238"/>
+<end position="3243"/>
+</location>
+</feature>
+<feature type="helix" evidence="14">
+<location>
+<begin position="3248"/>
+<end position="3250"/>
+</location>
+</feature>
+<feature type="strand" evidence="14">
+<location>
+<begin position="3252"/>
+<end position="3258"/>
+</location>
+</feature>
+<feature type="strand" evidence="14">
+<location>
+<begin position="3261"/>
+<end position="3270"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="3371"/>
+<end position="3374"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="3386"/>
+<end position="3388"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="3392"/>
+<end position="3397"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="3402"/>
+<end position="3405"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="3407"/>
+<end position="3410"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="3412"/>
+<end position="3421"/>
+</location>
+</feature>
+<feature type="turn" evidence="9">
+<location>
+<begin position="3424"/>
+<end position="3426"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="3430"/>
+<end position="3433"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="3438"/>
+<end position="3441"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="3443"/>
+<end position="3446"/>
+</location>
+</feature>
+<feature type="strand" evidence="10">
+<location>
+<begin position="3452"/>
+<end position="3454"/>
+</location>
+</feature>
+<feature type="strand" evidence="10">
+<location>
+<begin position="3459"/>
+<end position="3462"/>
+</location>
+</feature>
+<feature type="strand" evidence="10">
+<location>
+<begin position="3467"/>
+<end position="3475"/>
+</location>
+</feature>
+<feature type="strand" evidence="10">
+<location>
+<begin position="3480"/>
+<end position="3483"/>
+</location>
+</feature>
+<feature type="strand" evidence="10">
+<location>
+<begin position="3490"/>
+<end position="3509"/>
+</location>
+</feature>
+<feature type="turn" evidence="10">
+<location>
+<begin position="3512"/>
+<end position="3514"/>
+</location>
+</feature>
+<feature type="strand" evidence="10">
+<location>
+<begin position="3516"/>
+<end position="3522"/>
+</location>
+</feature>
+<feature type="strand" evidence="10">
+<location>
+<begin position="3525"/>
+<end position="3534"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="3555"/>
+<end position="3564"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="3568"/>
+<end position="3575"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="3578"/>
+<end position="3581"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="3583"/>
+<end position="3587"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="3590"/>
+<end position="3597"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="3600"/>
+<end position="3602"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="3604"/>
+<end position="3610"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="3613"/>
+<end position="3618"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="3620"/>
+<end position="3622"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="3628"/>
+<end position="3630"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="3643"/>
+<end position="3651"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="3656"/>
+<end position="3663"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="3667"/>
+<end position="3675"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="3678"/>
+<end position="3683"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="3692"/>
+<end position="3698"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="3701"/>
+<end position="3709"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="3716"/>
+<end position="3718"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="3723"/>
+<end position="3726"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="3731"/>
+<end position="3739"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="3744"/>
+<end position="3751"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="3754"/>
+<end position="3757"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="3759"/>
+<end position="3763"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="3766"/>
+<end position="3773"/>
+</location>
+</feature>
+<feature type="turn" evidence="8">
+<location>
+<begin position="3776"/>
+<end position="3778"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="3780"/>
+<end position="3788"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="3790"/>
+<end position="3798"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="3811"/>
+<end position="3814"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="3820"/>
+<end position="3824"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="3826"/>
+<end position="3828"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="3831"/>
+<end position="3837"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="3842"/>
+<end position="3848"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="3852"/>
+<end position="3861"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="3864"/>
+<end position="3866"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="3870"/>
+<end position="3874"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="3877"/>
+<end position="3880"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="3883"/>
+<end position="3886"/>
+</location>
+</feature>
+<feature type="strand" evidence="16">
+<location>
+<begin position="4342"/>
+<end position="4344"/>
+</location>
+</feature>
+<feature type="strand" evidence="16">
+<location>
+<begin position="4349"/>
+<end position="4351"/>
+</location>
+</feature>
+<feature type="strand" evidence="16">
+<location>
+<begin position="4353"/>
+<end position="4365"/>
+</location>
+</feature>
+<feature type="strand" evidence="16">
+<location>
+<begin position="4369"/>
+<end position="4375"/>
+</location>
+</feature>
+<feature type="strand" evidence="16">
+<location>
+<begin position="4386"/>
+<end position="4391"/>
+</location>
+</feature>
+<feature type="helix" evidence="16">
+<location>
+<begin position="4392"/>
+<end position="4394"/>
+</location>
+</feature>
+<feature type="strand" evidence="16">
+<location>
+<begin position="4396"/>
+<end position="4403"/>
+</location>
+</feature>
+<feature type="helix" evidence="16">
+<location>
+<begin position="4406"/>
+<end position="4408"/>
+</location>
+</feature>
+<feature type="strand" evidence="16">
+<location>
+<begin position="4410"/>
+<end position="4416"/>
+</location>
+</feature>
+<feature type="strand" evidence="16">
+<location>
+<begin position="4419"/>
+<end position="4427"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="4449"/>
+<end position="4454"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="4461"/>
+<end position="4463"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="4465"/>
+<end position="4468"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="4478"/>
+<end position="4485"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="4488"/>
+<end position="4495"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="4502"/>
+<end position="4507"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="4512"/>
+<end position="4518"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="5604"/>
+<end position="5609"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="5628"/>
+<end position="5636"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="5639"/>
+<end position="5644"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="5654"/>
+<end position="5657"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="5659"/>
+<end position="5661"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="5662"/>
+<end position="5665"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1V1C"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2CR6"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2DKU"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2DM7"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2EDF"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2EDH"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2EDL"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2EDQ"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2EDR"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2EDT"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2ENY"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2EO1"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2N56"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2YZ8"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4C4K"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4RSV"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000250"/>
+<evidence key="19" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="A2AAJ9"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00062"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00114"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00116"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00145"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00159"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00316"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10997877"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11448995"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11717165"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12527750"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12618763"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16205939"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16959974"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17344846"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25173926"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="10997877"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="11448995"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000305"/>
+<sequence length="7968" mass="868484" checksum="46550B34565CAC76" modified="2008-11-25" version="3">
+MDQPQFSGAPRFLTRPKAFVVSVGKDATLSCQIVGNPTPQVSWEKDQQPVAAGARFRLAQ
+DGDLYRLTILDLALGDSGQYVCRARNAIGEAFAAVGLQVDAEAACAEQAPHFLLRPTSIR
+VREGSEATFRCRVGGSPRPAVSWSKDGRRLGEPDGPRVRVEELGEASALRIRAARPRDGG
+TYEVRAENPLGAASAAAALVVDSDAADTASRPGTSTAALLAHLQRRREAMRAEGAPASPP
+STGTRTCTVTEGKHARLSCYVTGEPKPETVWKKDGQLVTEGRRHVVYEDAQENFVLKILF
+CKQSDRGLYTCTASNLVGQTYSSVLVVVREPAVPFKKRLQDLEVREKESATFLCEVPQPS
+TEAAWFKEETRLWASAKYGIEEEGTERRLTVRNVSADDDAVYICETPEGSRTVAELAVQG
+NLLRKLPRKTAVRVGDTAMFCVELAVPVGPVHWLRNQEEVVAGGRVAISAEGTRHTLTIS
+QCCLEDVGQVAFMAGDCQTSTQFCVSAPRKPPLQPPVDPVVKARMESSVILSWSPPPHGE
+RPVTIDGYLVEKKKLGTYTWIRCHEAEWVATPELTVADVAEEGNFQFRVSALNSFGQSPY
+LEFPGTVHLAPKLAVRTPLKAVQAVEGGEVTFSVDLTVASAGEWFLDGQALKASSVYEIH
+CDRTRHTLTIREVPASLHGAQLKFVANGIESSIRMEVRAAPGLTANKPPAAAAREVLARL
+HEEAQLLAELSDQAAAVTWLKDGRTLSPGPKYEVQASAGRRVLLVRDVARDDAGLYECVS
+RGGRIAYQLSVQGLARFLHKDMAGSCVDAVAGGPAQFECETSEAHVHVHWYKDGMELGHS
+GERFLQEDVGTRHRLVAATVTRQDEGTYSCRVGEDSVDFRLRVSEPKVVFAKEQLARRKL
+QAEAGASATLSCEVAQAQTEVTWYKDGKKLSSSSKVCMEATGCTRRLVVQQAGQADAGEY
+SCEAGGQRLSFHLDVKEPKVVFAKDQVAHSEVQAEAGASATLSCEVAQAQTEVMWYKDGK
+KLSSSLKVHVEAKGCRRRLVVQQAGKTDAGDYSCEARGQRVSFRLHITEPKMMFAKEQSV
+HNEVQAEAGASAMLSCEVAQAQTEVTWYKDGKKLSSSSKVGMEVKGCTRRLVLPQAGKAD
+AGEYSCEAGGQRVSFHLHITEPKGVFAKEQSVHNEVQAEAGTTAMLSCEVAQPQTEVTWY
+KDGKKLSSSSKVRMEVKGCTRRLVVQQVGKADAGEYSCEAGGQRVSFQLHITEPKAVFAK
+EQLVHNEVRTEAGASATLSCEVAQAQTEVTWYKDGKKLSSSSKVRIEAAGCMRQLVVQQA
+GQADAGEYTCEAGGQRLSFHLDVSEPKAVFAKEQLAHRKVQAEAGAIATLSCEVAQAQTE
+VTWYKDGKKLSSSSKVRMEAVGCTRRLVVQQACQADTGEYSCEAGGQRLSFSLDVAEPKV
+VFAKEQPVHREVQAQAGASTTLSCEVAQAQTEVMWYKDGKKLSFSSKVRMEAVGCTRRLV
+VQQAGQAVAGEYSCEAGSQRLSFHLHVAEPKAVFAKEQPASREVQAEAGTSATLSCEVAQ
+AQTEVTWYKDGKKLSSSSKVRMEAVGCTRRLVVQEAGQADAGEYSCKAGDQRLSFHLHVA
+EPKVVFAKEQPAHREVQAEAGASATLSCEVAQAQTEVTWYKDGKKLSSSSKVRVEAVGCT
+RRLVVQQAGQAEAGEYSCEAGGQQLSFRLQVAELEPQISERPCRREPLVVKEHEDIILTA
+TLATPSAATVTWLKDGVEIRRSKRHETASQGDTHTLTVHGAQVLDSAIYSCRVGAEGQDF
+PVQVEEVAAKFCRLLEPVCGELGGTVTLACELSPACAEVVWRCGNTQLRVGKRFQMVAEG
+PVRSLTVLGLRAEDAGEYVCESRDDHTSAQLTVSVPRVVKFMSGLSTVVAEEGGEATFQC
+VVSPSDVAVVWFRDGALLQPSEKFAISQSGASHSLTISDLVLEDAGQITVEAEGASSSAA
+LRVREAPVLFKKKLEPQTVEERSSVTLEVELTRPWPELRWTRNATALAPGKNVEIHAEGA
+RHRLVLHNVGFADRGFFGCETPDDKTQAKLTVEMRQVRLVRGLQAVEAREQGTATMEVQL
+SHADVDGSWTRDGLRFQQGPTCHLAVRGPMHTLTLSGLRPEDSGLMVFKAEGVHTSARLV
+VTELPVSFSRPLQDVVTTEKEKVTLECELSRPNVDVRWLKDGVELRAGKTMAIAAQGACR
+SLTIYRCEFADQGVYVCDAHDAQSSASVKVQGRTYTLIYRRVLAEDAGEIQFVAENAESR
+AQLRVKELPVTLVRPLRDKIAMEKHRGVLECQVSRASAQVRWFKGSQELQPGPKYELVSD
+GLYRKLIISDVHAEDEDTYTCDAGDVKTSAQFFVEEQSITIVRGLQDVTVMEPAPAWFEC
+ETSIPSVRPPKWLLGKTVLQAGGNVGLEQEGTVHRLMLRRTCSTMTGPVHFTVGKSRSSA
+RLVVSDIPVVLTRPLEPKTGRELQSVVLSCDFRPAPKAVQWYKDDTPLSPSEKFKMSLEG
+QMAELRILRLMPADAGVYRCQAGSAHSSTEVTVEAREVTVTGPLQDAEATEEGWASFSCE
+LSHEDEEVEWSLNGMPLYNDSFHEISHKGRRHTLVLKSIQRADAGIVRASSLKVSTSARL
+EVRVKPVVFLKALDDLSAEERGTLALQCEVSDPEAHVVWRKDGVQLGPSDKYDFLHTAGT
+RGLVVHDVSPEDAGLYTCHVGSEETRARVRVHDLHVGITKRLKTMEVLEGESCSFECVLS
+HESASDPAMWTVGGKTVGSSSRFQATRQGRKYILVVREAAPSDAGEVVFSVRGLTSKASL
+IVRERPAAIIKPLEDQWVAPGEDVELRCELSRAGTPVHWLKDRKAIRKSQKYDVVCEGTM
+AMLVIRGASLKDAGEYTCEVEASKSTASLHVEEKANCFTEELTNLQVEEKGTAVFTCKTE
+HPAATVTWRKGLLELRASGKHQPSQEGLTLRLTISALEKADSDTYTCDIGQAQSRAQLLV
+QGRRVHIIEDLEDVDVQEGSSATFRCRISPANYEPVHWFLDKTPLHANELNEIDAQPGGY
+HVLTLRQLALKDSGTIYFEAGDQRASAALRVTEKPSVFSRELTDATITEGEDLTLVCETS
+TCDIPVCWTKDGKTLRGSARCQLSHEGHRAQLLITGATLQDSGRYKCEAGGACSSSIVRV
+HARPVRFQEALKDLEVLEGGAATLRCVLSSVAAPVKWCYGNNVLRPGDKYSLRQEGAMLE
+LVVRNLRPQDSGRYSCSFGDQTTSATLTVTALPAQFIGKLRNKEATEGATATLRCELSKA
+APVEWRKGSETLRDGDRYCLRQDGAMCELQIRGLAMVDAAEYSCVCGEERTSASLTIRPM
+PAHFIGRLRHQESIEGATATLRCELSKAAPVEWRKGRESLRDGDRHSLRQDGAVCELQIC
+GLAVADAGEYSCVCGEERTSATLTVKALPAKFTEGLRNEEAVEGATAMLWCELSKVAPVE
+WRKGPENLRDGDRYILRQEGTRCELQICGLAMADAGEYLCVCGQERTSATLTIRALPARF
+IEDVKNQEAREGATAVLQCELNSAAPVEWRKGSETLRDGDRYSLRQDGTKCELQIRGLAM
+ADTGEYSCVCGQERTSAMLTVRALPIKFTEGLRNEEATEGATAVLRCELSKMAPVEWWKG
+HETLRDGDRHSLRQDGARCELQIRGLVAEDAGEYLCMCGKERTSAMLTVRAMPSKFIEGL
+RNEEATEGDTATLWCELSKAAPVEWRKGHETLRDGDRHSLRQDGSRCELQIRGLAVVDAG
+EYSCVCGQERTSATLTVRALPARFIEDVKNQEAREGATAVLQCELSKAAPVEWRKGSETL
+RGGDRYSLRQDGTRCELQIHGLSVADTGEYSCVCGQERTSATLTVRAPQPVFREPLQSLQ
+AEEGSTATLQCELSEPTATVVWSKGGLQLQANGRREPRLQGCTAELVLQDLQREDTGEYT
+CTCGSQATSATLTVTAAPVRFLRELQHQEVDEGGTAHLCCELSRAGASVEWRKGSLQLFP
+CAKYQMVQDGAAAELLVRGVEQEDAGDYTCDTGHTQSMASLSVRVPRPKFKTRLQSLEQE
+TGDIARLCCQLSDAESGAVVQWLKEGVELHAGPKYEMRSQGATRELLIHQLEAKDTGEYA
+CVTGGQKTAASLRVTEPEVTIVRGLVDAEVTADEDVEFSCEVSRAGATGVQWCLQGLPLQ
+SNEVTEVAVRDGRIHTLRLKGVTPEDAGTVSFHLGNHASSAQLTVRAPEVTILEPLQDVQ
+LSEGQDASFQCRLSRASGQEARWALGGVPLQANEMNDITVEQGTLHLLTLHKVTLEDAGT
+VSFHVGTCSSEAQLKVTAKNTVVRGLENVEALEGGEALFECQLSQPEVAAHTWLLDDEPV
+HTSENAEVVFFENGLRHLLLLKNLRPQDSCRVTFLAGDMVTSAFLTVRGWRLEILEPLKN
+AAVRAGAQACFTCTLSEAVPVGEASWYINGAAVQPDDSDWTVTADGSHHALLLRSAQPHH
+AGEVTFACRDAVASARLTVLGLPDPPEDAEVVARSSHTVTLSWAAPMSDGGGGLCGYRVE
+VKEGATGQWRLCHELVPGPECVVDGLAPGETYRFRVAAVGPVGAGEPVHLPQTVRLAEPP
+KPVPPQPSAPESRQVAAGEDVSLELEVVAEAGEVIWHKGMERIQPGGRFEVVSQGRQQML
+VIKGFTAEDQGEYHCGLAQGSICPAAATFQVALSPASVDEAPQPSLPPEAAQEGDLHLLW
+EALARKRRMSREPTLDSISELPEEDGRSQRLPQEAEEVAPDLSEGYSTADELARTGDADL
+SHTSSDDESRAGTPSLVTYLKKAGRPGTSPLASKVGAPAAPSVKPQQQQEPLAAVRPPLG
+DLSTKDLGDPSMDKAAVKIQAAFKGYKVRKEMKQQEGPMFSHTFGDTEAQVGDALRLECV
+VASKADVRARWLKDGVELTDGRHHHIDQLGDGTCSLLITGLDRADAGCYTCQVSNKFGQV
+THSACVVVSGSESEAESSSGGELDDAFRRAARRLHRLFRTKSPAEVSDEELFLSADEGPA
+EPEEPADWQTYREDEHFICIRFEALTEARQAVTRFQEMFATLGIGVEIKLVEQGPRRVEM
+CISKETPAPVVPPEPLPSLLTSDAAPVFLTELQNQEVQDGYPVSFDCVVTGQPMPSVRWF
+KDGKLLEEDDHYMINEDQQGGHQLIITAVVPADMGVYRCLAENSMGVSSTKAELRVDLTS
+TDYDTAADATESSSYFSAQGYLSSREQEGTESTTDEGQLPQVVEELRDLQVAPGTRLAKF
+QLKVKGYPAPRLYWFKDGQPLTASAHIRMTDKKILHTLEIISVTREDSGQYAAYISNAMG
+AAYSSARLLVRGPDEPEEKPASDVHEQLVPPRMLERFTPKKVKKGSSITFSVKVEGRPVP
+TVHWLREEAERGVLWIGPDTPGYTVASSAQQHSLVLLDVGRQHQGTYTCIASNAAGQALC
+SASLHVSGLPKVEEQEKVKEALISTFLQGTTQAISAQGLETASFADLGGQRKEEPLAAKE
+ALGHLSLAEVGTEEFLQKLTSQITEMVSAKITQAKLQVPGGDSDEDSKTPSASPRHGRSR
+PSSSIQESSSESEDGDARGEIFDIYVVTADYLPLGAEQDAITLREGQYVEVLDAAHPLRW
+LVRTKPTKSSPSRQGWVSPAYLDRRLKLSPEWGAAEAPEFPGEAVSEDEYKARLSSVIQE
+LLSSEQAFVEELQFLQSHHLQHLERCPHVPIAVAGQKAVIFRNVRDIGRFHSSFLQELQQ
+CDTDDDVAMCFIKNQAAFEQYLEFLVGRVQAESVVVSTAIQEFYKKYAEEALLAGDPSQP
+PPPPLQHYLEQPVERVQRYQALLKELIRNKARNRQNCALLEQAYAVVSALPQRAENKLHV
+SLMENYPGTLQALGEPIRQGHFIVWEGAPGARMPWKGHNRHVFLFRNHLVICKPRRDSRT
+DTVSYVFRNMMKLSSIDLNDQVEGDDRAFEVWQEREDSVRKYLLQARTAIIKSSWVKEIC
+GIQQRLALPVWRPPDFEEELADCTAELGETVKLACRVTGTPKPVISWYKDGKAVQVDPHH
+ILIEDPDGSCALILDSLTGVDSGQYMCFAASAAGNCSTLGKILVQVPPRFVNKVRASPFV
+EGEDAQFTCTIEGAPYPQIRWYKDGALLTTGNKFQTLSEPRSGLLVLVIRAASKEDLGLY
+ECELVNRLGSARASAELRIQSPMLQAQEQCHREQLVAAVEDTTLERADQEVTSVLKRLLG
+PKAPGPSTGDLTGPGPCPRGAPALQETGSQPPVTGTSEAPAVPPRVPQPLLHEGPEQEPE
+AIARAQEWTVPIRMEGAAWPGAGTGELLWDVHSHVVRETTQRTYTYQAIDTHTARPPSMQ
+VTIEDVQAQTGGTAQFEAIIEGDPQPSVTWYKDSVQLVDSTRLSQQQEGTTYSLVLRHVA
+SKDAGVYTCLAQNTGGQVLCKAELLVLGGDNEPDSEKQSHRRKLHSFYEVKEEIGRGVFG
+FVKRVQHKGNKILCAAKFIPLRSRTRAQAYRERDILAALSHPLVTGLLDQFETRKTLILI
+LELCSSEELLDRLYRKGVVTEAEVKVYIQQLVEGLHYLHSHGVLHLDIKPSNILMVHPAR
+EDIKICDFGFAQNITPAELQFSQYGSPEFVSPEIIQQNPVSEASDIWAMGVISYLSLTCS
+SPFAGESDRATLLNVLEGRVSWSSPMAAHLSEDAKDFIKATLQRAPQARPSAAQCLSHPW
+FLKSMPAEEAHFINTKQLKFLLARSRWQRSLMSYKSILVMRSIPELLRGPPDSPSLGVAR
+HLCRDTGGSSSSSSSSDNELAPFARAKSLPPSPVTHSPLLHPRGFLRPSASLPEEAEASE
+RSTEAPAPPASPEGAGPPAAQGCVPRHSVIRSLFYHQAGESPEHGALAPGSRRHPARRRH
+LLKGGYIAGALPGLREPLMEHRVLEEEAAREEQATLLAKAPSFETALRLPASGTHLAPGH
+SHSLEHDSPSTPRPSSEACGEAQRLPSAPSGGAPIRDMGHPQGSKQLPSTGGHPGTAQPE
+RPSPDSPWGQPAPFCHPKQGSAPQEGCSPHPAVAPCPPGSFPPGSCKEAPLVPSSPFLGQ
+PQAPPAPAKASPPLDSKMGPGDISLPGRPKPGPCSSPGSASQASSSQVSSLRVGSSQVGT
+EPGPSLDAEGWTQEAEDLSDSTPTLQRPQEQATMRKFSLGGRGGYAGVAGYGTFAFGGDA
+GGMLGQGPMWARIAWAVSQSEEEEQEEARAESQSEEQQEARAESPLPQVSARPVPEVGRA
+PTRSSPEPTPWEDIGQVSLVQIRDLSGDAEAADTISLDISEVDPAYLNLSDLYDIKYLPF
+EFMIFRKVPKSAQPEPPSPMAEEELAEFPEPTWPWPGELGPHAGLEITEESEDVDALLAE
+AAVGRKRKWSSPSRSLFHFPGRHLPLDEPAELGLRERVKASVEHISRILKGRPEGLEKEG
+PPRKKPGLASFRLSGLKSWDRAPTFLRELSDETVVLGQSVTLACQVSAQPAAQATWSKDG
+APLESSSRVLISATLKNFQLLTILVVVAEDLGVYTCSVSNALGTVTTTGVLRKAERPSSS
+PCPDIGEVYADGVLLVWKPVESYGPVTYIVQCSLEGGSWTTLASDIFDCCYLTSKLSRGG
+TYTFRTACVSKAGMGPYSSPSEQVLLGGPSHLASEEESQGRSAQPLPSTKTFAFQTQIQR
+GRFSVVRQCWEKASGRALAAKIIPYHPKDKTAVLREYEALKGLRHPHLAQLHAAYLSPRH
+LVLILELCSGPELLPCLAERASYSESEVKDYLWQMLSATQYLHNQHILHLDLRSENMIIT
+EYNLLKVVDLGNAQSLSQEKVLPSDKFKDYLETMAPELLEGQGAVPQTDIWAIGVTAFIM
+LSAEYPVSSEGARDLQRGLRKGLVRLSRCYAGLSGGAVAFLRSTLCAQPWGRPCASSCLQ
+CPWLTEEGPACSRPAPVTFPTARLRVFVRNREKRRALLYKRHNLAQVR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

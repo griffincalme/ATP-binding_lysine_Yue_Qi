@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2009-09-01" modified="2017-05-10" version="56">
+<accession>C6EMX8</accession>
+<name>C6EMX8_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="4">DNA helicase</fullName>
+<ecNumber evidence="4">3.6.4.12</ecNumber>
+</recommendedName>
+</protein>
+<organism evidence="10">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="10">
+<citation type="journal article" date="1997" name="Biochem. Biophys. Res. Commun." volume="236" first="118" last="125">
+<title>Expression, nuclear localization and interactions of human MCM/P1 proteins.</title>
+<authorList>
+<person name="Tsuruga H."/>
+<person name="Yabuta N."/>
+<person name="Hashizume K."/>
+<person name="Ikeda M."/>
+<person name="Endo Y."/>
+<person name="Nojima H."/>
+</authorList>
+<dbReference type="PubMed" id="9223437"/>
+<dbReference type="DOI" id="10.1006/bbrc.1997.6865"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="5">ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="6">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the MCM family.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.12" evidence="4"/>
+<dbReference type="EMBL" id="D86748">
+<property type="protein sequence ID" value="BAH84845.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001265524.1">
+<property type="nucleotide sequence ID" value="NM_001278595.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_005907.3">
+<property type="nucleotide sequence ID" value="NM_005916.4"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.438720"/>
+<dbReference type="STRING" id="9606.ENSP00000307288"/>
+<dbReference type="PaxDb" id="C6EMX8"/>
+<dbReference type="PeptideAtlas" id="C6EMX8"/>
+<dbReference type="PRIDE" id="C6EMX8"/>
+<dbReference type="GeneID" id="4176"/>
+<dbReference type="KEGG" id="hsa:4176"/>
+<dbReference type="CTD" id="4176"/>
+<dbReference type="eggNOG" id="KOG0482">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1241">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="KO" id="K02210"/>
+<dbReference type="GenomeRNAi" id="4176"/>
+<dbReference type="GO" id="GO:0042555">
+<property type="term" value="C:MCM complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003678">
+<property type="term" value="F:DNA helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006270">
+<property type="term" value="P:DNA replication initiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR031327">
+<property type="entry name" value="MCM"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008050">
+<property type="entry name" value="MCM7"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018525">
+<property type="entry name" value="MCM_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001208">
+<property type="entry name" value="MCM_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027925">
+<property type="entry name" value="MCM_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033762">
+<property type="entry name" value="MCM_OB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012340">
+<property type="entry name" value="NA-bd_OB-fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11630:SF78">
+<property type="entry name" value="PTHR11630:SF78"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00493">
+<property type="entry name" value="MCM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF14551">
+<property type="entry name" value="MCM_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF17207">
+<property type="entry name" value="MCM_OB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01657">
+<property type="entry name" value="MCMFAMILY"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01663">
+<property type="entry name" value="MCMPROTEIN7"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00350">
+<property type="entry name" value="MCM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50249">
+<property type="entry name" value="SSF50249"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00847">
+<property type="entry name" value="MCM_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50051">
+<property type="entry name" value="MCM_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0235" evidence="7">DNA replication</keyword>
+<keyword id="KW-0238" evidence="1 8">DNA-binding</keyword>
+<keyword id="KW-0347" evidence="2">Helicase</keyword>
+<keyword id="KW-0378" evidence="2">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<keyword id="KW-0539" evidence="3">Nucleus</keyword>
+<feature type="domain" description="MCM" evidence="9">
+<location>
+<begin position="332"/>
+<end position="537"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU004070"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00536375"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00536508"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00536514"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00536515"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00536536"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00619122"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00628874"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50051"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAH84845.1"/>
+</source>
+</evidence>
+<sequence length="719" mass="81280" checksum="803EB7C0AA67904E" modified="2009-09-01" version="1">
+MALKDYALEKEKVKKFLQEFYQDDELGKKQFKYGNQLVRLAHREQVALYVDLDDVAEDDP
+ELVDSICENARRYANVFADAVQELLPQYKEREVVNKDVLDVYIEHRLMMEQRSRDPGMVR
+SPQNQYPAELMRRFELYFQGPSSNKPRVIREVRADSVGKLVTVRGIVTRVSEVKPKMVVA
+TYTCDQCGAETYQPIQSPTFMPLIMCPSQECQTNRSGGRLYLQTRGSRFIKFQEMKMQEH
+SDQVPVGNIPRSITVLVEGENTRIAQPGDHVSVTGIFLPILRTGFRQVVQGLLSETYLEA
+HRIVKMNKSEDDESGAGELTREELRQIAEEDFYEKLAASIAPEIYGHEDVKKALLLLLVG
+GVDQSPRGMKIRGNINICLMGDPGVAKSQLLSYIDRLAPRSQYTTGRGSSGVGLTAAVLR
+DSVSGELTLEGGALVLADQGVCCIDEFDKMAEADRTAIHEVMEQQTISIAKAGILTTLNA
+RCSILAAANPAYGRYNPRRSLEQNIQLPAALLSRFDLLWLIQDRPDRDNDLRLAQHITYV
+HQHSRQPPSQFEPLDMKLMRRYIAMCREKQPMVPESLADYITAAYVEMRREAWASKDATY
+TSARTLLAILRLSTALARLRMVDVVEKEDVNEAIRLMEMSKDSLLGDKGQTARTQRPADV
+IFATVRELVSGGRSVRFSEAEQRCVSRGFTPAQFQAALDEYEELNVWQVNASRTRITFV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

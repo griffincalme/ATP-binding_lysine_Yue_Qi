@@ -1,0 +1,836 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2007-07-24" modified="2017-04-12" version="97">
+<accession>Q4G0N4</accession>
+<accession>B5MC93</accession>
+<accession>Q6UTX5</accession>
+<accession>Q96NM0</accession>
+<name>NAKD2_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>NAD kinase 2, mitochondrial</fullName>
+<ecNumber>2.7.1.23</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Mitochondrial NAD kinase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>NAD kinase domain-containing protein 1, mitochondrial</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">NADK2</name>
+<name type="synonym">C5orf33</name>
+<name type="synonym">MNADK</name>
+<name type="synonym">NADKD1</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3)</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Nature" volume="431" first="268" last="274">
+<title>The DNA sequence and comparative analysis of human chromosome 5.</title>
+<authorList>
+<person name="Schmutz J."/>
+<person name="Martin J."/>
+<person name="Terry A."/>
+<person name="Couronne O."/>
+<person name="Grimwood J."/>
+<person name="Lowry S."/>
+<person name="Gordon L.A."/>
+<person name="Scott D."/>
+<person name="Xie G."/>
+<person name="Huang W."/>
+<person name="Hellsten U."/>
+<person name="Tran-Gyamfi M."/>
+<person name="She X."/>
+<person name="Prabhakar S."/>
+<person name="Aerts A."/>
+<person name="Altherr M."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Branscomb E."/>
+<person name="Caoile C."/>
+<person name="Challacombe J.F."/>
+<person name="Chan Y.M."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Escobar J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Goodstein D."/>
+<person name="Grigoriev I."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Martinez D."/>
+<person name="Medina C."/>
+<person name="Morgan J."/>
+<person name="Nandkeshwar R."/>
+<person name="Noonan J.P."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Predki P."/>
+<person name="Priest J."/>
+<person name="Ramirez L."/>
+<person name="Retterer J."/>
+<person name="Rodriguez A."/>
+<person name="Rogers S."/>
+<person name="Salamov A."/>
+<person name="Salazar A."/>
+<person name="Thayer N."/>
+<person name="Tice H."/>
+<person name="Tsai M."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="Wheeler J."/>
+<person name="Wu K."/>
+<person name="Yang J."/>
+<person name="Dickson M."/>
+<person name="Cheng J.-F."/>
+<person name="Eichler E.E."/>
+<person name="Olsen A."/>
+<person name="Pennacchio L.A."/>
+<person name="Rokhsar D.S."/>
+<person name="Richardson P."/>
+<person name="Lucas S.M."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+</authorList>
+<dbReference type="PubMed" id="15372022"/>
+<dbReference type="DOI" id="10.1038/nature02919"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3)</scope>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 39-442 (ISOFORM 1)</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="submission" date="2003-08" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Li H."/>
+<person name="Yu R."/>
+<person name="Zhou G."/>
+<person name="Shen C."/>
+<person name="Xiao W."/>
+<person name="Li M."/>
+<person name="Ke R."/>
+<person name="Zhong G."/>
+<person name="Lin L."/>
+<person name="Yang S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 164-442 (ISOFORM 2)</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2012" name="Nat. Commun." volume="3" first="1248" last="1248">
+<title>Identification and characterization of a human mitochondrial NAD kinase.</title>
+<authorList>
+<person name="Ohashi K."/>
+<person name="Kawai S."/>
+<person name="Murata K."/>
+</authorList>
+<dbReference type="PubMed" id="23212377"/>
+<dbReference type="DOI" id="10.1038/ncomms2262"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>SUBUNIT</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>ENZYME REGULATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2014" name="Hum. Mol. Genet." volume="23" first="5009" last="5016">
+<title>Mitochondrial NADP(H) deficiency due to a mutation in NADK2 causes dienoyl-CoA reductase deficiency with hyperlysinemia.</title>
+<authorList>
+<person name="Houten S.M."/>
+<person name="Denis S."/>
+<person name="Te Brinke H."/>
+<person name="Jongejan A."/>
+<person name="van Kampen A.H."/>
+<person name="Bradley E.J."/>
+<person name="Baas F."/>
+<person name="Hennekam R.C."/>
+<person name="Millington D.S."/>
+<person name="Young S.P."/>
+<person name="Frazier D.M."/>
+<person name="Gucsavas-Calikoglu M."/>
+<person name="Wanders R.J."/>
+</authorList>
+<dbReference type="PubMed" id="24847004"/>
+<dbReference type="DOI" id="10.1093/hmg/ddu218"/>
+</citation>
+<scope>INVOLVEMENT IN DECRD</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-188 AND SER-367</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+<dbReference type="DOI" id="10.1002/pmic.201400617"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="function">
+<text evidence="4">Mitochondrial NAD(+) kinase that phosphorylates NAD(+) to yield NADP(+). Can use both ATP or inorganic polyphosphate as the phosphoryl donor. Also has weak NADH kinase activity in vitro; however NADH kinase activity is much weaker than the NAD(+) kinase activity and may not be relevant in vivo.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="4">ATP + NAD(+) = ADP + NADP(+).</text>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="4">Inhibited by NADH, NADPH and NADP(+).</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="4">0.022 mM for NAD(+)</KM>
+<KM evidence="4">1.7 mM for ATP</KM>
+<KM evidence="4">1.2 mM for tetrapolyphosphate</KM>
+<Vmax evidence="4">0.091 umol/min/mg enzyme</Vmax>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="10">Homodimer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Mitochondrion</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q4G0N4-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q4G0N4-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_027193"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+<isoform>
+<id>Q4G0N4-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_027192"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="4">Widely expressed.</text>
+</comment>
+<comment type="disease" evidence="5">
+<disease id="DI-04240">
+<name>2,4-dienoyl-CoA reductase deficiency</name>
+<acronym>DECRD</acronym>
+<description>A rare, autosomal recessive, inborn error of polyunsaturated fatty acids and lysine metabolism, resulting in mitochondrial dysfunction. Affected individuals have a severe encephalopathy with neurologic and metabolic abnormalities beginning in early infancy. Laboratory studies show increased C10:2 carnitine levels and hyperlysinemia.</description>
+<dbReference type="MIM" id="616034"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="9">Belongs to the NAD kinase family.</text>
+</comment>
+<dbReference type="EC" id="2.7.1.23"/>
+<dbReference type="EMBL" id="AK055158">
+<property type="protein sequence ID" value="BAB70864.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC008807">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC008942">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC045565">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC062567">
+<property type="protein sequence ID" value="AAH62567.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY360463">
+<property type="protein sequence ID" value="AAQ62967.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS3917.1">
+<molecule id="Q4G0N4-3"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS47197.1">
+<molecule id="Q4G0N4-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001078880.1">
+<molecule id="Q4G0N4-1"/>
+<property type="nucleotide sequence ID" value="NM_001085411.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001274269.1">
+<molecule id="Q4G0N4-3"/>
+<property type="nucleotide sequence ID" value="NM_001287340.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001274270.1">
+<property type="nucleotide sequence ID" value="NM_001287341.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_694558.1">
+<molecule id="Q4G0N4-3"/>
+<property type="nucleotide sequence ID" value="NM_153013.4"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.81907"/>
+<dbReference type="ProteinModelPortal" id="Q4G0N4"/>
+<dbReference type="BioGrid" id="126369">
+<property type="interactions" value="17"/>
+</dbReference>
+<dbReference type="IntAct" id="Q4G0N4">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-3056473"/>
+<dbReference type="STRING" id="9606.ENSP00000371362"/>
+<dbReference type="iPTMnet" id="Q4G0N4"/>
+<dbReference type="PhosphoSitePlus" id="Q4G0N4"/>
+<dbReference type="BioMuta" id="NADK2"/>
+<dbReference type="DMDM" id="156630863"/>
+<dbReference type="EPD" id="Q4G0N4"/>
+<dbReference type="MaxQB" id="Q4G0N4"/>
+<dbReference type="PaxDb" id="Q4G0N4"/>
+<dbReference type="PeptideAtlas" id="Q4G0N4"/>
+<dbReference type="PRIDE" id="Q4G0N4"/>
+<dbReference type="DNASU" id="133686"/>
+<dbReference type="Ensembl" id="ENST00000282512">
+<molecule id="Q4G0N4-3"/>
+<property type="protein sequence ID" value="ENSP00000282512"/>
+<property type="gene ID" value="ENSG00000152620"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000381937">
+<molecule id="Q4G0N4-1"/>
+<property type="protein sequence ID" value="ENSP00000371362"/>
+<property type="gene ID" value="ENSG00000152620"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000397338">
+<molecule id="Q4G0N4-3"/>
+<property type="protein sequence ID" value="ENSP00000380499"/>
+<property type="gene ID" value="ENSG00000152620"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000514504">
+<molecule id="Q4G0N4-2"/>
+<property type="protein sequence ID" value="ENSP00000421029"/>
+<property type="gene ID" value="ENSG00000152620"/>
+</dbReference>
+<dbReference type="GeneID" id="133686"/>
+<dbReference type="KEGG" id="hsa:133686"/>
+<dbReference type="UCSC" id="uc003jkf.6">
+<molecule id="Q4G0N4-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="133686"/>
+<dbReference type="DisGeNET" id="133686"/>
+<dbReference type="GeneCards" id="NADK2"/>
+<dbReference type="H-InvDB" id="HIX0004812"/>
+<dbReference type="HGNC" id="HGNC:26404">
+<property type="gene designation" value="NADK2"/>
+</dbReference>
+<dbReference type="HPA" id="HPA038366"/>
+<dbReference type="HPA" id="HPA038367"/>
+<dbReference type="HPA" id="HPA061492"/>
+<dbReference type="MalaCards" id="NADK2"/>
+<dbReference type="MIM" id="615787">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="616034">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q4G0N4"/>
+<dbReference type="OpenTargets" id="ENSG00000152620"/>
+<dbReference type="PharmGKB" id="PA162380039"/>
+<dbReference type="eggNOG" id="KOG4180">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XQA4">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000006320"/>
+<dbReference type="HOVERGEN" id="HBG106388"/>
+<dbReference type="InParanoid" id="Q4G0N4"/>
+<dbReference type="KO" id="K00858"/>
+<dbReference type="OMA" id="LDHQDVV"/>
+<dbReference type="OrthoDB" id="EOG091G0AX1"/>
+<dbReference type="PhylomeDB" id="Q4G0N4"/>
+<dbReference type="TreeFam" id="TF314077"/>
+<dbReference type="ChiTaRS" id="NADK2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="133686"/>
+<dbReference type="PRO" id="PR:Q4G0N4"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000152620"/>
+<dbReference type="CleanEx" id="HS_C5orf33"/>
+<dbReference type="ExpressionAtlas" id="Q4G0N4">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q4G0N4">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003951">
+<property type="term" value="F:NAD+ kinase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042803">
+<property type="term" value="F:protein homodimerization activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019674">
+<property type="term" value="P:NAD metabolic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006741">
+<property type="term" value="P:NADP biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.200.30">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.10330">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017438">
+<property type="entry name" value="ATP-NAD_kinase_dom_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017437">
+<property type="entry name" value="ATP-NAD_kinase_PpnK-typ_all-b"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016064">
+<property type="entry name" value="NAD/diacylglycerol_kinase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002504">
+<property type="entry name" value="NADK"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012355">
+<property type="entry name" value="NADK_euk"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01513">
+<property type="entry name" value="NAD_kinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF017565">
+<property type="entry name" value="Kin_ATP-NAD_euk"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF111331">
+<property type="entry name" value="SSF111331"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0496">Mitochondrion</keyword>
+<keyword id="KW-0520">NAD</keyword>
+<keyword id="KW-0521">NADP</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0809">Transit peptide</keyword>
+<feature type="transit peptide" description="Mitochondrion" evidence="3">
+<location>
+<begin position="1"/>
+<end position="62"/>
+</location>
+</feature>
+<feature type="chain" description="NAD kinase 2, mitochondrial" id="PRO_0000296292">
+<location>
+<begin position="63"/>
+<end position="442"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine; alternate" evidence="2">
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-succinyllysine; alternate" evidence="2">
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="188"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-succinyllysine" evidence="2">
+<location>
+<position position="302"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine; alternate" evidence="2">
+<location>
+<position position="317"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-succinyllysine; alternate" evidence="2">
+<location>
+<position position="317"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="367"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="2">
+<location>
+<position position="397"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_027192" evidence="6 7">
+<location>
+<begin position="1"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_027193" evidence="8">
+<location>
+<begin position="288"/>
+<end position="319"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="24275569"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q8C5H8"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255"/>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23212377"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24847004"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000303">
+<source ref="4"/>
+</evidence>
+<evidence key="9" type="ECO:0000305"/>
+<evidence key="10" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="23212377"/>
+</source>
+</evidence>
+<sequence length="442" mass="49433" checksum="289EA16979AF14D8" modified="2007-07-24" version="2" precursor="true">
+MTCYRGFLLGSCCRVAGGRAAALRGPGAGGPAARPRLGGDGGGRRHLGQGQPRELAGCGS
+RADGGFRPSRVVVVAKTTRYEFEQQRYRYAELSEEDLKQLLALKGSSYSGLLERHHIHTK
+NVEHIIDSLRNEGIEVRLVKRREYDEETVRWADAVIAAGGDGTMLLAASKVLDRLKPVIG
+VNTDPERSEGHLCLPVRYTHSFPEALQKFYRGEFRWLWRQRIRLYLEGTGINPVPVDLHE
+QQLSLNQHNRALNIERAHDERSEASGPQLLPVRALNEVFIGESLSSRASYYEISVDDGPW
+EKQKSSGLNLCTGTGSKAWSFNINRVATQAVEDVLNIAKRQGNLSLPLNRELVEKVTNEY
+NESLLYSPEEPKILFSIREPIANRVFSSSRQRCFSSKVCVRSRCWDACMVVDGGTSFEFN
+DGAIASMMINKEDELRTVLLEQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

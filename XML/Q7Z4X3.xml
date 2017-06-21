@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2003-10-01" modified="2017-04-12" version="75">
+<accession>Q7Z4X3</accession>
+<name>Q7Z4X3_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="4">ATP-dependent RNA helicase</fullName>
+</submittedName>
+</protein>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="submission" date="1999-03" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of a new human cDNA homologous to Mus musculus ATP-dependent RNA helicase.</title>
+<authorList>
+<person name="Yue P."/>
+<person name="Yu L."/>
+<person name="Zhao S.Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the DEAD box helicase family.</text>
+</comment>
+<dbReference type="EMBL" id="AF134475">
+<property type="protein sequence ID" value="AAP97252.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.510328"/>
+<dbReference type="ProteinModelPortal" id="Q7Z4X3"/>
+<dbReference type="STRING" id="9606.ENSP00000328690"/>
+<dbReference type="PaxDb" id="Q7Z4X3"/>
+<dbReference type="PeptideAtlas" id="Q7Z4X3"/>
+<dbReference type="eggNOG" id="KOG0347">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XS03">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG104200"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003676">
+<property type="term" value="F:nucleic acid binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011545">
+<property type="entry name" value="DEAD/DEAH_box_helicase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000629">
+<property type="entry name" value="RNA-helicase_DEAD-box_CS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00270">
+<property type="entry name" value="DEAD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00490">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00039">
+<property type="entry name" value="DEAD_ATP_HELICASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1 4">ATP-binding</keyword>
+<keyword id="KW-0347" evidence="1 4">Helicase</keyword>
+<keyword id="KW-0378" evidence="1 4">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="1 4">Nucleotide-binding</keyword>
+<feature type="domain" description="Helicase ATP-binding" evidence="2">
+<location>
+<begin position="1"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase C-terminal" evidence="3">
+<location>
+<begin position="205"/>
+<end position="350"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000492"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51192"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51194"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAP97252.1"/>
+</source>
+</evidence>
+<sequence length="486" mass="55968" checksum="B693BE730EA38B08" modified="2003-10-01" version="1">
+MTKAPPCKAYPKRPLLGRVLTPTRELAVQVKQHIDAVARFTGIKTAILVGGMSTQKQQRM
+LNRRPEIVVATPGRLWELIKEKHYHLRNLRQLRCLVVDEADRMVEKGHFAELSQLLEMLN
+DSQYNPKRQTLVFSATLTLVHQAPARILHKKHTKKMDKTAKLDLLMQKIGMRGKPKVIDL
+TRNEATVETLTETKIHCETDEKDFYLYYFLMQYPGRSLVFANSISCIKRLSGLLKVLDIM
+PLTLHACMHQKQRLRNLEQFARLEDCVLLATDVAARGLDIPKVQHVIHYQVPRTSEIYVH
+RSGRTARATNEGLSLMLIGPEDVINFKKIYKTLKKDEDIPLFPVQTKYMDVVKERIRLAR
+QIEKSEYRNFQACLHNSWIEQAAAALEIELEEDMYKGGKADQQEERRRQKQMKVLKKELR
+HLLSQPLFTESQKTKYPTQSGKPPLLVSAPSKSESALSCLSKQKKKKTKKPKEPQPEQPQ
+PSTSAN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

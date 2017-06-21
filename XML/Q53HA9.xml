@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2005-05-24" modified="2017-04-12" version="89">
+<accession>Q53HA9</accession>
+<name>Q53HA9_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Tyrosine-protein kinase</fullName>
+<ecNumber evidence="1">2.7.10.2</ecNumber>
+</recommendedName>
+</protein>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="journal article" date="1994" name="Gene" volume="138" first="171" last="174">
+<title>Oligo-capping: a simple method to replace the cap structure of eukaryotic mRNAs with oligoribonucleotides.</title>
+<authorList>
+<person name="Maruyama K."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="8125298"/>
+<dbReference type="DOI" id="10.1016/0378-1119(94)90802-8"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="6">Brain</tissue>
+</source>
+</reference>
+<reference key="2" evidence="6">
+<citation type="journal article" date="1997" name="Gene" volume="200" first="149" last="156">
+<title>Construction and characterization of a full length-enriched and a 5'-end-enriched cDNA library.</title>
+<authorList>
+<person name="Suzuki Y."/>
+<person name="Yoshitomo K."/>
+<person name="Maruyama K."/>
+<person name="Suyama A."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="9373149"/>
+<dbReference type="DOI" id="10.1016/S0378-1119(97)00411-3"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="6">Brain</tissue>
+</source>
+</reference>
+<reference key="3" evidence="6">
+<citation type="submission" date="2005-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Suzuki Y."/>
+<person name="Sugano S."/>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Takeda T."/>
+<person name="Sakaki Y."/>
+<person name="Tanaka A."/>
+<person name="Yokoyama S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="6">Brain</tissue>
+</source>
+</reference>
+<comment type="catalytic activity">
+<text evidence="1">ATP + a [protein]-L-tyrosine = ADP + a [protein]-L-tyrosine phosphate.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the protein kinase superfamily. Tyr protein kinase family.</text>
+</comment>
+<dbReference type="EC" id="2.7.10.2" evidence="1"/>
+<dbReference type="EMBL" id="AK222672">
+<property type="protein sequence ID" value="BAD96392.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.75516"/>
+<dbReference type="STRING" id="9606.ENSP00000264818"/>
+<dbReference type="PaxDb" id="Q53HA9"/>
+<dbReference type="PeptideAtlas" id="Q53HA9"/>
+<dbReference type="eggNOG" id="KOG0197">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0515">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG006195"/>
+<dbReference type="GO" id="GO:0005856">
+<property type="term" value="C:cytoskeleton"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004715">
+<property type="term" value="F:non-membrane spanning protein tyrosine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035556">
+<property type="term" value="P:intracellular signal transduction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.80.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.505.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019749">
+<property type="entry name" value="Band_41_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014352">
+<property type="entry name" value="FERM/acyl-CoA-bd_prot_3-hlx"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019748">
+<property type="entry name" value="FERM_central"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000299">
+<property type="entry name" value="FERM_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011993">
+<property type="entry name" value="PH_dom-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001245">
+<property type="entry name" value="Ser-Thr/Tyr_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000980">
+<property type="entry name" value="SH2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016251">
+<property type="entry name" value="Tyr_kinase_non-rcpt_Jak/Tyk2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016045">
+<property type="entry name" value="Tyr_kinase_non-rcpt_TYK2_N"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07714">
+<property type="entry name" value="Pkinase_Tyr"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01823">
+<property type="entry name" value="JANUSKINASE"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01827">
+<property type="entry name" value="YKINASETYK2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00295">
+<property type="entry name" value="B41"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00252">
+<property type="entry name" value="SH2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47031">
+<property type="entry name" value="SSF47031"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50729">
+<property type="entry name" value="SSF50729"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55550">
+<property type="entry name" value="SSF55550"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50057">
+<property type="entry name" value="FERM_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1 3">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="1 2">Kinase</keyword>
+<keyword id="KW-0547" evidence="1 3">Nucleotide-binding</keyword>
+<keyword id="KW-0808" evidence="1 2">Transferase</keyword>
+<keyword id="KW-0829" evidence="1 2">Tyrosine-protein kinase</keyword>
+<feature type="domain" description="FERM" evidence="5">
+<location>
+<begin position="26"/>
+<end position="431"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase" evidence="4">
+<location>
+<begin position="589"/>
+<end position="822"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="6">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="6">
+<location>
+<position position="822"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU362096"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00485797"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00802662"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50057"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAD96392.1"/>
+</source>
+</evidence>
+<sequence length="822" mass="91713" checksum="123136870F338CE4" modified="2005-05-24" version="1" fragment="single">
+MPLRHWGMARGSKPVGDGAQPMAAMGGLKVLLHWAGPGGGEPWVTFSESSLTAEEVCIHI
+AHKVGITPPCFNLFALFDAQAQVWLPPNHILEIPRDASLMLYFRIRFYFRNWHGMNPREP
+AVYRCGPPGTEASSDQTAQGMQLLDPASFEYLFEQGKHEFVNDVASLWELSTEEEIHHFK
+NESLGMAFLHLCHLALRHGIPLEEVAKKTSFKDCIPRSFRRHIRQHSALTRLRLRNVFRR
+FLRDFQPGRLSQQMVMVKYLATLERLAPRFGTERVPVCHLRLLAQAEGEPCYIRDRGVAP
+TDPGPESAAGPPTHEVLVTGTGGIQWWPVEEEVNKEEGSSGSSGRNPQASLFGKKAKAHK
+AVGQPADRPREPLWAYFCDFRDITHVVLKEHCVSIHRQDNKCLELSLPSRAAALSFVSLV
+DGYFRLTADSSHYLCHEVAPPRLVMSIRDGIHGPLLEPFVQAKLRPEDGLYLIHWSTSHP
+YRLILTVAQRSQAPDGMQSLRLRKFPIEQQDGAFVLEGWGRSFPSVRELGAALQGCLLRA
+GDDCFSLRRCCLPQPGETSNLIIMRGARASPRTLNLSQLSFHRVDQKEITQLSHLGQGTR
+TNVYEGRLRVEGSGDPEEGKMDDEDPLVPGRDRGQELRVVLKVLNPSHHDIALAFYETAS
+LMSQVSHTHLAFVHGVCVRGPENIMVTEYVEHGPLDVWLRRERGHVPMAWKMVVAQQLAS
+ALSYLENKNLVHGNVCGRNILLARLGLAEGTSPFIKLSDPGVGLGALSREERVERIPWLA
+PECLPGGANSLSTAMDKWGFGATLLEICFDGEAPLQSRSPSE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

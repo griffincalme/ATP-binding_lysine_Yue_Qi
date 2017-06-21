@@ -1,0 +1,2000 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2001-06-01" modified="2017-05-10" version="157">
+<accession>Q9NQ11</accession>
+<accession>O75700</accession>
+<accession>Q5JXY1</accession>
+<accession>Q5JXY2</accession>
+<accession>Q6S9Z9</accession>
+<name>AT132_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Cation-transporting ATPase 13A2</fullName>
+<ecNumber>3.6.3.-</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="25">ATP13A2</name>
+<name type="synonym" evidence="20">PARK9</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="2000-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Rhodes S."/>
+<person name="Huckle E."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM A)</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="2003-11" db="EMBL/GenBank/DDBJ databases">
+<title>Homo sapiens putative ATPase (N-ATPase) mRNA.</title>
+<authorList>
+<person name="Liu J.-P."/>
+<person name="Li H."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 3)</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3)</scope>
+<source>
+<tissue>Thalamus</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Nature" volume="441" first="315" last="321">
+<title>The DNA sequence and biological annotation of human chromosome 1.</title>
+<authorList>
+<person name="Gregory S.G."/>
+<person name="Barlow K.F."/>
+<person name="McLay K.E."/>
+<person name="Kaul R."/>
+<person name="Swarbreck D."/>
+<person name="Dunham A."/>
+<person name="Scott C.E."/>
+<person name="Howe K.L."/>
+<person name="Woodfine K."/>
+<person name="Spencer C.C.A."/>
+<person name="Jones M.C."/>
+<person name="Gillson C."/>
+<person name="Searle S."/>
+<person name="Zhou Y."/>
+<person name="Kokocinski F."/>
+<person name="McDonald L."/>
+<person name="Evans R."/>
+<person name="Phillips K."/>
+<person name="Atkinson A."/>
+<person name="Cooper R."/>
+<person name="Jones C."/>
+<person name="Hall R.E."/>
+<person name="Andrews T.D."/>
+<person name="Lloyd C."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ambrose K.D."/>
+<person name="Anderson F."/>
+<person name="Andrew R.W."/>
+<person name="Ashwell R.I.S."/>
+<person name="Aubin K."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Beasley H."/>
+<person name="Bethel G."/>
+<person name="Bird C.P."/>
+<person name="Bray-Allen S."/>
+<person name="Brown J.Y."/>
+<person name="Brown A.J."/>
+<person name="Buckley D."/>
+<person name="Burton J."/>
+<person name="Bye J."/>
+<person name="Carder C."/>
+<person name="Chapman J.C."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C."/>
+<person name="Cobley V."/>
+<person name="Collier R.E."/>
+<person name="Corby N."/>
+<person name="Coville G.J."/>
+<person name="Davies J."/>
+<person name="Deadman R."/>
+<person name="Dunn M."/>
+<person name="Earthrowl M."/>
+<person name="Ellington A.G."/>
+<person name="Errington H."/>
+<person name="Frankish A."/>
+<person name="Frankland J."/>
+<person name="French L."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Gay L."/>
+<person name="Ghori M.R.J."/>
+<person name="Gibson R."/>
+<person name="Gilby L.M."/>
+<person name="Gillett W."/>
+<person name="Glithero R.J."/>
+<person name="Grafham D.V."/>
+<person name="Griffiths C."/>
+<person name="Griffiths-Jones S."/>
+<person name="Grocock R."/>
+<person name="Hammond S."/>
+<person name="Harrison E.S.I."/>
+<person name="Hart E."/>
+<person name="Haugen E."/>
+<person name="Heath P.D."/>
+<person name="Holmes S."/>
+<person name="Holt K."/>
+<person name="Howden P.J."/>
+<person name="Hunt A.R."/>
+<person name="Hunt S.E."/>
+<person name="Hunter G."/>
+<person name="Isherwood J."/>
+<person name="James R."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Joy A."/>
+<person name="Kay M."/>
+<person name="Kershaw J.K."/>
+<person name="Kibukawa M."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Knights A.J."/>
+<person name="Lad H."/>
+<person name="Laird G."/>
+<person name="Lawlor S."/>
+<person name="Leongamornlert D.A."/>
+<person name="Lloyd D.M."/>
+<person name="Loveland J."/>
+<person name="Lovell J."/>
+<person name="Lush M.J."/>
+<person name="Lyne R."/>
+<person name="Martin S."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="Matthews N.S.W."/>
+<person name="McLaren S."/>
+<person name="Milne S."/>
+<person name="Mistry S."/>
+<person name="Moore M.J.F."/>
+<person name="Nickerson T."/>
+<person name="O'Dell C.N."/>
+<person name="Oliver K."/>
+<person name="Palmeiri A."/>
+<person name="Palmer S.A."/>
+<person name="Parker A."/>
+<person name="Patel D."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Pelan S."/>
+<person name="Phelps K."/>
+<person name="Phillimore B.J."/>
+<person name="Plumb R."/>
+<person name="Rajan J."/>
+<person name="Raymond C."/>
+<person name="Rouse G."/>
+<person name="Saenphimmachak C."/>
+<person name="Sehra H.K."/>
+<person name="Sheridan E."/>
+<person name="Shownkeen R."/>
+<person name="Sims S."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Steward C."/>
+<person name="Subramanian S."/>
+<person name="Sycamore N."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Van Helmond Z."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="White S."/>
+<person name="Whitehead S.L."/>
+<person name="Wilkinson J.E."/>
+<person name="Willey D.L."/>
+<person name="Williams H."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Wu Z."/>
+<person name="Coulson A."/>
+<person name="Vaudin M."/>
+<person name="Sulston J.E."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Wooster R."/>
+<person name="Dunham I."/>
+<person name="Carter N.P."/>
+<person name="McVean G."/>
+<person name="Ross M.T."/>
+<person name="Harrow J."/>
+<person name="Olson M.V."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Bentley D.R."/>
+</authorList>
+<dbReference type="PubMed" id="16710414"/>
+<dbReference type="DOI" id="10.1038/nature04727"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM B)</scope>
+<source>
+<tissue>Brain</tissue>
+<tissue>Fetus</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2007" name="BMC Genomics" volume="8" first="399" last="399">
+<title>The full-ORF clone resource of the German cDNA consortium.</title>
+<authorList>
+<person name="Bechtel S."/>
+<person name="Rosenfelder H."/>
+<person name="Duda A."/>
+<person name="Schmidt C.P."/>
+<person name="Ernst U."/>
+<person name="Wellenreuther R."/>
+<person name="Mehrle A."/>
+<person name="Schuster C."/>
+<person name="Bahr A."/>
+<person name="Bloecker H."/>
+<person name="Heubner D."/>
+<person name="Hoerlein A."/>
+<person name="Michel G."/>
+<person name="Wedler H."/>
+<person name="Koehrer K."/>
+<person name="Ottenwaelder B."/>
+<person name="Poustka A."/>
+<person name="Wiemann S."/>
+<person name="Schupp I."/>
+</authorList>
+<dbReference type="PubMed" id="17974005"/>
+<dbReference type="DOI" id="10.1186/1471-2164-8-399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 705-1180 (ISOFORM A)</scope>
+<source>
+<tissue>Amygdala</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="submission" date="1998-07" db="EMBL/GenBank/DDBJ databases">
+<title>YAC analysis and genes identification at a site of viral integration in the 1p36.1-36.2 chromosomal site.</title>
+<authorList>
+<person name="Casciano I."/>
+<person name="Volpi E.V."/>
+<person name="De Ambrosis A."/>
+<person name="Marchi J.M."/>
+<person name="Romani M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 855-1180 (ISOFORM B)</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2012" name="Hum. Mol. Genet." volume="21" first="1725" last="1743">
+<title>PARK9-associated ATP13A2 localizes to intracellular acidic vesicles and regulates cation homeostasis and neuronal integrity.</title>
+<authorList>
+<person name="Ramonet D."/>
+<person name="Podhajska A."/>
+<person name="Stafa K."/>
+<person name="Sonnay S."/>
+<person name="Trancikova A."/>
+<person name="Tsika E."/>
+<person name="Pletnikova O."/>
+<person name="Troncoso J.C."/>
+<person name="Glauser L."/>
+<person name="Moore D.J."/>
+</authorList>
+<dbReference type="PubMed" id="22186024"/>
+<dbReference type="DOI" id="10.1093/hmg/ddr606"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-151</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2006" name="Nat. Genet." volume="38" first="1184" last="1191">
+<title>Hereditary parkinsonism with dementia is caused by mutations in ATP13A2, encoding a lysosomal type 5 P-type ATPase.</title>
+<authorList>
+<person name="Ramirez A."/>
+<person name="Heimbach A."/>
+<person name="Gruendemann J."/>
+<person name="Stiller B."/>
+<person name="Hampshire D."/>
+<person name="Cid L.P."/>
+<person name="Goebel I."/>
+<person name="Mubaidin A.F."/>
+<person name="Wriekat A.-L."/>
+<person name="Roeper J."/>
+<person name="Al-Din A."/>
+<person name="Hillmer A.M."/>
+<person name="Karsak M."/>
+<person name="Liss B."/>
+<person name="Woods C.G."/>
+<person name="Behrens M.I."/>
+<person name="Kubisch C."/>
+</authorList>
+<dbReference type="PubMed" id="16964263"/>
+<dbReference type="DOI" id="10.1038/ng1884"/>
+</citation>
+<scope>INVOLVEMENT IN KRS</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2007" name="Neurology" volume="68" first="1557" last="1562">
+<title>ATP13A2 missense mutations in juvenile parkinsonism and young onset Parkinson disease.</title>
+<authorList>
+<person name="Di Fonzo A."/>
+<person name="Chien H.F."/>
+<person name="Socal M."/>
+<person name="Giraudo S."/>
+<person name="Tassorelli C."/>
+<person name="Iliceto G."/>
+<person name="Fabbrini G."/>
+<person name="Marconi R."/>
+<person name="Fincati E."/>
+<person name="Abbruzzese G."/>
+<person name="Marini P."/>
+<person name="Squitieri F."/>
+<person name="Horstink M.W."/>
+<person name="Montagna P."/>
+<person name="Libera A.D."/>
+<person name="Stocchi F."/>
+<person name="Goldwurm S."/>
+<person name="Ferreira J.J."/>
+<person name="Meco G."/>
+<person name="Martignoni E."/>
+<person name="Lopiano L."/>
+<person name="Jardim L.B."/>
+<person name="Oostra B.A."/>
+<person name="Barbosa E.R."/>
+<person name="Bonifati V."/>
+</authorList>
+<dbReference type="PubMed" id="17485642"/>
+<dbReference type="DOI" id="10.1212/01.wnl.0000260963.08711.08"/>
+</citation>
+<scope>VARIANT KRS ARG-504</scope>
+<scope>VARIANTS MET-12 AND ARG-533</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2008" name="Neurology" volume="70" first="1491" last="1493">
+<title>PARK9-linked parkinsonism in eastern Asia: mutation detection in ATP13A2 and clinical phenotype.</title>
+<authorList>
+<person name="Ning Y.P."/>
+<person name="Kanai K."/>
+<person name="Tomiyama H."/>
+<person name="Li Y."/>
+<person name="Funayama M."/>
+<person name="Yoshino H."/>
+<person name="Sato S."/>
+<person name="Asahina M."/>
+<person name="Kuwabara S."/>
+<person name="Takeda A."/>
+<person name="Hattori T."/>
+<person name="Mizuno Y."/>
+<person name="Hattori N."/>
+</authorList>
+<dbReference type="PubMed" id="18413573"/>
+<dbReference type="DOI" id="10.1212/01.wnl.0000310427.72236.68"/>
+</citation>
+<scope>VARIANT KRS LEU-182</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2008" name="Neurology" volume="71" first="1727" last="1732">
+<title>Novel ATP13A2 variant associated with Parkinson disease in Taiwan and Singapore.</title>
+<authorList>
+<person name="Lin C.H."/>
+<person name="Tan E.K."/>
+<person name="Chen M.L."/>
+<person name="Tan L.C."/>
+<person name="Lim H.Q."/>
+<person name="Chen G.S."/>
+<person name="Wu R.M."/>
+</authorList>
+<dbReference type="PubMed" id="19015489"/>
+<dbReference type="DOI" id="10.1212/01.wnl.0000335167.72412.68"/>
+</citation>
+<scope>VARIANT THR-746</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2009" name="Hum. Mutat." volume="30" first="406" last="410">
+<title>ATP13A2 variability in Parkinson disease.</title>
+<authorList>
+<person name="Vilarino-Guell C."/>
+<person name="Soto A.I."/>
+<person name="Lincoln S.J."/>
+<person name="Ben Yahmed S."/>
+<person name="Kefi M."/>
+<person name="Heckman M.G."/>
+<person name="Hulihan M.M."/>
+<person name="Chai H."/>
+<person name="Diehl N.N."/>
+<person name="Amouri R."/>
+<person name="Rajput A."/>
+<person name="Mash D.C."/>
+<person name="Dickson D.W."/>
+<person name="Middleton L.T."/>
+<person name="Gibson R.A."/>
+<person name="Hentati F."/>
+<person name="Farrer M.J."/>
+</authorList>
+<dbReference type="PubMed" id="19085912"/>
+<dbReference type="DOI" id="10.1002/humu.20877"/>
+</citation>
+<scope>VARIANTS SER-49; GLN-294; LEU-389; GLY-578; TRP-762; ILE-776 AND PHE-946</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2010" name="Mov. Disord." volume="25" first="1929" last="1937">
+<title>Clinical spectrum of Kufor-Rakeb syndrome in the Chilean kindred with ATP13A2 mutations.</title>
+<authorList>
+<person name="Behrens M.I."/>
+<person name="Bruggemann N."/>
+<person name="Chana P."/>
+<person name="Venegas P."/>
+<person name="Kagi M."/>
+<person name="Parrao T."/>
+<person name="Orellana P."/>
+<person name="Garrido C."/>
+<person name="Rojas C.V."/>
+<person name="Hauke J."/>
+<person name="Hahnen E."/>
+<person name="Gonzalez R."/>
+<person name="Seleme N."/>
+<person name="Fernandez V."/>
+<person name="Schmidt A."/>
+<person name="Binkofski F."/>
+<person name="Kompf D."/>
+<person name="Kubisch C."/>
+<person name="Hagenah J."/>
+<person name="Klein C."/>
+<person name="Ramirez A."/>
+</authorList>
+<dbReference type="PubMed" id="20683840"/>
+<dbReference type="DOI" id="10.1002/mds.22996"/>
+</citation>
+<scope>INVOLVEMENT IN KRS</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2011" name="Hum. Mutat." volume="32" first="956" last="964">
+<title>Pathogenic effects of novel mutations in the P-type ATPase ATP13A2 (PARK9) causing Kufor-Rakeb syndrome, a form of early-onset parkinsonism.</title>
+<authorList>
+<person name="Park J.S."/>
+<person name="Mehta P."/>
+<person name="Cooper A.A."/>
+<person name="Veivers D."/>
+<person name="Heimbach A."/>
+<person name="Stiller B."/>
+<person name="Kubisch C."/>
+<person name="Fung V.S."/>
+<person name="Krainc D."/>
+<person name="Mackay-Sim A."/>
+<person name="Sue C.M."/>
+</authorList>
+<dbReference type="PubMed" id="21542062"/>
+<dbReference type="DOI" id="10.1002/humu.21527"/>
+</citation>
+<scope>VARIANT KRS ARG-1059</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>CHARACTERIZATION OF VARIANT KRS ARG-1059</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2011" name="Neurogenetics" volume="12" first="33" last="39">
+<title>Novel ATP13A2 (PARK9) homozygous mutation in a family with marked phenotype variability.</title>
+<authorList>
+<person name="Santoro L."/>
+<person name="Breedveld G.J."/>
+<person name="Manganelli F."/>
+<person name="Iodice R."/>
+<person name="Pisciotta C."/>
+<person name="Nolano M."/>
+<person name="Punzo F."/>
+<person name="Quarantelli M."/>
+<person name="Pappata S."/>
+<person name="Di Fonzo A."/>
+<person name="Oostra B.A."/>
+<person name="Bonifati V."/>
+</authorList>
+<dbReference type="PubMed" id="20853184"/>
+<dbReference type="DOI" id="10.1007/s10048-010-0259-0"/>
+</citation>
+<scope>VARIANT KRS ARG-877</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2012" name="Hum. Mol. Genet." volume="21" first="2646" last="2650">
+<title>Mutation of the parkinsonism gene ATP13A2 causes neuronal ceroid-lipofuscinosis.</title>
+<authorList>
+<person name="Bras J."/>
+<person name="Verloes A."/>
+<person name="Schneider S.A."/>
+<person name="Mole S.E."/>
+<person name="Guerreiro R.J."/>
+</authorList>
+<dbReference type="PubMed" id="22388936"/>
+<dbReference type="DOI" id="10.1093/hmg/dds089"/>
+</citation>
+<scope>VARIANT KRS ARG-854</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2012" name="Neurobiol. Aging" volume="33" first="1843.E1" last="1843.E7">
+<title>ATP13A2 mutations impair mitochondrial function in fibroblasts from patients with Kufor-Rakeb syndrome.</title>
+<authorList>
+<person name="Gruenewald A."/>
+<person name="Arns B."/>
+<person name="Seibler P."/>
+<person name="Rakovic A."/>
+<person name="Muenchau A."/>
+<person name="Ramirez A."/>
+<person name="Sue C.M."/>
+<person name="Klein C."/>
+</authorList>
+<dbReference type="PubMed" id="22296644"/>
+<dbReference type="DOI" id="10.1016/j.neurobiolaging.2011.12.035"/>
+</citation>
+<scope>VARIANT KRS VAL-522</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2012" name="PLoS ONE" volume="7" first="E39942" last="E39942">
+<title>Common pathogenic effects of missense mutations in the P-type ATPase ATP13A2 (PARK9) associated with early-onset parkinsonism.</title>
+<authorList>
+<person name="Podhajska A."/>
+<person name="Musso A."/>
+<person name="Trancikova A."/>
+<person name="Stafa K."/>
+<person name="Moser R."/>
+<person name="Sonnay S."/>
+<person name="Glauser L."/>
+<person name="Moore D.J."/>
+</authorList>
+<dbReference type="PubMed" id="22768177"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0039942"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CHARACTERIZATION OF VARIANTS KRS MET-12; LEU-182; ARG-504; ARG-533; THR-746 AND ARG-877</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2016" name="Brain" volume="139" first="1904" last="1918">
+<title>Genetic and phenotypic characterization of complex hereditary spastic paraplegia.</title>
+<authorList>
+<person name="Kara E."/>
+<person name="Tucci A."/>
+<person name="Manzoni C."/>
+<person name="Lynch D.S."/>
+<person name="Elpidorou M."/>
+<person name="Bettencourt C."/>
+<person name="Chelban V."/>
+<person name="Manole A."/>
+<person name="Hamed S.A."/>
+<person name="Haridy N.A."/>
+<person name="Federoff M."/>
+<person name="Preza E."/>
+<person name="Hughes D."/>
+<person name="Pittman A."/>
+<person name="Jaunmuktane Z."/>
+<person name="Brandner S."/>
+<person name="Xiromerisiou G."/>
+<person name="Wiethoff S."/>
+<person name="Schottlaender L."/>
+<person name="Proukakis C."/>
+<person name="Morris H."/>
+<person name="Warner T."/>
+<person name="Bhatia K.P."/>
+<person name="Korlipara L.V."/>
+<person name="Singleton A.B."/>
+<person name="Hardy J."/>
+<person name="Wood N.W."/>
+<person name="Lewis P.A."/>
+<person name="Houlden H."/>
+</authorList>
+<dbReference type="PubMed" id="27217339"/>
+<dbReference type="DOI" id="10.1093/brain/aww111"/>
+</citation>
+<scope>INVOLVEMENT IN SPG78</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2017" name="Brain" volume="140" first="287" last="305">
+<title>Loss-of-function mutations in the ATP13A2/PARK9 gene cause complicated hereditary spastic paraplegia (SPG78).</title>
+<authorList>
+<person name="Estrada-Cuzcano A."/>
+<person name="Martin S."/>
+<person name="Chamova T."/>
+<person name="Synofzik M."/>
+<person name="Timmann D."/>
+<person name="Holemans T."/>
+<person name="Andreeva A."/>
+<person name="Reichbauer J."/>
+<person name="De Rycke R."/>
+<person name="Chang D.I."/>
+<person name="van Veen S."/>
+<person name="Samuel J."/>
+<person name="Schoels L."/>
+<person name="Poeppel T."/>
+<person name="Mollerup Soerensen D."/>
+<person name="Asselbergh B."/>
+<person name="Klein C."/>
+<person name="Zuchner S."/>
+<person name="Jordanova A."/>
+<person name="Vangheluwe P."/>
+<person name="Tournev I."/>
+<person name="Schuele R."/>
+</authorList>
+<dbReference type="PubMed" id="28137957"/>
+<dbReference type="DOI" id="10.1093/brain/aww307"/>
+</citation>
+<scope>INVOLVEMENT IN SPG78</scope>
+<scope>VARIANT SPG78 ILE-517</scope>
+<scope>CHARACTERIZATION OF VARIANT KRS LEU-182</scope>
+<scope>CHARACTERIZATION OF VARIANT SPG78 ILE-517</scope>
+<scope>CHARACTERIZATION OF VARIANT ARG-533</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>AUTOPHOSPHORYLATION</scope>
+<scope>MUTAGENESIS OF ASP-513</scope>
+</reference>
+<comment type="function">
+<text evidence="12 13 17">ATPase that plays a role in intracellular cation homeostasis and the maintenance of neuronal integrity (PubMed:22186024). Required for a proper lysosomal and mitochondrial maintenance (PubMed:22296644, PubMed:28137957).</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="15">ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-6308763"/>
+<interactant intactId="EBI-1383433">
+<id>Q2M2I8</id>
+<label>AAK1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-6308763"/>
+<interactant intactId="EBI-849893">
+<id>O60238</id>
+<label>BNIP3L</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-6308763"/>
+<interactant intactId="EBI-714707">
+<id>O14976</id>
+<label>GAK</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-6308763"/>
+<interactant intactId="EBI-301697">
+<id>Q9UBN7</id>
+<label>HDAC6</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-6308763"/>
+<interactant intactId="EBI-351896">
+<id>P11142</id>
+<label>HSPA8</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-6308763"/>
+<interactant intactId="EBI-751770">
+<id>Q9BT88</id>
+<label>SYT11</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-6308763"/>
+<interactant intactId="EBI-2799703">
+<id>O95070</id>
+<label>YIF1A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2">Membrane</location>
+<topology evidence="2">Multi-pass membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="11 12 17">Lysosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="15">Lysosome membrane</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q9NQ11-1</id>
+<name>A</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q9NQ11-2</id>
+<name>B</name>
+<sequence type="described" ref="VSP_007310 VSP_007311 VSP_007312"/>
+</isoform>
+<isoform>
+<id>Q9NQ11-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_007310"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="12">Expressed in brain; protein levels are markedly increased in brain from subjects with Parkinson disease and subjects with dementia with Lewy bodies. Detected in pyramidal neurons located throughout the cingulate cortex (at protein level). In the substantia nigra, it is found in neuromelanin-positive dopaminergic neurons (at protein level).</text>
+</comment>
+<comment type="PTM">
+<text evidence="24">Autophosphorylated.</text>
+</comment>
+<comment type="disease" evidence="4 5 6 9 10 11 13 14 15 17">
+<disease id="DI-01870">
+<name>Kufor-Rakeb syndrome</name>
+<acronym>KRS</acronym>
+<description>A rare form of autosomal recessive juvenile or early-onset, levodopa-responsive parkinsonism. In addition to typical parkinsonian signs, clinical manifestations of Kufor-Rakeb syndrome include behavioral problems, facial tremor, pyramidal tract dysfunction, supranuclear gaze palsy, and dementia.</description>
+<dbReference type="MIM" id="606693"/>
+</disease>
+<text evidence="14">The disease is caused by mutations affecting the gene represented in this entry. KRS has also been referred to as neuronal ceroid lipofuscinosis 12 (CLN12), due to neuronal and glial lipofuscin deposits detected in the cortex, basal nuclei and cerebellum of some patients.</text>
+</comment>
+<comment type="disease" evidence="16 17">
+<disease id="DI-04938">
+<name>Spastic paraplegia 78, autosomal recessive</name>
+<acronym>SPG78</acronym>
+<description>A form of spastic paraplegia, a neurodegenerative disorder characterized by a slow, gradual, progressive weakness and spasticity of the lower limbs. Rate of progression and the severity of symptoms are quite variable. Initial symptoms may include difficulty with balance, weakness and stiffness in the legs, muscle spasms, and dragging the toes when walking. In some forms of the disorder, bladder symptoms (such as incontinence) may appear, or the weakness and stiffness may spread to other parts of the body.</description>
+<dbReference type="MIM" id="617225"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="23">Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type V subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="23">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="CAA08912" version="1"/>
+</conflict>
+<location>
+<position position="1054"/>
+</location>
+</comment>
+<dbReference type="EC" id="3.6.3.-"/>
+<dbReference type="EMBL" id="AL354615">
+<property type="protein sequence ID" value="CAB89728.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY461712">
+<property type="protein sequence ID" value="AAR23423.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK290210">
+<property type="protein sequence ID" value="BAF82899.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL049569">
+<property type="protein sequence ID" value="CAI20366.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471134">
+<property type="protein sequence ID" value="EAW94825.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471134">
+<property type="protein sequence ID" value="EAW94827.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC030267">
+<property type="protein sequence ID" value="AAH30267.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL833966">
+<property type="protein sequence ID" value="CAD38813.2"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ009947">
+<property type="protein sequence ID" value="CAA08912.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS175.1">
+<molecule id="Q9NQ11-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS44072.1">
+<molecule id="Q9NQ11-2"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS44073.1">
+<molecule id="Q9NQ11-3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001135445.1">
+<molecule id="Q9NQ11-3"/>
+<property type="nucleotide sequence ID" value="NM_001141973.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001135446.1">
+<molecule id="Q9NQ11-2"/>
+<property type="nucleotide sequence ID" value="NM_001141974.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_071372.1">
+<molecule id="Q9NQ11-1"/>
+<property type="nucleotide sequence ID" value="NM_022089.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.128866"/>
+<dbReference type="ProteinModelPortal" id="Q9NQ11"/>
+<dbReference type="BioGrid" id="116973">
+<property type="interactions" value="71"/>
+</dbReference>
+<dbReference type="IntAct" id="Q9NQ11">
+<property type="interactions" value="49"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-4781194"/>
+<dbReference type="STRING" id="9606.ENSP00000327214"/>
+<dbReference type="TCDB" id="3.A.3.10.7">
+<property type="family name" value="the p-type atpase (p-atpase) superfamily"/>
+</dbReference>
+<dbReference type="iPTMnet" id="Q9NQ11"/>
+<dbReference type="PhosphoSitePlus" id="Q9NQ11"/>
+<dbReference type="BioMuta" id="ATP13A2"/>
+<dbReference type="DMDM" id="14285364"/>
+<dbReference type="MaxQB" id="Q9NQ11"/>
+<dbReference type="PaxDb" id="Q9NQ11"/>
+<dbReference type="PeptideAtlas" id="Q9NQ11"/>
+<dbReference type="PRIDE" id="Q9NQ11"/>
+<dbReference type="Ensembl" id="ENST00000326735">
+<molecule id="Q9NQ11-1"/>
+<property type="protein sequence ID" value="ENSP00000327214"/>
+<property type="gene ID" value="ENSG00000159363"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000341676">
+<molecule id="Q9NQ11-2"/>
+<property type="protein sequence ID" value="ENSP00000341115"/>
+<property type="gene ID" value="ENSG00000159363"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000452699">
+<molecule id="Q9NQ11-3"/>
+<property type="protein sequence ID" value="ENSP00000413307"/>
+<property type="gene ID" value="ENSG00000159363"/>
+</dbReference>
+<dbReference type="GeneID" id="23400"/>
+<dbReference type="KEGG" id="hsa:23400"/>
+<dbReference type="UCSC" id="uc001baa.3">
+<molecule id="Q9NQ11-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="23400"/>
+<dbReference type="DisGeNET" id="23400"/>
+<dbReference type="GeneCards" id="ATP13A2"/>
+<dbReference type="GeneReviews" id="ATP13A2"/>
+<dbReference type="HGNC" id="HGNC:30213">
+<property type="gene designation" value="ATP13A2"/>
+</dbReference>
+<dbReference type="HPA" id="CAB037038"/>
+<dbReference type="HPA" id="CAB037111"/>
+<dbReference type="HPA" id="HPA050910"/>
+<dbReference type="HPA" id="HPA054717"/>
+<dbReference type="MalaCards" id="ATP13A2"/>
+<dbReference type="MIM" id="606693">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="610513">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="617225">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9NQ11"/>
+<dbReference type="OpenTargets" id="ENSG00000159363"/>
+<dbReference type="Orphanet" id="306674">
+<property type="disease" value="Kufor-Rakeb syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="314632">
+<property type="disease" value="Parkinsonim due to ATP13A2 deficiency"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA134897221"/>
+<dbReference type="eggNOG" id="KOG0208">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XRCA">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00530000063001"/>
+<dbReference type="HOGENOM" id="HOG000171813"/>
+<dbReference type="HOVERGEN" id="HBG065757"/>
+<dbReference type="InParanoid" id="Q9NQ11"/>
+<dbReference type="KO" id="K13526"/>
+<dbReference type="OMA" id="PPLWEPQ"/>
+<dbReference type="OrthoDB" id="EOG091G01IL"/>
+<dbReference type="PhylomeDB" id="Q9NQ11"/>
+<dbReference type="TreeFam" id="TF300331"/>
+<dbReference type="Reactome" id="R-HSA-936837">
+<property type="pathway name" value="Ion transport by P-type ATPases"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="ATP13A2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="ATP13A2"/>
+<dbReference type="GenomeRNAi" id="23400"/>
+<dbReference type="PRO" id="PR:Q9NQ11"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000159363"/>
+<dbReference type="CleanEx" id="HS_ATP13A2"/>
+<dbReference type="ExpressionAtlas" id="Q9NQ11">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9NQ11">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005776">
+<property type="term" value="C:autophagosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905103">
+<property type="term" value="C:integral component of lysosomal membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005770">
+<property type="term" value="C:late endosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043202">
+<property type="term" value="C:lysosomal lumen"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005765">
+<property type="term" value="C:lysosomal membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005764">
+<property type="term" value="C:lysosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005771">
+<property type="term" value="C:multivesicular body"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032585">
+<property type="term" value="C:multivesicular body membrane"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043005">
+<property type="term" value="C:neuron projection"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043025">
+<property type="term" value="C:neuronal cell body"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030133">
+<property type="term" value="C:transport vesicle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031982">
+<property type="term" value="C:vesicle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0012506">
+<property type="term" value="C:vesicle membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005388">
+<property type="term" value="F:calcium-transporting ATPase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019829">
+<property type="term" value="F:cation-transporting ATPase activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903135">
+<property type="term" value="F:cupric ion binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030145">
+<property type="term" value="F:manganese ion binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070300">
+<property type="term" value="F:phosphatidic acid binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0080025">
+<property type="term" value="F:phosphatidylinositol-3,5-bisphosphate binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905037">
+<property type="term" value="P:autophagosome organization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006874">
+<property type="term" value="P:cellular calcium ion homeostasis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030003">
+<property type="term" value="P:cellular cation homeostasis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006879">
+<property type="term" value="P:cellular iron ion homeostasis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071287">
+<property type="term" value="P:cellular response to manganese ion"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034599">
+<property type="term" value="P:cellular response to oxidative stress"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071294">
+<property type="term" value="P:cellular response to zinc ion"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006882">
+<property type="term" value="P:cellular zinc ion homeostasis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034220">
+<property type="term" value="P:ion transmembrane transport"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905166">
+<property type="term" value="P:negative regulation of lysosomal protein catabolic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901215">
+<property type="term" value="P:negative regulation of neuron death"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990938">
+<property type="term" value="P:peptidyl-aspartic acid autophosphorylation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905122">
+<property type="term" value="P:polyamine import"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903543">
+<property type="term" value="P:positive regulation of exosomal secretion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050714">
+<property type="term" value="P:positive regulation of protein secretion"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046777">
+<property type="term" value="P:protein autophosphorylation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016243">
+<property type="term" value="P:regulation of autophagosome size"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904714">
+<property type="term" value="P:regulation of chaperone-mediated autophagy"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0052548">
+<property type="term" value="P:regulation of endopeptidase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905123">
+<property type="term" value="P:regulation of glucosylceramidase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033157">
+<property type="term" value="P:regulation of intracellular protein transport"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905165">
+<property type="term" value="P:regulation of lysosomal protein catabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016241">
+<property type="term" value="P:regulation of macroautophagy"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010821">
+<property type="term" value="P:regulation of mitochondrion organization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903146">
+<property type="term" value="P:regulation of mitophagy"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055069">
+<property type="term" value="P:zinc ion homeostasis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.1110.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.70.150.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.1110.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023299">
+<property type="entry name" value="ATPase_P-typ_cyto_domN"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018303">
+<property type="entry name" value="ATPase_P-typ_P_site"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023298">
+<property type="entry name" value="ATPase_P-typ_TM_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008250">
+<property type="entry name" value="ATPase_P-typ_transduc_dom_A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023214">
+<property type="entry name" value="HAD-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006544">
+<property type="entry name" value="P-type_TPase_V"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001757">
+<property type="entry name" value="P_typ_ATPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00122">
+<property type="entry name" value="E1-E2_ATPase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12409">
+<property type="entry name" value="P5-ATPase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56784">
+<property type="entry name" value="SSF56784"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF81660">
+<property type="entry name" value="SSF81660"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01494">
+<property type="entry name" value="ATPase_P-type"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01657">
+<property type="entry name" value="P-ATPase-V"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00154">
+<property type="entry name" value="ATPASE_E1_E2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0890">Hereditary spastic paraplegia</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0458">Lysosome</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0523">Neurodegeneration</keyword>
+<keyword id="KW-0525">Neuronal ceroid lipofuscinosis</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0908">Parkinsonism</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Cation-transporting ATPase 13A2" id="PRO_0000046423">
+<location>
+<begin position="1"/>
+<end position="1180"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="1"/>
+<end position="12"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="13"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="3">
+<location>
+<begin position="35"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="46"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="67"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="231"/>
+<end position="253"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="3">
+<location>
+<begin position="254"/>
+<end position="256"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="257"/>
+<end position="276"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="277"/>
+<end position="425"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="426"/>
+<end position="445"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="3">
+<location>
+<begin position="446"/>
+<end position="459"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="460"/>
+<end position="480"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="481"/>
+<end position="932"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="933"/>
+<end position="952"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="3">
+<location>
+<begin position="953"/>
+<end position="963"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="964"/>
+<end position="981"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="982"/>
+<end position="997"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="998"/>
+<end position="1018"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="3">
+<location>
+<begin position="1019"/>
+<end position="1046"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="1047"/>
+<end position="1066"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="1067"/>
+<end position="1079"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="1080"/>
+<end position="1097"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="3">
+<location>
+<begin position="1098"/>
+<end position="1113"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="1114"/>
+<end position="1134"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="1135"/>
+<end position="1180"/>
+</location>
+</feature>
+<feature type="active site" description="4-aspartylphosphate intermediate" evidence="2">
+<location>
+<position position="513"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="2">
+<location>
+<position position="878"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="2">
+<location>
+<position position="882"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="151"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform B and isoform 3." id="VSP_007310" evidence="18 19 21 22">
+<location>
+<begin position="155"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform B." id="VSP_007311" evidence="19 22">
+<location>
+<begin position="805"/>
+<end position="843"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform B." id="VSP_007312" evidence="19 22">
+<original>VPFLVALALLSSVLVGLVLVPGLLQGPLALRNITDTGFKLLLLGLVTLNFVGAFMLESVLDQCLPACLRRLRPKRASKKRFKQLERELAEQPWPPLPAGPLR</original>
+<variation>ERARPVPPRLPAPPPAQAGLQEALQAAGTRAGRAALAAAARRPPEVVQAHGHPRHWNSLPLSHQLDPSPATPPPPPPTSLRLATVYTPPPRPPPPWGSVDYCPLPWTIPRRGGSPQLPSVLLSV</variation>
+<location>
+<begin position="1079"/>
+<end position="1180"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In KRS; no effect on stability; no effect on location; decreased ATPase activity; dbSNP:rs151117874." id="VAR_058451" evidence="5 15">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="12"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs56379718." id="VAR_058452" evidence="8">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="49"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In KRS; decreased protein stability; loss of autophosphorylation; increassed degradation by proteasome; novel location to endoplasmic reticulum; loss of lysosomal membrane location." id="VAR_066019" evidence="6 15 17">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="182"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs56367069." id="VAR_058453" evidence="8">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="294"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs56275621." id="VAR_058454" evidence="8">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="389"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In KRS; decreased protein stability; increassed degradation by proteasome; novel location to endoplasmic reticulum; loss of lysosomal membrane location; dbSNP:rs121918227." id="VAR_058455" evidence="5 15">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="504"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In SPG78; no effect on protein stability; loss of autophosphorylation; loss of lysosomal location." id="VAR_078055" evidence="17">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="517"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In KRS; unknown pathological significance." id="VAR_078056" evidence="13">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="522"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a patient with early onset Parkinson disease and KRS; decreased ATPase activity; no effect on protein stability; no effect on autophosphorylation; no effect on stability; no effect on location." id="VAR_058456" evidence="5 15 17">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="533"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs56186751." id="VAR_058457" evidence="8">
+<original>V</original>
+<variation>G</variation>
+<location>
+<position position="578"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In KRS; decreased ATPase activity; no effect on stability; no effect on location; dbSNP:rs147277743." id="VAR_058458" evidence="7 15">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="746"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55635527." id="VAR_058459" evidence="8">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="762"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs56170027." id="VAR_058460" evidence="8">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="776"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In KRS; some patients manifest neuropathologic findings suggestive of neuronal ceroid lipofuscinosis; dbSNP:rs587777053." id="VAR_070194" evidence="14">
+<original>M</original>
+<variation>R</variation>
+<location>
+<position position="854"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In KRS; found in two affected brothers also carrying C-481 in FBXO7; decreased protein stability; increassed degradation by proteasome; novel location to endoplasmic reticulum; dbSNP:rs144701072." id="VAR_066020" evidence="10 15">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="877"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55708915." id="VAR_058461" evidence="8">
+<original>I</original>
+<variation>F</variation>
+<location>
+<position position="946"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In KRS; the mutant protein is retained in the endoplasmic reticulum; dbSNP:rs137853967." id="VAR_066021" evidence="11">
+<original>L</original>
+<variation>R</variation>
+<location>
+<position position="1059"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of ATPase function." evidence="17">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="513"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; AAH30267." ref="6" evidence="23">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="322"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 8; CAA08912." ref="8" evidence="23">
+<original>APEQ</original>
+<variation>IPRA</variation>
+<location>
+<begin position="855"/>
+<end position="858"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 8; CAA08912." ref="8" evidence="23">
+<original>E</original>
+<variation>V</variation>
+<location>
+<position position="861"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000255"/>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16964263"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17485642"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18413573"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19015489"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19085912"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20683840"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20853184"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21542062"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22186024"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22296644"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22388936"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22768177"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27217339"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28137957"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="21542062"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000303">
+<source ref="2"/>
+</evidence>
+<evidence key="22" type="ECO:0000303">
+<source ref="8"/>
+</evidence>
+<evidence key="23" type="ECO:0000305"/>
+<evidence key="24" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="28137957"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:30213"/>
+</source>
+</evidence>
+<sequence length="1180" mass="128794" checksum="98D13745D3B615BE" modified="2001-06-01" version="2">
+MSADSSPLVGSTPTGYGTLTIGTSIDPLSSSVSSVRLSGYCGSPWRVIGYHVVVWMMAGI
+PLLLFRWKPLWGVRLRLRPCNLAHAETLVIEIRDKEDSSWQLFTVQVQTEAIGEGSLEPS
+PQSQAEDGRSQAAVGAVPEGAWKDTAQLHKSEEAVSVGQKRVLRYYLFQGQRYIWIETQQ
+AFYQVSLLDHGRSCDDVHRSRHGLSLQDQMVRKAIYGPNVISIPVKSYPQLLVDEALNPY
+YGFQAFSIALWLADHYYWYALCIFLISSISICLSLYKTRKQSQTLRDMVKLSMRVCVCRP
+GGEEEWVDSSELVPGDCLVLPQEGGLMPCDAALVAGECMVNESSLTGESIPVLKTALPEG
+LGPYCAETHRRHTLFCGTLILQARAYVGPHVLAVVTRTGFCTAKGGLVSSILHPRPINFK
+FYKHSMKFVAALSVLALLGTIYSIFILYRNRVPLNEIVIRALDLVTVVVPPALPAAMTVC
+TLYAQSRLRRQGIFCIHPLRINLGGKLQLVCFDKTGTLTEDGLDVMGVVPLKGQAFLPLV
+PEPRRLPVGPLLRALATCHALSRLQDTPVGDPMDLKMVESTGWVLEEEPAADSAFGTQVL
+AVMRPPLWEPQLQAMEEPPVPVSVLHRFPFSSALQRMSVVVAWPGATQPEAYVKGSPELV
+AGLCNPETVPTDFAQMLQSYTAAGYRVVALASKPLPTVPSLEAAQQLTRDTVEGDLSLLG
+LLVMRNLLKPQTTPVIQALRRTRIRAVMVTGDNLQTAVTVARGCGMVAPQEHLIIVHATH
+PERGQPASLEFLPMESPTAVNGVKDPDQAASYTVEPDPRSRHLALSGPTFGIIVKHFPKL
+LPKVLVQGTVFARMAPEQKTELVCELQKLQYCVGMCGDGANDCGALKAADVGISLSQAEA
+SVVSPFTSSMASIECVPMVIREGRCSLDTSFSVFKYMALYSLTQFISVLILYTINTNLGD
+LQFLAIDLVITTTVAVLMSRTGPALVLGRVRPPGALLSVPVLSSLLLQMVLVTGVQLGGY
+FLTLAQPWFVPLNRTVAAPDNLPNYENTVVFSLSSFQYLILAAAVSKGAPFRRPLYTNVP
+FLVALALLSSVLVGLVLVPGLLQGPLALRNITDTGFKLLLLGLVTLNFVGAFMLESVLDQ
+CLPACLRRLRPKRASKKRFKQLERELAEQPWPPLPAGPLR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

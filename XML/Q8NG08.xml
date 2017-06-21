@@ -1,0 +1,1002 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2008-06-10" modified="2017-04-12" version="103">
+<accession>Q8NG08</accession>
+<accession>A8K4C9</accession>
+<accession>Q4G0T2</accession>
+<accession>Q9H7L5</accession>
+<name>HELB_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="14">DNA helicase B</fullName>
+<shortName evidence="12 13">hDHB</shortName>
+<ecNumber evidence="4 15">3.6.4.12</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="16">HELB</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="40853" last="40861">
+<title>A dominant-negative mutant of human DNA helicase B blocks the onset of chromosomal DNA replication.</title>
+<authorList>
+<person name="Taneja P."/>
+<person name="Gu J."/>
+<person name="Peng R."/>
+<person name="Carrick R."/>
+<person name="Uchiumi F."/>
+<person name="Ott R.D."/>
+<person name="Gustafson E."/>
+<person name="Podust V.N."/>
+<person name="Fanning E."/>
+</authorList>
+<dbReference type="PubMed" id="12181327"/>
+<dbReference type="DOI" id="10.1074/jbc.M208067200"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>ENZYME REGULATION</scope>
+<scope>INTERACTION WITH RPA1</scope>
+<scope>INTERACTION WITH THE DNA POLYMERASE ALPHA COMPLEX</scope>
+<scope>MUTAGENESIS OF LYS-481 AND GLU-591</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2)</scope>
+<scope>VARIANTS PRO-191; LEU-966 AND ILE-980</scope>
+<source>
+<tissue>Spleen</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Mol. Biol. Cell" volume="15" first="3320" last="3332">
+<title>Cell cycle-dependent regulation of a human DNA helicase that localizes in DNA damage foci.</title>
+<authorList>
+<person name="Gu J."/>
+<person name="Xia X."/>
+<person name="Yan P."/>
+<person name="Liu H."/>
+<person name="Podust V.N."/>
+<person name="Reynolds A.B."/>
+<person name="Fanning E."/>
+</authorList>
+<dbReference type="PubMed" id="15146062"/>
+<dbReference type="DOI" id="10.1091/mbc.E04-03-0227"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION AT SER-967</scope>
+<scope>MUTAGENESIS OF SER-967; SER-984; SER-1005; SER-1021; 1061-VAL--LEU-1065 AND 1068-LEU--LEU-1070</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2007" name="Science" volume="316" first="1160" last="1166">
+<title>ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage.</title>
+<authorList>
+<person name="Matsuoka S."/>
+<person name="Ballif B.A."/>
+<person name="Smogorzewska A."/>
+<person name="McDonald E.R. III"/>
+<person name="Hurov K.E."/>
+<person name="Luo J."/>
+<person name="Bakalarski C.E."/>
+<person name="Zhao Z."/>
+<person name="Solimini N."/>
+<person name="Lerenthal Y."/>
+<person name="Shiloh Y."/>
+<person name="Gygi S.P."/>
+<person name="Elledge S.J."/>
+</authorList>
+<dbReference type="PubMed" id="17525332"/>
+<dbReference type="DOI" id="10.1126/science.1140321"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Embryonic kidney</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2009" name="Anal. Chem." volume="81" first="4493" last="4501">
+<title>Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach.</title>
+<authorList>
+<person name="Gauci S."/>
+<person name="Helbig A.O."/>
+<person name="Slijper M."/>
+<person name="Krijgsveld J."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="19413330"/>
+<dbReference type="DOI" id="10.1021/ac9004309"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2009" name="Sci. Signal." volume="2" first="RA46" last="RA46">
+<title>Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions.</title>
+<authorList>
+<person name="Mayya V."/>
+<person name="Lundgren D.H."/>
+<person name="Hwang S.-I."/>
+<person name="Rezaul K."/>
+<person name="Wu L."/>
+<person name="Eng J.K."/>
+<person name="Rodionov V."/>
+<person name="Han D.K."/>
+</authorList>
+<dbReference type="PubMed" id="19690332"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000007"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-1027</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Leukemic T-cell</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2011" name="Sci. Signal." volume="4" first="RS3" last="RS3">
+<title>System-wide temporal characterization of the proteome and phosphoproteome of human embryonic stem cell differentiation.</title>
+<authorList>
+<person name="Rigbolt K.T."/>
+<person name="Prokhorova T.A."/>
+<person name="Akimov V."/>
+<person name="Henningsen J."/>
+<person name="Johansen P.T."/>
+<person name="Kratchmarova I."/>
+<person name="Kassem M."/>
+<person name="Mann M."/>
+<person name="Olsen J.V."/>
+<person name="Blagoev B."/>
+</authorList>
+<dbReference type="PubMed" id="21406692"/>
+<dbReference type="DOI" id="10.1126/scisignal.2001570"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2012" name="J. Biol. Chem." volume="287" first="6469" last="6481">
+<title>Human DNA helicase B (HDHB) binds to replication protein A and facilitates cellular recovery from replication stress.</title>
+<authorList>
+<person name="Guler G.D."/>
+<person name="Liu H."/>
+<person name="Vaithiyalingam S."/>
+<person name="Arnett D.R."/>
+<person name="Kremmer E."/>
+<person name="Chazin W.J."/>
+<person name="Fanning E."/>
+</authorList>
+<dbReference type="PubMed" id="22194613"/>
+<dbReference type="DOI" id="10.1074/jbc.M111.324582"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH RPA1</scope>
+<scope>MUTAGENESIS OF GLU-499; ASP-506 AND ASP-510</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-967 AND SER-1058</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2015" name="Exp. Cell Res." volume="334" first="283" last="293">
+<title>Human DNA helicase B interacts with the replication initiation protein Cdc45 and facilitates Cdc45 binding onto chromatin.</title>
+<authorList>
+<person name="Gerhardt J."/>
+<person name="Guler G.D."/>
+<person name="Fanning E."/>
+</authorList>
+<dbReference type="PubMed" id="25933514"/>
+<dbReference type="DOI" id="10.1016/j.yexcr.2015.04.014"/>
+</citation>
+<scope>INTERACTION WITH CDC45 AND TOPB1</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2015" name="PLoS ONE" volume="10" first="E0116852" last="E0116852">
+<title>Human DNA helicase B functions in cellular homologous recombination and stimulates Rad51-mediated 5'-3' heteroduplex extension in vitro.</title>
+<authorList>
+<person name="Liu H."/>
+<person name="Yan P."/>
+<person name="Fanning E."/>
+</authorList>
+<dbReference type="PubMed" id="25617833"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0116852"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>MUTAGENESIS OF LYS-481 AND GLU-591</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2016" name="Mol. Cell" volume="61" first="405" last="418">
+<title>HELB is a feedback inhibitor of DNA end resection.</title>
+<authorList>
+<person name="Tkac J."/>
+<person name="Xu G."/>
+<person name="Adhikary H."/>
+<person name="Young J.T."/>
+<person name="Gallo D."/>
+<person name="Escribano-Diaz C."/>
+<person name="Krietsch J."/>
+<person name="Orthwein A."/>
+<person name="Munro M."/>
+<person name="Sol W."/>
+<person name="Al-Hakim A."/>
+<person name="Lin Z.Y."/>
+<person name="Jonkers J."/>
+<person name="Borst P."/>
+<person name="Brown G.W."/>
+<person name="Gingras A.C."/>
+<person name="Rottenberg S."/>
+<person name="Masson J.Y."/>
+<person name="Durocher D."/>
+</authorList>
+<dbReference type="PubMed" id="26774285"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2015.12.013"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH RPA1</scope>
+<scope>MUTAGENESIS OF LYS-481; GLU-499; ASP-506; ASP-510 AND GLU-591</scope>
+</reference>
+<comment type="function">
+<text evidence="4 7 8 10">5'-3' DNA helicase involved in DNA damage response by acting as an inhibitor of DNA end resection (PubMed:25617833, PubMed:26774285). Recruitment to single-stranded DNA (ssDNA) following DNA damage leads to inhibit the nucleases catalyzing resection, such as EXO1, BLM and DNA2, possibly via the 5'-3' ssDNA translocase activity of HELB (PubMed:26774285). As cells approach S phase, DNA end resection is promoted by the nuclear export of HELB following phosphorylation (PubMed:26774285). Acts independently of TP53BP1 (PubMed:26774285). Unwinds duplex DNA with 5'-3' polarity. Has single-strand DNA-dependent ATPase and DNA helicase activities. Prefers ATP and dATP as substrates (PubMed:12181327). During S phase, may facilitate cellular recovery from replication stress (PubMed:22194613).</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="4 15">ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="4">Inhibited by salt concentration greater than 100 mM. Uses either magnesium or manganese ions to support helicase activity. Binds strongly to single-stranded DNA in the absence of ATP but dissociates readily in the presence of 1 mM ATP.</text>
+</comment>
+<comment type="subunit">
+<text evidence="4 7 9">Binds to RPA1; this interaction promotes HELB recruitment to chromatin following DNA damage (PubMed:12181327, PubMed:22194613, PubMed:26774285). Interacts with at least two subunits of the DNA polymerase alpha complex (PubMed:12181327): Interacts with CDC45 (PubMed:25933514). Interacts with TOPB1 (PubMed:25933514).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="6">Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="6">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="10">Chromosome</location>
+</subcellularLocation>
+<text evidence="6 7 10">Predominantly nuclear (PubMed:15146062). Phosphorylation at Ser-967 by CDK2 during the G1/S transition results in its nuclear export into the cytoplasm as cells approach and progress through S phase (PubMed:15146062). Following DNA damage, recruited to sites of double-strand breaks by the RPA complex (PubMed:26774285). Recruited to chromatin following DNA damage induced by UV irradiation, or camptothecin or hydroxyurea treatment (PubMed:22194613).</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q8NG08-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q8NG08-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_034086 VSP_034087"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="4">Highly expressed in testis and thymus and weakly in liver, spleen, kidney and brain.</text>
+</comment>
+<comment type="PTM">
+<text evidence="6 10">Phosphorylated at Ser-967 by CDK2 during the G1/S transition, resulting in its nuclear export into the cytoplasm (PubMed:15146062, PubMed:26774285). As S phase progresses, its exclusion from the nucleus promotes the activation of long-range resection (PubMed:26774285).</text>
+</comment>
+<comment type="similarity">
+<text evidence="14">Belongs to the RecD family. HELB subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="14">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="BAB15754" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.12" evidence="4 15"/>
+<dbReference type="EMBL" id="AF319995">
+<property type="protein sequence ID" value="AAM73554.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK024464">
+<property type="protein sequence ID" value="BAB15754.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK290894">
+<property type="protein sequence ID" value="BAF83583.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS8976.1">
+<molecule id="Q8NG08-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_387467.2">
+<molecule id="Q8NG08-1"/>
+<property type="nucleotide sequence ID" value="NM_033647.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_005269291.1">
+<molecule id="Q8NG08-1"/>
+<property type="nucleotide sequence ID" value="XM_005269234.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.505941"/>
+<dbReference type="ProteinModelPortal" id="Q8NG08"/>
+<dbReference type="BioGrid" id="124978">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="IntAct" id="Q8NG08">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000247815"/>
+<dbReference type="iPTMnet" id="Q8NG08"/>
+<dbReference type="PhosphoSitePlus" id="Q8NG08"/>
+<dbReference type="BioMuta" id="HELB"/>
+<dbReference type="DMDM" id="190359604"/>
+<dbReference type="EPD" id="Q8NG08"/>
+<dbReference type="MaxQB" id="Q8NG08"/>
+<dbReference type="PaxDb" id="Q8NG08"/>
+<dbReference type="PeptideAtlas" id="Q8NG08"/>
+<dbReference type="PRIDE" id="Q8NG08"/>
+<dbReference type="DNASU" id="92797"/>
+<dbReference type="Ensembl" id="ENST00000247815">
+<molecule id="Q8NG08-1"/>
+<property type="protein sequence ID" value="ENSP00000247815"/>
+<property type="gene ID" value="ENSG00000127311"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000440906">
+<molecule id="Q8NG08-2"/>
+<property type="protein sequence ID" value="ENSP00000396955"/>
+<property type="gene ID" value="ENSG00000127311"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000545134">
+<molecule id="Q8NG08-1"/>
+<property type="protein sequence ID" value="ENSP00000443287"/>
+<property type="gene ID" value="ENSG00000127311"/>
+</dbReference>
+<dbReference type="GeneID" id="92797"/>
+<dbReference type="KEGG" id="hsa:92797"/>
+<dbReference type="UCSC" id="uc001sti.4">
+<molecule id="Q8NG08-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="92797"/>
+<dbReference type="DisGeNET" id="92797"/>
+<dbReference type="GeneCards" id="HELB"/>
+<dbReference type="H-InvDB" id="HIX0036722"/>
+<dbReference type="HGNC" id="HGNC:17196">
+<property type="gene designation" value="HELB"/>
+</dbReference>
+<dbReference type="MIM" id="614539">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q8NG08"/>
+<dbReference type="OpenTargets" id="ENSG00000127311"/>
+<dbReference type="PharmGKB" id="PA134987279"/>
+<dbReference type="eggNOG" id="ENOG410IK73">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0507">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000006913"/>
+<dbReference type="HOGENOM" id="HOG000043085"/>
+<dbReference type="HOVERGEN" id="HBG097647"/>
+<dbReference type="InParanoid" id="Q8NG08"/>
+<dbReference type="KO" id="K15254"/>
+<dbReference type="OMA" id="AVTRGRC"/>
+<dbReference type="OrthoDB" id="EOG091G06G9"/>
+<dbReference type="PhylomeDB" id="Q8NG08"/>
+<dbReference type="TreeFam" id="TF336223"/>
+<dbReference type="GenomeRNAi" id="92797"/>
+<dbReference type="PRO" id="PR:Q8NG08"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 12"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000127311"/>
+<dbReference type="CleanEx" id="HS_HELB"/>
+<dbReference type="ExpressionAtlas" id="Q8NG08">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q8NG08">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035861">
+<property type="term" value="C:site of double-strand break"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043141">
+<property type="term" value="F:ATP-dependent 5'-3' DNA helicase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004004">
+<property type="term" value="F:ATP-dependent RNA helicase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017116">
+<property type="term" value="F:single-stranded DNA-dependent ATP-dependent DNA helicase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006974">
+<property type="term" value="P:cellular response to DNA damage stimulus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006260">
+<property type="term" value="P:DNA replication"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006269">
+<property type="term" value="P:DNA replication, synthesis of RNA primer"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000042">
+<property type="term" value="P:negative regulation of double-strand break repair via homologous recombination"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903775">
+<property type="term" value="P:regulation of DNA double-strand break processing"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006396">
+<property type="term" value="P:RNA processing"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027044">
+<property type="entry name" value="Helb"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027785">
+<property type="entry name" value="UvrD-like_helicase_C"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR18934:SF155">
+<property type="entry name" value="PTHR18934:SF155"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13538">
+<property type="entry name" value="UvrD_C_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="6"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0158">Chromosome</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0347">Helicase</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="DNA helicase B" id="PRO_0000338992">
+<location>
+<begin position="1"/>
+<end position="1087"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Nuclear export signal" evidence="6">
+<location>
+<begin position="1055"/>
+<end position="1078"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by CDK2" evidence="2 6">
+<location>
+<position position="967"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="971"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="1">
+<location>
+<position position="1027"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1048"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="2">
+<location>
+<position position="1058"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_034086" evidence="11">
+<original>NYSFYSWTQTMMT</original>
+<variation>TLDSYPVLNLVTC</variation>
+<location>
+<begin position="562"/>
+<end position="574"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_034087" evidence="11">
+<location>
+<begin position="575"/>
+<end position="1087"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35605829." id="VAR_043855">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="172"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4430553." id="VAR_043856" evidence="5">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="191"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35138454." id="VAR_043857">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="267"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs58589183." id="VAR_061665">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="575"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1185244." id="VAR_043858" evidence="5">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="966"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1168312." id="VAR_043859" evidence="5">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="980"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No ATPase activity." evidence="4 8 10">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="481"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of RPA1-binding, leading to impaired recruitment to sites of double-strand breaks; when associated with A-506 and A-510." evidence="7 10">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="499"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of RPA1-binding, leading to impaired recruitment to sites of double-strand breaks; when associated with A-499 and A-510." evidence="7 10">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="506"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of RPA1-binding, leading to impaired recruitment to sites of double-strand breaks; when associated with A-499 and A-506." evidence="7 10">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="510"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No ATPase activity." evidence="4 8 10">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="591"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired phosphorylation, inducing accumulation in the nucleus." evidence="6">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="967"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Phosphomimetic mutant; leads to higher localization to the cytoplasm." evidence="6">
+<original>S</original>
+<variation>D</variation>
+<location>
+<position position="967"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect subcellular location." evidence="6">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="984"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect subcellular location." evidence="6">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="1005"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect subcellular location." evidence="6">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="1021"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Accumulation in the nucleus due to defects in nuclear export." evidence="6">
+<original>VSSRL</original>
+<variation>ASSRA</variation>
+<location>
+<begin position="1061"/>
+<end position="1065"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Accumulation in the nucleus due to defects in nuclear export." evidence="6">
+<original>LRL</original>
+<variation>ARA</variation>
+<location>
+<begin position="1068"/>
+<end position="1070"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; BAF83583." ref="2" evidence="14">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="366"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; BAF83583." ref="2" evidence="14">
+<original>F</original>
+<variation>S</variation>
+<location>
+<position position="849"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19690332"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q6NVF4"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12181327"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15146062"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22194613"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25617833"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25933514"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26774285"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15146062"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="22194613"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000305"/>
+<evidence key="15" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="25617833"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:17196"/>
+</source>
+</evidence>
+<sequence length="1087" mass="123252" checksum="05220F3186CE722B" modified="2008-06-10" version="2">
+MARSSPYLRQLQGPLLPPRDLVEEDDDYLNDDVEEDEESVFIDAEELCSGGVKAGSLPGC
+LRVSICDENTQETCKVFGRFPITGAWWRVKVQVKPVVGSRSYQYQVQGFPSYFLQSDMSP
+PNQKHICALFLKECEVSSDDVNKFLTWVKEVSNYKNLNFENLRETLRTFHKETGRKDQKQ
+PTQNGQEELFLDNEMSLPLENTIPFRNVMTALQFPKIMEFLPVLLPRHFKWIIGSGSKEM
+LKEIEEILGTHPWKLGFSKITYREWKLLRCEASWIAFCQCESLLQLMTDLEKNALIMYSR
+LKQICREDGHTYVEVNDLTLTLSNHMSFHAASESLKFLKDIGVVTYEKSCVFPYDLYHAE
+RAIAFSICDLMKKPPWHLCVDVEKVLASIHTTKPENSSDDALNESKPDEVRLENPVDVVD
+TQDNGDHIWTNGENEINAEISEVQLDQDQVEVPLDRDQVAALEMICSNPVTVISGKGGCG
+KTTIVSRLFKHIEQLEEREVKKACEDFEQDQNASEEWITFTEQSQLEADKAIEVLLTAPT
+GKAAGLLRQKTGLHAYTLCQVNYSFYSWTQTMMTTNKPWKFSSVRVLVVDEGSLVSVGIF
+KSVLNLLCEHSKLSKLIILGDIRQLPSIEPGNLLKDLFETLKSRNCAIELKTNHRAESQL
+IVDNATRISRRQFPKFDAELNISDNPTLPISIQDKTFIFVRLPEEDASSQSSKTNHHSCL
+YSAVKTLLQENNLQNAKTSQFIAFRRQDCDLINDCCCKHYTGHLTKDHQSRLVFGIGDKI
+CCTRNAYLSDLLPENISGSQQNNDLDASSEDFSGTLPDFAKNKRDFESNVRLCNGEIFFI
+TNDVTDVTFGKRRSLTINNMAGLEVTVDFKKLMKYCRIKHAWARTIHTFQGSEEQTVVYV
+VGKAGRQHWQHVYTAVTRGRCRVYVIAEESQLRNAIMKNSFPRKTRLKHFLQSKLSSSGA
+PPADFPSPRKSSGDSGGPSTPSASPLPVVTDHAMTNDVTWSEASSPDERTLTFAERWQLS
+SPDGVDTDDDLPKSRASKRTCGVNDDESPSKIFMVGESPQVSSRLQNLRLNNLIPRQLFK
+PTDNQET
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

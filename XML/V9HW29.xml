@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2014-03-19" modified="2017-05-10" version="30">
+<accession>V9HW29</accession>
+<name>V9HW29_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">Kinesin-like protein</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="7">HEL-S-61</name>
+</gene>
+<organism evidence="7">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7">
+<citation type="submission" date="2008-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Li J."/>
+<person name="Wang H."/>
+<person name="Liu J."/>
+<person name="Liu F."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="interaction">
+<interactant intactId="EBI-10330057"/>
+<interactant intactId="EBI-10185196">
+<id>Q6DHZ2</id>
+<label>PRKAR2B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10330057"/>
+<interactant intactId="EBI-529518">
+<id>Q86VP1</id>
+<label>TAX1BP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10330057"/>
+<interactant intactId="EBI-2799833">
+<id>Q8N1B4</id>
+<label>VPS52</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10330057"/>
+<interactant intactId="EBI-742740">
+<id>Q96BR9</id>
+<label>ZBTB8A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="similarity">
+<text evidence="1 2 3">Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family.</text>
+</comment>
+<dbReference type="EMBL" id="FJ224324">
+<property type="protein sequence ID" value="ACI46016.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_004512.1">
+<property type="nucleotide sequence ID" value="NM_004521.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.327736"/>
+<dbReference type="ProteinModelPortal" id="V9HW29"/>
+<dbReference type="SMR" id="V9HW29"/>
+<dbReference type="IntAct" id="V9HW29">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000307078"/>
+<dbReference type="MaxQB" id="V9HW29"/>
+<dbReference type="PaxDb" id="V9HW29"/>
+<dbReference type="PRIDE" id="V9HW29"/>
+<dbReference type="GeneID" id="3799"/>
+<dbReference type="KEGG" id="hsa:3799"/>
+<dbReference type="UCSC" id="uc001iwe.5">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="3799"/>
+<dbReference type="eggNOG" id="KOG0240">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5059">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="KO" id="K10396"/>
+<dbReference type="OMA" id="LAECNIK"/>
+<dbReference type="OrthoDB" id="EOG091G02A2"/>
+<dbReference type="PhylomeDB" id="V9HW29"/>
+<dbReference type="ChiTaRS" id="KIF5B">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="3799"/>
+<dbReference type="ExpressionAtlas" id="V9HW29">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044295">
+<property type="term" value="C:axonal growth cone"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035253">
+<property type="term" value="C:ciliary rootlet"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030139">
+<property type="term" value="C:endocytic vesicle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005874">
+<property type="term" value="C:microtubule"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005815">
+<property type="term" value="C:microtubule organizing center"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048471">
+<property type="term" value="C:perinuclear region of cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008432">
+<property type="term" value="F:JUN kinase binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0099609">
+<property type="term" value="F:microtubule lateral binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003777">
+<property type="term" value="F:microtubule motor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007028">
+<property type="term" value="P:cytoplasm organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072383">
+<property type="term" value="P:plus-end-directed vesicle transport along microtubule"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035774">
+<property type="term" value="P:positive regulation of insulin secretion involved in cellular response to glucose stimulus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090316">
+<property type="term" value="P:positive regulation of intracellular protein transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032230">
+<property type="term" value="P:positive regulation of synaptic transmission, GABAergic"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031340">
+<property type="term" value="P:positive regulation of vesicle fusion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905152">
+<property type="term" value="P:positive regulation of voltage-gated sodium channel activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035617">
+<property type="term" value="P:stress granule disassembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.850.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019821">
+<property type="entry name" value="Kinesin_motor_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001752">
+<property type="entry name" value="Kinesin_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00225">
+<property type="entry name" value="Kinesin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00380">
+<property type="entry name" value="KINESINHEAVY"/>
+</dbReference>
+<dbReference type="SMART" id="SM00129">
+<property type="entry name" value="KISc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00411">
+<property type="entry name" value="KINESIN_MOTOR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50067">
+<property type="entry name" value="KINESIN_MOTOR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="1 2 4">ATP-binding</keyword>
+<keyword id="KW-0175" evidence="5">Coiled coil</keyword>
+<keyword id="KW-0493" evidence="2">Microtubule</keyword>
+<keyword id="KW-0505" evidence="1 2">Motor protein</keyword>
+<keyword id="KW-0547" evidence="1 2 4">Nucleotide-binding</keyword>
+<feature type="domain" description="Kinesin motor" evidence="6">
+<location>
+<begin position="8"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="85"/>
+<end position="92"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="330"/>
+<end position="364"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="418"/>
+<end position="543"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="594"/>
+<end position="684"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="716"/>
+<end position="757"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="768"/>
+<end position="802"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="825"/>
+<end position="912"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00283"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000394"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00546352"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00784251"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50067"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ACI46016.1"/>
+</source>
+</evidence>
+<sequence length="963" mass="109685" checksum="A1FE5760C3250C8B" modified="2014-03-19" version="1">
+MADLAECNIKVMCRFRPLNESEVNRGDKYIAKFQGEDTVVIASKPYAFDRVFQSSTSQEQ
+VYNDCAKKIVKDVLEGYNGTIFAYGQTSSGKTHTMEGKLHDPEGMGIIPRIVQDIFNYIY
+SMDENLEFHIKVSYFEIYLDKIRDLLDVSKTNLSVHEDKNRVPYVKGCTERFVCSPDEVM
+DTIDEGKSNRHVAVTNMNEHSSRSHSIFLINVKQENTQTEQKLSGKLYLVDLAGSEKVSK
+TGAEGAVLDEAKNINKSLSALGNVISALAEGSTYVPYRDSKMTRILQDSLGGNCRTTIVI
+CCSPSSYNESETKSTLLFGQRAKTIKNTVCVNVELTAEQWKKKYEKEKEKNKILRNTIQW
+LENELNRWRNGETVPIDEQFDKEKANLEAFTVDKDITLTNDKPATAIGVIGNFTDAERRK
+CEEEIAKLYKQLDDKDEEINQQSQLVEKLKTQMLDQEELLASTRRDQDNMQAELNRLQAE
+NDASKEEVKEVLQALEELAVNYDQKSQEVEDKTKEYELLSDELNQKSATLASIDAELQKL
+KEMTNHQKKRAAEMMASLLKDLAEIGIAVGNNDVKQPEGTGMIDEEFTVARLYISKMKSE
+VKTMVKRCKQLESTQTESNKKMEENEKELAACQLRISQHEAKIKSLTEYLQNVEQKKRQL
+EESVDALSEELVQLRAQEKVHEMEKEHLNKVQTANEVKQAVEQQIQSHRETHQKQISSLR
+DEVEAKAKLITDLQDQNQKMMLEQERLRVEHEKLKATDQEKSRKLHELTVMQDRREQARQ
+DLKGLEETVAKELQTLHNLRKLFVQDLATRVKKSAEIDSDDTGGSAAQKQKISFLENNLE
+QLTKVHKQLVRDNADLRCELPKLEKRLRATAERVKALESALKEAKENASRDRKRYQQEVD
+RIKEAVRSKNMARRGHSAQIAKPIRPGQHPAASPTHPSAIRGGGAFVQNSQPVAVRGGGG
+KQV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-09-23" modified="2017-05-10" version="60">
+<accession>B4DYE2</accession>
+<name>B4DYE2_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="6">cDNA FLJ61467, highly similar to Chromosome-associated kinesin KIF4A</fullName>
+</submittedName>
+</protein>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project focused on splicing variants.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="6">Testis</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1 2">Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family.</text>
+</comment>
+<dbReference type="EMBL" id="AK302388">
+<property type="protein sequence ID" value="BAG63704.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001092763.1">
+<property type="nucleotide sequence ID" value="NM_001099293.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.567824"/>
+<dbReference type="STRING" id="9606.ENSP00000387875"/>
+<dbReference type="PaxDb" id="B4DYE2"/>
+<dbReference type="PeptideAtlas" id="B4DYE2"/>
+<dbReference type="PRIDE" id="B4DYE2"/>
+<dbReference type="GeneID" id="285643"/>
+<dbReference type="KEGG" id="hsa:285643"/>
+<dbReference type="CTD" id="285643"/>
+<dbReference type="eggNOG" id="KOG0244">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5059">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG052256"/>
+<dbReference type="KO" id="K10395"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008017">
+<property type="term" value="F:microtubule binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003777">
+<property type="term" value="F:microtubule motor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007018">
+<property type="term" value="P:microtubule-based movement"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.850.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019821">
+<property type="entry name" value="Kinesin_motor_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001752">
+<property type="entry name" value="Kinesin_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033467">
+<property type="entry name" value="Tesmin/TSO1-like_CXC"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00225">
+<property type="entry name" value="Kinesin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00380">
+<property type="entry name" value="KINESINHEAVY"/>
+</dbReference>
+<dbReference type="SMART" id="SM01114">
+<property type="entry name" value="CXC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00129">
+<property type="entry name" value="KISc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00411">
+<property type="entry name" value="KINESIN_MOTOR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50067">
+<property type="entry name" value="KINESIN_MOTOR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1 3">ATP-binding</keyword>
+<keyword id="KW-0175" evidence="4">Coiled coil</keyword>
+<keyword id="KW-0505" evidence="1">Motor protein</keyword>
+<keyword id="KW-0547" evidence="1 3">Nucleotide-binding</keyword>
+<feature type="domain" description="Kinesin motor" evidence="5">
+<location>
+<begin position="9"/>
+<end position="336"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="88"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="4">
+<location>
+<begin position="420"/>
+<end position="447"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="4">
+<location>
+<begin position="554"/>
+<end position="595"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="4">
+<location>
+<begin position="602"/>
+<end position="646"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="4">
+<location>
+<begin position="700"/>
+<end position="727"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="4">
+<location>
+<begin position="820"/>
+<end position="847"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="4">
+<location>
+<begin position="963"/>
+<end position="993"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00283"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00546352"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00784251"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50067"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG63704.1"/>
+</source>
+</evidence>
+<sequence length="1234" mass="139905" checksum="414BEB797677B0C9" modified="2008-09-23" version="1">
+MKEEVKGIPVRVALRCRPLVPKEISEGCQMCLSFVPGETQVVVGTDKSFTYDFVFDPCTE
+QEEVFNKAVAPLIKGIFKGYNATVLAYGQTGSGKTYSMGGAYTAEQENEPTVGIIPRVIQ
+LLFKEIDKKSDFEFTLKVSYLEIYNEEILDLLCPSREKAQINIREDPKEGIKIVGLTEKT
+VLVALDTVSCLEQGNNSRTVASTAMNSQSSRSHAIFTISIEQRKKSDKNCSFRSKLHLVD
+LAGSERQKKTKAEGDRLKEGININRGLLCLGNVISALGDDKKGSFVPYRDSKLTRLLQDS
+LGGNSHTLMIACVSPADSNLEETLSTLRYADRARKIKNKPIVNIDPHTAELNHLKQQVQQ
+LQVLLLQAHGGTLPGSINAEPSENLQSLMEKNQSLVEENEKLSRCLSKAAGQTAQMLERI
+ILTEQVNEKLNAKLEELRQHVACKLDLQKLVETLEDQELKENVEIICNLQQLITQLSDET
+VACTAAAIDTAVEEEAQVETSPETSRSSDAFTTQHALHQAQMSKEVVELNNALALKEALV
+RKMTQNDNQLQPIQFQYQDSIKNLELEVINLQKEKEELVLELQTAKKNVNQAKLSEHRHK
+LLQELEGQIADLKKKLNEQSKLLKLKESTERTVSKLNQEIWMMKNQRVQLMRQMKEDAEK
+FRQWKQKKDKEVIQLKERDRKRQCELLKLERNFQKQSSVLRRKTEEAAAANKRLKDALQK
+QREVTDKRKETQSHGKEGIAARVRNWLGNEIEVMVSTEEAKRHLNDLLEDRKILAQDVVQ
+LKEKKESRENPPPKLRKCTFSLSEVHGQVLESEDCITKQIESLETEMELRSAQIADLQQK
+LLDAESEDRPKQCWENIATILEAKCALKYLIGELVSSKIHVTKLENSLRQSKASCADMQK
+MLFEEQNHFSEIETELQAELVRMEQQHQEKVLYLVSQLQESQMAEKQLEKSASEKEQQLV
+STLQCQDEELEKMREVCEQNQQLLQENEIIKQKLILLQVASRQKHLPNDTLLSPDSSFEY
+IPPKPKPSRVKEKFLEQSMDIEDLKYCSEHSVNEHEDGDGDGDSDEGDDEEWKPTKLVKV
+SRKNIQGCSCKGWCGNKQCGCRKQKSDCGVDCSCDPTKCRNRQQGKDSLGTVEQTQDSEG
+SFKLEDPTEVTPGLSFFNPVCATPNSKILKEMCDMEQVLSKKTAPAPSPFDLPESKHGAT
+EYQQNKPPGKKKKRALASNTSFFSGCSPIEEEAH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

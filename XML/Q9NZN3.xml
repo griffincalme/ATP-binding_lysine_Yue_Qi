@@ -1,0 +1,1425 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2001-09-26" modified="2017-05-10" version="139">
+<accession>Q9NZN3</accession>
+<accession>B4DFR5</accession>
+<accession>D6W574</accession>
+<accession>Q8N514</accession>
+<accession>Q9NZB3</accession>
+<name>EHD3_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="23">EH domain-containing protein 3</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="23">PAST homolog 3</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="25">EHD3</name>
+<name type="synonym" evidence="21">EHD2</name>
+<name type="synonym" evidence="25">PAST3</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2000" name="Genomics" volume="63" first="255" last="262">
+<title>EHD2, EHD3, and EHD4 encode novel members of a highly conserved family of EH domain-containing proteins.</title>
+<authorList>
+<person name="Pohl U."/>
+<person name="Smith J.S."/>
+<person name="Tachibana I."/>
+<person name="Ueki K."/>
+<person name="Lee H.K."/>
+<person name="Ramaswamy S."/>
+<person name="Wu Q."/>
+<person name="Mohrenweiser H.W."/>
+<person name="Jenkins R.B."/>
+<person name="Louis D.N."/>
+</authorList>
+<dbReference type="PubMed" id="10673336"/>
+<dbReference type="DOI" id="10.1006/geno.1999.6087"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2002" name="Traffic" volume="3" first="575" last="589">
+<title>EHD3: a protein that resides in recycling tubular and vesicular membrane structures and interacts with EHD1.</title>
+<authorList>
+<person name="Galperin E."/>
+<person name="Benjamin S."/>
+<person name="Rapaport D."/>
+<person name="Rotem-Yehudar R."/>
+<person name="Tolchinsky S."/>
+<person name="Horowitz M."/>
+</authorList>
+<dbReference type="PubMed" id="12121420"/>
+<dbReference type="DOI" id="10.1034/j.1600-0854.2002.30807.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+<source>
+<tissue>Amygdala</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="724" last="731">
+<title>Generation and annotation of the DNA sequences of human chromosomes 2 and 4.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Graves T.A."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Pepin K.H."/>
+<person name="Minx P."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Kremitzki C."/>
+<person name="Oddy L."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Carter J."/>
+<person name="Cordes M."/>
+<person name="Harris A."/>
+<person name="Isak A."/>
+<person name="van Brunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Abbott S."/>
+<person name="Armstrong J."/>
+<person name="Belter E.A."/>
+<person name="Caruso L."/>
+<person name="Cedroni M."/>
+<person name="Cotton M."/>
+<person name="Davidson T."/>
+<person name="Desai A."/>
+<person name="Elliott G."/>
+<person name="Erb T."/>
+<person name="Fronick C."/>
+<person name="Gaige T."/>
+<person name="Haakenson W."/>
+<person name="Haglund K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Kim K."/>
+<person name="Kruchowski S.S."/>
+<person name="Strong C.M."/>
+<person name="Grewal N."/>
+<person name="Goyea E."/>
+<person name="Hou S."/>
+<person name="Levy A."/>
+<person name="Martinka S."/>
+<person name="Mead K."/>
+<person name="McLellan M.D."/>
+<person name="Meyer R."/>
+<person name="Randall-Maher J."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Shah N."/>
+<person name="Swearengen-Shahid S."/>
+<person name="Snider J."/>
+<person name="Strong J.T."/>
+<person name="Thompson J."/>
+<person name="Yoakum M."/>
+<person name="Leonard S."/>
+<person name="Pearman C."/>
+<person name="Trani L."/>
+<person name="Radionenko M."/>
+<person name="Waligorski J.E."/>
+<person name="Wang C."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Maupin R."/>
+<person name="Latreille P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Pohl C."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Berkowicz N."/>
+<person name="Nelson J.O."/>
+<person name="Osborne J."/>
+<person name="Ding L."/>
+<person name="Meyer R."/>
+<person name="Sabo A."/>
+<person name="Shotland Y."/>
+<person name="Sinha P."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Jones T.A."/>
+<person name="She X."/>
+<person name="Ciccarelli F.D."/>
+<person name="Izaurralde E."/>
+<person name="Taylor J."/>
+<person name="Schmutz J."/>
+<person name="Myers R.M."/>
+<person name="Cox D.R."/>
+<person name="Huang X."/>
+<person name="McPherson J.D."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Warren W.C."/>
+<person name="Chinwalla A.T."/>
+<person name="Eddy S.R."/>
+<person name="Marra M.A."/>
+<person name="Ovcharenko I."/>
+<person name="Furey T.S."/>
+<person name="Miller W."/>
+<person name="Eichler E.E."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Torrents D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="15815621"/>
+<dbReference type="DOI" id="10.1038/nature03466"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2003" name="Nat. Biotechnol." volume="21" first="566" last="569">
+<title>Exploring proteomes and analyzing protein processing by mass spectrometric identification of sorted N-terminal peptides.</title>
+<authorList>
+<person name="Gevaert K."/>
+<person name="Goethals M."/>
+<person name="Martens L."/>
+<person name="Van Damme J."/>
+<person name="Staes A."/>
+<person name="Thomas G.R."/>
+<person name="Vandekerckhove J."/>
+</authorList>
+<dbReference type="PubMed" id="12665801"/>
+<dbReference type="DOI" id="10.1038/nbt810"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-10</scope>
+<scope>ACETYLATION AT MET-1</scope>
+<source>
+<tissue>Platelet</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2006" name="Mol. Biol. Cell" volume="17" first="163" last="177">
+<title>Interactions between EHD proteins and Rab11-FIP2: a role for EHD3 in early endosomal transport.</title>
+<authorList>
+<person name="Naslavsky N."/>
+<person name="Rahajeng J."/>
+<person name="Sharma M."/>
+<person name="Jovic M."/>
+<person name="Caplan S."/>
+</authorList>
+<dbReference type="PubMed" id="16251358"/>
+<dbReference type="DOI" id="10.1091/mbc.E05-05-0466"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH RAB11FIP2</scope>
+<scope>ATP-BINDING SITE</scope>
+<scope>MUTAGENESIS OF GLY-65; VAL-203 AND TRP-485</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2007" name="BMC Cell Biol." volume="8" first="3" last="3">
+<title>Shared as well as distinct roles of EHD proteins revealed by biochemical and functional comparisons in mammalian cells and C. elegans.</title>
+<authorList>
+<person name="George M."/>
+<person name="Ying G."/>
+<person name="Rainey M.A."/>
+<person name="Solomon A."/>
+<person name="Parikh P.T."/>
+<person name="Gao Q."/>
+<person name="Band V."/>
+<person name="Band H."/>
+</authorList>
+<dbReference type="PubMed" id="17233914"/>
+<dbReference type="DOI" id="10.1186/1471-2121-8-3"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2008" name="Traffic" volume="9" first="995" last="1018">
+<title>A role for EHD4 in the regulation of early endosomal transport.</title>
+<authorList>
+<person name="Sharma M."/>
+<person name="Naslavsky N."/>
+<person name="Caplan S."/>
+</authorList>
+<dbReference type="PubMed" id="18331452"/>
+<dbReference type="DOI" id="10.1111/j.1600-0854.2008.00732.x"/>
+</citation>
+<scope>INTERACTION WITH EHD4</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2009" name="J. Cell Sci." volume="122" first="389" last="400">
+<title>EHD3 regulates early-endosome-to-Golgi transport and preserves Golgi morphology.</title>
+<authorList>
+<person name="Naslavsky N."/>
+<person name="McKenzie J."/>
+<person name="Altan-Bonnet N."/>
+<person name="Sheff D."/>
+<person name="Caplan S."/>
+</authorList>
+<dbReference type="PubMed" id="19139087"/>
+<dbReference type="DOI" id="10.1242/jcs.037051"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2009" name="Mol. Biol. Cell" volume="20" first="5181" last="5194">
+<title>MICAL-L1 links EHD1 to tubular recycling endosomes and regulates receptor recycling.</title>
+<authorList>
+<person name="Sharma M."/>
+<person name="Giridharan S.S."/>
+<person name="Rahajeng J."/>
+<person name="Naslavsky N."/>
+<person name="Caplan S."/>
+</authorList>
+<dbReference type="PubMed" id="19864458"/>
+<dbReference type="DOI" id="10.1091/mbc.E09-06-0535"/>
+</citation>
+<scope>INTERACTION WITH MICALL1</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2010" name="Circ. Res." volume="107" first="84" last="95">
+<title>EH domain proteins regulate cardiac membrane protein targeting.</title>
+<authorList>
+<person name="Gudmundsson H."/>
+<person name="Hund T.J."/>
+<person name="Wright P.J."/>
+<person name="Kline C.F."/>
+<person name="Snyder J.S."/>
+<person name="Qian L."/>
+<person name="Koval O.M."/>
+<person name="Cunha S.R."/>
+<person name="George M."/>
+<person name="Rainey M.A."/>
+<person name="Kashef F.E."/>
+<person name="Dun W."/>
+<person name="Boyden P.A."/>
+<person name="Anderson M.E."/>
+<person name="Band H."/>
+<person name="Mohler P.J."/>
+</authorList>
+<dbReference type="PubMed" id="20489164"/>
+<dbReference type="DOI" id="10.1161/CIRCRESAHA.110.216713"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH ANK2</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2011" name="Neuron" volume="71" first="278" last="290">
+<title>Endocytosis promotes rapid dopaminergic signaling.</title>
+<authorList>
+<person name="Kotowski S.J."/>
+<person name="Hopf F.W."/>
+<person name="Seif T."/>
+<person name="Bonci A."/>
+<person name="von Zastrow M."/>
+</authorList>
+<dbReference type="PubMed" id="21791287"/>
+<dbReference type="DOI" id="10.1016/j.neuron.2011.05.036"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2013" name="J. Biol. Chem." volume="288" first="30172" last="30180">
+<title>Differential roles of C-terminal Eps15 homology domain proteins as vesiculators and tubulators of recycling endosomes.</title>
+<authorList>
+<person name="Cai B."/>
+<person name="Giridharan S.S."/>
+<person name="Zhang J."/>
+<person name="Saxena S."/>
+<person name="Bahl K."/>
+<person name="Schmidt J.A."/>
+<person name="Sorgen P.L."/>
+<person name="Guo W."/>
+<person name="Naslavsky N."/>
+<person name="Caplan S."/>
+</authorList>
+<dbReference type="PubMed" id="24019528"/>
+<dbReference type="DOI" id="10.1074/jbc.M113.488627"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2013" name="J. Cell Sci." volume="126" first="3593" last="3601">
+<title>Alphavbeta3-integrin-mediated adhesion is regulated through an AAK1L- and EHD3-dependent rapid-recycling pathway.</title>
+<authorList>
+<person name="Waxmonsky N.C."/>
+<person name="Conner S.D."/>
+</authorList>
+<dbReference type="PubMed" id="23781025"/>
+<dbReference type="DOI" id="10.1242/jcs.122465"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2015" name="Nat. Cell Biol." volume="17" first="228" last="240">
+<title>Early steps in primary cilium assembly require EHD1/EHD3-dependent ciliary vesicle formation.</title>
+<authorList>
+<person name="Lu Q."/>
+<person name="Insinna C."/>
+<person name="Ott C."/>
+<person name="Stauffer J."/>
+<person name="Pintado P.A."/>
+<person name="Rahajeng J."/>
+<person name="Baxa U."/>
+<person name="Walia V."/>
+<person name="Cuenca A."/>
+<person name="Hwang Y.S."/>
+<person name="Daar I.O."/>
+<person name="Lopes S."/>
+<person name="Lippincott-Schwartz J."/>
+<person name="Jackson P.K."/>
+<person name="Caplan S."/>
+<person name="Westlake C.J."/>
+</authorList>
+<dbReference type="PubMed" id="25686250"/>
+<dbReference type="DOI" id="10.1038/ncb3109"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2015" name="Nat. Cell Biol." volume="17" first="531" last="531">
+<authorList>
+<person name="Lu Q."/>
+<person name="Insinna C."/>
+<person name="Ott C."/>
+<person name="Stauffer J."/>
+<person name="Pintado P.A."/>
+<person name="Rahajeng J."/>
+<person name="Baxa U."/>
+<person name="Walia V."/>
+<person name="Cuenca A."/>
+<person name="Hwang Y.S."/>
+<person name="Daar I.O."/>
+<person name="Lopes S."/>
+<person name="Lippincott-Schwartz J."/>
+<person name="Jackson P.K."/>
+<person name="Caplan S."/>
+<person name="Westlake C.J."/>
+</authorList>
+</citation>
+<scope>ERRATUM</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2015" name="PLoS ONE" volume="10" first="E0134053" last="E0134053">
+<title>SUMOylation of EHD3 Modulates Tubulation of the Endocytic Recycling Compartment.</title>
+<authorList>
+<person name="Cabasso O."/>
+<person name="Pekar O."/>
+<person name="Horowitz M."/>
+</authorList>
+<dbReference type="PubMed" id="26226295"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0134053"/>
+</citation>
+<scope>SUMOYLATION</scope>
+<scope>MUTAGENESIS OF LYS-315 AND LYS-511</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+<dbReference type="DOI" id="10.1002/pmic.201400617"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2014" name="Biomol. NMR. Assign." volume="8" first="263" last="267">
+<title>Chemical shift assignments of the C-terminal Eps15 homology domain-3 EH domain.</title>
+<authorList>
+<person name="Spagnol G."/>
+<person name="Reiling C."/>
+<person name="Kieken F."/>
+<person name="Caplan S."/>
+<person name="Sorgen P.L."/>
+</authorList>
+<dbReference type="PubMed" id="23754701"/>
+<dbReference type="DOI" id="10.1007/s12104-013-9497-z"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 433-535</scope>
+</reference>
+<comment type="function">
+<text evidence="3 10 11 13 16 17 18 19 24">ATP- and membrane-binding protein that controls membrane reorganization/tubulation upon ATP hydrolysis (PubMed:25686250). In vitro causes tubulation of endocytic membranes (PubMed:24019528). Binding to phosphatidic acid induces its membrane tubulation activity (By similarity). Plays a role in endocytic transport. Involved in early endosome to recycling endosome compartment (ERC), retrograde early endosome to Golgi, and endosome to plasma membrane (rapid recycling) protein transport. Involved in the regulation of Golgi maintenance and morphology (PubMed:16251358, PubMed:17233914, PubMed:19139087, PubMed:23781025). Involved in the recycling of internalized D1 dopamine receptor (PubMed:21791287). Plays a role in cardiac protein trafficking probably implicating ANK2 (PubMed:20489164). Involved in the ventricular membrane targeting of SLC8A1 and CACNA1C and probably the atrial membrane localization of CACNA1GG and CACNA1H implicated in the regulation of atrial myocyte excitability and cardiac conduction (By similarity). In conjunction with EHD4 may be involved in endocytic trafficking of KDR/VEGFR2 implicated in control of glomerular function (By similarity). Involved in the rapid recycling of integrin beta-3 implicated in cell adhesion maintenance (PubMed:23781025). Involved in the unidirectional retrograde dendritic transport of endocytosed BACE1 and in efficient sorting of BACE1 to axons implicating a function in neuronal APP processing (By similarity). Plays a role in the formation of the ciliary vesicle, an early step in cilium biogenesis; possibly sharing redundant functions with EHD1 (PubMed:25686250).</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 10 11 12 14 15">Homooligomer, and heterooligomer with EHD1, EHD2 and EHD4, ATP-binding is required for heterooligomerization (PubMed:16251358, PubMed:17233914). Interacts with PACSIN1 (By similarity). Interacts with PACSIN2 (By similarity). Interacts (via EH domain) with MICALL1 (PubMed:19864458). Interacts (via EH domain) with RAB11FIP2 (PubMed:16251358). Interacts with ANK2 (PubMed:20489164).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2870749"/>
+<interactant intactId="EBI-941975">
+<id>Q01484</id>
+<label>ANK2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2870749"/>
+<interactant intactId="EBI-2513908">
+<id>Q9P2R3</id>
+<label>ANKFY1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2870749"/>
+<interactant intactId="EBI-12267830">
+<id>A0A024R571</id>
+<label>EHD1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2870749"/>
+<interactant intactId="EBI-775304">
+<id>Q9QXY6</id>
+<label>Ehd3</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2870749"/>
+<interactant intactId="EBI-1056885">
+<id>Q8N3F8</id>
+<label>MICALL1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="11">Recycling endosome membrane</location>
+<topology evidence="23">Peripheral membrane protein</topology>
+<orientation evidence="23">Cytoplasmic side</orientation>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="11">Cell membrane</location>
+<topology evidence="23">Peripheral membrane protein</topology>
+<orientation evidence="23">Cytoplasmic side</orientation>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="19">Cell projection</location>
+<location evidence="19">Cilium membrane</location>
+<topology evidence="23">Peripheral membrane protein</topology>
+<orientation evidence="23">Cytoplasmic side</orientation>
+</subcellularLocation>
+<text evidence="3 15 19">Localizes to the ciliary pocket from where the cilium protrudes (PubMed:25686250). Colocalizes with RAB8A and MYO5B to a cytoplasmic tubular network devoid of RAB11A (By similarity). Colocalizes with ANK2 in myocyte perinuclear region (PubMed:20489164). Colocalizes with BACE1 in tubulovesicular cytoplasmic membranes. Colocalizes with BACE1 and APP amyloid beta proteins in hippocampal mossy fiber terminals (By similarity).</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q9NZN3-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q9NZN3-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_056606 VSP_056607"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="8">Highly expressed in heart and brain and moderately expressed in kidney, liver, and placenta.</text>
+</comment>
+<comment type="domain">
+<text evidence="4">The EH domain interacts with Asn-Pro-Phe (NPF) motifs of target proteins.</text>
+</comment>
+<comment type="similarity">
+<text evidence="23">Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin/Fzo/YdjA family. EHD subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="23">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="AAF40471" version="1"/>
+</conflict>
+<location>
+<position position="527"/>
+</location>
+</comment>
+<dbReference type="EMBL" id="AF181264">
+<property type="protein sequence ID" value="AAF40471.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF214736">
+<property type="protein sequence ID" value="AAF32285.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK294222">
+<property type="protein sequence ID" value="BAG57526.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK316006">
+<property type="protein sequence ID" value="BAH14377.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL121657">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471053">
+<property type="protein sequence ID" value="EAX00480.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471053">
+<property type="protein sequence ID" value="EAX00481.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS1774.1">
+<molecule id="Q9NZN3-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_055415.1">
+<molecule id="Q9NZN3-1"/>
+<property type="nucleotide sequence ID" value="NM_014600.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.368808"/>
+<dbReference type="ProteinModelPortal" id="Q9NZN3"/>
+<dbReference type="SMR" id="Q9NZN3"/>
+<dbReference type="BioGrid" id="119055">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="IntAct" id="Q9NZN3">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000327116"/>
+<dbReference type="iPTMnet" id="Q9NZN3"/>
+<dbReference type="PhosphoSitePlus" id="Q9NZN3"/>
+<dbReference type="BioMuta" id="EHD3"/>
+<dbReference type="DMDM" id="300669636"/>
+<dbReference type="OGP" id="Q9NZN3"/>
+<dbReference type="EPD" id="Q9NZN3"/>
+<dbReference type="MaxQB" id="Q9NZN3"/>
+<dbReference type="PaxDb" id="Q9NZN3"/>
+<dbReference type="PeptideAtlas" id="Q9NZN3"/>
+<dbReference type="PRIDE" id="Q9NZN3"/>
+<dbReference type="DNASU" id="30845"/>
+<dbReference type="Ensembl" id="ENST00000322054">
+<molecule id="Q9NZN3-1"/>
+<property type="protein sequence ID" value="ENSP00000327116"/>
+<property type="gene ID" value="ENSG00000013016"/>
+</dbReference>
+<dbReference type="GeneID" id="30845"/>
+<dbReference type="KEGG" id="hsa:30845"/>
+<dbReference type="UCSC" id="uc002rnu.4">
+<molecule id="Q9NZN3-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="30845"/>
+<dbReference type="DisGeNET" id="30845"/>
+<dbReference type="GeneCards" id="EHD3"/>
+<dbReference type="H-InvDB" id="HIX0001950"/>
+<dbReference type="HGNC" id="HGNC:3244">
+<property type="gene designation" value="EHD3"/>
+</dbReference>
+<dbReference type="HPA" id="HPA049890"/>
+<dbReference type="HPA" id="HPA049986"/>
+<dbReference type="HPA" id="HPA066751"/>
+<dbReference type="MIM" id="605891">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9NZN3"/>
+<dbReference type="OpenTargets" id="ENSG00000013016"/>
+<dbReference type="PharmGKB" id="PA27679"/>
+<dbReference type="eggNOG" id="KOG1954">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XYGB">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00760000118985"/>
+<dbReference type="HOGENOM" id="HOG000242040"/>
+<dbReference type="HOVERGEN" id="HBG018183"/>
+<dbReference type="InParanoid" id="Q9NZN3"/>
+<dbReference type="KO" id="K12476"/>
+<dbReference type="PhylomeDB" id="Q9NZN3"/>
+<dbReference type="TreeFam" id="TF314429"/>
+<dbReference type="Reactome" id="R-HSA-983231">
+<property type="pathway name" value="Factors involved in megakaryocyte development and platelet production"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="EHD3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="30845"/>
+<dbReference type="PRO" id="PR:Q9NZN3"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 2"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000013016"/>
+<dbReference type="CleanEx" id="HS_EHD2"/>
+<dbReference type="CleanEx" id="HS_EHD3"/>
+<dbReference type="Genevisible" id="Q9NZN3">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0020018">
+<property type="term" value="C:ciliary pocket membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030139">
+<property type="term" value="C:endocytic vesicle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010008">
+<property type="term" value="C:endosome membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005925">
+<property type="term" value="C:focal adhesion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043209">
+<property type="term" value="C:myelin sheath"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048471">
+<property type="term" value="C:perinuclear region of cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055038">
+<property type="term" value="C:recycling endosome membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005509">
+<property type="term" value="F:calcium ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005525">
+<property type="term" value="F:GTP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003676">
+<property type="term" value="F:nucleic acid binding"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007596">
+<property type="term" value="P:blood coagulation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060271">
+<property type="term" value="P:cilium assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034498">
+<property type="term" value="P:early endosome to Golgi transport"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032456">
+<property type="term" value="P:endocytic recycling"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090160">
+<property type="term" value="P:Golgi to lysosome transport"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901387">
+<property type="term" value="P:positive regulation of voltage-gated calcium channel activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051260">
+<property type="term" value="P:protein homooligomerization"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072661">
+<property type="term" value="P:protein targeting to plasma membrane"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001881">
+<property type="term" value="P:receptor recycling"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903779">
+<property type="term" value="P:regulation of cardiac conduction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0086036">
+<property type="term" value="P:regulation of cardiac muscle cell membrane potential"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055117">
+<property type="term" value="P:regulation of cardiac muscle contraction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903358">
+<property type="term" value="P:regulation of Golgi organization"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022812">
+<property type="entry name" value="Dynamin_SF"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011992">
+<property type="entry name" value="EF-hand-dom_pair"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018247">
+<property type="entry name" value="EF_Hand_1_Ca_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002048">
+<property type="entry name" value="EF_hand_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000261">
+<property type="entry name" value="EH_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR031692">
+<property type="entry name" value="EHD_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030381">
+<property type="entry name" value="G_DYNAMIN_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00350">
+<property type="entry name" value="Dynamin_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12763">
+<property type="entry name" value="EF-hand_4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16880">
+<property type="entry name" value="EHD_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00027">
+<property type="entry name" value="EH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47473">
+<property type="entry name" value="SSF47473"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00018">
+<property type="entry name" value="EF_HAND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50222">
+<property type="entry name" value="EF_HAND_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50031">
+<property type="entry name" value="EH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51718">
+<property type="entry name" value="G_DYNAMIN_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0106">Calcium</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0966">Cell projection</keyword>
+<keyword id="KW-0969">Cilium</keyword>
+<keyword id="KW-0970">Cilium biogenesis/degradation</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0967">Endosome</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0653">Protein transport</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<feature type="chain" description="EH domain-containing protein 3" id="PRO_0000146112">
+<location>
+<begin position="1"/>
+<end position="535"/>
+</location>
+</feature>
+<feature type="domain" description="Dynamin-type G">
+<location>
+<begin position="55"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="domain" description="EH" evidence="6">
+<location>
+<begin position="444"/>
+<end position="532"/>
+</location>
+</feature>
+<feature type="domain" description="EF-hand" evidence="7">
+<location>
+<begin position="476"/>
+<end position="511"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="10">
+<location>
+<begin position="65"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="calcium-binding region" evidence="1 7">
+<location>
+<begin position="489"/>
+<end position="500"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="198"/>
+<end position="227"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="220"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="258"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylmethionine" evidence="9">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="2">
+<location>
+<position position="349"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="456"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO)" evidence="20">
+<location>
+<position position="315"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO)" evidence="20">
+<location>
+<position position="511"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_056606" evidence="22">
+<original>YDFAAVL</original>
+<variation>PAAGPGL</variation>
+<location>
+<begin position="169"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_056607" evidence="22">
+<location>
+<begin position="176"/>
+<end position="535"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes ATP-binding and localizes to cytoplasm." evidence="10">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="65"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Greatly reduces oligomerization and interaction with RAB11FIP2." evidence="10">
+<original>V</original>
+<variation>P</variation>
+<location>
+<position position="203"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes sumoylation and localization to tubular structures of the ERC, impairs fast recycling activity from the ERC, no effect on homooligomerization; when associated with R-511." evidence="20">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="315"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes interaction with RAB11FIP2." evidence="10">
+<original>W</original>
+<variation>A</variation>
+<location>
+<position position="485"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes sumoylation localization to tubular structures of the ERC, impairs fast recycling activity from the ERC, no effect on homooligomerization;; when associated with R-315." evidence="20">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="511"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q8BH64"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q8R491"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9QXY6"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9WVK4"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255"/>
+<evidence key="6" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00077"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00448"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10673336"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12665801"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16251358"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17233914"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18331452"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19139087"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19864458"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20489164"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21791287"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23781025"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24019528"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25686250"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26226295"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="10673336"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000305"/>
+<evidence key="24" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="20489164"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:3244"/>
+</source>
+</evidence>
+<sequence length="535" mass="60887" checksum="0F8AE99F84B966AD" modified="2010-07-13" version="2">
+MFSWLGTDDRRRKDPEVFQTVSEGLKKLYKSKLLPLEEHYRFHEFHSPALEDADFDNKPM
+VLLVGQYSTGKTTFIRYLLEQDFPGMRIGPEPTTDSFIAVMQGDMEGIIPGNALVVDPKK
+PFRKLNAFGNAFLNRFVCAQLPNPVLESISVIDTPGILSGEKQRISRGYDFAAVLEWFAE
+RVDRIILLFDAHKLDISDEFSEVIKALKNHEDKMRVVLNKADQIETQQLMRVYGALMWSL
+GKIVNTPEVIRVYIGSFWSHPLLIPDNRKLFEAEEQDLFRDIQSLPRNAALRKLNDLIKR
+ARLAKVHAYIISSLKKEMPSVFGKDNKKKELVNNLAEIYGRIEREHQISPGDFPNLKRMQ
+DQLQAQDFSKFQPLKSKLLEVVDDMLAHDIAQLMVLVRQEESQRPIQMVKGGAFEGTLHG
+PFGHGYGEGAGEGIDDAEWVVARDKPMYDEIFYTLSPVDGKITGANAKKEMVRSKLPNSV
+LGKIWKLADIDKDGMLDDDEFALANHLIKVKLEGHELPNELPAHLLPPSKRKVAE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

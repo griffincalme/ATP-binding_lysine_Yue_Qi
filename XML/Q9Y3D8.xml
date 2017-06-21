@@ -1,0 +1,905 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2000-05-30" modified="2017-04-12" version="154">
+<accession>Q9Y3D8</accession>
+<accession>A8MSZ6</accession>
+<accession>Q5F2S9</accession>
+<name>KAD6_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">Adenylate kinase isoenzyme 6</fullName>
+<shortName evidence="2">AK6</shortName>
+<ecNumber evidence="2">2.7.4.3</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Adrenal gland protein AD-004</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="2">Coilin-interacting nuclear ATPase protein</fullName>
+<shortName>hCINAP</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="2">Dual activity adenylate kinase/ATPase</fullName>
+<shortName evidence="2">AK/ATPase</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="2">AK6</name>
+<name type="synonym" evidence="2">CINAP</name>
+<name type="ORF">AD-004</name>
+<name type="ORF">CGI-137</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="36429" last="36441">
+<title>Characterization of hCINAP, a novel coilin-interacting protein encoded by a transcript from the transcription factor TAFIID32 locus.</title>
+<authorList>
+<person name="Santama N."/>
+<person name="Ogg S.C."/>
+<person name="Malekkou A."/>
+<person name="Zographos S.E."/>
+<person name="Weis K."/>
+<person name="Lamond A.I."/>
+</authorList>
+<dbReference type="PubMed" id="16079131"/>
+<dbReference type="DOI" id="10.1074/jbc.M501982200"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>INTERACTION WITH COIL</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>ALTERNATIVE SPLICING</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+<tissue>Placenta</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2000" name="Genome Res." volume="10" first="703" last="713">
+<title>Identification of novel human genes evolutionarily conserved in Caenorhabditis elegans by comparative proteomics.</title>
+<authorList>
+<person name="Lai C.-H."/>
+<person name="Chou C.-Y."/>
+<person name="Ch'ang L.-Y."/>
+<person name="Liu C.-S."/>
+<person name="Lin W.-C."/>
+</authorList>
+<dbReference type="PubMed" id="10810093"/>
+<dbReference type="DOI" id="10.1101/gr.10.5.703"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2000" name="Proc. Natl. Acad. Sci. U.S.A." volume="97" first="9543" last="9548">
+<title>Gene expression profiling in the human hypothalamus-pituitary-adrenal axis and full-length cDNA cloning.</title>
+<authorList>
+<person name="Hu R.-M."/>
+<person name="Han Z.-G."/>
+<person name="Song H.-D."/>
+<person name="Peng Y.-D."/>
+<person name="Huang Q.-H."/>
+<person name="Ren S.-X."/>
+<person name="Gu Y.-J."/>
+<person name="Huang C.-H."/>
+<person name="Li Y.-B."/>
+<person name="Jiang C.-L."/>
+<person name="Fu G."/>
+<person name="Zhang Q.-H."/>
+<person name="Gu B.-W."/>
+<person name="Dai M."/>
+<person name="Mao Y.-F."/>
+<person name="Gao G.-F."/>
+<person name="Rong R."/>
+<person name="Ye M."/>
+<person name="Zhou J."/>
+<person name="Xu S.-H."/>
+<person name="Gu J."/>
+<person name="Shi J.-X."/>
+<person name="Jin W.-R."/>
+<person name="Zhang C.-K."/>
+<person name="Wu T.-M."/>
+<person name="Huang G.-Y."/>
+<person name="Chen Z."/>
+<person name="Chen M.-D."/>
+<person name="Chen J.-L."/>
+</authorList>
+<dbReference type="PubMed" id="10931946"/>
+<dbReference type="DOI" id="10.1073/pnas.160270997"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Adrenal gland</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Nature" volume="431" first="268" last="274">
+<title>The DNA sequence and comparative analysis of human chromosome 5.</title>
+<authorList>
+<person name="Schmutz J."/>
+<person name="Martin J."/>
+<person name="Terry A."/>
+<person name="Couronne O."/>
+<person name="Grimwood J."/>
+<person name="Lowry S."/>
+<person name="Gordon L.A."/>
+<person name="Scott D."/>
+<person name="Xie G."/>
+<person name="Huang W."/>
+<person name="Hellsten U."/>
+<person name="Tran-Gyamfi M."/>
+<person name="She X."/>
+<person name="Prabhakar S."/>
+<person name="Aerts A."/>
+<person name="Altherr M."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Branscomb E."/>
+<person name="Caoile C."/>
+<person name="Challacombe J.F."/>
+<person name="Chan Y.M."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Escobar J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Goodstein D."/>
+<person name="Grigoriev I."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Martinez D."/>
+<person name="Medina C."/>
+<person name="Morgan J."/>
+<person name="Nandkeshwar R."/>
+<person name="Noonan J.P."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Predki P."/>
+<person name="Priest J."/>
+<person name="Ramirez L."/>
+<person name="Retterer J."/>
+<person name="Rodriguez A."/>
+<person name="Rogers S."/>
+<person name="Salamov A."/>
+<person name="Salazar A."/>
+<person name="Thayer N."/>
+<person name="Tice H."/>
+<person name="Tsai M."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="Wheeler J."/>
+<person name="Wu K."/>
+<person name="Yang J."/>
+<person name="Dickson M."/>
+<person name="Cheng J.-F."/>
+<person name="Eichler E.E."/>
+<person name="Olsen A."/>
+<person name="Pennacchio L.A."/>
+<person name="Rokhsar D.S."/>
+<person name="Richardson P."/>
+<person name="Lucas S.M."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+</authorList>
+<dbReference type="PubMed" id="15372022"/>
+<dbReference type="DOI" id="10.1038/nature02919"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Lymph</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Acta Crystallogr. D" volume="60" first="1292" last="1294">
+<title>Protein preparation, crystallization and preliminary X-ray analysis of human adrenal gland protein AD-004.</title>
+<authorList>
+<person name="Ren H."/>
+<person name="Liang Y."/>
+<person name="Li R."/>
+<person name="Ding H."/>
+<person name="Qiu S."/>
+<person name="Lu S."/>
+<person name="An J."/>
+<person name="Li L."/>
+<person name="Luo M."/>
+<person name="Zheng X."/>
+<person name="Su X.D."/>
+</authorList>
+<dbReference type="PubMed" id="15213396"/>
+<dbReference type="DOI" id="10.1107/S0907444904010467"/>
+</citation>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2005" name="Proc. Natl. Acad. Sci. U.S.A." volume="102" first="303" last="308">
+<title>The crystal structure of human adenylate kinase 6: an adenylate kinase localized to the cell nucleus.</title>
+<authorList>
+<person name="Ren H."/>
+<person name="Wang L."/>
+<person name="Bennett M."/>
+<person name="Liang Y."/>
+<person name="Zheng X."/>
+<person name="Lu F."/>
+<person name="Li L."/>
+<person name="Nan J."/>
+<person name="Luo M."/>
+<person name="Eriksson S."/>
+<person name="Zhang C."/>
+<person name="Su X.-D."/>
+</authorList>
+<dbReference type="PubMed" id="15630091"/>
+<dbReference type="DOI" id="10.1073/pnas.0407459102"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS)</scope>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2012" name="Proteins" volume="80" first="206" last="220">
+<title>hCINAP is an atypical mammalian nuclear adenylate kinase with an ATPase motif: structural and functional studies.</title>
+<authorList>
+<person name="Drakou C.E."/>
+<person name="Malekkou A."/>
+<person name="Hayes J.M."/>
+<person name="Lederer C.W."/>
+<person name="Leonidas D.D."/>
+<person name="Oikonomakos N.G."/>
+<person name="Lamond A.I."/>
+<person name="Santama N."/>
+<person name="Zographos S.E."/>
+</authorList>
+<dbReference type="PubMed" id="22038794"/>
+<dbReference type="DOI" id="10.1002/prot.23186"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.76 ANGSTROMS) IN COMPLEX WITH ADP AND DADP</scope>
+<scope>MUTAGENESIS OF HIS-79</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<comment type="function">
+<text evidence="4">Broad-specificity nucleoside monophosphate (NMP) kinase that catalyzes the reversible transfer of the terminal phosphate group between nucleoside triphosphates and monophosphates. AMP and dAMP are the preferred substrates, but CMP and dCMP are also good substrates. IMP is phosphorylated to a much lesser extent. All nucleoside triphosphates ATP, GTP, UTP, CTP, dATP, dCTP, dGTP, and TTP are accepted as phosphate donors. CTP is the best phosphate donor, followed by UTP, ATP, GTP and dCTP. May have a role in nuclear energy homeostasis. Has also ATPase activity. May be involved in regulation of Cajal body (CB) formation.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="2 4">ATP + AMP = 2 ADP.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="4 5 6">192 uM for AMP</KM>
+<KM evidence="4 5 6">45 uM for ATP (for adenylate kinase activity)</KM>
+<KM evidence="4 5 6">332 uM for ATP (for ATPase activity)</KM>
+<Vmax evidence="4 5 6">1.27 umol/min/mg enzyme for ATPase activity</Vmax>
+<Vmax evidence="4 5 6">982 nmol/min/mg enzyme for the forward adenylate kinase reaction</Vmax>
+<Vmax evidence="4 5 6">955 nmol/min/mg enzyme for the reverse adenylate kinase reaction</Vmax>
+<text>kcat is 6.3 sec(-1) for adenylate kinase activity. kcat is 4.8 sec(-1) for ATPase activity.</text>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="2 3 5 6">Monomer and homodimer (By similarity). Interacts with COIL (via C-terminus).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2896123"/>
+<interactant intactId="EBI-945751">
+<id>P38432</id>
+<label>COIL</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2896123"/>
+<interactant intactId="EBI-10173304">
+<id>A0A0C4DGV4</id>
+<label>LAMTOR5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2896123"/>
+<interactant intactId="EBI-10278703">
+<id>Q92597-3</id>
+<label>NDRG1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2896123"/>
+<interactant intactId="EBI-352783">
+<id>P62263</id>
+<label>RPS14</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Nucleus</location>
+<location>Nucleoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Nucleus</location>
+<location>Cajal body</location>
+</subcellularLocation>
+<text>Displays widespread diffuse nucleoplasmic distribution but not detected in nucleoli. Detected in Cajal bodies but not in all cells.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q9Y3D8-1</id>
+<name>1</name>
+<name>AK6</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q9Y3D8-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_039714"/>
+<text>Gene prediction based on EST data.</text>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="5">Expressed in heart, brain, placenta, lung, liver, skeletal muscle, kidney, pancreas, chorionic villi and the central nervous system.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the adenylate kinase family. AK6 subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="7">AK6 and TAF9 were initially considered as products of the same gene since they share two exons. However, they are translated from different initiation codons and reading frames and encode unrelated proteins. This arrangement is conserved in some mammalian species.</text>
+</comment>
+<dbReference type="EC" id="2.7.4.3" evidence="2"/>
+<dbReference type="EMBL" id="AJ878880">
+<property type="protein sequence ID" value="CAI48030.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ878881">
+<property type="protein sequence ID" value="CAI48031.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF151895">
+<property type="protein sequence ID" value="AAD34132.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF110777">
+<property type="protein sequence ID" value="AAF14860.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC145132">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471137">
+<property type="protein sequence ID" value="EAW51290.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471137">
+<property type="protein sequence ID" value="EAW51291.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471137">
+<property type="protein sequence ID" value="EAW51292.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471137">
+<property type="protein sequence ID" value="EAW51297.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC007349">
+<property type="protein sequence ID" value="AAH07349.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC007426">
+<property type="protein sequence ID" value="AAH07426.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS4001.1">
+<molecule id="Q9Y3D8-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS43324.1">
+<molecule id="Q9Y3D8-2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001015891.1">
+<molecule id="Q9Y3D8-2"/>
+<property type="nucleotide sequence ID" value="NM_001015891.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_057367.1">
+<molecule id="Q9Y3D8-1"/>
+<property type="nucleotide sequence ID" value="NM_016283.4"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.653163"/>
+<dbReference type="PDB" id="1RKB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-172"/>
+</dbReference>
+<dbReference type="PDB" id="3IIJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.76"/>
+<property type="chains" value="A=1-172"/>
+</dbReference>
+<dbReference type="PDB" id="3IIK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A=1-172"/>
+</dbReference>
+<dbReference type="PDB" id="3IIL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-172"/>
+</dbReference>
+<dbReference type="PDB" id="3IIM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-172"/>
+</dbReference>
+<dbReference type="PDB" id="5JZV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.07"/>
+<property type="chains" value="A=1-172"/>
+</dbReference>
+<dbReference type="PDBsum" id="1RKB"/>
+<dbReference type="PDBsum" id="3IIJ"/>
+<dbReference type="PDBsum" id="3IIK"/>
+<dbReference type="PDBsum" id="3IIL"/>
+<dbReference type="PDBsum" id="3IIM"/>
+<dbReference type="PDBsum" id="5JZV"/>
+<dbReference type="ProteinModelPortal" id="Q9Y3D8"/>
+<dbReference type="SMR" id="Q9Y3D8"/>
+<dbReference type="IntAct" id="Q9Y3D8">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1389230"/>
+<dbReference type="iPTMnet" id="Q9Y3D8"/>
+<dbReference type="PhosphoSitePlus" id="Q9Y3D8"/>
+<dbReference type="BioMuta" id="CCDC125"/>
+<dbReference type="DMDM" id="6831735"/>
+<dbReference type="EPD" id="Q9Y3D8"/>
+<dbReference type="PeptideAtlas" id="Q9Y3D8"/>
+<dbReference type="PRIDE" id="Q9Y3D8"/>
+<dbReference type="DNASU" id="6880"/>
+<dbReference type="Ensembl" id="ENST00000380818">
+<molecule id="Q9Y3D8-2"/>
+<property type="protein sequence ID" value="ENSP00000370197"/>
+<property type="gene ID" value="ENSG00000085231"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000380822">
+<molecule id="Q9Y3D8-1"/>
+<property type="protein sequence ID" value="ENSP00000370201"/>
+<property type="gene ID" value="ENSG00000085231"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000612207">
+<molecule id="Q9Y3D8-1"/>
+<property type="protein sequence ID" value="ENSP00000484679"/>
+<property type="gene ID" value="ENSG00000279247"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000620269">
+<molecule id="Q9Y3D8-2"/>
+<property type="protein sequence ID" value="ENSP00000480829"/>
+<property type="gene ID" value="ENSG00000279247"/>
+</dbReference>
+<dbReference type="GeneID" id="102157402"/>
+<dbReference type="KEGG" id="hsa:102157402"/>
+<dbReference type="UCSC" id="uc003jwa.4">
+<molecule id="Q9Y3D8-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="102157402"/>
+<dbReference type="DisGeNET" id="102157402"/>
+<dbReference type="GeneCards" id="AK6"/>
+<dbReference type="HGNC" id="HGNC:49151">
+<property type="gene designation" value="AK6"/>
+</dbReference>
+<dbReference type="HPA" id="CAB005361"/>
+<dbReference type="HPA" id="HPA034935"/>
+<dbReference type="neXtProt" id="NX_Q9Y3D8"/>
+<dbReference type="OpenTargets" id="ENSG00000085231"/>
+<dbReference type="PharmGKB" id="PA36317"/>
+<dbReference type="GeneTree" id="ENSGT00390000015930"/>
+<dbReference type="HOGENOM" id="HOG000224472"/>
+<dbReference type="HOVERGEN" id="HBG052207"/>
+<dbReference type="KO" id="K18532"/>
+<dbReference type="OMA" id="QSWIVDE"/>
+<dbReference type="OrthoDB" id="EOG091G0RS8"/>
+<dbReference type="BRENDA" id="2.7.4.3">
+<property type="organism ID" value="2681"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-499943">
+<property type="pathway name" value="Synthesis and interconversion of nucleotide di- and triphosphates"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="Q9Y3D8"/>
+<dbReference type="GenomeRNAi" id="102157402"/>
+<dbReference type="PRO" id="PR:Q9Y3D8"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000085231"/>
+<dbReference type="ExpressionAtlas" id="Q9Y3D8">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9Y3D8">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015030">
+<property type="term" value="C:Cajal body"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004017">
+<property type="term" value="F:adenylate kinase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050145">
+<property type="term" value="F:nucleoside phosphate kinase activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015949">
+<property type="term" value="P:nucleobase-containing small molecule interconversion"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00039">
+<property type="entry name" value="Adenylate_kinase_AK6"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020618">
+<property type="entry name" value="Adenyl_kinase_AK6"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Adenylate kinase isoenzyme 6" id="PRO_0000153896">
+<location>
+<begin position="1"/>
+<end position="172"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP">
+<location>
+<begin position="13"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP">
+<location>
+<begin position="148"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="region of interest" description="NMPbind">
+<location>
+<begin position="33"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="region of interest" description="LID">
+<location>
+<begin position="108"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="binding site" description="AMP" evidence="7">
+<location>
+<position position="39"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP">
+<location>
+<position position="79"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP">
+<location>
+<position position="105"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP">
+<location>
+<position position="109"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_039714" evidence="7">
+<original>LLPNILLT</original>
+<variation>CHRKP</variation>
+<location>
+<begin position="2"/>
+<end position="9"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Induces homodimerization. Reduces adenylate kinase activity by 72% and ATPase activity by 76%. Significantly changes Cajal body organization in the nucleus, resulting in enhanced apoptosis and reduced proliferation." evidence="6">
+<original>H</original>
+<variation>G</variation>
+<location>
+<position position="79"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="6"/>
+<end position="9"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="16"/>
+<end position="27"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="30"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="34"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="44"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="49"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="53"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="58"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="74"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="86"/>
+<end position="88"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="90"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="99"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="113"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="127"/>
+<end position="135"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="138"/>
+<end position="140"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="141"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="149"/>
+<end position="169"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3IIJ"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_03173"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15213396"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15630091"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16079131"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22038794"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<sequence length="172" mass="20061" checksum="33F62318FB434301" modified="1999-11-01" version="1">
+MLLPNILLTGTPGVGKTTLGKELASKSGLKYINVGDLAREEQLYDGYDEEYDCPILDEDR
+VVDELDNQMREGGVIVDYHGCDFFPERWFHIVFVLRTDTNVLYERLETRGYNEKKLTDNI
+QCEIFQVLYEEATASYKEEIVHQLPSNKPEELENNVDQILKWIEQWIKDHNS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

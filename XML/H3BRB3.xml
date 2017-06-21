@@ -1,0 +1,564 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2012-04-18" modified="2017-05-10" version="49">
+<accession>H3BRB3</accession>
+<name>H3BRB3_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="11">Kinesin-like protein</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="16">KIF22</name>
+</gene>
+<organism evidence="16 17">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="16 17">
+<citation type="journal article" date="2004" name="Nature" volume="432" first="988" last="994">
+<title>The sequence and analysis of duplication-rich human chromosome 16.</title>
+<authorList>
+<person name="Martin J."/>
+<person name="Han C."/>
+<person name="Gordon L.A."/>
+<person name="Terry A."/>
+<person name="Prabhakar S."/>
+<person name="She X."/>
+<person name="Xie G."/>
+<person name="Hellsten U."/>
+<person name="Chan Y.M."/>
+<person name="Altherr M."/>
+<person name="Couronne O."/>
+<person name="Aerts A."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Blumer H."/>
+<person name="Branscomb E."/>
+<person name="Brown N.C."/>
+<person name="Bruno W.J."/>
+<person name="Buckingham J.M."/>
+<person name="Callen D.F."/>
+<person name="Campbell C.S."/>
+<person name="Campbell M.L."/>
+<person name="Campbell E.W."/>
+<person name="Caoile C."/>
+<person name="Challacombe J.F."/>
+<person name="Chasteen L.A."/>
+<person name="Chertkov O."/>
+<person name="Chi H.C."/>
+<person name="Christensen M."/>
+<person name="Clark L.M."/>
+<person name="Cohn J.D."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Dickson M."/>
+<person name="Dimitrijevic-Bussod M."/>
+<person name="Escobar J."/>
+<person name="Fawcett J.J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Goodstein D."/>
+<person name="Goodwin L.A."/>
+<person name="Grady D.L."/>
+<person name="Grigoriev I."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Hildebrand C.E."/>
+<person name="Huang W."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Jewett P.B."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Krawczyk M.-C."/>
+<person name="Leyba T."/>
+<person name="Longmire J.L."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Lowry S."/>
+<person name="Ludeman T."/>
+<person name="Manohar C.F."/>
+<person name="Mark G.A."/>
+<person name="McMurray K.L."/>
+<person name="Meincke L.J."/>
+<person name="Morgan J."/>
+<person name="Moyzis R.K."/>
+<person name="Mundt M.O."/>
+<person name="Munk A.C."/>
+<person name="Nandkeshwar R.D."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Predki P."/>
+<person name="Parson-Quintana B."/>
+<person name="Ramirez L."/>
+<person name="Rash S."/>
+<person name="Retterer J."/>
+<person name="Ricke D.O."/>
+<person name="Robinson D.L."/>
+<person name="Rodriguez A."/>
+<person name="Salamov A."/>
+<person name="Saunders E.H."/>
+<person name="Scott D."/>
+<person name="Shough T."/>
+<person name="Stallings R.L."/>
+<person name="Stalvey M."/>
+<person name="Sutherland R.D."/>
+<person name="Tapia R."/>
+<person name="Tesmer J.G."/>
+<person name="Thayer N."/>
+<person name="Thompson L.S."/>
+<person name="Tice H."/>
+<person name="Torney D.C."/>
+<person name="Tran-Gyamfi M."/>
+<person name="Tsai M."/>
+<person name="Ulanovsky L.E."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="White P.S."/>
+<person name="Williams A.L."/>
+<person name="Wills P.L."/>
+<person name="Wu J.-R."/>
+<person name="Wu K."/>
+<person name="Yang J."/>
+<person name="DeJong P."/>
+<person name="Bruce D."/>
+<person name="Doggett N.A."/>
+<person name="Deaven L."/>
+<person name="Schmutz J."/>
+<person name="Grimwood J."/>
+<person name="Richardson P."/>
+<person name="Rokhsar D.S."/>
+<person name="Eichler E.E."/>
+<person name="Gilna P."/>
+<person name="Lucas S.M."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+<person name="Pennacchio L.A."/>
+</authorList>
+<dbReference type="PubMed" id="15616553"/>
+<dbReference type="DOI" id="10.1038/nature03187"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="4">
+<citation type="journal article" date="2007" name="Science" volume="316" first="1160" last="1166">
+<title>ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage.</title>
+<authorList>
+<person name="Matsuoka S."/>
+<person name="Ballif B.A."/>
+<person name="Smogorzewska A."/>
+<person name="McDonald E.R."/>
+<person name="Hurov K.E."/>
+<person name="Luo J."/>
+<person name="Bakalarski C.E."/>
+<person name="Zhao Z."/>
+<person name="Solimini N."/>
+<person name="Lerenthal Y."/>
+<person name="Shiloh Y."/>
+<person name="Gygi S.P."/>
+<person name="Elledge S.J."/>
+</authorList>
+<dbReference type="PubMed" id="17525332"/>
+<dbReference type="DOI" id="10.1126/science.1140321"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="3" evidence="5">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="10762" last="10767">
+<title>A quantitative atlas of mitotic phosphorylation.</title>
+<authorList>
+<person name="Dephoure N."/>
+<person name="Zhou C."/>
+<person name="Villen J."/>
+<person name="Beausoleil S.A."/>
+<person name="Bakalarski C.E."/>
+<person name="Elledge S.J."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="18669648"/>
+<dbReference type="DOI" id="10.1073/pnas.0805139105"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="4" evidence="6">
+<citation type="journal article" date="2009" name="Sci. Signal." volume="2" first="ra46" last="RA46">
+<title>Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions.</title>
+<authorList>
+<person name="Mayya V."/>
+<person name="Lundgren D.H."/>
+<person name="Hwang S.I."/>
+<person name="Rezaul K."/>
+<person name="Wu L."/>
+<person name="Eng J.K."/>
+<person name="Rodionov V."/>
+<person name="Han D.K."/>
+</authorList>
+<dbReference type="PubMed" id="19690332"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000007"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="5" evidence="7">
+<citation type="journal article" date="2010" name="Sci. Signal." volume="3" first="ra3" last="RA3">
+<title>Quantitative phosphoproteomics reveals widespread full phosphorylation site occupancy during mitosis.</title>
+<authorList>
+<person name="Olsen J.V."/>
+<person name="Vermeulen M."/>
+<person name="Santamaria A."/>
+<person name="Kumar C."/>
+<person name="Miller M.L."/>
+<person name="Jensen L.J."/>
+<person name="Gnad F."/>
+<person name="Cox J."/>
+<person name="Jensen T.S."/>
+<person name="Nigg E.A."/>
+<person name="Brunak S."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="20068231"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000475"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="6" evidence="8">
+<citation type="journal article" date="2011" name="Sci. Signal." volume="4" first="rs3" last="RS3">
+<title>System-wide temporal characterization of the proteome and phosphoproteome of human embryonic stem cell differentiation.</title>
+<authorList>
+<person name="Rigbolt K.T."/>
+<person name="Prokhorova T.A."/>
+<person name="Akimov V."/>
+<person name="Henningsen J."/>
+<person name="Johansen P.T."/>
+<person name="Kratchmarova I."/>
+<person name="Kassem M."/>
+<person name="Mann M."/>
+<person name="Olsen J.V."/>
+<person name="Blagoev B."/>
+</authorList>
+<dbReference type="PubMed" id="21406692"/>
+<dbReference type="DOI" id="10.1126/scisignal.2001570"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="7" evidence="16">
+<citation type="submission" date="2012-02" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<reference key="8" evidence="9">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="similarity">
+<text evidence="10 11 13">Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family.</text>
+</comment>
+<comment type="caution">
+<text evidence="16">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EMBL" id="AC009133">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="ProteinModelPortal" id="H3BRB3"/>
+<dbReference type="STRING" id="9606.ENSP00000160827"/>
+<dbReference type="EPD" id="H3BRB3"/>
+<dbReference type="MaxQB" id="H3BRB3"/>
+<dbReference type="PaxDb" id="H3BRB3"/>
+<dbReference type="PeptideAtlas" id="H3BRB3"/>
+<dbReference type="PRIDE" id="H3BRB3"/>
+<dbReference type="Ensembl" id="ENST00000569382">
+<property type="protein sequence ID" value="ENSP00000456165"/>
+<property type="gene ID" value="ENSG00000079616"/>
+</dbReference>
+<dbReference type="UCSC" id="uc059sua.1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="HGNC" id="HGNC:6391">
+<property type="gene designation" value="KIF22"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000079616"/>
+<dbReference type="eggNOG" id="KOG0242">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5059">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00870000136373"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 16"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000079616"/>
+<dbReference type="ExpressionAtlas" id="H3BRB3">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005874">
+<property type="term" value="C:microtubule"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016607">
+<property type="term" value="C:nuclear speck"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008017">
+<property type="term" value="F:microtubule binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003777">
+<property type="term" value="F:microtubule motor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007018">
+<property type="term" value="P:microtubule-based movement"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.850.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003583">
+<property type="entry name" value="Hlx-hairpin-Hlx_DNA-bd_motif"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026986">
+<property type="entry name" value="KIF22"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019821">
+<property type="entry name" value="Kinesin_motor_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001752">
+<property type="entry name" value="Kinesin_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010994">
+<property type="entry name" value="RuvA_2-like"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24115:SF630">
+<property type="entry name" value="PTHR24115:SF630"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00225">
+<property type="entry name" value="Kinesin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00380">
+<property type="entry name" value="KINESINHEAVY"/>
+</dbReference>
+<dbReference type="SMART" id="SM00278">
+<property type="entry name" value="HhH1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00129">
+<property type="entry name" value="KISc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47781">
+<property type="entry name" value="SSF47781"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00411">
+<property type="entry name" value="KINESIN_MOTOR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50067">
+<property type="entry name" value="KINESIN_MOTOR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="10 11 12">ATP-binding</keyword>
+<keyword id="KW-0175" evidence="14">Coiled coil</keyword>
+<keyword id="KW-0181" evidence="17">Complete proteome</keyword>
+<keyword id="KW-0493" evidence="11">Microtubule</keyword>
+<keyword id="KW-0505" evidence="10 11">Motor protein</keyword>
+<keyword id="KW-0547" evidence="10 11 12">Nucleotide-binding</keyword>
+<keyword id="KW-1267" evidence="1 2 3">Proteomics identification</keyword>
+<keyword id="KW-1185" evidence="17">Reference proteome</keyword>
+<feature type="domain" description="Kinesin motor" evidence="15">
+<location>
+<begin position="1"/>
+<end position="300"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="10">
+<location>
+<begin position="59"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="14">
+<location>
+<begin position="407"/>
+<end position="434"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000213">
+<source>
+<dbReference type="EPD" id="H3BRB3"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000213">
+<source>
+<dbReference type="MaxQB" id="H3BRB3"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000213">
+<source>
+<dbReference type="PeptideAtlas" id="H3BRB3"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="17525332"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="18669648"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="19690332"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="20068231"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="21406692"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00283"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000394"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00427985"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00546352"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50067"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000456165"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="611" mass="67753" checksum="33BCED81F0D46653" modified="2012-04-18" version="1">
+MDSCSLEIANWRNHQETLKYQFDAFYGERSTQQDIYAGSVQPILRHLLEGQNASVLAYGP
+TGAGKTHTMLGSPEQPGVIPRALMDLLQLTREEGAEGRPWALSVTMSYLEIYQEKVLDLL
+DPASGDLVIREDCRGNILIPGLSQKPISSFADFERHFLPASRNRTVGATRLNQRSSRSHA
+VLLVKVDQRERLAPFRQREGKLYLIDLAGSEDNRRTGNKGLRLKESGAINTSLFVLGKVV
+DALNQGLPRVPYRDSKLTRLLQDSLGGSAHSILIANIAPERRFYLDTVSALNFAARSKEV
+INRPFTNESLQPHALGPVKLSQKELLGPPEAKRARGPEEEEIGSPEPMAAPASASQKLSP
+LQKLSSMDPAMLERLLSLDRLLASQGSQGAPLLSTPKRERMVLMKTVEEKDLEIERLKTK
+QKELEAKMLAQKAEEKENHCPTMLRPLSHRTVTGAKPLKKAVVMPLQLIQEQAASPNAEI
+HILKNKGRKRKVKVAGGLGYTWSPELESLDALEPEEKAEDCWELQISPELLAHGRQKILD
+LLNEGSARDLRSLQRIGPKKAQLIVGWRELHGPFSQVEDLERVEGITGKQMESFLKANIL
+GLAAGQRCGAS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,1644 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2017-05-10" version="162">
+<accession>P60709</accession>
+<accession>P02570</accession>
+<accession>P70514</accession>
+<accession>P99021</accession>
+<accession>Q11211</accession>
+<accession>Q64316</accession>
+<accession>Q75MN2</accession>
+<accession>Q96B34</accession>
+<accession>Q96HG5</accession>
+<name>ACTB_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Actin, cytoplasmic 1</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Beta-actin</fullName>
+</alternativeName>
+<component>
+<recommendedName>
+<fullName>Actin, cytoplasmic 1, N-terminally processed</fullName>
+</recommendedName>
+</component>
+</protein>
+<gene>
+<name type="primary">ACTB</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1984" name="Nucleic Acids Res." volume="12" first="1687" last="1696">
+<title>Evolutionary conservation in the untranslated regions of actin mRNAs: DNA sequence of a human beta-actin cDNA.</title>
+<authorList>
+<person name="Ponte P."/>
+<person name="Ng S.Y."/>
+<person name="Engel J."/>
+<person name="Gunning P."/>
+<person name="Kedes L."/>
+</authorList>
+<dbReference type="PubMed" id="6322116"/>
+<dbReference type="DOI" id="10.1093/nar/12.3.1687"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1985" name="Proc. Natl. Acad. Sci. U.S.A." volume="82" first="6133" last="6137">
+<title>Molecular structure of the human cytoplasmic beta-actin gene: interspecies homology of sequences in the introns.</title>
+<authorList>
+<person name="Nakajima-Iijima S."/>
+<person name="Hamada H."/>
+<person name="Reddy P."/>
+<person name="Kakunaga T."/>
+</authorList>
+<dbReference type="PubMed" id="2994062"/>
+<dbReference type="DOI" id="10.1073/pnas.82.18.6133"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1992" name="J. Cell Biol." volume="116" first="933" last="941">
+<title>Direct proof that the primary site of action of cytochalasin on cell motility processes is actin.</title>
+<authorList>
+<person name="Ohmori H."/>
+<person name="Toyama S."/>
+<person name="Toyama S."/>
+</authorList>
+<dbReference type="PubMed" id="1734024"/>
+<dbReference type="DOI" id="10.1083/jcb.116.4.933"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2004-03" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NIEHS SNPs program"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2003" name="Nature" volume="424" first="157" last="164">
+<title>The DNA sequence of human chromosome 7.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Graves T.A."/>
+<person name="Pepin K.H."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Maas J."/>
+<person name="Jaeger S."/>
+<person name="Walker R."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="O'Laughlin M.D."/>
+<person name="Schaller M.E."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Cordes M."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Edwards J."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Andrews S."/>
+<person name="Isak A."/>
+<person name="Vanbrunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Lamar B."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Bielicki L."/>
+<person name="Scott K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Harris A."/>
+<person name="Strong C.M."/>
+<person name="Hou S."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Leonard S."/>
+<person name="Rohlfing T."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Abbott A."/>
+<person name="Minx P."/>
+<person name="Maupin R."/>
+<person name="Strowmatt C."/>
+<person name="Latreille P."/>
+<person name="Miller N."/>
+<person name="Johnson D."/>
+<person name="Murray J."/>
+<person name="Woessner J.P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Schultz B.R."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Nelson J.O."/>
+<person name="Berkowicz N."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Bedell J.A."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Chissoe S.L."/>
+<person name="Marra M.A."/>
+<person name="Raymond C."/>
+<person name="Haugen E."/>
+<person name="Gillett W."/>
+<person name="Zhou Y."/>
+<person name="James R."/>
+<person name="Phelps K."/>
+<person name="Iadanoto S."/>
+<person name="Bubb K."/>
+<person name="Simms E."/>
+<person name="Levy R."/>
+<person name="Clendenning J."/>
+<person name="Kaul R."/>
+<person name="Kent W.J."/>
+<person name="Furey T.S."/>
+<person name="Baertsch R.A."/>
+<person name="Brent M.R."/>
+<person name="Keibler E."/>
+<person name="Flicek P."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Bailey J.A."/>
+<person name="Portnoy M.E."/>
+<person name="Torrents D."/>
+<person name="Chinwalla A.T."/>
+<person name="Gish W.R."/>
+<person name="Eddy S.R."/>
+<person name="McPherson J.D."/>
+<person name="Olson M.V."/>
+<person name="Eichler E.E."/>
+<person name="Green E.D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="12853948"/>
+<dbReference type="DOI" id="10.1038/nature01782"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Brain</tissue>
+<tissue>Eye</tissue>
+<tissue>Kidney</tissue>
+<tissue>Muscle</tissue>
+<tissue>Pancreas</tissue>
+<tissue>Placenta</tissue>
+<tissue>Skin</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="Nat. Biotechnol." volume="21" first="566" last="569">
+<title>Exploring proteomes and analyzing protein processing by mass spectrometric identification of sorted N-terminal peptides.</title>
+<authorList>
+<person name="Gevaert K."/>
+<person name="Goethals M."/>
+<person name="Martens L."/>
+<person name="Van Damme J."/>
+<person name="Staes A."/>
+<person name="Thomas G.R."/>
+<person name="Vandekerckhove J."/>
+</authorList>
+<dbReference type="PubMed" id="12665801"/>
+<dbReference type="DOI" id="10.1038/nbt810"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-28</scope>
+<source>
+<tissue>Platelet</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="submission" date="2005-06" db="UniProtKB">
+<authorList>
+<person name="Bienvenut W.V."/>
+</authorList>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-18; 29-37; 40-50; 85-95; 148-177; 184-191; 197-206; 292-312 AND 316-326</scope>
+<scope>CLEAVAGE OF INITIATOR METHIONINE</scope>
+<scope>ACETYLATION AT ASP-2</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<tissue>B-cell lymphoma</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="submission" date="2008-12" db="UniProtKB">
+<authorList>
+<person name="Lubec G."/>
+<person name="Afjehi-Sadat L."/>
+<person name="Chen W.-Q."/>
+<person name="Sun Y."/>
+</authorList>
+</citation>
+<scope>PROTEIN SEQUENCE OF 19-62; 85-113; 184-191; 197-206; 216-254; 291-312; 316-326 AND 360-372</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<tissue>Brain</tissue>
+<tissue>Cajal-Retzius cell</tissue>
+<tissue>Fetal brain cortex</tissue>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1983" name="J. Mol. Biol." volume="163" first="673" last="678">
+<title>Complementary DNA sequence of a human cytoplasmic actin. Interspecies divergence of 3' non-coding regions.</title>
+<authorList>
+<person name="Hanukoglu I."/>
+<person name="Tanese N."/>
+<person name="Fuchs E."/>
+</authorList>
+<dbReference type="PubMed" id="6842590"/>
+<dbReference type="DOI" id="10.1016/0022-2836(83)90117-1"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 252-375</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2003" name="EMBO J." volume="22" first="5928" last="5940">
+<title>Exportin 6: a novel nuclear export receptor that is specific for profilin.actin complexes.</title>
+<authorList>
+<person name="Stueven T."/>
+<person name="Hartmann E."/>
+<person name="Goerlich D."/>
+</authorList>
+<dbReference type="PubMed" id="14592989"/>
+<dbReference type="DOI" id="10.1093/emboj/cdg565"/>
+</citation>
+<scope>IDENTIFICATION IN A COMPLEX WITH RAN; XPO6 AND PFN1</scope>
+<scope>INTERACTION WITH XPO6</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2004" name="PLoS Biol." volume="2" first="1354" last="1362">
+<title>Emerin caps the pointed end of actin filaments: evidence for an actin cortical network at the nuclear inner membrane.</title>
+<authorList>
+<person name="Holaska J.M."/>
+<person name="Kowalski A.K."/>
+<person name="Wilson K.L."/>
+</authorList>
+<dbReference type="PubMed" id="15328537"/>
+<dbReference type="DOI" id="10.1371/journal.pbio.0020231"/>
+</citation>
+<scope>INTERACTION WITH EMD</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2005" name="Biochem. Biophys. Res. Commun." volume="336" first="496" last="506">
+<title>Proteomic identification of proteins conjugated to ISG15 in mouse and human cells.</title>
+<authorList>
+<person name="Giannakopoulos N.V."/>
+<person name="Luo J.K."/>
+<person name="Papov V."/>
+<person name="Zou W."/>
+<person name="Lenschow D.J."/>
+<person name="Jacobs B.S."/>
+<person name="Borden E.C."/>
+<person name="Li J."/>
+<person name="Virgin H.W."/>
+<person name="Zhang D.E."/>
+</authorList>
+<dbReference type="PubMed" id="16139798"/>
+<dbReference type="DOI" id="10.1016/j.bbrc.2005.08.132"/>
+</citation>
+<scope>ISGYLATION</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2007" name="Blood" volume="110" first="4268" last="4277">
+<title>HGAL, a lymphoma prognostic biomarker, interacts with the cytoskeleton and mediates the effects of IL-6 on cell migration.</title>
+<authorList>
+<person name="Lu X."/>
+<person name="Chen J."/>
+<person name="Malumbres R."/>
+<person name="Cubedo Gil E."/>
+<person name="Helfman D.M."/>
+<person name="Lossos I.S."/>
+</authorList>
+<dbReference type="PubMed" id="17823310"/>
+<dbReference type="DOI" id="10.1182/blood-2007-04-087775"/>
+</citation>
+<scope>INTERACTION WITH GCSAM</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2007" name="Mol. Cell. Proteomics" volume="6" first="798" last="811">
+<title>Molecular composition of IMP1 ribonucleoprotein granules.</title>
+<authorList>
+<person name="Joeson L."/>
+<person name="Vikesaa J."/>
+<person name="Krogh A."/>
+<person name="Nielsen L.K."/>
+<person name="Hansen T."/>
+<person name="Borup R."/>
+<person name="Johnsen A.H."/>
+<person name="Christiansen J."/>
+<person name="Nielsen F.C."/>
+</authorList>
+<dbReference type="PubMed" id="17289661"/>
+<dbReference type="DOI" id="10.1074/mcp.M600346-MCP200"/>
+</citation>
+<scope>IDENTIFICATION IN A MRNP GRANULE COMPLEX</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2008" name="Genes Dev." volume="22" first="2370" last="2384">
+<title>Regulation of muscle development by DPF3, a novel histone acetylation and methylation reader of the BAF chromatin remodeling complex.</title>
+<authorList>
+<person name="Lange M."/>
+<person name="Kaynak B."/>
+<person name="Forster U.B."/>
+<person name="Toenjes M."/>
+<person name="Fischer J.J."/>
+<person name="Grimm C."/>
+<person name="Schlesinger J."/>
+<person name="Just S."/>
+<person name="Dunkel I."/>
+<person name="Krueger T."/>
+<person name="Mebus S."/>
+<person name="Lehrach H."/>
+<person name="Lurz R."/>
+<person name="Gobom J."/>
+<person name="Rottbauer W."/>
+<person name="Abdelilah-Seyfried S."/>
+<person name="Sperling S."/>
+</authorList>
+<dbReference type="PubMed" id="18765789"/>
+<dbReference type="DOI" id="10.1101/gad.471408"/>
+</citation>
+<scope>IDENTIFICATION IN THE BAF COMPLEX</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="18537" last="18542">
+<title>Connecting actin monomers by iso-peptide bond is a toxicity mechanism of the Vibrio cholerae MARTX toxin.</title>
+<authorList>
+<person name="Kudryashov D.S."/>
+<person name="Durer Z.A."/>
+<person name="Ytterberg A.J."/>
+<person name="Sawaya M.R."/>
+<person name="Pashkov I."/>
+<person name="Prochazkova K."/>
+<person name="Yeates T.O."/>
+<person name="Loo R.R."/>
+<person name="Loo J.A."/>
+<person name="Satchell K.J."/>
+<person name="Reisler E."/>
+</authorList>
+<dbReference type="PubMed" id="19015515"/>
+<dbReference type="DOI" id="10.1073/pnas.0808082105"/>
+</citation>
+<scope>CROSS-LINK BETWEEN LYS-50 AND GLU-270 BY V.CHOLERAE TOXIN RTXA (MICROBIAL INFECTION)</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2009" name="Anal. Chem." volume="81" first="4493" last="4501">
+<title>Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach.</title>
+<authorList>
+<person name="Gauci S."/>
+<person name="Helbig A.O."/>
+<person name="Slijper M."/>
+<person name="Krijgsveld J."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="19413330"/>
+<dbReference type="DOI" id="10.1021/ac9004309"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT ASP-2</scope>
+<scope>CLEAVAGE OF INITIATOR METHIONINE [LARGE SCALE ANALYSIS]</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2011" name="Cancer Res." volume="71" first="4269" last="4279">
+<title>Nuclear ErbB2 enhances translation and cell growth by activating transcription of ribosomal RNA genes.</title>
+<authorList>
+<person name="Li L.Y."/>
+<person name="Chen H."/>
+<person name="Hsieh Y.H."/>
+<person name="Wang Y.N."/>
+<person name="Chu H.J."/>
+<person name="Chen Y.H."/>
+<person name="Chen H.Y."/>
+<person name="Chien P.J."/>
+<person name="Ma H.T."/>
+<person name="Tsai H.C."/>
+<person name="Lai C.C."/>
+<person name="Sher Y.P."/>
+<person name="Lien H.C."/>
+<person name="Tsai C.H."/>
+<person name="Hung M.C."/>
+</authorList>
+<dbReference type="PubMed" id="21555369"/>
+<dbReference type="DOI" id="10.1158/0008-5472.CAN-10-3504"/>
+</citation>
+<scope>INTERACTION WITH ERBB2</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2012" name="Mol. Cell. Proteomics" volume="11" first="M111.015131" last="M111.015131">
+<title>Comparative large-scale characterisation of plant vs. mammal proteins reveals similar and idiosyncratic N-alpha acetylation features.</title>
+<authorList>
+<person name="Bienvenut W.V."/>
+<person name="Sumpton D."/>
+<person name="Martinez A."/>
+<person name="Lilla S."/>
+<person name="Espagne C."/>
+<person name="Meinnel T."/>
+<person name="Giglione C."/>
+</authorList>
+<dbReference type="PubMed" id="22223895"/>
+<dbReference type="DOI" id="10.1074/mcp.M111.015131"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT ASP-2</scope>
+<scope>CLEAVAGE OF INITIATOR METHIONINE [LARGE SCALE ANALYSIS]</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2012" name="Proc. Natl. Acad. Sci. U.S.A." volume="109" first="12449" last="12454">
+<title>N-terminal acetylome analyses and functional insights of the N-terminal acetyltransferase NatB.</title>
+<authorList>
+<person name="Van Damme P."/>
+<person name="Lasa M."/>
+<person name="Polevoda B."/>
+<person name="Gazquez C."/>
+<person name="Elosegui-Artola A."/>
+<person name="Kim D.S."/>
+<person name="De Juan-Pardo E."/>
+<person name="Demeyer K."/>
+<person name="Hole K."/>
+<person name="Larrea E."/>
+<person name="Timmerman E."/>
+<person name="Prieto J."/>
+<person name="Arnesen T."/>
+<person name="Sherman F."/>
+<person name="Gevaert K."/>
+<person name="Aldabe R."/>
+</authorList>
+<dbReference type="PubMed" id="22814378"/>
+<dbReference type="DOI" id="10.1073/pnas.1210303109"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1 AND ASP-2</scope>
+<scope>CLEAVAGE OF INITIATOR METHIONINE [LARGE SCALE ANALYSIS]</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+<dbReference type="DOI" id="10.1002/pmic.201400617"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT ASP-2</scope>
+<scope>CLEAVAGE OF INITIATOR METHIONINE [LARGE SCALE ANALYSIS]</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2015" name="Science" volume="349" first="535" last="539">
+<title>ACD toxin-produced actin oligomers poison formin-controlled actin polymerization.</title>
+<authorList>
+<person name="Heisler D.B."/>
+<person name="Kudryashova E."/>
+<person name="Grinevich D.O."/>
+<person name="Suarez C."/>
+<person name="Winkelman J.D."/>
+<person name="Birukov K.G."/>
+<person name="Kotha S.R."/>
+<person name="Parinandi N.L."/>
+<person name="Vavylonis D."/>
+<person name="Kovar D.R."/>
+<person name="Kudryashov D.S."/>
+</authorList>
+<dbReference type="PubMed" id="26228148"/>
+<dbReference type="DOI" id="10.1126/science.aab4090"/>
+</citation>
+<scope>CROSS-LINK BY V.CHOLERAE TOXIN RTXA (MICROBIAL INFECTION)</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2006" name="Am. J. Hum. Genet." volume="78" first="947" last="960">
+<title>A mutation of beta -actin that alters depolymerization dynamics is associated with autosomal dominant developmental malformations, deafness, and dystonia.</title>
+<authorList>
+<person name="Procaccio V."/>
+<person name="Salazar G."/>
+<person name="Ono S."/>
+<person name="Styers M.L."/>
+<person name="Gearing M."/>
+<person name="Davila A."/>
+<person name="Jimenez R."/>
+<person name="Juncos J."/>
+<person name="Gutekunst C.-A."/>
+<person name="Meroni G."/>
+<person name="Fontanella B."/>
+<person name="Sontag E."/>
+<person name="Sontag J.-M."/>
+<person name="Faundez V."/>
+<person name="Wainer B.H."/>
+</authorList>
+<dbReference type="PubMed" id="16685646"/>
+<dbReference type="DOI" id="10.1086/504271"/>
+</citation>
+<scope>VARIANT DJO TRP-183</scope>
+<scope>CHARACTERIZATION OF VARIANT DJO TRP-183</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2009" name="Nature" volume="459" first="455" last="459">
+<title>GlcNAcylation of a histone methyltransferase in retinoic-acid-induced granulopoiesis.</title>
+<authorList>
+<person name="Fujiki R."/>
+<person name="Chikanishi T."/>
+<person name="Hashiba W."/>
+<person name="Ito H."/>
+<person name="Takada I."/>
+<person name="Roeder R.G."/>
+<person name="Kitagawa H."/>
+<person name="Kato S."/>
+</authorList>
+<dbReference type="PubMed" id="19377461"/>
+<dbReference type="DOI" id="10.1038/nature07954"/>
+</citation>
+<scope>IDENTIFICATION IN THE MLL5-L COMPLEX</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2013" name="Nat. Commun." volume="4" first="1832" last="1832">
+<title>ALKBH4-dependent demethylation of actin regulates actomyosin dynamics.</title>
+<authorList>
+<person name="Li M.M."/>
+<person name="Nilsen A."/>
+<person name="Shi Y."/>
+<person name="Fusser M."/>
+<person name="Ding Y.H."/>
+<person name="Fu Y."/>
+<person name="Liu B."/>
+<person name="Niu Y."/>
+<person name="Wu Y.S."/>
+<person name="Huang C.M."/>
+<person name="Olofsson M."/>
+<person name="Jin K.X."/>
+<person name="Lv Y."/>
+<person name="Xu X.Z."/>
+<person name="He C."/>
+<person name="Dong M.Q."/>
+<person name="Rendtlew Danielsen J.M."/>
+<person name="Klungland A."/>
+<person name="Yang Y.G."/>
+</authorList>
+<dbReference type="PubMed" id="23673617"/>
+<dbReference type="DOI" id="10.1038/ncomms2863"/>
+</citation>
+<scope>METHYLATION AT LYS-84</scope>
+<scope>DEMETHYLATION BY ALKBH4</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2012" name="Nat. Genet." volume="44" first="440" last="444">
+<title>De novo mutations in the actin genes ACTB and ACTG1 cause Baraitser-Winter syndrome.</title>
+<authorList>
+<person name="Riviere J.B."/>
+<person name="van Bon B.W."/>
+<person name="Hoischen A."/>
+<person name="Kholmanskikh S.S."/>
+<person name="O'Roak B.J."/>
+<person name="Gilissen C."/>
+<person name="Gijsen S."/>
+<person name="Sullivan C.T."/>
+<person name="Christian S.L."/>
+<person name="Abdul-Rahman O.A."/>
+<person name="Atkin J.F."/>
+<person name="Chassaing N."/>
+<person name="Drouin-Garraud V."/>
+<person name="Fry A.E."/>
+<person name="Fryns J.P."/>
+<person name="Gripp K.W."/>
+<person name="Kempers M."/>
+<person name="Kleefstra T."/>
+<person name="Mancini G.M."/>
+<person name="Nowaczyk M.J."/>
+<person name="van Ravenswaaij-Arts C.M."/>
+<person name="Roscioli T."/>
+<person name="Marble M."/>
+<person name="Rosenfeld J.A."/>
+<person name="Siu V.M."/>
+<person name="de Vries B.B."/>
+<person name="Shendure J."/>
+<person name="Verloes A."/>
+<person name="Veltman J.A."/>
+<person name="Brunner H.G."/>
+<person name="Ross M.E."/>
+<person name="Pilz D.T."/>
+<person name="Dobyns W.B."/>
+</authorList>
+<dbReference type="PubMed" id="22366783"/>
+<dbReference type="DOI" id="10.1038/ng.1091"/>
+</citation>
+<scope>VARIANTS BRWS1 ASP-12; VAL-65; CYS-196 AND HIS-196</scope>
+</reference>
+<comment type="function">
+<text>Actins are highly conserved proteins that are involved in various types of cell motility and are ubiquitously expressed in all eukaryotic cells.</text>
+</comment>
+<comment type="subunit">
+<text evidence="6 8 9 12 13 14 15 16">Interacts with CPNE1 (via VWFA domain) and CPNE4 (via VWFA domain) (By similarity). Polymerization of globular actin (G-actin) leads to a structural filament (F-actin) in the form of a two-stranded helix. Each actin can bind to 4 others. Identified in a IGF2BP1-dependent mRNP granule complex containing untranslated mRNAs. Component of the BAF complex, which includes at least actin (ACTB), ARID1A, ARID1B/BAF250, SMARCA2, SMARCA4/BRG1, ACTL6A/BAF53, ACTL6B/BAF53B, SMARCE1/BAF57 SMARCC1/BAF155, SMARCC2/BAF170, SMARCB1/SNF5/INI1, and one or more of SMARCD1/BAF60A, SMARCD2/BAF60B, or SMARCD3/BAF60C. In muscle cells, the BAF complex also contains DPF3. Found in a complex with XPO6, Ran, ACTB and PFN1. Component of the MLL5-L complex, at least composed of KMT2E/MLL5, STK38, PPP1CA, PPP1CB, PPP1CC, HCFC1, ACTB and OGT. Interacts with XPO6 and EMD. Interacts with ERBB2. Interacts with GCSAM. Interacts with TBC1D21 (By similarity).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-353944"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-351292">
+<id>P63261</id>
+<label>ACTG1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>12</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-1051165">
+<id>P40123</id>
+<label>CAP2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-352733">
+<id>P23528</id>
+<label>CFL1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-10201319">
+<id>Q549N0</id>
+<label>CFL2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-351218">
+<id>Q9Y281</id>
+<label>CFL2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-745191">
+<id>P60981</id>
+<label>DSTN</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-641062">
+<id>P04626</id>
+<label>ERBB2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>10</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-6264551">
+<id>Q8TCJ0-2</id>
+<label>FBXO25</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-351896">
+<id>P11142</id>
+<label>HSPA8</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-8291665">
+<id>Q8K4J6</id>
+<label>Mkl1</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-1642165">
+<id>O14950</id>
+<label>MYL12B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-395044">
+<id>P14598</id>
+<label>NCF1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-2947053">
+<id>Q92636</id>
+<label>NSMAF</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-1056740">
+<id>P37802</id>
+<label>TAGLN2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-717399">
+<id>Q9BSI4</id>
+<label>TINF2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-741158">
+<id>Q96HA8</id>
+<label>WDYHV1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-353944"/>
+<interactant intactId="EBI-347088">
+<id>P63104</id>
+<label>YWHAZ</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="12">Cytoplasm</location>
+<location evidence="12">Cytoskeleton</location>
+</subcellularLocation>
+<text>Localized in cytoplasmic mRNP granules containing untranslated mRNAs.</text>
+</comment>
+<comment type="PTM">
+<text evidence="10">ISGylated.</text>
+</comment>
+<comment type="PTM">
+<text evidence="5">Oxidation of Met-44 and Met-47 by MICALs (MICAL1, MICAL2 or MICAL3) to form methionine sulfoxide promotes actin filament depolymerization. MICAL1 and MICAL2 produce the (R)-S-oxide form. The (R)-S-oxide form is reverted by MSRB1 and MSRB2, which promote actin repolymerization (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="18">Monomethylation at Lys-84 (K84me1) regulates actin-myosin interaction and actomyosin-dependent processes. Demethylation by ALKBH4 is required for maintaining actomyosin dynamics supporting normal cleavage furrow ingression during cytokinesis and cell migration.</text>
+</comment>
+<comment type="PTM">
+<text evidence="21 22">(Microbial infection) Monomeric actin is cross-linked by V.cholerae toxins RtxA and VgrG1 in case of infection: bacterial toxins mediate the cross-link between Lys-50 of one monomer and Glu-270 of another actin monomer, resulting in formation of highly toxic actin oligomers that cause cell rounding (PubMed:19015515). The toxin can be highly efficient at very low concentrations by acting on formin homology family proteins: toxic actin oligomers bind with high affinity to formins and adversely affect both nucleation and elongation abilities of formins, causing their potent inhibition in both profilin-dependent and independent manners (PubMed:26228148).</text>
+</comment>
+<comment type="disease" evidence="11">
+<disease id="DI-00412">
+<name>Dystonia, juvenile-onset</name>
+<acronym>DJO</acronym>
+<description>A form of dystonia with juvenile onset. Dystonia is defined by the presence of sustained involuntary muscle contraction, often leading to abnormal postures. Patients with juvenile-onset dystonia manifest progressive, generalized, dopa-unresponsive dystonia, developmental malformations and sensory hearing loss.</description>
+<dbReference type="MIM" id="607371"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="17">
+<disease id="DI-03416">
+<name>Baraitser-Winter syndrome 1</name>
+<acronym>BRWS1</acronym>
+<description>A rare developmental disorder characterized by the combination of congenital ptosis, high-arched eyebrows, hypertelorism, ocular colobomata, and a brain malformation consisting of anterior-predominant lissencephaly. Other typical features include postnatal short stature and microcephaly, intellectual disability, seizures, and hearing loss.</description>
+<dbReference type="MIM" id="243310"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="miscellaneous">
+<text>In vertebrates 3 main groups of actin isoforms, alpha, beta and gamma have been identified. The alpha actins are found in muscle tissues and are a major constituent of the contractile apparatus. The beta and gamma actins coexist in most cell types as components of the cytoskeleton and as mediators of internal cell motility.</text>
+</comment>
+<comment type="similarity">
+<text evidence="20">Belongs to the actin family.</text>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/ACTBID42959ch7p22.html"/>
+</comment>
+<comment type="online information" name="NIEHS-SNPs">
+<link uri="http://egp.gs.washington.edu/data/actb/"/>
+</comment>
+<comment type="online information" name="Mendelian genes actin, beta (ACTB)">
+<link uri="http://www.lovd.nl/ACTB"/>
+<text>Leiden Open Variation Database (LOVD)</text>
+</comment>
+<dbReference type="EMBL" id="X00351">
+<property type="protein sequence ID" value="CAA25099.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M10277">
+<property type="protein sequence ID" value="AAA51567.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X63432">
+<property type="protein sequence ID" value="CAA45026.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY582799">
+<property type="protein sequence ID" value="AAS79319.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC006483">
+<property type="protein sequence ID" value="AAP22343.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC001301">
+<property type="protein sequence ID" value="AAH01301.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC002409">
+<property type="protein sequence ID" value="AAH02409.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC004251">
+<property type="protein sequence ID" value="AAH04251.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC008633">
+<property type="protein sequence ID" value="AAH08633.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC012854">
+<property type="protein sequence ID" value="AAH12854.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC013380">
+<property type="protein sequence ID" value="AAH13380.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC014861">
+<property type="protein sequence ID" value="AAH14861.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC016045">
+<property type="protein sequence ID" value="AAH16045.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="V00478">
+<property type="protein sequence ID" value="CAA23745.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS5341.1"/>
+<dbReference type="PIR" id="A25168">
+<property type="entry name" value="ATHUB"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001092.1">
+<property type="nucleotide sequence ID" value="NM_001101.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.520640"/>
+<dbReference type="PDB" id="3BYH">
+<property type="method" value="EM"/>
+<property type="resolution" value="12.00"/>
+<property type="chains" value="A=2-375"/>
+</dbReference>
+<dbReference type="PDB" id="3D2U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.21"/>
+<property type="chains" value="C/G=170-178"/>
+</dbReference>
+<dbReference type="PDB" id="3J82">
+<property type="method" value="EM"/>
+<property type="resolution" value="7.70"/>
+<property type="chains" value="B/C/D=2-375"/>
+</dbReference>
+<dbReference type="PDB" id="3LUE">
+<property type="method" value="EM"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I/J=2-375"/>
+</dbReference>
+<dbReference type="PDBsum" id="3BYH"/>
+<dbReference type="PDBsum" id="3D2U"/>
+<dbReference type="PDBsum" id="3J82"/>
+<dbReference type="PDBsum" id="3LUE"/>
+<dbReference type="ProteinModelPortal" id="P60709"/>
+<dbReference type="SMR" id="P60709"/>
+<dbReference type="BioGrid" id="106575">
+<property type="interactions" value="283"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-29686N"/>
+<dbReference type="IntAct" id="P60709">
+<property type="interactions" value="198"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-220312"/>
+<dbReference type="STRING" id="9606.ENSP00000349960"/>
+<dbReference type="ChEMBL" id="CHEMBL2062353"/>
+<dbReference type="iPTMnet" id="P60709"/>
+<dbReference type="PhosphoSitePlus" id="P60709"/>
+<dbReference type="SwissPalm" id="P60709"/>
+<dbReference type="BioMuta" id="ACTB"/>
+<dbReference type="DMDM" id="46397333"/>
+<dbReference type="DOSAC-COBS-2DPAGE" id="P60709"/>
+<dbReference type="REPRODUCTION-2DPAGE" id="P60709"/>
+<dbReference type="SWISS-2DPAGE" id="P60709"/>
+<dbReference type="UCD-2DPAGE" id="P60709"/>
+<dbReference type="EPD" id="P60709"/>
+<dbReference type="PaxDb" id="P60709"/>
+<dbReference type="PeptideAtlas" id="P60709"/>
+<dbReference type="PRIDE" id="P60709"/>
+<dbReference type="TopDownProteomics" id="P60709"/>
+<dbReference type="DNASU" id="60"/>
+<dbReference type="Ensembl" id="ENST00000331789">
+<property type="protein sequence ID" value="ENSP00000349960"/>
+<property type="gene ID" value="ENSG00000075624"/>
+</dbReference>
+<dbReference type="GeneID" id="60"/>
+<dbReference type="KEGG" id="hsa:60"/>
+<dbReference type="CTD" id="60"/>
+<dbReference type="DisGeNET" id="60"/>
+<dbReference type="GeneCards" id="ACTB"/>
+<dbReference type="HGNC" id="HGNC:132">
+<property type="gene designation" value="ACTB"/>
+</dbReference>
+<dbReference type="HPA" id="CAB002621"/>
+<dbReference type="HPA" id="HPA041264"/>
+<dbReference type="HPA" id="HPA041271"/>
+<dbReference type="MalaCards" id="ACTB"/>
+<dbReference type="MIM" id="102630">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="243310">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="607371">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P60709"/>
+<dbReference type="OpenTargets" id="ENSG00000075624"/>
+<dbReference type="Orphanet" id="2995">
+<property type="disease" value="Baraitser-Winter syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="79107">
+<property type="disease" value="Developmental malformations - deafness - dystonia"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA24457"/>
+<dbReference type="eggNOG" id="KOG0676">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5277">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00760000118957"/>
+<dbReference type="HOVERGEN" id="HBG003771"/>
+<dbReference type="InParanoid" id="P60709"/>
+<dbReference type="KO" id="K05692"/>
+<dbReference type="OMA" id="PFHTTAE"/>
+<dbReference type="OrthoDB" id="EOG091G08LD"/>
+<dbReference type="PhylomeDB" id="P60709"/>
+<dbReference type="TreeFam" id="TF354237"/>
+<dbReference type="Reactome" id="R-HSA-1445148">
+<property type="pathway name" value="Translocation of GLUT4 to the plasma membrane"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-190873">
+<property type="pathway name" value="Gap junction degradation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-196025">
+<property type="pathway name" value="Formation of annular gap junctions"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2029482">
+<property type="pathway name" value="Regulation of actin dynamics for phagocytic cup formation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3214847">
+<property type="pathway name" value="HATs acetylate histones"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-389957">
+<property type="pathway name" value="Prefoldin mediated transfer of substrate to CCT/TriC"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-390450">
+<property type="pathway name" value="Folding of actin by CCT/TriC"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3928662">
+<property type="pathway name" value="EPHB-mediated forward signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3928665">
+<property type="pathway name" value="EPH-ephrin mediated repulsion of cells"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-418990">
+<property type="pathway name" value="Adherens junctions interactions"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-437239">
+<property type="pathway name" value="Recycling pathway of L1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-4420097">
+<property type="pathway name" value="VEGFA-VEGFR2 Pathway"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-445095">
+<property type="pathway name" value="Interaction between L1 and Ankyrins"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-446353">
+<property type="pathway name" value="Cell-extracellular matrix interactions"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5250924">
+<property type="pathway name" value="B-WICH complex positively regulates rRNA expression"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5626467">
+<property type="pathway name" value="RHO GTPases activate IQGAPs"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5663213">
+<property type="pathway name" value="RHO GTPases Activate WASPs and WAVEs"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5663220">
+<property type="pathway name" value="RHO GTPases Activate Formins"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5674135">
+<property type="pathway name" value="MAP2K and MAPK activation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5689603">
+<property type="pathway name" value="UCH proteinases"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5696394">
+<property type="pathway name" value="DNA Damage Recognition in GG-NER"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6802946">
+<property type="pathway name" value="Signaling by moderate kinase activity BRAF mutants"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6802948">
+<property type="pathway name" value="Signaling by high-kinase activity BRAF mutants"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6802949">
+<property type="pathway name" value="Signaling by RAS mutants"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6802952">
+<property type="pathway name" value="Signaling by BRAF and RAF fusions"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6802955">
+<property type="pathway name" value="Paradoxical activation of RAF signaling by kinase inactive BRAF"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8856828">
+<property type="pathway name" value="Clathrin-mediated endocytosis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-983231">
+<property type="pathway name" value="Factors involved in megakaryocyte development and platelet production"/>
+</dbReference>
+<dbReference type="SignaLink" id="P60709"/>
+<dbReference type="ChiTaRS" id="ACTB">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P60709"/>
+<dbReference type="GeneWiki" id="Beta-actin"/>
+<dbReference type="GenomeRNAi" id="60"/>
+<dbReference type="PRO" id="PR:P60709"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 7"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000075624"/>
+<dbReference type="CleanEx" id="HS_ACTB"/>
+<dbReference type="ExpressionAtlas" id="P60709">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P60709">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072562">
+<property type="term" value="C:blood microparticle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030863">
+<property type="term" value="C:cortical cytoskeleton"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036464">
+<property type="term" value="C:cytoplasmic ribonucleoprotein granule"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005856">
+<property type="term" value="C:cytoskeleton"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097433">
+<property type="term" value="C:dense body"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005615">
+<property type="term" value="C:extracellular space"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005925">
+<property type="term" value="C:focal adhesion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030529">
+<property type="term" value="C:intracellular ribonucleoprotein complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043209">
+<property type="term" value="C:myelin sheath"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035267">
+<property type="term" value="C:NuA4 histone acetyltransferase complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000790">
+<property type="term" value="C:nuclear chromatin"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043234">
+<property type="term" value="C:protein complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031982">
+<property type="term" value="C:vesicle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019894">
+<property type="term" value="F:kinesin binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050998">
+<property type="term" value="F:nitric-oxide synthase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005200">
+<property type="term" value="F:structural constituent of cytoskeleton"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098973">
+<property type="term" value="F:structural constituent of postsynaptic actin cytoskeleton"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="SynGO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030957">
+<property type="term" value="F:Tat protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043044">
+<property type="term" value="P:ATP-dependent chromatin remodeling"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034329">
+<property type="term" value="P:cell junction assembly"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048013">
+<property type="term" value="P:ephrin receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038096">
+<property type="term" value="P:Fc-gamma receptor signaling pathway involved in phagocytosis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061024">
+<property type="term" value="P:membrane organization"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006928">
+<property type="term" value="P:movement of cell or subcellular component"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070527">
+<property type="term" value="P:platelet aggregation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045815">
+<property type="term" value="P:positive regulation of gene expression, epigenetic"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098974">
+<property type="term" value="P:postsynaptic actin cytoskeleton organization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="SynGO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016579">
+<property type="term" value="P:protein deubiquitination"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001895">
+<property type="term" value="P:retina homeostasis"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021762">
+<property type="term" value="P:substantia nigra development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048010">
+<property type="term" value="P:vascular endothelial growth factor receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004000">
+<property type="entry name" value="Actin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020902">
+<property type="entry name" value="Actin/actin-like_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004001">
+<property type="entry name" value="Actin_CS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11937">
+<property type="entry name" value="PTHR11937"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00022">
+<property type="entry name" value="Actin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00190">
+<property type="entry name" value="ACTIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00268">
+<property type="entry name" value="ACTIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00406">
+<property type="entry name" value="ACTINS_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00432">
+<property type="entry name" value="ACTINS_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01132">
+<property type="entry name" value="ACTINS_ACT_LIKE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0209">Deafness</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-1023">Dystonia</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0991">Mental retardation</keyword>
+<keyword id="KW-0488">Methylation</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0558">Oxidation</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<feature type="chain" description="Actin, cytoplasmic 1" id="PRO_0000367073">
+<location>
+<begin position="1"/>
+<end position="375"/>
+</location>
+</feature>
+<feature type="initiator methionine" description="Removed; alternate" evidence="1 2 3 4 7 19">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Actin, cytoplasmic 1, N-terminally processed" id="PRO_0000000771">
+<location>
+<begin position="2"/>
+<end position="375"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylmethionine" evidence="3">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylaspartate; in Actin, cytoplasmic 1, N-terminally processed" evidence="1 2 3 4 19">
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="modified residue" description="Methionine (R)-sulfoxide" evidence="5">
+<location>
+<position position="44"/>
+</location>
+</feature>
+<feature type="modified residue" description="Methionine (R)-sulfoxide" evidence="5">
+<location>
+<position position="47"/>
+</location>
+</feature>
+<feature type="modified residue" description="Tele-methylhistidine" evidence="6">
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-methyllysine" evidence="18">
+<location>
+<position position="84"/>
+</location>
+</feature>
+<feature type="cross-link" description="Isoglutamyl lysine isopeptide (Lys-Glu) (interchain with E-270); by Vibrio toxins RtxA and VgrG1" evidence="21">
+<location>
+<position position="50"/>
+</location>
+</feature>
+<feature type="cross-link" description="Isoglutamyl lysine isopeptide (Glu-Lys) (interchain with K-50); by Vibrio toxins RtxA and VgrG1" evidence="21">
+<location>
+<position position="270"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BRWS1; dbSNP:rs281875331." id="VAR_067810" evidence="17">
+<original>N</original>
+<variation>D</variation>
+<location>
+<position position="12"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BRWS1; dbSNP:rs281875332." id="VAR_067811" evidence="17">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="65"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DJO; modifies cell response to latrunculin A; dbSNP:rs104894003." id="VAR_030026" evidence="11">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="183"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BRWS1; dbSNP:rs281875333." id="VAR_067812" evidence="17">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="196"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BRWS1; dbSNP:rs281875334." id="VAR_067813" evidence="17">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="196"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11546899." id="VAR_048185">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="243"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; AAH16045." ref="6" evidence="20">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="97"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; AAH12854." ref="6" evidence="20">
+<original>R</original>
+<variation>L</variation>
+<location>
+<position position="116"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19413330"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="22223895"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="22814378"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="25944712"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000250"/>
+<evidence key="6" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P60710"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12665801"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14592989"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15328537"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16139798"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16685646"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17289661"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17823310"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18765789"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19377461"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21555369"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22366783"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23673617"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source ref="8"/>
+</evidence>
+<evidence key="20" type="ECO:0000305"/>
+<evidence key="21" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="19015515"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="26228148"/>
+</source>
+</evidence>
+<sequence length="375" mass="41737" checksum="6AFD05CA94E360E2" modified="1988-04-01" version="1">
+MDDDIAALVVDNGSGMCKAGFAGDDAPRAVFPSIVGRPRHQGVMVGMGQKDSYVGDEAQS
+KRGILTLKYPIEHGIVTNWDDMEKIWHHTFYNELRVAPEEHPVLLTEAPLNPKANREKMT
+QIMFETFNTPAMYVAIQAVLSLYASGRTTGIVMDSGDGVTHTVPIYEGYALPHAILRLDL
+AGRDLTDYLMKILTERGYSFTTTAEREIVRDIKEKLCYVALDFEQEMATAASSSSLEKSY
+ELPDGQVITIGNERFRCPEALFQPSFLGMESCGIHETTFNSIMKCDVDIRKDLYANTVLS
+GGTTMYPGIADRMQKEITALAPSTMKIKIIAPPERKYSVWIGGSILASLSTFQQMWISKQ
+EYDESGPSIVHRKCF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

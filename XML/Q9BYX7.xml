@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2007-10-23" modified="2017-04-12" version="106">
+<accession>Q9BYX7</accession>
+<accession>Q562N5</accession>
+<name>ACTBM_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Putative beta-actin-like protein 3</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Kappa-actin</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>POTE ankyrin domain family member K</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">POTEKP</name>
+<name type="synonym">ACTBL3</name>
+<name type="ORF">FKSG30</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="2000-11" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning and characterization of FKSG30, a novel gene encoding a protein similar to ACTG1.</title>
+<authorList>
+<person name="Wang Y.-G."/>
+<person name="Gong L."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Hepatol. Res." volume="36" first="33" last="39">
+<title>Identification of a novel actin isoform in hepatocellular carcinoma.</title>
+<authorList>
+<person name="Chang K.-W."/>
+<person name="Yang P.-Y."/>
+<person name="Lai H.-Y."/>
+<person name="Yeh T.-S."/>
+<person name="Chen T.-C."/>
+<person name="Yeh C.-T."/>
+</authorList>
+<dbReference type="PubMed" id="16824795"/>
+<dbReference type="DOI" id="10.1016/j.hepres.2006.05.003"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 84-186</scope>
+<scope>INTERACTION WITH PFN1 AND PFDN1</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2013" name="Nat. Commun." volume="4" first="1832" last="1832">
+<title>ALKBH4-dependent demethylation of actin regulates actomyosin dynamics.</title>
+<authorList>
+<person name="Li M.M."/>
+<person name="Nilsen A."/>
+<person name="Shi Y."/>
+<person name="Fusser M."/>
+<person name="Ding Y.H."/>
+<person name="Fu Y."/>
+<person name="Liu B."/>
+<person name="Niu Y."/>
+<person name="Wu Y.S."/>
+<person name="Huang C.M."/>
+<person name="Olofsson M."/>
+<person name="Jin K.X."/>
+<person name="Lv Y."/>
+<person name="Xu X.Z."/>
+<person name="He C."/>
+<person name="Dong M.Q."/>
+<person name="Rendtlew Danielsen J.M."/>
+<person name="Klungland A."/>
+<person name="Yang Y.G."/>
+</authorList>
+<dbReference type="PubMed" id="23673617"/>
+<dbReference type="DOI" id="10.1038/ncomms2863"/>
+</citation>
+<scope>METHYLATION AT LYS-84</scope>
+<scope>DEMETHYLATION BY ALKBH4</scope>
+</reference>
+<comment type="subunit">
+<text evidence="2">Interacts with PFN1 and PFDN1. Does not interact with PFN2.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+<location evidence="1">Cytoskeleton</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="2">Expressed in some hepatocellular carcinomas.</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">Oxidation of Met-44 and Met-47 by MICALs (MICAL1, MICAL2 or MICAL3) to form methionine sulfoxide promotes actin filament depolymerization. MICAL1 and MICAL2 produce the (R)-S-oxide form. The (R)-S-oxide form is reverted by MSRB1 and MSRB2, which promote actin repolymerization (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text>Monomethylation at Lys-84 (K84me1) regulates actin-myosin interaction and actomyosin-dependent processes. Demethylation by ALKBH4 is required for maintaining actomyosin dynamics supporting normal cleavage furrow ingression during cytokinesis and cell migration.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the actin family.</text>
+</comment>
+<comment type="caution">
+<text evidence="4">Could be the product of a pseudogene.</text>
+</comment>
+<dbReference type="EMBL" id="AY014272">
+<property type="protein sequence ID" value="AAG50355.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY970480">
+<property type="protein sequence ID" value="AAX82286.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.631267"/>
+<dbReference type="UniGene" id="Hs.654289"/>
+<dbReference type="ProteinModelPortal" id="Q9BYX7"/>
+<dbReference type="SMR" id="Q9BYX7"/>
+<dbReference type="IntAct" id="Q9BYX7">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1141007"/>
+<dbReference type="STRING" id="9606.ENSP00000439189"/>
+<dbReference type="iPTMnet" id="Q9BYX7"/>
+<dbReference type="PhosphoSitePlus" id="Q9BYX7"/>
+<dbReference type="SwissPalm" id="Q9BYX7"/>
+<dbReference type="DMDM" id="74739412"/>
+<dbReference type="EPD" id="Q9BYX7"/>
+<dbReference type="MaxQB" id="Q9BYX7"/>
+<dbReference type="PaxDb" id="Q9BYX7"/>
+<dbReference type="PeptideAtlas" id="Q9BYX7"/>
+<dbReference type="PRIDE" id="Q9BYX7"/>
+<dbReference type="TopDownProteomics" id="Q9BYX7"/>
+<dbReference type="DisGeNET" id="440915"/>
+<dbReference type="GeneCards" id="POTEKP"/>
+<dbReference type="HGNC" id="HGNC:30182">
+<property type="gene designation" value="POTEKP"/>
+</dbReference>
+<dbReference type="HPA" id="HPA041264"/>
+<dbReference type="HPA" id="HPA041271"/>
+<dbReference type="MIM" id="611266">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9BYX7"/>
+<dbReference type="eggNOG" id="ENOG410ITJG">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG0676">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0666">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5277">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="InParanoid" id="Q9BYX7"/>
+<dbReference type="Reactome" id="R-HSA-114608">
+<property type="pathway name" value="Platelet degranulation"/>
+</dbReference>
+<dbReference type="SignaLink" id="Q9BYX7"/>
+<dbReference type="PRO" id="PR:Q9BYX7"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Unplaced"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005856">
+<property type="term" value="C:cytoskeleton"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002576">
+<property type="term" value="P:platelet degranulation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004000">
+<property type="entry name" value="Actin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020902">
+<property type="entry name" value="Actin/actin-like_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004001">
+<property type="entry name" value="Actin_CS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11937">
+<property type="entry name" value="PTHR11937"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00022">
+<property type="entry name" value="Actin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00190">
+<property type="entry name" value="ACTIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00268">
+<property type="entry name" value="ACTIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00432">
+<property type="entry name" value="ACTINS_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01132">
+<property type="entry name" value="ACTINS_ACT_LIKE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="uncertain"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0488">Methylation</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0558">Oxidation</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Putative beta-actin-like protein 3" id="PRO_0000307865">
+<location>
+<begin position="1"/>
+<end position="375"/>
+</location>
+</feature>
+<feature type="modified residue" description="Methionine (R)-sulfoxide" evidence="1">
+<location>
+<position position="44"/>
+</location>
+</feature>
+<feature type="modified residue" description="Methionine (R)-sulfoxide" evidence="1">
+<location>
+<position position="47"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-methyllysine" evidence="3">
+<location>
+<position position="84"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAX82286." ref="2" evidence="4">
+<original>F</original>
+<variation>V</variation>
+<location>
+<position position="159"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAX82286." ref="2" evidence="4">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="177"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16824795"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23673617"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="375" mass="42016" checksum="98127B88A9983B7D" modified="2001-06-01" version="1">
+MDDDTAVLVIDNGSGMCKAGFAGDDAPQAVFPSIVGRPRHQGMMEGMHQKESYVGKEAQS
+KRGMLTLKYPMEHGIITNWDDMEKIWHHTFYNELRVAPEEHPILLTEAPLNPKANREKMT
+QIMFETFNTPAMYVAIQAVLSLYTSGRTTGIVMDSGDGFTHTVPIYEGNALPHATLRLDL
+AGRELTDYLMKILTERGYRFTTTAEQEIVRDIKEKLCYVALDSEQEMAMAASSSSVEKSY
+ELPDGQVITIGNERFRCPEALFQPCFLGMESCGIHKTTFNSIVKSDVDIRKDLYTNTVLS
+GGTTMYPGIAHRMQKEITALAPSIMKIKIIAPPKRKYSVWVGGSILASLSTFQQMWISKQ
+EYDESGPSIVHRKCF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

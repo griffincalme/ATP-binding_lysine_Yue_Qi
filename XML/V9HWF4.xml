@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2014-03-19" modified="2017-05-10" version="19">
+<accession>V9HWF4</accession>
+<name>V9HWF4_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="3">Phosphoglycerate kinase</fullName>
+<ecNumber evidence="3">2.7.2.3</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="5">HEL-S-68p</name>
+</gene>
+<organism evidence="5">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="submission" date="2008-06" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Li J.Y."/>
+<person name="Wang H.Y."/>
+<person name="Liu F.J."/>
+<person name="Liu J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="3">ATP + 3-phospho-D-glycerate = ADP + 3-phospho-D-glyceroyl phosphate.</text>
+</comment>
+<comment type="subunit">
+<text evidence="4">Monomer.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the phosphoglycerate kinase family.</text>
+</comment>
+<dbReference type="EC" id="2.7.2.3" evidence="3"/>
+<dbReference type="EMBL" id="EU794645">
+<property type="protein sequence ID" value="ACJ13699.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000282.1">
+<property type="nucleotide sequence ID" value="NM_000291.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.78771"/>
+<dbReference type="ProteinModelPortal" id="V9HWF4"/>
+<dbReference type="SMR" id="V9HWF4"/>
+<dbReference type="STRING" id="9606.ENSP00000362413"/>
+<dbReference type="MaxQB" id="V9HWF4"/>
+<dbReference type="PaxDb" id="V9HWF4"/>
+<dbReference type="GeneID" id="5230"/>
+<dbReference type="KEGG" id="hsa:5230"/>
+<dbReference type="UCSC" id="uc004ecz.5">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="5230"/>
+<dbReference type="eggNOG" id="KOG1367">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0126">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="KO" id="K00927"/>
+<dbReference type="OMA" id="IKHCLDH"/>
+<dbReference type="OrthoDB" id="EOG091G08S6"/>
+<dbReference type="PhylomeDB" id="V9HWF4"/>
+<dbReference type="ChiTaRS" id="PGK1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="5230"/>
+<dbReference type="ExpressionAtlas" id="V9HWF4">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004618">
+<property type="term" value="F:phosphoglycerate kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006096">
+<property type="term" value="P:glycolytic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="CDD" id="cd00318">
+<property type="entry name" value="Phosphoglycerate_kinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.1260">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00145">
+<property type="entry name" value="Phosphoglyc_kinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001576">
+<property type="entry name" value="Phosphoglycerate_kinase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015911">
+<property type="entry name" value="Phosphoglycerate_kinase_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015824">
+<property type="entry name" value="Phosphoglycerate_kinase_N"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11406">
+<property type="entry name" value="PTHR11406"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00162">
+<property type="entry name" value="PGK"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000724">
+<property type="entry name" value="Pgk"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00477">
+<property type="entry name" value="PHGLYCKINASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53748">
+<property type="entry name" value="SSF53748"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00111">
+<property type="entry name" value="PGLYCERATE_KINASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="3">Kinase</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<keyword id="KW-0808" evidence="3">Transferase</keyword>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="373"/>
+<end position="376"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding" evidence="1">
+<location>
+<begin position="24"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding" evidence="1">
+<location>
+<begin position="63"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="1">
+<location>
+<position position="39"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="1">
+<location>
+<position position="123"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="1">
+<location>
+<position position="171"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="2">
+<location>
+<position position="220"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP; via carbonyl oxygen" evidence="2">
+<location>
+<position position="313"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="2">
+<location>
+<position position="344"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PIRSR" id="PIRSR000724-1"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="PIRSR" id="PIRSR000724-2"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000532"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000696"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ACJ13699.1"/>
+</source>
+</evidence>
+<sequence length="417" mass="44615" checksum="B5DFC7B5FA01767C" modified="2014-03-19" version="1">
+MSLSNKLTLDKLDVKGKRVVMRVDFNVPMKNNQITNNQRIKAAVPSIKFCLDNGAKSVVL
+MSHLGRPDGVPMPDKYSLEPVAVELKSLLGKDVLFLKDCVGPEVEKACANPAAGSVILLE
+NLRFHVEEEGKGKDASGNKVKAEPAKIEAFRASLSKLGDVYVNDAFGTAHRAHSSMVGVN
+LPQKAGGFLMKKELNYFAKALESPERPFLAILGGAKVADKIQLINNMLDKVNEMIIGGGM
+AFTFLKVLNNMEIGTSLFDEEGAKIVKDLMSKAEKNGVKITLPVDFVTADKFDENAKTGQ
+ATVASGIPAGWMGLDCGPESSKKYAEAVTRAKQIVWNGPVGVFEWEAFARGTKALMDEVV
+KATSRGCITIIGGGDTATCCAKWNTEDKVSHVSTGGGASLELLEGKVLPGVDALSNI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

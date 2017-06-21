@@ -1,0 +1,838 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2000-12-01" modified="2017-04-12" version="153">
+<accession>P57078</accession>
+<accession>Q96KH0</accession>
+<name>RIPK4_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Receptor-interacting serine/threonine-protein kinase 4</fullName>
+<ecNumber>2.7.11.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Ankyrin repeat domain-containing protein 3</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>PKC-delta-interacting protein kinase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">RIPK4</name>
+<name type="synonym">ANKRD3</name>
+<name type="synonym">DIK</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="2000-08" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Shimizu N."/>
+<person name="Kudoh J."/>
+<person name="Shibuya K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2)</scope>
+<source>
+<tissue>Fetal kidney</tissue>
+<tissue>Fetal lung</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2000" name="Nature" volume="405" first="311" last="319">
+<title>The DNA sequence of human chromosome 21.</title>
+<authorList>
+<person name="Hattori M."/>
+<person name="Fujiyama A."/>
+<person name="Taylor T.D."/>
+<person name="Watanabe H."/>
+<person name="Yada T."/>
+<person name="Park H.-S."/>
+<person name="Toyoda A."/>
+<person name="Ishii K."/>
+<person name="Totoki Y."/>
+<person name="Choi D.-K."/>
+<person name="Groner Y."/>
+<person name="Soeda E."/>
+<person name="Ohki M."/>
+<person name="Takagi T."/>
+<person name="Sakaki Y."/>
+<person name="Taudien S."/>
+<person name="Blechschmidt K."/>
+<person name="Polley A."/>
+<person name="Menzel U."/>
+<person name="Delabar J."/>
+<person name="Kumpf K."/>
+<person name="Lehmann R."/>
+<person name="Patterson D."/>
+<person name="Reichwald K."/>
+<person name="Rump A."/>
+<person name="Schillhabel M."/>
+<person name="Schudy A."/>
+<person name="Zimmermann W."/>
+<person name="Rosenthal A."/>
+<person name="Kudoh J."/>
+<person name="Shibuya K."/>
+<person name="Kawasaki K."/>
+<person name="Asakawa S."/>
+<person name="Shintani A."/>
+<person name="Sasaki T."/>
+<person name="Nagamine K."/>
+<person name="Mitsuyama S."/>
+<person name="Antonarakis S.E."/>
+<person name="Minoshima S."/>
+<person name="Shimizu N."/>
+<person name="Nordsiek G."/>
+<person name="Hornischer K."/>
+<person name="Brandt P."/>
+<person name="Scharfe M."/>
+<person name="Schoen O."/>
+<person name="Desario A."/>
+<person name="Reichelt J."/>
+<person name="Kauer G."/>
+<person name="Bloecker H."/>
+<person name="Ramser J."/>
+<person name="Beck A."/>
+<person name="Klages S."/>
+<person name="Hennig S."/>
+<person name="Riesselmann L."/>
+<person name="Dagand E."/>
+<person name="Wehrmeyer S."/>
+<person name="Borzym K."/>
+<person name="Gardiner K."/>
+<person name="Nizetic D."/>
+<person name="Francis F."/>
+<person name="Lehrach H."/>
+<person name="Reinhardt R."/>
+<person name="Yaspo M.-L."/>
+</authorList>
+<dbReference type="PubMed" id="10830953"/>
+<dbReference type="DOI" id="10.1038/35012518"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2002" name="EMBO Rep." volume="3" first="1201" last="1208">
+<title>RIP4 (DIK/PKK), a novel member of the RIP kinase family, activates NF-kappa B and is processed during apoptosis.</title>
+<authorList>
+<person name="Meylan E."/>
+<person name="Martinon F."/>
+<person name="Thome M."/>
+<person name="Gschwendt M."/>
+<person name="Tschopp J."/>
+</authorList>
+<dbReference type="PubMed" id="12446564"/>
+<dbReference type="DOI" id="10.1093/embo-reports/kvf236"/>
+</citation>
+<scope>CLEAVAGE AT ASP-388 AND ASP-426</scope>
+<scope>INTERACTION WITH TRAF1; TRAF2; TRAF3 AND TRAF5</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2011" name="PLoS ONE" volume="6" first="E22356" last="E22356">
+<title>cIAP1/2 are direct E3 ligases conjugating diverse types of ubiquitin chains to receptor interacting proteins kinases 1 to 4 (RIP1-4).</title>
+<authorList>
+<person name="Bertrand M.J."/>
+<person name="Lippens S."/>
+<person name="Staes A."/>
+<person name="Gilbert B."/>
+<person name="Roelandt R."/>
+<person name="De Medts J."/>
+<person name="Gevaert K."/>
+<person name="Declercq W."/>
+<person name="Vandenabeele P."/>
+</authorList>
+<dbReference type="PubMed" id="21931591"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0022356"/>
+</citation>
+<scope>UBIQUITINATION AT LYS-51 AND LYS-145</scope>
+<scope>UBIQUITINATION BY BIRC2/C-IAP1 AND BIRC3/C-IAP2</scope>
+<scope>INTERACTION WITH BIRC2/C-IAP1; BIRC3/C-IAP2 AND XIAP/BIRC4</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2012" name="Am. J. Hum. Genet." volume="90" first="69" last="75">
+<title>Exome sequence identifies RIPK4 as the Bartsocas-Papas syndrome locus.</title>
+<authorList>
+<person name="Mitchell K."/>
+<person name="O'Sullivan J."/>
+<person name="Missero C."/>
+<person name="Blair E."/>
+<person name="Richardson R."/>
+<person name="Anderson B."/>
+<person name="Antonini D."/>
+<person name="Murray J.C."/>
+<person name="Shanske A.L."/>
+<person name="Schutte B.C."/>
+<person name="Romano R.A."/>
+<person name="Sinha S."/>
+<person name="Bhaskar S.S."/>
+<person name="Black G.C."/>
+<person name="Dixon J."/>
+<person name="Dixon M.J."/>
+</authorList>
+<dbReference type="PubMed" id="22197488"/>
+<dbReference type="DOI" id="10.1016/j.ajhg.2011.11.013"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>VARIANT PPS-L ASN-81</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2007" name="Nature" volume="446" first="153" last="158">
+<title>Patterns of somatic mutation in human cancer genomes.</title>
+<authorList>
+<person name="Greenman C."/>
+<person name="Stephens P."/>
+<person name="Smith R."/>
+<person name="Dalgliesh G.L."/>
+<person name="Hunter C."/>
+<person name="Bignell G."/>
+<person name="Davies H."/>
+<person name="Teague J."/>
+<person name="Butler A."/>
+<person name="Stevens C."/>
+<person name="Edkins S."/>
+<person name="O'Meara S."/>
+<person name="Vastrik I."/>
+<person name="Schmidt E.E."/>
+<person name="Avis T."/>
+<person name="Barthorpe S."/>
+<person name="Bhamra G."/>
+<person name="Buck G."/>
+<person name="Choudhury B."/>
+<person name="Clements J."/>
+<person name="Cole J."/>
+<person name="Dicks E."/>
+<person name="Forbes S."/>
+<person name="Gray K."/>
+<person name="Halliday K."/>
+<person name="Harrison R."/>
+<person name="Hills K."/>
+<person name="Hinton J."/>
+<person name="Jenkinson A."/>
+<person name="Jones D."/>
+<person name="Menzies A."/>
+<person name="Mironenko T."/>
+<person name="Perry J."/>
+<person name="Raine K."/>
+<person name="Richardson D."/>
+<person name="Shepherd R."/>
+<person name="Small A."/>
+<person name="Tofts C."/>
+<person name="Varian J."/>
+<person name="Webb T."/>
+<person name="West S."/>
+<person name="Widaa S."/>
+<person name="Yates A."/>
+<person name="Cahill D.P."/>
+<person name="Louis D.N."/>
+<person name="Goldstraw P."/>
+<person name="Nicholson A.G."/>
+<person name="Brasseur F."/>
+<person name="Looijenga L."/>
+<person name="Weber B.L."/>
+<person name="Chiew Y.-E."/>
+<person name="DeFazio A."/>
+<person name="Greaves M.F."/>
+<person name="Green A.R."/>
+<person name="Campbell P."/>
+<person name="Birney E."/>
+<person name="Easton D.F."/>
+<person name="Chenevix-Trench G."/>
+<person name="Tan M.-H."/>
+<person name="Khoo S.K."/>
+<person name="Teh B.T."/>
+<person name="Yuen S.T."/>
+<person name="Leung S.Y."/>
+<person name="Wooster R."/>
+<person name="Futreal P.A."/>
+<person name="Stratton M.R."/>
+</authorList>
+<dbReference type="PubMed" id="17344846"/>
+<dbReference type="DOI" id="10.1038/nature05610"/>
+</citation>
+<scope>VARIANTS [LARGE SCALE ANALYSIS] ASN-462; MET-463; TYR-562; HIS-669 AND SER-749</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2012" name="Am. J. Hum. Genet." volume="90" first="76" last="85">
+<title>Mutations in RIPK4 cause the autosomal-recessive form of popliteal pterygium syndrome.</title>
+<authorList>
+<person name="Kalay E."/>
+<person name="Sezgin O."/>
+<person name="Chellappa V."/>
+<person name="Mutlu M."/>
+<person name="Morsy H."/>
+<person name="Kayserili H."/>
+<person name="Kreiger E."/>
+<person name="Cansu A."/>
+<person name="Toraman B."/>
+<person name="Abdalla E.M."/>
+<person name="Aslan Y."/>
+<person name="Pillai S."/>
+<person name="Akarsu N.A."/>
+</authorList>
+<dbReference type="PubMed" id="22197489"/>
+<dbReference type="DOI" id="10.1016/j.ajhg.2011.11.014"/>
+</citation>
+<scope>VARIANTS PPS-L ASN-121 AND ILE-184</scope>
+<scope>CHARACTERIZATION OF VARIANTS PPS-L ASN-121 AND ILE-184</scope>
+</reference>
+<comment type="function">
+<text evidence="4 7">Involved in stratified epithelial development. It is a direct transcriptional target of TP63. Plays a role in NF-kappa-B activation.</text>
+</comment>
+<comment type="catalytic activity">
+<text>ATP + a protein = ADP + a phosphoprotein.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1 4 6">Interacts with PRKCB (By similarity). Interacts with TRAF1, TRAF2, TRAF3 and TRAF5. Interacts with BIRC2/c-IAP1, BIRC3/c-IAP2 and XIAP/BIRC4.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-4422308"/>
+<interactant intactId="EBI-514538">
+<id>Q13490</id>
+<label>BIRC2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-4422308"/>
+<interactant intactId="EBI-517709">
+<id>Q13489</id>
+<label>BIRC3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-4422308"/>
+<interactant intactId="EBI-745632">
+<id>Q9NWT6</id>
+<label>HIF1AN</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-4422308"/>
+<interactant intactId="EBI-517127">
+<id>P98170</id>
+<label>XIAP</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Membrane</location>
+<topology evidence="1">Peripheral membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>P57078-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P57078-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_004862"/>
+</isoform>
+</comment>
+<comment type="PTM">
+<text evidence="1">May be phosphorylated by MAP3K2 and MAP3K3.</text>
+</comment>
+<comment type="PTM">
+<text evidence="4">Proteolytically cleaved by during Fas-induced apoptosis. Cleavage at Asp-388 and Asp-426.</text>
+</comment>
+<comment type="PTM">
+<text evidence="6">Polyubiquitinated with 'Lys-48' and 'Lys-63'-linked chains by BIRC2/c-IAP1 and BIRC3/c-IAP2, leading to activation of NF-kappa-B.</text>
+</comment>
+<comment type="disease" evidence="7 8">
+<disease id="DI-03375">
+<name>Popliteal pterygium syndrome, lethal type</name>
+<acronym>PPS-L</acronym>
+<description>An autosomal recessive disorder characterized by multiple popliteal pterygia leading to severe arthrogryposis, ankyloblepharon filiforme adnatum, filiform bands between the jaws, synostosis of the carpal/tarsal and phalangeal bones in the hands and feet, digital hypoplasia/aplasia, complete soft-tissue syndactyly, lack of nails, lack of scalp hair, eyebrows and eyelashes, blepharophimosis, cleft lip and/or palate, and hypoplastic external genitalia. Early lethality is common, although survival into childhood and beyond has been reported.</description>
+<dbReference type="MIM" id="263650"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="10">Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family.</text>
+</comment>
+<dbReference type="EC" id="2.7.11.1"/>
+<dbReference type="EMBL" id="AB047783">
+<property type="protein sequence ID" value="BAB56136.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP001743">
+<property type="protein sequence ID" value="BAA95526.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS13675.1">
+<molecule id="P57078-2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.517310"/>
+<dbReference type="ProteinModelPortal" id="P57078"/>
+<dbReference type="SMR" id="P57078"/>
+<dbReference type="DIP" id="DIP-40722N"/>
+<dbReference type="IntAct" id="P57078">
+<property type="interactions" value="290"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-142997"/>
+<dbReference type="BindingDB" id="P57078"/>
+<dbReference type="ChEMBL" id="CHEMBL6083"/>
+<dbReference type="GuidetoPHARMACOLOGY" id="2192"/>
+<dbReference type="iPTMnet" id="P57078"/>
+<dbReference type="PhosphoSitePlus" id="P57078"/>
+<dbReference type="DMDM" id="10719883"/>
+<dbReference type="EPD" id="P57078"/>
+<dbReference type="MaxQB" id="P57078"/>
+<dbReference type="PeptideAtlas" id="P57078"/>
+<dbReference type="PRIDE" id="P57078"/>
+<dbReference type="Ensembl" id="ENST00000332512">
+<molecule id="P57078-2"/>
+<property type="protein sequence ID" value="ENSP00000332454"/>
+<property type="gene ID" value="ENSG00000183421"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000352483">
+<molecule id="P57078-1"/>
+<property type="protein sequence ID" value="ENSP00000330161"/>
+<property type="gene ID" value="ENSG00000183421"/>
+</dbReference>
+<dbReference type="UCSC" id="uc002yzn.2">
+<molecule id="P57078-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="DisGeNET" id="54101"/>
+<dbReference type="GeneCards" id="RIPK4"/>
+<dbReference type="HGNC" id="HGNC:496">
+<property type="gene designation" value="RIPK4"/>
+</dbReference>
+<dbReference type="MalaCards" id="RIPK4"/>
+<dbReference type="MIM" id="263650">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="605706">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P57078"/>
+<dbReference type="OpenTargets" id="ENSG00000183421"/>
+<dbReference type="Orphanet" id="1234">
+<property type="disease" value="Bartsocas-Papas syndrome"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00550000074536"/>
+<dbReference type="HOGENOM" id="HOG000294086"/>
+<dbReference type="HOVERGEN" id="HBG061582"/>
+<dbReference type="InParanoid" id="P57078"/>
+<dbReference type="OMA" id="CQHGQES"/>
+<dbReference type="OrthoDB" id="EOG091G0505"/>
+<dbReference type="PhylomeDB" id="P57078"/>
+<dbReference type="TreeFam" id="TF106506"/>
+<dbReference type="SignaLink" id="P57078"/>
+<dbReference type="ChiTaRS" id="RIPK4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P57078"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 21"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000183421"/>
+<dbReference type="CleanEx" id="HS_RIPK4"/>
+<dbReference type="Genevisible" id="P57078">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002009">
+<property type="term" value="P:morphogenesis of an epithelium"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051092">
+<property type="term" value="P:positive regulation of NF-kappaB transcription factor activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.25.40.20">
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002110">
+<property type="entry name" value="Ankyrin_rpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020683">
+<property type="entry name" value="Ankyrin_rpt-contain_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12796">
+<property type="entry name" value="Ank_2"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01415">
+<property type="entry name" value="ANKYRIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00248">
+<property type="entry name" value="ANK"/>
+<property type="match status" value="10"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48403">
+<property type="entry name" value="SSF48403"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50297">
+<property type="entry name" value="ANK_REP_REGION"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50088">
+<property type="entry name" value="ANK_REPEAT"/>
+<property type="match status" value="9"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0040">ANK repeat</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-0675">Receptor</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0723">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<feature type="chain" description="Receptor-interacting serine/threonine-protein kinase 4" id="PRO_0000086613">
+<location>
+<begin position="1"/>
+<end position="832"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase" evidence="2">
+<location>
+<begin position="22"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 1">
+<location>
+<begin position="485"/>
+<end position="514"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 2">
+<location>
+<begin position="518"/>
+<end position="547"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 3">
+<location>
+<begin position="551"/>
+<end position="580"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 4">
+<location>
+<begin position="584"/>
+<end position="613"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 5">
+<location>
+<begin position="617"/>
+<end position="647"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 6">
+<location>
+<begin position="651"/>
+<end position="680"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 7">
+<location>
+<begin position="684"/>
+<end position="713"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 8">
+<location>
+<begin position="717"/>
+<end position="746"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 9">
+<location>
+<begin position="750"/>
+<end position="780"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 10">
+<location>
+<begin position="782"/>
+<end position="811"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="28"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="2 3">
+<location>
+<position position="143"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="2">
+<location>
+<position position="51"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage">
+<location>
+<begin position="388"/>
+<end position="389"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage">
+<location>
+<begin position="426"/>
+<end position="427"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="6">
+<location>
+<position position="51"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="6">
+<location>
+<position position="145"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_004862" evidence="9">
+<location>
+<begin position="278"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6586239." id="VAR_030160">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="12"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PPS-L; dbSNP:rs387906922." id="VAR_067331" evidence="7">
+<original>I</original>
+<variation>N</variation>
+<location>
+<position position="81"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PPS-L; loss of function; dbSNP:rs387906923." id="VAR_067332" evidence="8">
+<original>I</original>
+<variation>N</variation>
+<location>
+<position position="121"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs12482626." id="VAR_030161">
+<original>S</original>
+<variation>N</variation>
+<location>
+<position position="177"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PPS-L; loss of function." id="VAR_067333" evidence="8">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="184"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55809511." id="VAR_041050" evidence="5">
+<original>I</original>
+<variation>N</variation>
+<location>
+<position position="462"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55645753." id="VAR_041051" evidence="5">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="463"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55829311." id="VAR_041052" evidence="5">
+<original>N</original>
+<variation>Y</variation>
+<location>
+<position position="562"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs56056485." id="VAR_041053" evidence="5">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="669"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35537517." id="VAR_041054" evidence="5">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="749"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; BAB56136." ref="1" evidence="10">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="714"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00159"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10027"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12446564"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17344846"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21931591"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22197488"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22197489"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000303">
+<source ref="1"/>
+</evidence>
+<evidence key="10" type="ECO:0000305"/>
+<sequence length="832" mass="91611" checksum="5D8FFFD5F04F7ECB" modified="2000-12-01" version="1">
+MEGDGGTPWALALLRTFDAGEFTGWEKVGSGGFGQVYKVRHVHWKTWLAIKCSPSLHVDD
+RERMELLEEAKKMEMAKFRYILPVYGICREPVGLVMEYMETGSLEKLLASEPLPWDLRFR
+IIHETAVGMNFLHCMAPPLLHLDLKPANILLDAHYHVKISDFGLAKCNGLSHSHDLSMDG
+LFGTIAYLPPERIREKSRLFDTKHDVYSFAIVIWGVLTQKKPFADEKNILHIMVKVVKGH
+RPELPPVCRARPRACSHLIRLMQRCWQGDPRVRPTFQGNGLNGELIRQVLAALLPVTGRW
+RSPGEGFRLESEVIIRVTCPLSSPQEITSETEDLCEKPDDEVKETAHDLDVKSPPEPRSE
+VVPARLKRASAPTFDNDYSLSELLSQLDSGVSQAVEGPEELSRSSSESKLPSSGSGKRLS
+GVSSVDSAFSSRGSLSLSFEREPSTSDLGTTDVQKKKLVDAIVSGDTSKLMKILQPQDVD
+LALDSGASLLHLAVEAGQEECAKWLLLNNANPNLSNRRGSTPLHMAVERRVRGVVELLLA
+RKISVNAKDEDQWTALHFAAQNGDESSTRLLLEKNASVNEVDFEGRTPMHVACQHGQENI
+VRILLRRGVDVSLQGKDAWLPLHYAAWQGHLPIVKLLAKQPGVSVNAQTLDGRTPLHLAA
+QRGHYRVARILIDLCSDVNVCSLLAQTPLHVAAETGHTSTARLLLHRGAGKEAMTSDGYT
+ALHLAARNGHLATVKLLVEEKADVLARGPLNQTALHLAAAHGHSEVVEELVSADVIDLFD
+EQGLSALHLAAQGRHAQTVETLLRHGAHINLQSLKFQGGHGPAATLLRRSKT
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

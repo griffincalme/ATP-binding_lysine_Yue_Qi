@@ -1,0 +1,324 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2007-12-04" modified="2017-05-10" version="63">
+<accession>A8K7S5</accession>
+<name>A8K7S5_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Katanin p60 ATPase-containing subunit A1</fullName>
+<shortName evidence="1">Katanin p60 subunit A1</shortName>
+<ecNumber evidence="1">3.6.4.3</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">p60 katanin</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">KATNA1</name>
+</gene>
+<organism evidence="5">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="5">Synovial membrane tissue</tissue>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">Catalytic subunit of a complex which severs microtubules in an ATP-dependent manner. Microtubule severing may promote rapid reorganization of cellular microtubule arrays and the release of microtubules from the centrosome following nucleation. Microtubule release from the mitotic spindle poles may allow depolymerization of the microtubule end proximal to the spindle pole, leading to poleward microtubule flux and poleward motion of chromosome. Microtubule release within the cell body of neurons may be required for their transport into neuronal processes by microtubule-dependent motor proteins. This transport is required for axonal growth.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1">ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="1">ATPase activity is stimulated by microtubules, which promote homooligomerization. ATP-dependent microtubule severing is stimulated by interaction with KATNB1.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Can homooligomerize into hexameric rings, which may be promoted by interaction with microtubules. Interacts with KATNB1, which may serve as a targeting subunit. Interacts with dynein and NDEL1. Associates with the E3 ligase complex containing DYRK2, EDD/UBR5, DDB1 and VPRBP proteins (EDVP complex). Interacts with KLHL42 (via the kelch domains). Interacts with CUL3; the interaction is enhanced by KLHL42.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Midbody</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+<location evidence="1">Cytoskeleton</location>
+<location evidence="1">Microtubule organizing center</location>
+<location evidence="1">Centrosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+<location evidence="1">Cytoskeleton</location>
+<location evidence="1">Spindle pole</location>
+</subcellularLocation>
+<text evidence="1">Predominantly cytoplasmic. Localized diffusely in the cytoplasm during the interphase. During metaphase is localized throughout the cell and more widely dispersed than the microtubules. In anaphase and telophase is localized at the midbody region. Also localized to the interphase centrosome and the mitotic spindle poles. Enhanced recruitment to the mitotic spindle poles requires microtubules and interaction with KATNB1.</text>
+</comment>
+<comment type="domain">
+<text evidence="1">The N-terminus is sufficient for interaction with microtubules, although high affinity binding to microtubules also requires an intact C-terminal domain and ATP, which promotes oligomerization.</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">Phosphorylation by DYRK2 triggers ubiquitination and subsequent degradation.</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">Ubiquitinated by the BCR(KLHL42) E3 ubiquitin ligase complex, leading to its proteasomal degradation. Ubiquitinated by the EDVP E3 ligase complex and subsequently targeted for proteasomal degradation.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the AAA ATPase family. Katanin p60 subunit A1 subfamily.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.3" evidence="1"/>
+<dbReference type="EMBL" id="AK292090">
+<property type="protein sequence ID" value="BAF84779.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_008975.1">
+<property type="nucleotide sequence ID" value="NM_007044.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.450175"/>
+<dbReference type="STRING" id="9606.ENSP00000335106"/>
+<dbReference type="PaxDb" id="A8K7S5"/>
+<dbReference type="PeptideAtlas" id="A8K7S5"/>
+<dbReference type="PRIDE" id="A8K7S5"/>
+<dbReference type="GeneID" id="11104"/>
+<dbReference type="KEGG" id="hsa:11104"/>
+<dbReference type="CTD" id="11104"/>
+<dbReference type="eggNOG" id="KOG0738">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XPN7">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG057074"/>
+<dbReference type="KO" id="K07767"/>
+<dbReference type="ChiTaRS" id="KATNA1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="11104"/>
+<dbReference type="Genevisible" id="A8K7S5">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005813">
+<property type="term" value="C:centrosome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005874">
+<property type="term" value="C:microtubule"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030496">
+<property type="term" value="C:midbody"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000922">
+<property type="term" value="C:spindle pole"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008017">
+<property type="term" value="F:microtubule binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008568">
+<property type="term" value="F:microtubule-severing ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051301">
+<property type="term" value="P:cell division"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051013">
+<property type="term" value="P:microtubule severing"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007067">
+<property type="term" value="P:mitotic nuclear division"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_03023">
+<property type="entry name" value="Katanin_p60_A1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003959">
+<property type="entry name" value="ATPase_AAA_core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003960">
+<property type="entry name" value="ATPase_AAA_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028596">
+<property type="entry name" value="KATNA1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015415">
+<property type="entry name" value="Vps4_C"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00004">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF09336">
+<property type="entry name" value="Vps4_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00674">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1 2 3">ATP-binding</keyword>
+<keyword id="KW-0131" evidence="1">Cell cycle</keyword>
+<keyword id="KW-0132" evidence="1">Cell division</keyword>
+<keyword id="KW-0963" evidence="1">Cytoplasm</keyword>
+<keyword id="KW-0206" evidence="1">Cytoskeleton</keyword>
+<keyword id="KW-0378" evidence="1">Hydrolase</keyword>
+<keyword id="KW-0493" evidence="1">Microtubule</keyword>
+<keyword id="KW-0498" evidence="1">Mitosis</keyword>
+<keyword id="KW-0547" evidence="1 2 3">Nucleotide-binding</keyword>
+<keyword id="KW-0597" evidence="1">Phosphoprotein</keyword>
+<keyword id="KW-0832" evidence="1">Ubl conjugation</keyword>
+<feature type="domain" description="AAA" evidence="4">
+<location>
+<begin position="241"/>
+<end position="383"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="249"/>
+<end position="256"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by DYRK2" evidence="1">
+<location>
+<position position="42"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by DYRK2" evidence="1">
+<location>
+<position position="109"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by DYRK2" evidence="1">
+<location>
+<position position="133"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_03023"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU003651"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00552105"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00382"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAF84779.1"/>
+</source>
+</evidence>
+<sequence length="491" mass="55977" checksum="D931459E838F7907" modified="2007-12-04" version="1">
+MSLLMISENVKLAREYALLGNYDSAMVYYQGVLDQMNKYLYSVKDTYLQQKWQQVWQEIN
+VEAKHVKDIMKTLESFKLDSTPLKAAQHDLPASEGEVWSMPVPVERRPSPGPRKRQSSQY
+SDPKSHGNRPSTTVRVHRSSAQNVHNDRGKAVRCREKKEQNKGREEKNKSPAAVTEPETN
+KFDSTGYDKDLVEALERDIISQNPNVRWDDIADLVEAKKLLKEAVVLPMWMPEFFKGIRR
+PWKGVLMVGPPGTGKTLLAKAVATECKTTFFNVSSSTLTSKYRGESEKLVRLLFEMARFY
+SPATIFIDEIDSICSRRGTSEEHEASRRVKAELLVQMDGVGGISENDDPSKMVMVLAATN
+FPWDIDEALRRRLEKRIYIPLPSAKGREELLRISLRELELADDVDLASIAENMEGYSGAD
+ITNVCRDASLMAMRRRIEGLTPEEIRNLSKEEMHMPTTMEDFEMALKKVSKSVSAADIER
+YEKWIFEFGSC
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

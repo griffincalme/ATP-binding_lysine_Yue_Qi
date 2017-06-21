@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2016-02-17" modified="2017-05-10" version="13">
+<accession>A0A0S2Z693</accession>
+<name>A0A0S2Z693_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="9">Methylcrotonoyl-CoA carboxylase 1 isoform 1</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="9">MCCC1</name>
+</gene>
+<organism evidence="9">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="9">
+<citation type="journal article" date="2016" name="Cell" volume="164" first="805" last="817">
+<title>Widespread Expansion of Protein Interaction Capabilities by Alternative Splicing.</title>
+<authorList>
+<person name="Yang X."/>
+<person name="Coulombe-Huntington J."/>
+<person name="Kang S."/>
+<person name="Sheynkman G.M."/>
+<person name="Hao T."/>
+<person name="Richardson A."/>
+<person name="Sun S."/>
+<person name="Yang F."/>
+<person name="Shen Y.A."/>
+<person name="Murray R."/>
+<person name="Spirohn K."/>
+<person name="Begg B.E."/>
+<person name="Duran-Frigola M."/>
+<person name="MacWilliams A."/>
+<person name="Pevzner S.J."/>
+<person name="Zhong Q."/>
+<person name="Trigg S.A."/>
+<person name="Tam S."/>
+<person name="Ghamsari L."/>
+<person name="Sahni N."/>
+<person name="Yi S."/>
+<person name="Rodriguez M.D."/>
+<person name="Balcha D."/>
+<person name="Tan G."/>
+<person name="Costanzo M."/>
+<person name="Andrews B."/>
+<person name="Boone C."/>
+<person name="Zhou X.J."/>
+<person name="Salehi-Ashtiani K."/>
+<person name="Charloteaux B."/>
+<person name="Chen A."/>
+<person name="Calderwood M.A."/>
+<person name="Aloy P."/>
+<person name="Roth F.P."/>
+<person name="Hill D.E."/>
+<person name="Iakoucheva L.M."/>
+<person name="Xia Y."/>
+<person name="Vidal M."/>
+</authorList>
+<dbReference type="PubMed" id="26871637"/>
+<dbReference type="DOI" id="10.1016/j.cell.2016.01.029"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="cofactor">
+<cofactor evidence="2">
+<name>biotin</name>
+<dbReference type="ChEBI" id="CHEBI:57586"/>
+</cofactor>
+</comment>
+<dbReference type="EMBL" id="KU178727">
+<property type="protein sequence ID" value="ALQ34185.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_064551.3">
+<property type="nucleotide sequence ID" value="NM_020166.4"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.47649"/>
+<dbReference type="ProteinModelPortal" id="A0A0S2Z693"/>
+<dbReference type="SMR" id="A0A0S2Z693"/>
+<dbReference type="GeneID" id="56922"/>
+<dbReference type="KEGG" id="hsa:56922"/>
+<dbReference type="CTD" id="56922"/>
+<dbReference type="KO" id="K01968"/>
+<dbReference type="OMA" id="YQLCARK"/>
+<dbReference type="PhylomeDB" id="A0A0S2Z693"/>
+<dbReference type="ExpressionAtlas" id="A0A0S2Z693">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005743">
+<property type="term" value="C:mitochondrial inner membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004075">
+<property type="term" value="F:biotin carboxylase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1490.20">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011761">
+<property type="entry name" value="ATP-grasp"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013815">
+<property type="entry name" value="ATP_grasp_subdomain_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005481">
+<property type="entry name" value="BC-like_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001882">
+<property type="entry name" value="Biotin_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011764">
+<property type="entry name" value="Biotin_carboxylation_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005482">
+<property type="entry name" value="Biotin_COase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000089">
+<property type="entry name" value="Biotin_lipoyl"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005479">
+<property type="entry name" value="CbamoylP_synth_lsu-like_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016185">
+<property type="entry name" value="PreATP-grasp_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011054">
+<property type="entry name" value="Rudment_hybrid_motif"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011053">
+<property type="entry name" value="Single_hybrid_motif"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02785">
+<property type="entry name" value="Biotin_carb_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00289">
+<property type="entry name" value="Biotin_carb_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00364">
+<property type="entry name" value="Biotin_lipoyl"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02786">
+<property type="entry name" value="CPSase_L_D2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00878">
+<property type="entry name" value="Biotin_carb_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51230">
+<property type="entry name" value="SSF51230"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51246">
+<property type="entry name" value="SSF51246"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52440">
+<property type="entry name" value="SSF52440"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50975">
+<property type="entry name" value="ATP_GRASP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50979">
+<property type="entry name" value="BC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00188">
+<property type="entry name" value="BIOTIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50968">
+<property type="entry name" value="BIOTINYL_LIPOYL"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00867">
+<property type="entry name" value="CPSASE_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1 5">ATP-binding</keyword>
+<keyword id="KW-0092" evidence="4">Biotin</keyword>
+<keyword id="KW-0436" evidence="3">Ligase</keyword>
+<keyword id="KW-0547" evidence="1 5">Nucleotide-binding</keyword>
+<feature type="domain" description="Biotin carboxylation" evidence="8">
+<location>
+<begin position="48"/>
+<end position="494"/>
+</location>
+</feature>
+<feature type="domain" description="ATP-grasp" evidence="7">
+<location>
+<begin position="167"/>
+<end position="364"/>
+</location>
+</feature>
+<feature type="domain" description="Lipoyl-binding" evidence="6">
+<location>
+<begin position="643"/>
+<end position="715"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="9">
+<location>
+<position position="725"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00409"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00198459"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00234187"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00445113"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00449439"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50968"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50975"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50979"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ALQ34185.1"/>
+</source>
+</evidence>
+<sequence length="725" mass="80473" checksum="B84AD23806035A40" modified="2016-02-17" version="1" fragment="single">
+MAAASAVSVLLVAAERNRWHRLPSLLLPPRTWVWRQRTMKYTTATGRNITKVLIANRGEI
+ACRVMRTAKKLGVQTVAVYSEADRNSMHVDMADEAYSIGPAPSQQSYLSMEKIIQVAKTS
+AAQAIHPGCGFLSENMEFAELCKQEGIIFIGPPPSAIRDMGIKSTSKSIMAAAGVPVVEG
+YHGEDQSDQCLKEHARRIGYPVMIKAVRGGGGKGMRIVRSEQEFQEQLESARREAKKSFN
+DDAMLIEKFVDTPRHVEVQVFGDHHGNAVYLFERDCSVQRRHQKIIEEAPAPGIKSEVRK
+KLGEAAVRAAKAVNYVGAGTVEFIMDSKHNFCFMEMNTRLQVEHPVTEMITGTDLVEWQL
+RIAAGEKIPLSQEEITLQGHAFEARIYAEDPSNNFMPVAGPLVHLSTPRADPSTRIETGV
+RQGDEVSVHYDPMIAKLVVWAADRQAALTKLRYSLRQYNIVGLHTNIDFLLNLSGHPEFE
+AGNVHTDFIPQHHKQLLLSRKAAAKESLCQAALGLILKEKAMTDTFTLQAHDQFSPFSSS
+SGRRLNISYTRNMTLKDGKNNVAIAVTYNHDGSYSMQIEDKTFQVLGNLYSEGDCTYLKC
+SVNGVASKAKLIILENTIYLFSKEGSIEIDIPVPKYLSSVSSQETQGGPLAPMTGTIEKV
+FVKAGDKVKAGDSLMVMIAMKMEHTIKSPKDGTVKKVFYREGAQANRHTPLVEFEEEESD
+KRESE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

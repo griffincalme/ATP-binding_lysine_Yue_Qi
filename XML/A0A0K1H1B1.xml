@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2015-11-11" modified="2017-04-12" version="7">
+<accession>A0A0K1H1B1</accession>
+<name>A0A0K1H1B1_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="3">Putative ATP-dependent RNA helicase DDX60</fullName>
+<ecNumber evidence="3">3.6.4.13</ecNumber>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">DDX60L</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="submission" date="2015-05" db="EMBL/GenBank/DDBJ databases">
+<title>Utilizing next-generation sequencing to resolve the backbone and inform taxonomy of the Core Goodeniaceae.</title>
+<authorList>
+<person name="Michener P.S."/>
+<person name="Gardner A.G."/>
+<person name="Jabaily R.S."/>
+<person name="Sessa E."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<dbReference type="EC" id="3.6.4.13" evidence="3"/>
+<dbReference type="EMBL" id="KR632542">
+<property type="protein sequence ID" value="AKT73362.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.535011"/>
+<dbReference type="PeptideAtlas" id="A0A0K1H1B1"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003676">
+<property type="term" value="F:nucleic acid binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011545">
+<property type="entry name" value="DEAD/DEAH_box_helicase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00270">
+<property type="entry name" value="DEAD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00490">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="3">ATP-binding</keyword>
+<keyword id="KW-0347" evidence="3">Helicase</keyword>
+<keyword id="KW-0378" evidence="3">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="3">Nucleotide-binding</keyword>
+<feature type="domain" description="Helicase ATP-binding" evidence="1">
+<location>
+<begin position="752"/>
+<end position="919"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase C-terminal" evidence="2">
+<location>
+<begin position="1205"/>
+<end position="1354"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51192"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51194"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AKT73362.1"/>
+</source>
+</evidence>
+<sequence length="1706" mass="197696" checksum="905D2193ECA29FB9" modified="2015-11-11" version="1">
+MGSKDHAVFFREMTQLILNEMPKAGYSSILNDFVESNFFVIDGDSLLVTCLGVKSFKWGQ
+NLHFFYLVECYLVDLLSNGGQFTIVFFKDAEYAYFDFPELLSLRTALILHLQHNTNIDVQ
+TEFSGCLSQDWKLFLEQHYPYFLIVSEEGLSDLQTYLFNFLIIHSWGMKVNVVLSSGHES
+DTLRFYAYTMESTDRNQTFSKENETVIQSAYKSLIQHLEEIRVLVLATHFEHLKWNDMME
+EAYQTLFLLQHLWSEGSDIQRVLCVTSCSLSLRMYHRVLVHSNCLSLQEVEDFCRLRCLC
+VAFQLHLPLSQRACSRVITCSWIRNSDSFLKMNKWYEYFILSNLNVFGCWNLNLNHVSDL
+YDEQLLKNIAFYYEFESTQEPHLNLGDSIRRDYEDLWNVVSHLVKEFNLGKSFPLRTTRR
+HFLRQEKSVIQEISLEKMPSVGFIPMTSAVIDEFVGDMMKDLPILKSDDPVVPSLFKQKT
+SDELLHWHAQRLLSDDYDRIKCHVDEQSRDPHVLDFLKKIQDYQQFYGKSLESISTKVIV
+TQTTRPKEDSSGASGEILQNTKPHQITKKSKKKSFLKEDQNKAQQNDDLLFSIEEEMKNN
+LHSGIRKLEDYLTSCASNSVKFGVEMLGLIACFKAWKKHCRGEGKISKDLSIAVQMMKRI
+HSLLERYPEILEAEHHQYIAKCLKYLGFNDLANSLDPTLIGDDKNKKKYSIDIGPARFQL
+QYMGHYLIRDERKDRDPRVQDFIPNAWQQELLDVVDKNESAVIVAPTSSGKTYASYYCME
+KVLRESDVGVVVYVAPAKSLVGQVAATVENRFTKTLPAGRTLCGAFTRDYRHNVLNCQVL
+ITVPECFEILLLAPHRQKWVERIRYVIFDEVHYLGREVGAKFWELLLVIIRCPFLVLSAT
+INNPNLLTKWLQSVKQYWKQADKIMEEKCISEKQADKCLNFLQDHSYKNQSYEVRLVLCG
+ERYNDLEKHICSVKHDDVYFDHFHPCAALTTDIIEKYGFPPDLTLTPQESIQLYDTMAQV
+WETWPRAQELCPEEFILFKNKIVIKKLDARKYEENLKAELTNWIKNGQVKKVKRVLKNLS
+PDSLSSSKDMVKMFPLLVEKLRQMDKLPAIFFLFKNDDVGKRAGSVCTFLEKTETKSHPH
+TECHSYVFAIDEVLEKVRKTQKRITKKNPKKAEKLERKKVYRAEYINFLENLKILEISED
+CTYADVKALHTEITRNKDSTLDRVLPRVRFTRHGKELKALAQRGIGYHHSSMYFKEKEFV
+EILFVKGLIRVVTATETLALGIHMPCKSVVFAQDSVYLDALNYRQMSGRAGRRGQDLLGN
+VYFFDIPLPKIKRLLASSVPELRGQFPLSITLVLRLMLLASKGDDPEDAKAKVLSVLKHS
+LLSFKRRRAMETLKLYFLFSLQLLIKEDYLNKKGNPKKFAGLASYLHGHEPSNLVFVNFL
+KRGLFHNLCKPAWKGSQQFSQDVMEKLVLVLANLFGRKYIPAKFQNADLSFSQSKVILAE
+LPEDFKAALYEYNLAVMKDFASFLLIASKSVNMKKEHQLPLSRIKFTGKECEDSQLVSHL
+MSCKKGRVAISPFVCLSGNTDNDLLRPETINQVILRTVGVSGTQAPLLWPWKLDNRGRRM
+PLNAYVLNFYKHNCLTRLDQKNGMRVGQLLKCLKDFAFNIQAISDSLSELCENKRDNVVL
+AFKQLSQTFYEKLQEMQIQMSQNHLE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

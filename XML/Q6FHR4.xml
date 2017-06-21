@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2004-07-19" modified="2016-11-30" version="82">
+<accession>Q6FHR4</accession>
+<name>Q6FHR4_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="4">Mitogen-activated protein kinase</fullName>
+<ecNumber evidence="4">2.7.11.24</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="7">MAPK13</name>
+</gene>
+<organism evidence="7">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7">
+<citation type="submission" date="2004-06" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full open reading frames in Gateway(TM) system entry vector (pDONR201).</title>
+<authorList>
+<person name="Halleck A."/>
+<person name="Ebert L."/>
+<person name="Mkoundinya M."/>
+<person name="Schick M."/>
+<person name="Eisenstein S."/>
+<person name="Neubert P."/>
+<person name="Kstrang K."/>
+<person name="Schatten R."/>
+<person name="Shen B."/>
+<person name="Henze S."/>
+<person name="Mar W."/>
+<person name="Korn B."/>
+<person name="Zuo D."/>
+<person name="Hu Y."/>
+<person name="LaBaer J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="5">ATP + a protein = ADP + a phosphoprotein.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+</comment>
+<dbReference type="EC" id="2.7.11.24" evidence="4"/>
+<dbReference type="EMBL" id="CR541687">
+<property type="protein sequence ID" value="CAG46488.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.178695"/>
+<dbReference type="ProteinModelPortal" id="Q6FHR4"/>
+<dbReference type="STRING" id="9606.ENSP00000211287"/>
+<dbReference type="PaxDb" id="Q6FHR4"/>
+<dbReference type="PeptideAtlas" id="Q6FHR4"/>
+<dbReference type="eggNOG" id="KOG0660">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XNY0">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG014652"/>
+<dbReference type="SignaLink" id="Q6FHR4"/>
+<dbReference type="GO" id="GO:0005622">
+<property type="term" value="C:intracellular"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004707">
+<property type="term" value="F:MAP kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003527">
+<property type="entry name" value="MAP_kinase_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008352">
+<property type="entry name" value="MAPK_p38"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01773">
+<property type="entry name" value="P38MAPKINASE"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01351">
+<property type="entry name" value="MAPK"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="3">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="2">Kinase</keyword>
+<keyword id="KW-0547" evidence="3">Nucleotide-binding</keyword>
+<keyword id="KW-0723" evidence="2">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808" evidence="2">Transferase</keyword>
+<feature type="domain" description="Protein kinase" evidence="6">
+<location>
+<begin position="25"/>
+<end position="308"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="7">
+<location>
+<position position="365"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00610829"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00652809"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00652810"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00652812"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00652814"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAG46488.1"/>
+</source>
+</evidence>
+<sequence length="365" mass="42017" checksum="52E48522B15D446F" modified="2004-07-19" version="1" fragment="single">
+MSLIRKKGFYKQDVNKTAWELPKTYVSPTHVGSGAYGSVCSAIDKRSGEKVAIKKLSRPF
+QSEIFAKRAYRELLLLKHMQHENVIGLLDVFTPASSLRNFYDFYLVMPFMQTDLQKIMGM
+EFSEEKIQYLVYQMLKGLKYIHSAGVVHRDLKPGNLAVNEDCELKILDFGLARHADAEMT
+GYVVTRWYRAPEVILSWMHYNQTVDIWSVGCIMAEMLTGKTLFKGKDYLDQLTQILKVTG
+VPGTEFVQKLNDKAAKSYIQSLPQTPRKDFTQLFPRASPQAADLLEKMLELGVDKRLTAA
+QALTHPFFEPFRDPEEETEAQQPFDDSLEHEKLTVDEWKQHIYNEIVNFSPIARKDSRRR
+SGMKL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

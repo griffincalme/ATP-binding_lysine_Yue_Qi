@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2000-05-01" modified="2017-05-10" version="82">
+<accession>Q9UPU0</accession>
+<accession>Q9NSL2</accession>
+<name>Q9UPU0_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="3">Putative uncharacterized protein DKFZp547P193</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">DKFZp547P193</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="submission" date="2000-03" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Bloecker H."/>
+<person name="Boecher M."/>
+<person name="Brandt P."/>
+<person name="Mewes H.W."/>
+<person name="Weil B."/>
+<person name="Wiemann S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="3">Brain</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AL162060">
+<property type="protein sequence ID" value="CAB82398.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="T47150">
+<property type="entry name" value="T47150"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.421202"/>
+<dbReference type="ProteinModelPortal" id="Q9UPU0"/>
+<dbReference type="STRING" id="9606.ENSP00000344155"/>
+<dbReference type="MaxQB" id="Q9UPU0"/>
+<dbReference type="PaxDb" id="Q9UPU0"/>
+<dbReference type="PeptideAtlas" id="Q9UPU0"/>
+<dbReference type="eggNOG" id="KOG0059">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1131">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG074207"/>
+<dbReference type="Bgee" id="ENSG00000107331"/>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005215">
+<property type="term" value="F:transporter activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026082">
+<property type="entry name" value="ABC_A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003439">
+<property type="entry name" value="ABC_transporter-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR19229">
+<property type="entry name" value="PTHR19229"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00005">
+<property type="entry name" value="ABC_tran"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50893">
+<property type="entry name" value="ABC_TRANSPORTER_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="domain" description="ABC transporter" evidence="2">
+<location>
+<begin position="2"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="25"/>
+<end position="32"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="3">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00434"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50893"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAB82398.1"/>
+</source>
+</evidence>
+<sequence length="373" mass="41660" checksum="59527F775CEF7FF5" modified="2002-10-01" version="2" fragment="single">
+KIGRILAVDRLCLGVRPGECFGLLGVNGAGKTSTFKMLTGDESTTGGEAFVNGHSVLKEL
+LQVQQSLGYCPQCDALFDELTAREHLQLYTRLRGISWKDEARVVKWALEKLELTKYADKP
+AGTYSGGNKRKLSTAIALIGYPAFIFLDEPTTGMDPKARRFLWNLILDLIKTGRSVVLTS
+HSMEECEALCTRLAIMVNGRLRCLGSIQHLKNRFGDGYMITVRTKSSQSVKDVVRFFNRN
+FPEAMLKERHHTKVQYQLKSEHISLAQVFSKMEQVSGVLGIEDYSVSQTTLDNVFVNFAK
+KQSDNLEQQETEPPSALQSPLGCLLSLLRPRSAPTELRALVADEPEDLDTEDEGLISFEE
+ERAQLSFNTDTLC
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

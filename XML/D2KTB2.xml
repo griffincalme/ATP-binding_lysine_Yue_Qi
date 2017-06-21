@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2010-03-02" modified="2017-03-15" version="27">
+<accession>D2KTB2</accession>
+<name>D2KTB2_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="2">Helicase-like protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">Si-11</name>
+</gene>
+<organism evidence="2">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="submission" date="2000-06" db="EMBL/GenBank/DDBJ databases">
+<title>Sequence of human testis cDNA encoded Helicase-like protein.</title>
+<authorList>
+<person name="Tanaka K."/>
+<person name="Miyata J."/>
+<person name="Ikeda J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="2">Testis</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AB044787">
+<property type="protein sequence ID" value="BAI63262.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.454818"/>
+<dbReference type="ProteinModelPortal" id="D2KTB2"/>
+<dbReference type="STRING" id="9606.ENSP00000359454"/>
+<dbReference type="PaxDb" id="D2KTB2"/>
+<dbReference type="PeptideAtlas" id="D2KTB2"/>
+<dbReference type="eggNOG" id="KOG0952">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1204">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="HFM1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000162669"/>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004179">
+<property type="entry name" value="Sec63-dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02889">
+<property type="entry name" value="Sec63"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00973">
+<property type="entry name" value="Sec63"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0347" evidence="2">Helicase</keyword>
+<keyword id="KW-0378" evidence="2">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<feature type="domain" description="SEC63" evidence="1">
+<location>
+<begin position="1"/>
+<end position="221"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="2">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00973"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAI63262.1"/>
+</source>
+</evidence>
+<sequence length="564" mass="63954" checksum="F1664E66AFB4598F" modified="2010-03-02" version="1" fragment="single">
+IQDFALTQDTAKIFRHGSRITRWLSDFVAAQEKKFAVLLNSLILAKCFRCKLWENSLHVS
+KQLEKIGITLSNAIVNAGLTSFKKIEETDARELELILNRHPPFGTQIKETVMYLPKYELK
+VEQITRYSDTTAEILVTVILRNFEQLQTKRTASDSHYVTLIIGDADNQVVYLHKITDSVL
+LKAGSWAKKIAVKRALKSEDLSINLISSEFVGLDIQQKLTVFYLEPKRFGNQITMQRKSE
+TQISHSKHSDISTIAGPNKGTTASKKPGNRECNHLCKSKHTCGHDCCKIGVAQKSEIKES
+TISSYLSDLRNRNAVSSVPPVKRLKIQMNKSQSVDLKEFGFTPKPSLPSISRSEYLNISE
+LPIMEQWDQPEIYGKVRQEPSEYQDKEVLNVNFELGNEVWDDFDDENLEVTSFSTDTEKT
+KISGFGNTLSSSTRGSKLPLQESKSKFQREMSNSFVSSHEMSDISLSNSAMPKFSASSMT
+KLPQQAGNAVIVHFQERKPQNLSPEIEKQCFTFSEKNPNSSNYKKVDFFIRNSECKKEVD
+FSMYHPDDEADEMKSLLGIFDGIF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

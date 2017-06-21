@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2014-03-19" modified="2017-05-10" version="27">
+<accession>V9HW31</accession>
+<name>V9HW31_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">ATP synthase subunit beta</fullName>
+<ecNumber evidence="1">3.6.3.14</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">HEL-S-271</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="submission" date="2008-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Li J."/>
+<person name="Wang H."/>
+<person name="Liu J."/>
+<person name="Liu F."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Produces ATP from ADP in the presence of a proton gradient across the membrane.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1">ATP + H(2)O + H(+)(In) = ADP + phosphate + H(+)(Out).</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">F-type ATPases have 2 components, CF(1) - the catalytic core - and CF(0) - the membrane proton channel. CF(1) has five subunits: alpha(3), beta(3), gamma(1), delta(1), epsilon(1). CF(0) has three main subunits: a, b and c.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10266742"/>
+<interactant intactId="EBI-1166928">
+<id>Q8N5M1</id>
+<label>ATPAF2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10266742"/>
+<interactant intactId="EBI-10330029">
+<id>V9HW26</id>
+<label>HEL-S-123m</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<dbReference type="EC" id="3.6.3.14" evidence="1"/>
+<dbReference type="EMBL" id="FJ224288">
+<property type="protein sequence ID" value="ACI45980.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001677.2">
+<property type="nucleotide sequence ID" value="NM_001686.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.406510"/>
+<dbReference type="ProteinModelPortal" id="V9HW31"/>
+<dbReference type="SMR" id="V9HW31"/>
+<dbReference type="IntAct" id="V9HW31">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000262030"/>
+<dbReference type="MaxQB" id="V9HW31"/>
+<dbReference type="PaxDb" id="V9HW31"/>
+<dbReference type="GeneID" id="506"/>
+<dbReference type="KEGG" id="hsa:506"/>
+<dbReference type="UCSC" id="uc001slr.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="506"/>
+<dbReference type="eggNOG" id="KOG1350">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0055">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="KO" id="K02133"/>
+<dbReference type="OMA" id="AEFGIYP"/>
+<dbReference type="OrthoDB" id="EOG091G0KVV"/>
+<dbReference type="PhylomeDB" id="V9HW31"/>
+<dbReference type="ChiTaRS" id="ATP5B">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="506"/>
+<dbReference type="ExpressionAtlas" id="V9HW31">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005743">
+<property type="term" value="C:mitochondrial inner membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043209">
+<property type="term" value="C:myelin sheath"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045261">
+<property type="term" value="C:proton-transporting ATP synthase complex, catalytic core F(1)"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046933">
+<property type="term" value="F:proton-transporting ATP synthase activity, rotational mechanism"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015986">
+<property type="term" value="P:ATP synthesis coupled proton transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006629">
+<property type="term" value="P:lipid metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006933">
+<property type="term" value="P:negative regulation of cell adhesion involved in substrate-bound cell migration"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.1140.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01347">
+<property type="entry name" value="ATP_synth_beta_bact"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005722">
+<property type="entry name" value="ATP_synth_F1_bsu"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020003">
+<property type="entry name" value="ATPase_a/bsu_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004100">
+<property type="entry name" value="ATPase_F1/V1/A1_a/bsu_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000194">
+<property type="entry name" value="ATPase_F1/V1/A1_a/bsu_nucl-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024034">
+<property type="entry name" value="ATPase_F1/V1_b/a_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00006">
+<property type="entry name" value="ATP-synt_ab"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02874">
+<property type="entry name" value="ATP-synt_ab_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50615">
+<property type="entry name" value="SSF50615"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01039">
+<property type="entry name" value="atpD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00152">
+<property type="entry name" value="ATPASE_ALPHA_BETA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0066" evidence="1">ATP synthesis</keyword>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0139" evidence="1">CF(1)</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="domain" description="AAA" evidence="2">
+<location>
+<begin position="198"/>
+<end position="382"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU003553"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00382"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ACI45980.1"/>
+</source>
+</evidence>
+<sequence length="529" mass="56560" checksum="960C616A2252B91A" modified="2014-03-19" version="1">
+MLGFVGRVAAAPASGALRRLTPSASLPPAQLLLRAAPTAVHPVRDYAAQTSPSPKAGAAT
+GRIVAVIGAVVDVQFDEGLPPILNALEVQGRETRLVLEVAQHLGESTVRTIAMDGTEGLV
+RGQKVLDSGAPIKIPVGPETLGRIMNVIGEPIDERGPIKTKQFAPIHAEAPEFMEMSVEQ
+EILVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKAHGGYSVFAGVGERT
+REGNDLYHEMIESGVINLKDATSKVALVYGQMNEPPGARARVALTGLTVAEYFRDQEGQD
+VLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGTMQERITTTKKGSITSVQAI
+YVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYPAVDPLDSTSRIMDPNIVGSEHYDV
+ARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQPFQVAEVFTGHMGK
+LVPLKETIKGFQQILAGEYDHLPEQAFYMVGPIEEAVAKADKLAEEHSS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

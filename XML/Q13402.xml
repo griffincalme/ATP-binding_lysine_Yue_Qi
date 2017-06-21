@@ -1,0 +1,2458 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2000-12-01" modified="2017-05-10" version="196">
+<accession>Q13402</accession>
+<accession>B9A011</accession>
+<accession>F8VUN5</accession>
+<accession>P78427</accession>
+<accession>Q13321</accession>
+<accession>Q14785</accession>
+<accession>Q92821</accession>
+<accession>Q92822</accession>
+<name>MYO7A_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Unconventional myosin-VIIa</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">MYO7A</name>
+<name type="synonym">USH1B</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1996" name="Proc. Natl. Acad. Sci. U.S.A." volume="93" first="3232" last="3237">
+<title>Human myosin VIIA responsible for the Usher 1B syndrome: a predicted membrane-associated motor protein expressed in developing sensory epithelia.</title>
+<authorList>
+<person name="Weil D."/>
+<person name="Levy G."/>
+<person name="Sahly I."/>
+<person name="Levi-Acobas F."/>
+<person name="Blanchard S."/>
+<person name="El-Amraoui A."/>
+<person name="Crozet F."/>
+<person name="Philippe H."/>
+<person name="Abitbol M."/>
+<person name="Petit C."/>
+</authorList>
+<dbReference type="PubMed" id="8622919"/>
+<dbReference type="DOI" id="10.1073/pnas.93.8.3232"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1; 5; 6 AND 7)</scope>
+<scope>DEVELOPMENTAL STAGE</scope>
+<scope>VARIANTS CYS-1666 AND ILE-1954</scope>
+<source>
+<tissue>Retina</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="Genomics" volume="36" first="440" last="448">
+<title>Molecular cloning and domain structure of human myosin-VIIa, the gene product defective in usher syndrome 1B.</title>
+<authorList>
+<person name="Chen Z.-Y."/>
+<person name="Hasson T."/>
+<person name="Kelley P.M."/>
+<person name="Schwender B.J."/>
+<person name="Schwartz M.F."/>
+<person name="Ramakrishnan M."/>
+<person name="Kimberling W.J."/>
+<person name="Mooseker M.S."/>
+<person name="Corey D.P."/>
+</authorList>
+<dbReference type="PubMed" id="8884267"/>
+<dbReference type="DOI" id="10.1006/geno.1996.0489"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 2; 3 AND 4)</scope>
+<scope>VARIANTS CYS-1666 AND ILE-1954</scope>
+<source>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="497" last="500">
+<title>Human chromosome 11 DNA sequence and analysis including novel gene identification.</title>
+<authorList>
+<person name="Taylor T.D."/>
+<person name="Noguchi H."/>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Kuroki Y."/>
+<person name="Dewar K."/>
+<person name="Lloyd C."/>
+<person name="Itoh T."/>
+<person name="Takeda T."/>
+<person name="Kim D.-W."/>
+<person name="She X."/>
+<person name="Barlow K.F."/>
+<person name="Bloom T."/>
+<person name="Bruford E."/>
+<person name="Chang J.L."/>
+<person name="Cuomo C.A."/>
+<person name="Eichler E."/>
+<person name="FitzGerald M.G."/>
+<person name="Jaffe D.B."/>
+<person name="LaButti K."/>
+<person name="Nicol R."/>
+<person name="Park H.-S."/>
+<person name="Seaman C."/>
+<person name="Sougnez C."/>
+<person name="Yang X."/>
+<person name="Zimmer A.R."/>
+<person name="Zody M.C."/>
+<person name="Birren B.W."/>
+<person name="Nusbaum C."/>
+<person name="Fujiyama A."/>
+<person name="Hattori M."/>
+<person name="Rogers J."/>
+<person name="Lander E.S."/>
+<person name="Sakaki Y."/>
+</authorList>
+<dbReference type="PubMed" id="16554811"/>
+<dbReference type="DOI" id="10.1038/nature04632"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1994" name="Proc. Natl. Acad. Sci. U.S.A." volume="91" first="6549" last="6553">
+<title>Identification and overlapping expression of multiple unconventional myosin genes in vertebrate cell types.</title>
+<authorList>
+<person name="Bement W.M."/>
+<person name="Hasson T."/>
+<person name="Wirth J.A."/>
+<person name="Cheney R.E."/>
+<person name="Mooseker M.S."/>
+</authorList>
+<dbReference type="PubMed" id="8022818"/>
+<dbReference type="DOI" id="10.1073/pnas.91.14.6549"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 166-196</scope>
+<source>
+<tissue>Epithelium</tissue>
+<tissue>Leukocyte</tissue>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1994" name="Proc. Natl. Acad. Sci. U.S.A." volume="91" first="11767" last="11767">
+<authorList>
+<person name="Bement W.M."/>
+<person name="Hasson T."/>
+<person name="Wirth J.A."/>
+<person name="Cheney R.E."/>
+<person name="Mooseker M.S."/>
+</authorList>
+<dbReference type="PubMed" id="7972138"/>
+<dbReference type="DOI" id="10.1073/pnas.91.24.11767c"/>
+</citation>
+<scope>ERRATUM</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1995" name="Proc. Natl. Acad. Sci. U.S.A." volume="92" first="9815" last="9819">
+<title>Expression in cochlea and retina of myosin VIIa, the gene product defective in Usher syndrome type 1B.</title>
+<authorList>
+<person name="Hasson T."/>
+<person name="Heintzelman M.B."/>
+<person name="Santos-Sacchi J."/>
+<person name="Corey D.P."/>
+<person name="Mooseker M.S."/>
+</authorList>
+<dbReference type="PubMed" id="7568224"/>
+<dbReference type="DOI" id="10.1073/pnas.92.21.9815"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 1-1075</scope>
+<source>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2000" name="Proc. Natl. Acad. Sci. U.S.A." volume="97" first="3491" last="3496">
+<title>Shotgun sequencing of the human transcriptome with ORF expressed sequence tags.</title>
+<authorList>
+<person name="Dias Neto E."/>
+<person name="Correa R.G."/>
+<person name="Verjovski-Almeida S."/>
+<person name="Briones M.R.S."/>
+<person name="Nagai M.A."/>
+<person name="da Silva W. Jr."/>
+<person name="Zago M.A."/>
+<person name="Bordin S."/>
+<person name="Costa F.F."/>
+<person name="Goldman G.H."/>
+<person name="Carvalho A.F."/>
+<person name="Matsukuma A."/>
+<person name="Baia G.S."/>
+<person name="Simpson D.H."/>
+<person name="Brunstein A."/>
+<person name="de Oliveira P.S.L."/>
+<person name="Bucher P."/>
+<person name="Jongeneel C.V."/>
+<person name="O'Hare M.J."/>
+<person name="Soares F."/>
+<person name="Brentani R.R."/>
+<person name="Reis L.F.L."/>
+<person name="de Souza S.J."/>
+<person name="Simpson A.J.G."/>
+</authorList>
+<dbReference type="PubMed" id="10737800"/>
+<dbReference type="DOI" id="10.1073/pnas.97.7.3491"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1-117 (ISOFORM 8)</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1995" name="Nature" volume="374" first="60" last="61">
+<title>Defective myosin VIIA gene responsible for Usher syndrome type 1B.</title>
+<authorList>
+<person name="Weil D."/>
+<person name="Blanchard S."/>
+<person name="Kaplan J."/>
+<person name="Guilford P."/>
+<person name="Gibson F."/>
+<person name="Walsh J."/>
+<person name="Mburu P."/>
+<person name="Varela A."/>
+<person name="Levilliers J."/>
+<person name="Weston M.D."/>
+<person name="Kelley P.M."/>
+<person name="Kimberling W.J."/>
+<person name="Wagenaar M."/>
+<person name="Levi-Acobas F."/>
+<person name="Larget-Piet D."/>
+<person name="Munnich A."/>
+<person name="Steel K.P."/>
+<person name="Brown S.D.M."/>
+<person name="Petit C."/>
+</authorList>
+<dbReference type="PubMed" id="7870171"/>
+<dbReference type="DOI" id="10.1038/374060a0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 96-564 (ISOFORM 1)</scope>
+<scope>VARIANTS USH1B</scope>
+<source>
+<tissue>Retina</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1997" name="Genomics" volume="40" first="73" last="79">
+<title>The genomic structure of the gene defective in Usher syndrome type Ib (MYO7A).</title>
+<authorList>
+<person name="Kelley P.M."/>
+<person name="Weston M.D."/>
+<person name="Chen Z.-Y."/>
+<person name="Orten D.J."/>
+<person name="Hasson T."/>
+<person name="Overbeck L.D."/>
+<person name="Pinnt J."/>
+<person name="Talmadge C.B."/>
+<person name="Ing P."/>
+<person name="Mooseker M.S."/>
+<person name="Corey D.P."/>
+<person name="Sumegi J."/>
+<person name="Kimberling W.J."/>
+</authorList>
+<dbReference type="PubMed" id="9070921"/>
+<dbReference type="DOI" id="10.1006/geno.1996.4545"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 79-578</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1996" name="Hum. Mol. Genet." volume="5" first="1171" last="1178">
+<title>Human Usher 1B/mouse shaker-1: the retinal phenotype discrepancy explained by the presence/absence of myosin VIIA in the photoreceptor cells.</title>
+<authorList>
+<person name="El-Amraoui A."/>
+<person name="Sahly I."/>
+<person name="Picaud S."/>
+<person name="Sahel J."/>
+<person name="Abitbol M."/>
+<person name="Petit C."/>
+</authorList>
+<dbReference type="PubMed" id="8842737"/>
+<dbReference type="DOI" id="10.1093/hmg/5.8.1171"/>
+</citation>
+<scope>DEVELOPMENTAL STAGE</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2002" name="EMBO Rep." volume="3" first="463" last="470">
+<title>MyRIP, a novel Rab effector, enables myosin VIIa recruitment to retinal melanosomes.</title>
+<authorList>
+<person name="El-Amraoui A."/>
+<person name="Schonn J.-S."/>
+<person name="Kuessel-Andermann P."/>
+<person name="Blanchard S."/>
+<person name="Desnos C."/>
+<person name="Henry J.-P."/>
+<person name="Wolfrum U."/>
+<person name="Darchen F."/>
+<person name="Petit C."/>
+</authorList>
+<dbReference type="PubMed" id="11964381"/>
+<dbReference type="DOI" id="10.1093/embo-reports/kvf090"/>
+</citation>
+<scope>INTERACTION WITH MYRIP</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2010" name="Invest. Ophthalmol. Vis. Sci." volume="51" first="1130" last="1135">
+<title>Function of MYO7A in the human RPE and the validity of shaker1 mice as a model for Usher syndrome 1B.</title>
+<authorList>
+<person name="Gibbs D."/>
+<person name="Diemer T."/>
+<person name="Khanobdee K."/>
+<person name="Hu J."/>
+<person name="Bok D."/>
+<person name="Williams D.S."/>
+</authorList>
+<dbReference type="PubMed" id="19643958"/>
+<dbReference type="DOI" id="10.1167/iovs.09-4032"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2012" name="Cell. Mol. Life Sci." volume="69" first="299" last="311">
+<title>Functional characterization of the human myosin-7a motor domain.</title>
+<authorList>
+<person name="Heissler S.M."/>
+<person name="Manstein D.J."/>
+</authorList>
+<dbReference type="PubMed" id="21687988"/>
+<dbReference type="DOI" id="10.1007/s00018-011-0749-8"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ENZYME REGULATION</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2011" name="Hum. Mol. Genet." volume="20" first="2560" last="2570">
+<title>The Usher 1B protein, MYO7A, is required for normal localization and function of the visual retinoid cycle enzyme, RPE65.</title>
+<authorList>
+<person name="Lopes V.S."/>
+<person name="Gibbs D."/>
+<person name="Libby R.T."/>
+<person name="Aleman T.S."/>
+<person name="Welch D.L."/>
+<person name="Lillo C."/>
+<person name="Jacobson S.G."/>
+<person name="Radu R.A."/>
+<person name="Steel K.P."/>
+<person name="Williams D.S."/>
+</authorList>
+<dbReference type="PubMed" id="21493626"/>
+<dbReference type="DOI" id="10.1093/hmg/ddr155"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INTERACTION WITH RPE65</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2011" name="Proc. Natl. Acad. Sci. U.S.A." volume="108" first="11476" last="11481">
+<title>Myosin VIIa and sans localization at stereocilia upper tip-link density implicates these Usher syndrome proteins in mechanotransduction.</title>
+<authorList>
+<person name="Grati M."/>
+<person name="Kachar B."/>
+</authorList>
+<dbReference type="PubMed" id="21709241"/>
+<dbReference type="DOI" id="10.1073/pnas.1104161108"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>IDENTIFICATION IN A COMPLEX WITH USH1C AND USH1G</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2012" name="Nat. Genet." volume="44" first="1265" last="1271">
+<title>Alterations of the CIB2 calcium- and integrin-binding protein cause Usher syndrome type 1J and nonsyndromic deafness DFNB48.</title>
+<authorList>
+<person name="Riazuddin S."/>
+<person name="Belyantseva I.A."/>
+<person name="Giese A.P."/>
+<person name="Lee K."/>
+<person name="Indzhykulian A.A."/>
+<person name="Nandamuri S.P."/>
+<person name="Yousaf R."/>
+<person name="Sinha G.P."/>
+<person name="Lee S."/>
+<person name="Terrell D."/>
+<person name="Hegde R.S."/>
+<person name="Ali R.A."/>
+<person name="Anwar S."/>
+<person name="Andrade-Elizondo P.B."/>
+<person name="Sirmaci A."/>
+<person name="Parise L.V."/>
+<person name="Basit S."/>
+<person name="Wali A."/>
+<person name="Ayub M."/>
+<person name="Ansar M."/>
+<person name="Ahmad W."/>
+<person name="Khan S.N."/>
+<person name="Akram J."/>
+<person name="Tekin M."/>
+<person name="Riazuddin S."/>
+<person name="Cook T."/>
+<person name="Buschbeck E.K."/>
+<person name="Frolenkov G.I."/>
+<person name="Leal S.M."/>
+<person name="Friedman T.B."/>
+<person name="Ahmed Z.M."/>
+</authorList>
+<dbReference type="PubMed" id="23023331"/>
+<dbReference type="DOI" id="10.1038/ng.2426"/>
+</citation>
+<scope>INTERACTION WITH CIB2</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2014" name="J. Biol. Chem." volume="289" first="27825" last="27835">
+<title>Stable single alpha-helices are constant force springs in proteins.</title>
+<authorList>
+<person name="Wolny M."/>
+<person name="Batchelor M."/>
+<person name="Knight P.J."/>
+<person name="Paci E."/>
+<person name="Dougan L."/>
+<person name="Peckham M."/>
+</authorList>
+<dbReference type="PubMed" id="25122759"/>
+<dbReference type="DOI" id="10.1074/jbc.M114.585679"/>
+</citation>
+<scope>SAH DOMAIN</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="1996" name="Am. J. Hum. Genet." volume="59" first="1074" last="1083">
+<title>Myosin VIIA mutation screening in 189 Usher syndrome type 1 patients.</title>
+<authorList>
+<person name="Weston M.D."/>
+<person name="Kelley P.M."/>
+<person name="Overbeck L.D."/>
+<person name="Wagenaar M."/>
+<person name="Orten D.J."/>
+<person name="Hasson T."/>
+<person name="Chen Z.-Y."/>
+<person name="Corey D.P."/>
+<person name="Mooseker M.S."/>
+<person name="Sumegi J."/>
+<person name="Cremers C."/>
+<person name="Moeller C."/>
+<person name="Jacobson S.G."/>
+<person name="Gorin M.B."/>
+<person name="Kimberling W.J."/>
+</authorList>
+<dbReference type="PubMed" id="8900236"/>
+</citation>
+<scope>VARIANTS USH1B CYS-212; HIS-212; HIS-302; GLN-450; GLN-468 INS AND LEU-503</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="1997" name="Am. J. Hum. Genet." volume="61" first="813" last="821">
+<title>Mutation profile of all 49 exons of the human myosin VIIA gene, and haplotype analysis, in Usher 1B families from diverse origins.</title>
+<authorList>
+<person name="Adato A."/>
+<person name="Weil D."/>
+<person name="Kalinski H."/>
+<person name="Pel-Or Y."/>
+<person name="Ayadi H."/>
+<person name="Petit C."/>
+<person name="Korostishevsky M."/>
+<person name="Bonne-Tamir B."/>
+</authorList>
+<dbReference type="PubMed" id="9382091"/>
+<dbReference type="DOI" id="10.1086/514899"/>
+</citation>
+<scope>VARIANTS USH1B ARG-214; ASP-397 AND THR-826</scope>
+<scope>POLYMORPHISM</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="1997" name="Hum. Mol. Genet." volume="6" first="111" last="116">
+<title>Myosin VIIA gene: heterogeneity of the mutations responsible for Usher syndrome type IB.</title>
+<authorList>
+<person name="Levy G."/>
+<person name="Levi-Acobas F."/>
+<person name="Blanchard S."/>
+<person name="Gerber S."/>
+<person name="Larget-Piet D."/>
+<person name="Chenal V."/>
+<person name="Liu X.-Z."/>
+<person name="Newton V."/>
+<person name="Steel K.P."/>
+<person name="Brown S.D.M."/>
+<person name="Munnich A."/>
+<person name="Kaplan J."/>
+<person name="Petit C."/>
+<person name="Weil D."/>
+</authorList>
+<dbReference type="PubMed" id="9002678"/>
+<dbReference type="DOI" id="10.1093/hmg/6.1.111"/>
+</citation>
+<scope>VARIANTS USH1B ARG-25; SER-955 AND GLU-2137</scope>
+<scope>POLYMORPHISM</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="1997" name="Nat. Genet." volume="16" first="188" last="190">
+<title>Mutations in the myosin VIIA gene cause non-syndromic recessive deafness.</title>
+<authorList>
+<person name="Liu X.-Z."/>
+<person name="Walsh J."/>
+<person name="Mburu P."/>
+<person name="Kendrick-Jones J."/>
+<person name="Cope M.J."/>
+<person name="Steel K.P."/>
+<person name="Brown S.D.M."/>
+</authorList>
+<dbReference type="PubMed" id="9171832"/>
+<dbReference type="DOI" id="10.1038/ng0697-188"/>
+</citation>
+<scope>VARIANT DFNB2 PRO-244</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="1997" name="Nat. Genet." volume="16" first="191" last="193">
+<title>The autosomal recessive isolated deafness, DFNB2, and the Usher 1B syndrome are allelic defects of the myosin-VIIA gene.</title>
+<authorList>
+<person name="Weil D."/>
+<person name="Kuessel P."/>
+<person name="Blanchard S."/>
+<person name="Levy G."/>
+<person name="Levi-Acobas F."/>
+<person name="Drira M."/>
+<person name="Ayadi H."/>
+<person name="Petit C."/>
+</authorList>
+<dbReference type="PubMed" id="9171833"/>
+<dbReference type="DOI" id="10.1038/ng0697-191"/>
+</citation>
+<scope>VARIANT DFNB2 ILE-599</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="1997" name="Nat. Genet." volume="17" first="268" last="269">
+<title>Autosomal dominant non-syndromic deafness caused by a mutation in the myosin VIIA gene.</title>
+<authorList>
+<person name="Liu X.-Z."/>
+<person name="Walsh J."/>
+<person name="Tamagawa Y."/>
+<person name="Kitamura K."/>
+<person name="Nishizawa M."/>
+<person name="Steel K.P."/>
+<person name="Brown S.D.M."/>
+</authorList>
+<dbReference type="PubMed" id="9354784"/>
+<dbReference type="DOI" id="10.1038/ng1197-268"/>
+</citation>
+<scope>VARIANT DFNA11 886-ALA--LYS-888 DEL</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="1998" name="Am. J. Hum. Genet." volume="63" first="909" last="912">
+<title>Mutations in the myosin VIIA gene cause a wide phenotypic spectrum, including atypical Usher syndrome.</title>
+<authorList>
+<person name="Liu X.-Z."/>
+<person name="Hope C."/>
+<person name="Walsh J."/>
+<person name="Newton V."/>
+<person name="Ke X.M."/>
+<person name="Liang C.Y."/>
+<person name="Xu L.R."/>
+<person name="Zhou J.M."/>
+<person name="Trump D."/>
+<person name="Steel K.P."/>
+<person name="Bundey S."/>
+<person name="Brown S.D.M."/>
+</authorList>
+<dbReference type="PubMed" id="9718356"/>
+<dbReference type="DOI" id="10.1086/302026"/>
+</citation>
+<scope>VARIANTS USH1B PRO-651 AND GLN-1602</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="1999" name="Am. J. Hum. Genet." volume="65" first="261" last="265">
+<title>Possible interaction between USH1B and USH3 gene products as implied by apparent digenic deafness inheritance.</title>
+<authorList>
+<person name="Adato A."/>
+<person name="Kalinski H."/>
+<person name="Weil D."/>
+<person name="Chaib H."/>
+<person name="Korostishevsky M."/>
+<person name="Bonne-Tamir B."/>
+</authorList>
+<dbReference type="PubMed" id="10364543"/>
+<dbReference type="DOI" id="10.1086/302438"/>
+</citation>
+<scope>VARIANT USH1B PRO-1087</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="1999" name="Hum. Mutat." volume="13" first="133" last="140">
+<title>Twelve novel myosin VIIA mutations in 34 patients with Usher syndrome type I: confirmation of genetic heterogeneity.</title>
+<authorList>
+<person name="Janecke A.R."/>
+<person name="Meins M."/>
+<person name="Sadeghi M."/>
+<person name="Grundmann K."/>
+<person name="Apfelstedt-Sylla E."/>
+<person name="Zrenner E."/>
+<person name="Rosenberg T."/>
+<person name="Gal A."/>
+</authorList>
+<dbReference type="PubMed" id="10094549"/>
+<dbReference type="DOI" id="10.1002/(SICI)1098-1004(1999)13:2&lt;133::AID-HUMU5>3.0.CO;2-U"/>
+</citation>
+<scope>VARIANTS USH1B</scope>
+<scope>POLYMORPHISM</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="1999" name="Hum. Mutat." volume="14" first="181" last="181">
+<title>Identification of three novel mutations in the MYO7A gene.</title>
+<authorList>
+<person name="Cuevas J.M."/>
+<person name="Espinos C."/>
+<person name="Millan J.M."/>
+<person name="Sanchez F."/>
+<person name="Trujillo M.J."/>
+<person name="Ayuso C."/>
+<person name="Beneyto M."/>
+<person name="Najera C."/>
+</authorList>
+<dbReference type="PubMed" id="10447383"/>
+<dbReference type="DOI" id="10.1002/(SICI)1098-1004(1999)14:2&lt;181::AID-HUMU11>3.0.CO;2-3"/>
+</citation>
+<scope>VARIANTS USH1B LYS-1170 AND CYS-1719</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2000" name="Exp. Eye Res." volume="71" first="173" last="181">
+<title>Evaluation of the myosin VIIA gene and visual function in patients with Usher syndrome type I.</title>
+<authorList>
+<person name="Bharadwaj A.K."/>
+<person name="Kasztejna J.P."/>
+<person name="Huq S."/>
+<person name="Berson E.L."/>
+<person name="Dryja T.P."/>
+</authorList>
+<dbReference type="PubMed" id="10930322"/>
+<dbReference type="DOI" id="10.1006/exer.2000.0863"/>
+</citation>
+<scope>VARIANTS USH1B GLU-26; MET-67; PRO-90; ASN-134; CYS-241; LYS-269 DEL; VAL-457; ASP-519; ASP-968; GLN-1240; PRO-1288; PHE-1346 DEL; TRP-1743; PRO-1858; LEU-1887 AND ASP-2187</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2002" name="Hum. Mutat." volume="20" first="76" last="77">
+<title>Mutations in myosin VIIA (MYO7A) and usherin (USH2A) in Spanish patients with Usher syndrome types I and II, respectively.</title>
+<authorList>
+<person name="Najera C."/>
+<person name="Beneyto M."/>
+<person name="Blanca J."/>
+<person name="Aller E."/>
+<person name="Fontcuberta A."/>
+<person name="Millan J.M."/>
+<person name="Ayuso C."/>
+</authorList>
+<dbReference type="PubMed" id="12112664"/>
+<dbReference type="DOI" id="10.1002/humu.9042"/>
+</citation>
+<scope>VARIANTS USH1B ASP-397; LYS-1170; LYS-1327; 1347-ARG--PHE-1351 DEL; MET-1566 AND CYS-1719</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2004" name="Hum. Genet." volume="115" first="149" last="156">
+<title>Identification and molecular modelling of a mutation in the motor head domain of myosin VIIA in a family with autosomal dominant hearing impairment (DFNA11).</title>
+<authorList>
+<person name="Luijendijk M.W.J."/>
+<person name="Van Wijk E."/>
+<person name="Bischoff A.M.L.C."/>
+<person name="Krieger E."/>
+<person name="Huygen P.L.M."/>
+<person name="Pennings R.J.E."/>
+<person name="Brunner H.G."/>
+<person name="Cremers C.W.R.J."/>
+<person name="Cremers F.P.M."/>
+<person name="Kremer H."/>
+</authorList>
+<dbReference type="PubMed" id="15221449"/>
+<dbReference type="DOI" id="10.1007/s00439-004-1137-3"/>
+</citation>
+<scope>VARIANT DFNA11 ILE-458</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2004" name="Hum. Mutat." volume="24" first="274" last="275">
+<title>Impaired calmodulin binding of myosin-7A causes autosomal dominant hearing loss (DFNA11).</title>
+<authorList>
+<person name="Bolz H."/>
+<person name="Bolz S.-S."/>
+<person name="Schade G."/>
+<person name="Kothe C."/>
+<person name="Mohrmann G."/>
+<person name="Hess M."/>
+<person name="Gal A."/>
+</authorList>
+<dbReference type="PubMed" id="15300860"/>
+<dbReference type="DOI" id="10.1002/humu.9272"/>
+</citation>
+<scope>VARIANT DFNA11 CYS-853</scope>
+<scope>INTERACTION WITH CALM</scope>
+<scope>CHARACTERIZATION OF VARIANT DFNA11 CYS-853</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2004" name="J. Med. Genet." volume="41" first="E62" last="E62">
+<title>Modifier controls severity of a novel dominant low-frequency MyosinVIIA (MYO7A) auditory mutation.</title>
+<authorList>
+<person name="Street V.A."/>
+<person name="Kallman J.C."/>
+<person name="Kiemele K.L."/>
+</authorList>
+<dbReference type="PubMed" id="15121790"/>
+<dbReference type="DOI" id="10.1136/jmg.2003.013557"/>
+</citation>
+<scope>VARIANT DFNA11 ARG-722</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="2005" name="Hum. Genet." volume="116" first="292" last="299">
+<title>Characterization of Usher syndrome type I gene mutations in an Usher syndrome patient population.</title>
+<authorList>
+<person name="Ouyang X.M."/>
+<person name="Yan D."/>
+<person name="Du L.L."/>
+<person name="Hejtmancik J.F."/>
+<person name="Jacobson S.G."/>
+<person name="Nance W.E."/>
+<person name="Li A.R."/>
+<person name="Angeli S."/>
+<person name="Kaiser M."/>
+<person name="Newton V."/>
+<person name="Brown S.D.M."/>
+<person name="Balkany T."/>
+<person name="Liu X.Z."/>
+</authorList>
+<dbReference type="PubMed" id="15660226"/>
+<dbReference type="DOI" id="10.1007/s00439-004-1227-2"/>
+</citation>
+<scope>VARIANTS USH1B SER-16; ARG-25; MET-165; TRP-756; ASP-968 AND GLN-1883</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="2006" name="J. Med. Genet." volume="43" first="763" last="768">
+<title>Survey of the frequency of USH1 gene mutations in a cohort of Usher patients shows the importance of cadherin 23 and protocadherin 15 genes and establishes a detection rate of above 90%.</title>
+<authorList>
+<person name="Roux A.-F."/>
+<person name="Faugere V."/>
+<person name="Le Guedard S."/>
+<person name="Pallares-Ruiz N."/>
+<person name="Vielle A."/>
+<person name="Chambert S."/>
+<person name="Marlin S."/>
+<person name="Hamel C."/>
+<person name="Gilbert B."/>
+<person name="Malcolm S."/>
+<person name="Claustres M."/>
+</authorList>
+<dbReference type="PubMed" id="16679490"/>
+<dbReference type="DOI" id="10.1136/jmg.2006.041954"/>
+</citation>
+<scope>VARIANTS USH1B ASP-133; ARG-163; ARG-164; MET-165; THR-198; ALA-204; ASP-519; LYS-1170; GLN-1240; PRO-1858; TRP-1873 AND PHE-1962 DEL</scope>
+<scope>VARIANTS MET-1566 AND CYS-1719</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="2011" name="Hum. Mutat." volume="32" first="1450" last="1459">
+<title>Whole-exome sequencing identifies ALMS1, IQCB1, CNGA3, and MYO7A mutations in patients with Leber congenital amaurosis.</title>
+<authorList>
+<person name="Wang X."/>
+<person name="Wang H."/>
+<person name="Cao M."/>
+<person name="Li Z."/>
+<person name="Chen X."/>
+<person name="Patenia C."/>
+<person name="Gore A."/>
+<person name="Abboud E.B."/>
+<person name="Al-Rajhi A.A."/>
+<person name="Lewis A.R."/>
+<person name="Lupski J.R."/>
+<person name="Mardon G."/>
+<person name="Zhang K."/>
+<person name="Muzny D."/>
+<person name="Gibbs R.A."/>
+<person name="Chen R."/>
+</authorList>
+<dbReference type="PubMed" id="21901789"/>
+<dbReference type="DOI" id="10.1002/humu.21587"/>
+</citation>
+<scope>VARIANT ILE-193</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="2013" name="Mol. Vis." volume="19" first="695" last="701">
+<title>Novel compound heterozygous mutations in MYO7A in a Chinese family with Usher syndrome type 1.</title>
+<authorList>
+<person name="Liu F."/>
+<person name="Li P."/>
+<person name="Liu Y."/>
+<person name="Li W."/>
+<person name="Wong F."/>
+<person name="Du R."/>
+<person name="Wang L."/>
+<person name="Li C."/>
+<person name="Jiang F."/>
+<person name="Tang Z."/>
+<person name="Liu M."/>
+</authorList>
+<dbReference type="PubMed" id="23559863"/>
+</citation>
+<scope>INVOLVEMENT IN USH1B</scope>
+<scope>VARIANT USH1B LYS-1248</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="2014" name="PLoS ONE" volume="9" first="E97808" last="E97808">
+<title>Novel and recurrent MYO7A mutations in Usher syndrome type 1 and type 2.</title>
+<authorList>
+<person name="Rong W."/>
+<person name="Chen X."/>
+<person name="Zhao K."/>
+<person name="Liu Y."/>
+<person name="Liu X."/>
+<person name="Ha S."/>
+<person name="Liu W."/>
+<person name="Kang X."/>
+<person name="Sheng X."/>
+<person name="Zhao C."/>
+</authorList>
+<dbReference type="PubMed" id="24831256"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0097808"/>
+</citation>
+<scope>VARIANTS USH1B MET-165 AND ARG-946</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="2015" name="Invest. Ophthalmol. Vis. Sci." volume="56" first="8045" last="8053">
+<title>Exome Sequencing Reveals AGBL5 as Novel Candidate Gene and Additional Variants for Retinitis Pigmentosa in Five Turkish Families.</title>
+<authorList>
+<person name="Kastner S."/>
+<person name="Thiemann I.J."/>
+<person name="Dekomien G."/>
+<person name="Petrasch-Parwez E."/>
+<person name="Schreiber S."/>
+<person name="Akkad D.A."/>
+<person name="Gerding W.M."/>
+<person name="Hoffjan S."/>
+<person name="Guenes S."/>
+<person name="Guenes S."/>
+<person name="Bagci H."/>
+<person name="Epplen J.T."/>
+</authorList>
+<dbReference type="PubMed" id="26720455"/>
+<dbReference type="DOI" id="10.1167/iovs.15-17473"/>
+</citation>
+<scope>VARIANT ARG-158</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="2015" name="PLoS ONE" volume="10" first="E0120584" last="E0120584">
+<title>Whole exome sequencing identifies mutations in Usher syndrome genes in profoundly deaf Tunisian patients.</title>
+<authorList>
+<person name="Riahi Z."/>
+<person name="Bonnet C."/>
+<person name="Zainine R."/>
+<person name="Lahbib S."/>
+<person name="Bouyacoub Y."/>
+<person name="Bechraoui R."/>
+<person name="Marrakchi J."/>
+<person name="Hardelin J.P."/>
+<person name="Louha M."/>
+<person name="Largueche L."/>
+<person name="Ben Yahia S."/>
+<person name="Kheirallah M."/>
+<person name="Elmatri L."/>
+<person name="Besbes G."/>
+<person name="Abdelhak S."/>
+<person name="Petit C."/>
+</authorList>
+<dbReference type="PubMed" id="25798947"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0120584"/>
+</citation>
+<scope>VARIANT USH1B LYS-1812</scope>
+</reference>
+<comment type="function">
+<text evidence="1 18 19 20 21">Myosins are actin-based motor molecules with ATPase activity. Unconventional myosins serve in intracellular movements. Their highly divergent tails bind to membranous compartments, which are then moved relative to actin filaments. In the retina, plays an important role in the renewal of the outer photoreceptor disks. Plays an important role in the distribution and migration of retinal pigment epithelial (RPE) melanosomes and phagosomes, and in the regulation of opsin transport in retinal photoreceptors. In the inner ear, plays an important role in differentiation, morphogenesis and organization of cochlear hair cell bundles. Involved in hair-cell vesicle trafficking of aminoglycosides, which are known to induce ototoxicity (By similarity). Motor protein that is a part of the functional network formed by USH1C, USH1G, CDH23 and MYO7A that mediates mechanotransduction in cochlear hair cells. Required for normal hearing.</text>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="20">ATP hydrolysis is inhibited by Mg(2+), already at a concentration of 0.4 mM.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1 2 11 15 19 21 23">Might homodimerize in a two headed molecule through the formation of a coiled-coil rod (By similarity). Interacts with MYRIP (PubMed:11964381). Interacts with RPE65 (PubMed:21493626). Identified in a complex with USH1C and USH1G (PubMed:21709241). Interacts with CIB2 (PubMed:23023331). May interact with CALM (PubMed:15300860). Interacts with WHRN. Interacts with PLEKHB1 (via PH domain). Interacts with PCDH15. Interacts with TWF2. Interacts with USH1G (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Cell cortex</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Cytoskeleton</location>
+</subcellularLocation>
+<text>In the photoreceptor cells, mainly localized in the inner and base of outer segments as well as in the synaptic ending region. Colocalizes with a subset of melanosomes in retinal pigment epithelium cells. Detected at the tip of cochlear hair cell stereocilia. The complex formed by MYO7A, USH1C and USH1G colocalizes with F-actin.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q13402-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q13402-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_003360 VSP_045848"/>
+</isoform>
+<isoform>
+<id>Q13402-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_003356 VSP_003357"/>
+</isoform>
+<isoform>
+<id>Q13402-4</id>
+<name>4</name>
+<sequence type="described" ref="VSP_003355 VSP_003356 VSP_003357"/>
+</isoform>
+<isoform>
+<id>Q13402-5</id>
+<name>5</name>
+<sequence type="described" ref="VSP_003353 VSP_003354"/>
+</isoform>
+<isoform>
+<id>Q13402-6</id>
+<name>6</name>
+<sequence type="described" ref="VSP_003358"/>
+</isoform>
+<isoform>
+<id>Q13402-7</id>
+<name>7</name>
+<sequence type="described" ref="VSP_003359"/>
+</isoform>
+<isoform>
+<id>Q13402-8</id>
+<name>8</name>
+<sequence type="described" ref="VSP_053793 VSP_003360"/>
+</isoform>
+<text>Additional isoforms seem to exist.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="18 19 21">Expressed in the pigment epithelium and the photoreceptor cells of the retina. Also found in kidney, liver, testis, cochlea, lymphocytes. Not expressed in brain.</text>
+</comment>
+<comment type="developmental stage">
+<text evidence="29 30">Detected in optic cup in 5.5 weeks-old embryos. Expressed in retinal pigment epithelium, cochlear and vestibular neuroepithelia, and olfactory epithelium at 8 weeks. At 19 weeks, present in both pigment epithelium and photoreceptor cells. At 24-28 weeks, expression in pigment epithelium and photoreceptor cells increases. Present in pigment epithelium and photoreceptor cells in adult.</text>
+</comment>
+<comment type="domain">
+<text evidence="43">The SAH (single alpha-helix) region is characterized by a high content of charged residues which are predicted to stabilize the alpha-helical structure by ionic bonds.</text>
+</comment>
+<comment type="disease" evidence="7 8 9 10 12 16 17 24 25 26 28 32 33 37 38">
+<disease id="DI-01112">
+<name>Usher syndrome 1B</name>
+<acronym>USH1B</acronym>
+<description>USH is a genetically heterogeneous condition characterized by the association of retinitis pigmentosa with sensorineural deafness. Age at onset and differences in auditory and vestibular function distinguish Usher syndrome type 1 (USH1), Usher syndrome type 2 (USH2) and Usher syndrome type 3 (USH3). USH1 is characterized by profound congenital sensorineural deafness, absent vestibular function and prepubertal onset of progressive retinitis pigmentosa leading to blindness.</description>
+<dbReference type="MIM" id="276900"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="34 35">
+<disease id="DI-00854">
+<name>Deafness, autosomal recessive, 2</name>
+<acronym>DFNB2</acronym>
+<description>A form of non-syndromic sensorineural hearing loss. Sensorineural deafness results from damage to the neural receptors of the inner ear, the nerve pathways to the brain, or the area of the brain that receives sound information.</description>
+<dbReference type="MIM" id="600060"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="13 14 15 36">
+<disease id="DI-00841">
+<name>Deafness, autosomal dominant, 11</name>
+<acronym>DFNA11</acronym>
+<description>A form of non-syndromic sensorineural hearing loss. Sensorineural deafness results from damage to the neural receptors of the inner ear, the nerve pathways to the brain, or the area of the brain that receives sound information. DFNA11 is characterized by onset after complete speech acquisition and subsequent gradual progression.</description>
+<dbReference type="MIM" id="601317"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="42">Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family.</text>
+</comment>
+<comment type="caution">
+<text evidence="42">Represents an unconventional myosin. This protein should not be confused with the conventional myosin-7 (MYH7).</text>
+</comment>
+<comment type="caution">
+<text evidence="42">Originally predicted to contain a coiled coil domain but proposed to contain a stable SAH domain instead.</text>
+</comment>
+<comment type="online information" name="Hereditary hearing loss homepage">
+<link uri="http://hereditaryhearingloss.org/main.aspx?c=.HHH&amp;n=86162"/>
+<text>Gene page</text>
+</comment>
+<comment type="online information" name="Mutations of the MYO7A gene">
+<link uri="http://www.retina-international.org/files/sci-news/myomut.htm"/>
+<text>Retina International's Scientific Newsletter</text>
+</comment>
+<dbReference type="EMBL" id="U39226">
+<property type="protein sequence ID" value="AAB03679.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U55208">
+<property type="protein sequence ID" value="AAC50927.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U55209">
+<property type="protein sequence ID" value="AAC50722.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP000752">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP001855">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L29146">
+<property type="protein sequence ID" value="AAA20909.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U34227">
+<property type="protein sequence ID" value="AAC50218.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BF869194">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AH006665">
+<property type="protein sequence ID" value="AAC51150.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS53683.1">
+<molecule id="Q13402-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS53684.1">
+<molecule id="Q13402-2"/>
+</dbReference>
+<dbReference type="PIR" id="A59255">
+<property type="entry name" value="A59255"/>
+</dbReference>
+<dbReference type="PIR" id="A59257">
+<property type="entry name" value="A59257"/>
+</dbReference>
+<dbReference type="PIR" id="I61697">
+<property type="entry name" value="I61697"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000251.3">
+<molecule id="Q13402-1"/>
+<property type="nucleotide sequence ID" value="NM_000260.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001120651.2">
+<property type="nucleotide sequence ID" value="NM_001127179.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001120652.1">
+<molecule id="Q13402-2"/>
+<property type="nucleotide sequence ID" value="NM_001127180.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.370421"/>
+<dbReference type="ProteinModelPortal" id="Q13402"/>
+<dbReference type="SMR" id="Q13402"/>
+<dbReference type="BioGrid" id="110731">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="IntAct" id="Q13402">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1895479"/>
+<dbReference type="STRING" id="9606.ENSP00000386331"/>
+<dbReference type="iPTMnet" id="Q13402"/>
+<dbReference type="PhosphoSitePlus" id="Q13402"/>
+<dbReference type="BioMuta" id="MYO7A"/>
+<dbReference type="DMDM" id="460018219"/>
+<dbReference type="PaxDb" id="Q13402"/>
+<dbReference type="PeptideAtlas" id="Q13402"/>
+<dbReference type="PRIDE" id="Q13402"/>
+<dbReference type="DNASU" id="4647"/>
+<dbReference type="Ensembl" id="ENST00000409619">
+<molecule id="Q13402-8"/>
+<property type="protein sequence ID" value="ENSP00000386635"/>
+<property type="gene ID" value="ENSG00000137474"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000409709">
+<molecule id="Q13402-1"/>
+<property type="protein sequence ID" value="ENSP00000386331"/>
+<property type="gene ID" value="ENSG00000137474"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000458637">
+<molecule id="Q13402-2"/>
+<property type="protein sequence ID" value="ENSP00000392185"/>
+<property type="gene ID" value="ENSG00000137474"/>
+</dbReference>
+<dbReference type="GeneID" id="4647"/>
+<dbReference type="KEGG" id="hsa:4647"/>
+<dbReference type="UCSC" id="uc001oyb.3">
+<molecule id="Q13402-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="4647"/>
+<dbReference type="DisGeNET" id="4647"/>
+<dbReference type="GeneCards" id="MYO7A"/>
+<dbReference type="GeneReviews" id="MYO7A"/>
+<dbReference type="H-InvDB" id="HIX0035966"/>
+<dbReference type="HGNC" id="HGNC:7606">
+<property type="gene designation" value="MYO7A"/>
+</dbReference>
+<dbReference type="HPA" id="CAB034059"/>
+<dbReference type="HPA" id="HPA028918"/>
+<dbReference type="MalaCards" id="MYO7A"/>
+<dbReference type="MIM" id="276900">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="276903">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="600060">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="601317">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q13402"/>
+<dbReference type="OpenTargets" id="ENSG00000137474"/>
+<dbReference type="Orphanet" id="90635">
+<property type="disease" value="Autosomal dominant non-syndromic sensorineural deafness type DFNA"/>
+</dbReference>
+<dbReference type="Orphanet" id="90636">
+<property type="disease" value="Autosomal recessive non-syndromic sensorineural deafness type DFNB"/>
+</dbReference>
+<dbReference type="Orphanet" id="231169">
+<property type="disease" value="Usher syndrome type 1"/>
+</dbReference>
+<dbReference type="Orphanet" id="231178">
+<property type="disease" value="Usher syndrome type 2"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA31411"/>
+<dbReference type="eggNOG" id="KOG4229">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5022">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00840000129687"/>
+<dbReference type="HOGENOM" id="HOG000007836"/>
+<dbReference type="HOVERGEN" id="HBG052557"/>
+<dbReference type="InParanoid" id="Q13402"/>
+<dbReference type="KO" id="K10359"/>
+<dbReference type="OMA" id="TPWHNPS"/>
+<dbReference type="OrthoDB" id="EOG091G00BB"/>
+<dbReference type="PhylomeDB" id="Q13402"/>
+<dbReference type="TreeFam" id="TF335306"/>
+<dbReference type="Reactome" id="R-HSA-2453902">
+<property type="pathway name" value="The canonical retinoid cycle in rods (twilight vision)"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="MYO7A">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="MYO7A"/>
+<dbReference type="GenomeRNAi" id="4647"/>
+<dbReference type="PRO" id="PR:Q13402"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 11"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000137474"/>
+<dbReference type="CleanEx" id="HS_MYO7A"/>
+<dbReference type="ExpressionAtlas" id="Q13402">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q13402">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016324">
+<property type="term" value="C:apical plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005938">
+<property type="term" value="C:cell cortex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005765">
+<property type="term" value="C:lysosomal membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042470">
+<property type="term" value="C:melanosome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005902">
+<property type="term" value="C:microvillus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031477">
+<property type="term" value="C:myosin VII complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032391">
+<property type="term" value="C:photoreceptor connecting cilium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001917">
+<property type="term" value="C:photoreceptor inner segment"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001750">
+<property type="term" value="C:photoreceptor outer segment"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032420">
+<property type="term" value="C:stereocilium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045202">
+<property type="term" value="C:synapse"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990435">
+<property type="term" value="C:upper tip-link density"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051015">
+<property type="term" value="F:actin filament binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030898">
+<property type="term" value="F:actin-dependent ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043531">
+<property type="term" value="F:ADP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005516">
+<property type="term" value="F:calmodulin binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000146">
+<property type="term" value="F:microfilament motor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019904">
+<property type="term" value="F:protein domain specific binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042803">
+<property type="term" value="F:protein homodimerization activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0047485">
+<property type="term" value="F:protein N-terminus binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030507">
+<property type="term" value="F:spectrin binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030048">
+<property type="term" value="P:actin filament-based movement"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060088">
+<property type="term" value="P:auditory receptor cell stereocilium organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050957">
+<property type="term" value="P:equilibrioception"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042462">
+<property type="term" value="P:eye photoreceptor cell development"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006886">
+<property type="term" value="P:intracellular protein transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007040">
+<property type="term" value="P:lysosome organization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001845">
+<property type="term" value="P:phagolysosome assembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051904">
+<property type="term" value="P:pigment granule transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048563">
+<property type="term" value="P:post-embryonic animal organ morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050953">
+<property type="term" value="P:sensory perception of light stimulus"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007605">
+<property type="term" value="P:sensory perception of sound"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007601">
+<property type="term" value="P:visual perception"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.80.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.30.29.30">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019749">
+<property type="entry name" value="Band_41_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014352">
+<property type="entry name" value="FERM/acyl-CoA-bd_prot_3-hlx"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019748">
+<property type="entry name" value="FERM_central"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000299">
+<property type="entry name" value="FERM_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000048">
+<property type="entry name" value="IQ_motif_EF-hand-BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001609">
+<property type="entry name" value="Myosin_head_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000857">
+<property type="entry name" value="MyTH4_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011993">
+<property type="entry name" value="PH_dom-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001452">
+<property type="entry name" value="SH3_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029071">
+<property type="entry name" value="Ubiquitin-rel_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00373">
+<property type="entry name" value="FERM_M"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00612">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00063">
+<property type="entry name" value="Myosin_head"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00784">
+<property type="entry name" value="MyTH4"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00193">
+<property type="entry name" value="MYOSINHEAVY"/>
+</dbReference>
+<dbReference type="SMART" id="SM00295">
+<property type="entry name" value="B41"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00015">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="SMART" id="SM00242">
+<property type="entry name" value="MYSc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00139">
+<property type="entry name" value="MyTH4"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00326">
+<property type="entry name" value="SH3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47031">
+<property type="entry name" value="SSF47031"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50044">
+<property type="entry name" value="SSF50044"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50729">
+<property type="entry name" value="SSF50729"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54236">
+<property type="entry name" value="SSF54236"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50057">
+<property type="entry name" value="FERM_3"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50096">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51456">
+<property type="entry name" value="MYOSIN_MOTOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51016">
+<property type="entry name" value="MYTH4"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50002">
+<property type="entry name" value="SH3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0009">Actin-binding</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0112">Calmodulin-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0209">Deafness</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-1009">Hearing</keyword>
+<keyword id="KW-0901">Leber congenital amaurosis</keyword>
+<keyword id="KW-0505">Motor protein</keyword>
+<keyword id="KW-0518">Myosin</keyword>
+<keyword id="KW-1010">Non-syndromic deafness</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0682">Retinitis pigmentosa</keyword>
+<keyword id="KW-0728">SH3 domain</keyword>
+<keyword id="KW-0836">Usher syndrome</keyword>
+<feature type="chain" description="Unconventional myosin-VIIa" id="PRO_0000123466">
+<location>
+<begin position="1"/>
+<end position="2215"/>
+</location>
+</feature>
+<feature type="domain" description="Myosin motor">
+<location>
+<begin position="65"/>
+<end position="741"/>
+</location>
+</feature>
+<feature type="domain" description="IQ 1" evidence="4">
+<location>
+<begin position="745"/>
+<end position="765"/>
+</location>
+</feature>
+<feature type="domain" description="IQ 2" evidence="4">
+<location>
+<begin position="768"/>
+<end position="788"/>
+</location>
+</feature>
+<feature type="domain" description="IQ 3" evidence="4">
+<location>
+<begin position="791"/>
+<end position="811"/>
+</location>
+</feature>
+<feature type="domain" description="IQ 4" evidence="4">
+<location>
+<begin position="814"/>
+<end position="834"/>
+</location>
+</feature>
+<feature type="domain" description="IQ 5" evidence="4">
+<location>
+<begin position="837"/>
+<end position="857"/>
+</location>
+</feature>
+<feature type="domain" description="MyTH4 1" evidence="6">
+<location>
+<begin position="1017"/>
+<end position="1253"/>
+</location>
+</feature>
+<feature type="domain" description="FERM 1" evidence="3">
+<location>
+<begin position="1258"/>
+<end position="1602"/>
+</location>
+</feature>
+<feature type="domain" description="SH3" evidence="5">
+<location>
+<begin position="1603"/>
+<end position="1672"/>
+</location>
+</feature>
+<feature type="domain" description="MyTH4 2" evidence="6">
+<location>
+<begin position="1747"/>
+<end position="1896"/>
+</location>
+</feature>
+<feature type="domain" description="FERM 2" evidence="3">
+<location>
+<begin position="1902"/>
+<end position="2205"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="42">
+<location>
+<begin position="158"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="region of interest" description="Actin-binding" evidence="42">
+<location>
+<begin position="632"/>
+<end position="639"/>
+</location>
+</feature>
+<feature type="region of interest" description="SAH" evidence="43">
+<location>
+<begin position="858"/>
+<end position="935"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="2">
+<location>
+<position position="1569"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="2">
+<location>
+<position position="1571"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 8." id="VSP_053793" evidence="39">
+<location>
+<begin position="1"/>
+<end position="11"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 5." id="VSP_003353" evidence="40">
+<location>
+<begin position="284"/>
+<end position="360"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 5." id="VSP_003354" evidence="40">
+<location>
+<begin position="519"/>
+<end position="564"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_003355" evidence="41">
+<original>E</original>
+<variation>EVLQ</variation>
+<location>
+<position position="1095"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 6." id="VSP_003358" evidence="40">
+<location>
+<begin position="1096"/>
+<end position="1125"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3 and isoform 4." id="VSP_003356" evidence="41">
+<original>DEIYCQISKQLTHNPSKSSYARGWILVSLCVG</original>
+<variation>SVPESLLVAEWCLCQPSKRLSQAWPGFGFAAS</variation>
+<location>
+<begin position="1169"/>
+<end position="1200"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3 and isoform 4." id="VSP_003357" evidence="41">
+<location>
+<begin position="1201"/>
+<end position="2215"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 7." id="VSP_003359" evidence="40">
+<location>
+<begin position="1433"/>
+<end position="1470"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2 and isoform 8." id="VSP_003360" evidence="39 41">
+<location>
+<begin position="1524"/>
+<end position="1561"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_045848" evidence="41">
+<location>
+<begin position="2117"/>
+<end position="2118"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; heterozygosity approaching 50%; dbSNP:rs1052030." id="VAR_009315" evidence="16">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="16"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs782252317." id="VAR_009316" evidence="16 33">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="25"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_024039" evidence="10">
+<original>A</original>
+<variation>E</variation>
+<location>
+<position position="26"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_024040" evidence="10">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_024041" evidence="10">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="90"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; the deleterious effect remains to be proven." id="VAR_027301" evidence="17">
+<original>H</original>
+<variation>D</variation>
+<location>
+<position position="133"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs111033181." id="VAR_024042" evidence="10">
+<original>I</original>
+<variation>N</variation>
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in patients with retinitis pigmentosa; unknown pathological significance." id="VAR_077020" evidence="27">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="158"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_027302" evidence="17">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="163"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_027303" evidence="17">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="164"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs111033174." id="VAR_024043" evidence="16 17 25">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="165"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a patient with Leber congenital amaurosis; unknown pathological significance." id="VAR_066861" evidence="22">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="193"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; is predicted to alter the normal splicing of exon 6." id="VAR_027304" evidence="17">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="198"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_027305" evidence="17">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="204"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs781946292." id="VAR_009317">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="205"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; frequent mutation; dbSNP:rs121965080." id="VAR_009318" evidence="32">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="212"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; frequent mutation; dbSNP:rs28934610." id="VAR_009319" evidence="32">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="212"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs111033283." id="VAR_009320" evidence="37">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="214"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_009321">
+<location>
+<begin position="218"/>
+<end position="219"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs782166819." id="VAR_024044" evidence="10">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="241"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_009322">
+<original>R</original>
+<variation>S</variation>
+<location>
+<position position="241"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DFNB2; dbSNP:rs121965081." id="VAR_009323" evidence="34">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="244"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_024045" evidence="10">
+<location>
+<position position="269"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; uncertain pathological significance; dbSNP:rs41298135." id="VAR_009324" evidence="32">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="302"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_009325" evidence="12 37">
+<original>A</original>
+<variation>D</variation>
+<location>
+<position position="397"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_009326" evidence="32">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="450"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs111033286." id="VAR_024046" evidence="10">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="457"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DFNA11; dbSNP:rs28934903." id="VAR_027306" evidence="14">
+<original>N</original>
+<variation>I</variation>
+<location>
+<position position="458"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_009327" evidence="32">
+<original>H</original>
+<variation>HQ</variation>
+<location>
+<position position="468"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_009328" evidence="32">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="503"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; the deleterious effect remains to be proven; dbSNP:rs111033206." id="VAR_024047" evidence="10 17">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="519"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Rare polymorphism." id="VAR_009329">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="597"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DFNB2; dbSNP:rs121965082." id="VAR_009330" evidence="35">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="599"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2276282." id="VAR_056187">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="602"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; atypical." id="VAR_009331" evidence="38">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="651"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35641839." id="VAR_056188">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="679"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DFNA11." id="VAR_027307" evidence="13">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="722"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs782174733." id="VAR_024048" evidence="16">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="756"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs368341987." id="VAR_009332" evidence="37">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="826"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DFNA11; disturb calmodulin/MYO7A binding." id="VAR_027308" evidence="15">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="853"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In DFNA11." id="VAR_009333" evidence="36">
+<location>
+<begin position="886"/>
+<end position="888"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_071646" evidence="25">
+<original>M</original>
+<variation>R</variation>
+<location>
+<position position="946"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs781988557." id="VAR_009334" evidence="33">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="955"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs111033233." id="VAR_024049" evidence="10 16">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="968"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs375050157." id="VAR_009335" evidence="8">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="1087"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs111033214." id="VAR_009336" evidence="9 12 17">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="1170"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs111033178." id="VAR_009337" evidence="10 17">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="1240"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_071647" evidence="24">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="1248"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs749747871." id="VAR_009338" evidence="10">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="1288"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs373169422." id="VAR_027309" evidence="12">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="1327"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs763469001." id="VAR_009339">
+<original>R</original>
+<variation>S</variation>
+<location>
+<position position="1343"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_024050" evidence="10">
+<location>
+<position position="1346"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_027310" evidence="12">
+<location>
+<begin position="1347"/>
+<end position="1351"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; unknown pathological significance; dbSNP:rs41298747." id="VAR_027311" evidence="12 17">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="1566"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; atypical; dbSNP:rs139889944." id="VAR_009340" evidence="38">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="1602"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_009341">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="1628"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2276288." id="VAR_009343" evidence="29 31">
+<original>S</original>
+<variation>C</variation>
+<location>
+<position position="1666"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_027312">
+<original>S</original>
+<variation>G</variation>
+<location>
+<position position="1666"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; unknown pathological significance; dbSNP:rs77625410." id="VAR_009344" evidence="9 12 17">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="1719"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs12275336." id="VAR_027313">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="1740"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs111033287." id="VAR_024051" evidence="10">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="1743"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs377267777." id="VAR_074074" evidence="26">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="1812"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs368657015." id="VAR_024052" evidence="10 17">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="1858"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs397516321." id="VAR_027314" evidence="17">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="1873"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs111033215." id="VAR_024053" evidence="16">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="1883"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs199606180." id="VAR_024054" evidence="10">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="1887"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs948962." id="VAR_009345" evidence="29 31">
+<original>L</original>
+<variation>I</variation>
+<location>
+<position position="1954"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_027315" evidence="17">
+<location>
+<position position="1962"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs771906493." id="VAR_009346">
+<original>F</original>
+<variation>I</variation>
+<location>
+<position position="1992"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B." id="VAR_009347" evidence="33">
+<original>G</original>
+<variation>E</variation>
+<location>
+<position position="2137"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1132036." id="VAR_027316">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="2142"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs747656448." id="VAR_009348">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="2163"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In USH1B; dbSNP:rs397516332." id="VAR_024055" evidence="10">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="2187"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AAA20909." ref="4" evidence="42">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="172"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC50927/AAC50722." ref="2" evidence="42">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="470"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 9; AAC51150." ref="9" evidence="42">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="576"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC50927/AAC50722 and 6; AAC50218." ref="2 6" evidence="42">
+<original>F</original>
+<variation>S</variation>
+<location>
+<position position="794"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC50927/AAC50722 and 6; AAC50218." ref="2 6" evidence="42">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="873"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; AAC50218." ref="6" evidence="42">
+<original>KIY</original>
+<variation>RNS</variation>
+<location>
+<begin position="1073"/>
+<end position="1075"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC50927." ref="2" evidence="42">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="1237"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P97479"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00084"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00116"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00192"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00359"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10094549"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10364543"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10447383"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10930322"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11964381"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12112664"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15121790"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15221449"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15300860"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15660226"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16679490"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19643958"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21493626"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21687988"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21709241"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21901789"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23023331"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23559863"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24831256"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25798947"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26720455"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7870171"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8622919"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8842737"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8884267"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8900236"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9002678"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9171832"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9171833"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9354784"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9382091"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9718356"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="10737800"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="8622919"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="8884267"/>
+</source>
+</evidence>
+<evidence key="42" type="ECO:0000305"/>
+<evidence key="43" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="25122759"/>
+</source>
+</evidence>
+<sequence length="2215" mass="254390" checksum="9F921DB43FD9BE1E" modified="2013-03-06" version="2">
+MVILQQGDHVWMDLRLGQEFDVPIGAVVKLCDSGQVQVVDDEDNEHWISPQNATHIKPMH
+PTSVHGVEDMIRLGDLNEAGILRNLLIRYRDHLIYTYTGSILVAVNPYQLLSIYSPEHIR
+QYTNKKIGEMPPHIFAIADNCYFNMKRNSRDQCCIISGESGAGKTESTKLILQFLAAISG
+QHSWIEQQVLEATPILEAFGNAKTIRNDNSSRFGKYIDIHFNKRGAIEGAKIEQYLLEKS
+RVCRQALDERNYHVFYCMLEGMSEDQKKKLGLGQASDYNYLAMGNCITCEGRVDSQEYAN
+IRSAMKVLMFTDTENWEISKLLAAILHLGNLQYEARTFENLDACEVLFSPSLATAASLLE
+VNPPDLMSCLTSRTLITRGETVSTPLSREQALDVRDAFVKGIYGRLFVWIVDKINAAIYK
+PPSQDVKNSRRSIGLLDIFGFENFAVNSFEQLCINFANEHLQQFFVRHVFKLEQEEYDLE
+SIDWLHIEFTDNQDALDMIANKPMNIISLIDEESKFPKGTDTTMLHKLNSQHKLNANYIP
+PKNNHETQFGINHFAGIVYYETQGFLEKNRDTLHGDIIQLVHSSRNKFIKQIFQADVAMG
+AETRKRSPTLSSQFKRSLELLMRTLGACQPFFVRCIKPNEFKKPMLFDRHLCVRQLRYSG
+MMETIRIRRAGYPIRYSFVEFVERYRVLLPGVKPAYKQGDLRGTCQRMAEAVLGTHDDWQ
+IGKTKIFLKDHHDMLLEVERDKAITDRVILLQKVIRGFKDRSNFLKLKNAATLIQRHWRG
+HNCRKNYGLMRLGFLRLQALHRSRKLHQQYRLARQRIIQFQARCRAYLVRKAFRHRLWAV
+LTVQAYARGMIARRLHQRLRAEYLWRLEAEKMRLAEEEKLRKEMSAKKAKEEAERKHQER
+LAQLAREDAERELKEKEAARRKKELLEQMERARHEPVNHSDMVDKMFGFLGTSGGLPGQE
+GQAPSGFEDLERGRREMVEEDLDAALPLPDEDEEDLSEYKFAKFAATYFQGTTTHSYTRR
+PLKQPLLYHDDEGDQLAALAVWITILRFMGDLPEPKYHTAMSDGSEKIPVMTKIYETLGK
+KTYKRELQALQGEGEAQLPEGQKKSSVRHKLVHLTLKKKSKLTEEVTKRLHDGESTVQGN
+SMLEDRPTSNLEKLHFIIGNGILRPALRDEIYCQISKQLTHNPSKSSYARGWILVSLCVG
+CFAPSEKFVKYLRNFIHGGPPGYAPYCEERLRRTFVNGTRTQPPSWLELQATKSKKPIML
+PVTFMDGTTKTLLTDSATTAKELCNALADKISLKDRFGFSLYIALFDKVSSLGSGSDHVM
+DAISQCEQYAKEQGAQERNAPWRLFFRKEVFTPWHSPSEDNVATNLIYQQVVRGVKFGEY
+RCEKEDDLAELASQQYFVDYGSEMILERLLNLVPTYIPDREITPLKTLEKWAQLAIAAHK
+KGIYAQRRTDAQKVKEDVVSYARFKWPLLFSRFYEAYKFSGPSLPKNDVIVAVNWTGVYF
+VDEQEQVLLELSFPEIMAVSSSRECRVWLSLGCSDLGCAAPHSGWAGLTPAGPCSPCWSC
+RGAKTTAPSFTLATIKGDEYTFTSSNAEDIRDLVVTFLEGLRKRSKYVVALQDNPNPAGE
+ESGFLSFAKGDLIILDHDTGEQVMNSGWANGINERTKQRGDFPTDSVYVMPTVTMPPREI
+VALVTMTPDQRQDVVRLLQLRTAEPEVRAKPYTLEEFSYDYFRPPPKHTLSRVMVSKARG
+KDRLWSHTREPLKQALLKKLLGSEELSQEACLAFIAVLKYMGDYPSKRTRSVNELTDQIF
+EGPLKAEPLKDEAYVQILKQLTDNHIRYSEERGWELLWLCTGLFPPSNILLPHVQRFLQS
+RKHCPLAIDCLQRLQKALRNGSRKYPPHLVEVEAIQHKTTQIFHKVYFPDDTDEAFEVES
+STKAKDFCQNIATRLLLKSSEGFSLFVKIADKVLSVPENDFFFDFVRHLTDWIKKARPIK
+DGIVPSLTYQVFFMKKLWTTTVPGKDPMADSIFHYYQELPKYLRGYHKCTREEVLQLGAL
+IYRVKFEEDKSYFPSIPKLLRELVPQDLIRQVSPDDWKRSIVAYFNKHAGKSKEEAKLAF
+LKLIFKWPTFGSAFFEVKQTTEPNFPEILLIAINKYGVSLIDPKTKDILTTHPFTKISNW
+SSGNTYFHITIGNLVRGSKLLCETSLGYKMDDLLTSYISQMLTAMSKQRGSRSGK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

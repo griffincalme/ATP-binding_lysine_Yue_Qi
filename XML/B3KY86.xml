@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-09-02" modified="2017-05-10" version="48">
+<accession>B3KY86</accession>
+<name>B3KY86_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="4">cDNA FLJ16043 fis, clone BRCAN2028355, highly similar to Calcium/calmodulin-dependent protein kinasetype II gamma chain (EC 2.7.11.17)</fullName>
+</submittedName>
+</protein>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="submission" date="2004-03" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project.</title>
+<authorList>
+<person name="Nishi T."/>
+<person name="Ota T."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizuguchi H."/>
+<person name="Inagaki H."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Otsuki T."/>
+<person name="Sato H."/>
+<person name="Wakamatsu A."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Isono Y."/>
+<person name="Kawai-Hio Y."/>
+<person name="Saito K."/>
+<person name="Nishikawa T."/>
+<person name="Kimura K."/>
+<person name="Yamashita H."/>
+<person name="Matsuo K."/>
+<person name="Nakamura Y."/>
+<person name="Sekine M."/>
+<person name="Kikuchi H."/>
+<person name="Kanda K."/>
+<person name="Wagatsuma M."/>
+<person name="Murakawa K."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Oshima A."/>
+<person name="Sugiyama A."/>
+<person name="Kawakami B."/>
+<person name="Suzuki Y."/>
+<person name="Sugano S."/>
+<person name="Nagahari K."/>
+<person name="Masuho Y."/>
+<person name="Nagai K."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="4">Caudate nucleus</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AK131199">
+<property type="protein sequence ID" value="BAG54748.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001307827.1">
+<property type="nucleotide sequence ID" value="NM_001320898.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.523045"/>
+<dbReference type="UniGene" id="Hs.654811"/>
+<dbReference type="ProteinModelPortal" id="B3KY86"/>
+<dbReference type="STRING" id="9606.ENSP00000319060"/>
+<dbReference type="MaxQB" id="B3KY86"/>
+<dbReference type="PaxDb" id="B3KY86"/>
+<dbReference type="PeptideAtlas" id="B3KY86"/>
+<dbReference type="PRIDE" id="B3KY86"/>
+<dbReference type="GeneID" id="818"/>
+<dbReference type="CTD" id="818"/>
+<dbReference type="eggNOG" id="KOG0033">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XNRX">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG108055"/>
+<dbReference type="SignaLink" id="B3KY86"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005516">
+<property type="term" value="F:calmodulin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004683">
+<property type="term" value="F:calmodulin-dependent protein kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020636">
+<property type="entry name" value="Ca/CaM-dep_Ca-dep_prot_Kinase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013543">
+<property type="entry name" value="Ca/CaM-dep_prot_kinase-assoc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032710">
+<property type="entry name" value="NTF2-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24347">
+<property type="entry name" value="PTHR24347"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08332">
+<property type="entry name" value="CaMKII_AD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54427">
+<property type="entry name" value="SSF54427"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="1">Kinase</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<keyword id="KW-0723" evidence="1">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808" evidence="1">Transferase</keyword>
+<feature type="domain" description="Protein kinase" evidence="3">
+<location>
+<begin position="1"/>
+<end position="264"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00315853"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00426447"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG54748.1"/>
+</source>
+</evidence>
+<sequence length="575" mass="63800" checksum="C16BC4F86D9FA2FE" modified="2008-09-02" version="1">
+MATTATCTRFTDDYQLFEELGKCVKKTSTQEYAAKIINTKKLSARDHQKLEREARICRLL
+KHPNIVRLHDSISEEGFHYLVFDLVTGGELFEDIVAREYYSEADASHCIHQILESVNHIH
+QHDIVHRDLKPENLLLASKCKGAAVKLADFGLAIEVQGEQQAWFGFAGTPGYLSPEVLRK
+DPYGKPVDIWACGVILYILLVGYPPFWDEDQHKLYQQIKAGAYDFPSPEWDTVTPEAKNL
+INQMLTINPAKRITADQALKHPWVCQRSTVASMMHRQETVECLRKFNARRKLKGAILTTM
+LVSRNFSAAKSLLNKKSDGGVKPQSNNKNSLVSPAQEPAPLQTAMEPQTTVVHNATDGIK
+GSTESCNTTTEDEDLKAAPLRTGNGSPVPEGRSSRDRTAPSAGMQPQPSLCSSAMRKQEI
+IKITEQLIEAINNGDFEAYTKICDPGLTSFEPEALGNLVEGMDFHKFYFENREWVRAADI
+LLPAPLPLCLCLLLTFSSQLPTFPLFDLRAALLLCMLVPLCPDGCRQAPLKALLLSSKCH
+SFCSCFVAVPVTTIKLTYFLPGAVAYACNPNTLGG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

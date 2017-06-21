@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2007-11-13" modified="2017-05-10" version="55">
+<accession>A8CDT9</accession>
+<name>A8CDT9_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="6">MYO5A variant protein</fullName>
+</submittedName>
+</protein>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="submission" date="2007-01" db="EMBL/GenBank/DDBJ databases">
+<title>Multiplex amplification and cloning of 5'-ends of cDNA by ligase-free recombination: Preparation of full-lemgth cDNA clones encoding motor proteins.</title>
+<authorList>
+<person name="Yamakawa H."/>
+<person name="Kikuno R.F."/>
+<person name="Nagase T."/>
+<person name="Ohara O."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="6">Brain</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AB290180">
+<property type="protein sequence ID" value="BAF80583.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001135967.1">
+<property type="nucleotide sequence ID" value="NM_001142495.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.21213"/>
+<dbReference type="UniGene" id="Hs.596221"/>
+<dbReference type="ProteinModelPortal" id="A8CDT9"/>
+<dbReference type="STRING" id="9606.ENSP00000382177"/>
+<dbReference type="PaxDb" id="A8CDT9"/>
+<dbReference type="PRIDE" id="A8CDT9"/>
+<dbReference type="GeneID" id="4644"/>
+<dbReference type="CTD" id="4644"/>
+<dbReference type="PharmGKB" id="PA31407"/>
+<dbReference type="eggNOG" id="KOG0160">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG0161">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5022">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000171839"/>
+<dbReference type="HOVERGEN" id="HBG052556"/>
+<dbReference type="GenomeRNAi" id="4644"/>
+<dbReference type="Genevisible" id="A8CDT9">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016459">
+<property type="term" value="C:myosin complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003774">
+<property type="term" value="F:motor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002710">
+<property type="entry name" value="Dilute_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000048">
+<property type="entry name" value="IQ_motif_EF-hand-BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001609">
+<property type="entry name" value="Myosin_head_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01843">
+<property type="entry name" value="DIL"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00612">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="6"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00063">
+<property type="entry name" value="Myosin_head"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00193">
+<property type="entry name" value="MYOSINHEAVY"/>
+</dbReference>
+<dbReference type="SMART" id="SM01132">
+<property type="entry name" value="DIL"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00015">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="6"/>
+</dbReference>
+<dbReference type="SMART" id="SM00242">
+<property type="entry name" value="MYSc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51126">
+<property type="entry name" value="DILUTE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50096">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="6"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51456">
+<property type="entry name" value="MYOSIN_MOTOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0175" evidence="3">Coiled coil</keyword>
+<keyword id="KW-0505" evidence="1">Motor protein</keyword>
+<keyword id="KW-0518" evidence="1">Myosin</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<feature type="domain" description="Myosin motor" evidence="5">
+<location>
+<begin position="69"/>
+<end position="763"/>
+</location>
+</feature>
+<feature type="domain" description="Dilute" evidence="4">
+<location>
+<begin position="1507"/>
+<end position="1783"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="3">
+<location>
+<begin position="915"/>
+<end position="949"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="3">
+<location>
+<begin position="971"/>
+<end position="1098"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="3">
+<location>
+<begin position="1155"/>
+<end position="1189"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="3">
+<location>
+<begin position="1196"/>
+<end position="1231"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="3">
+<location>
+<begin position="1323"/>
+<end position="1364"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="3">
+<location>
+<begin position="1371"/>
+<end position="1412"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00117479"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00476620"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51126"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51456"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAF80583.1"/>
+</source>
+</evidence>
+<sequence length="1828" mass="212259" checksum="F8ADE83570ED0B76" modified="2007-11-13" version="1">
+MAASELYTKFARVWIPDPEEVWKSAELLKDYKPGDKVLLLHLEEGKDLEYHLDPKTKELP
+HLRNPDILVGENDLTALSYLHEPAVLHNLRVRFIDSKLIYTYCGIVLVAINPYEQLPIYG
+EDIINAYSGQNMGDMDPHIFAVAEEAYKQMARDERNQSIIVSGESGAGKTVSAKYAMRYF
+ATVSGSASEANVEEKVLASNPIMESIGNAKTTRNDNSSRFGKYIEIGFDKRYRIIGANMR
+TYLLEKSRVVFQAEEERNYHIFYQLCASAKLPEFKMLRLGNADNFNYTKQGGSPVIEGVD
+DAKEMAHTRQACTLLGISESHQMGIFRILAGILHLGNVGFTSRDADSCTIPPKHEPLCIF
+CDLMGVDYEEMCHWLCHRKLATATETYIKPISKLQATNARDALAKHIYAKLFNWIVDNVN
+QALHSAVKQHSFIGVLDIYGFETFEINSFEQFCINYANEKLQQQFNMHVFKLEQEEYMKE
+QIPWTLIDFYDNQPCINLIESKLGILDLLDEECKMPKGTDDTWAQKLYNTHLNKCALFEK
+PRLSNKAFIIQHFADKVEYQCEGFLEKNKDTVFEEQIKVLKSSKFKMLPELFQDDEKAIS
+PTSATSSGRTPLTRTPAKPTKGRPGQMAKEHKKTVGHQFRNSLHLLMETLNATTPHYVRC
+IKPNDFKFPFTFDEKRAVQQLRACGVLETIRISAAGFPSRWTYQEFFSRYRVLMKQKDVL
+SDRKQTCKNVLEKLILDKDKYQFGKTKIFFRAGQVAYLEKLRADKLRAACIRIQKTIRGW
+LLRKKYLRMRKAAITMQRYVRGYQARCYAKFLRRTKAATIIQKYWRMYVVRRRYKIRRAA
+TIVLQSYLRGFLARNRYRKILREHKAVIIQKRVRGWLARTHYKRSMHAIIYLQCCFRRMM
+AKRELKKLKIEARSVERYKKLHIGMENKIMQLQRKVDEQNKDYKCLVEKLTNLEGIYNSE
+TEKLRSDLERLQLSEEEAKVATGRVLSLQEEIAKLRKDLEQTRSEKKCIEEHADRYKQET
+EQLVSNLKEENTLLKQEKEALNHRIVQQAKEMTETMEKKLVEETKQLELDLNDERLRYQN
+LLNEFSRLEERYDDLKEEMTLMVHVPKPGHKRTDSTHSSNESEYIFSSEIAEMEDIPSRT
+EEPSEKKVPLDMSLFLKLQKRVTELEQEKQVMQDELDRKEEQVLRSKAKEEERPQIRGAE
+LEYESLKRQELESENKKLKNELNELRKALSEKSAPEVTAPGAPAYRVLMEQLTSVSEELD
+VRKEEVLILRSQLVSQKEAIQPKDDKNTMTDSTILLEDVQKMKDKGEIAQAYIGLKETNR
+LLESQLQSQKRSHENEAEALRGEIQSLKEENNRQQQLLAQNLQLPPEARIEASLQHEITR
+LTNENLDLMEQLEKQDKTVRKLKKQLKVFAKKIGELEVGQMENISPGQIIDEPIRPVNIP
+RKEKDFQGMLEYKKEDEQKLVKNLILELKPRGVAVNLIPGLPAYILFMCVRHADYLNDDQ
+KVRSLLTSTINSIKKVLKKRGDDFETVSFWLSNTCRFLHCLKQYSGEEGFMKHNTSRQNE
+HCLTNFDLAEYRQVLSDLAIQIYQQLVRVLENILQPMIVSGMLEHETIQGVSGVKPTGLR
+KRTSSIADEGTYTLDSILRQLNSFHSVMCQHGMDPELIKQVVKQMFYIIGAITLNNLLLR
+KDMCSWSKGMQIRYNVSQLEEWLRDKNLMNSGAKETLEPLIQAAQLLQVKKKTDDDAEAI
+CSMCNALTTAQIVKVLNLYTPVNEFEERVSVSFIRTIQMRLRDRKDSPQLLMDAKHIFPV
+TFPFNPSSLALETIQIPASLGLGFISRV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

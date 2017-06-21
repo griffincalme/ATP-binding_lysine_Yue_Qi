@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2009-03-03" modified="2017-05-10" version="48">
+<accession>B7Z1C5</accession>
+<name>B7Z1C5_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Glutathione synthetase</fullName>
+<shortName evidence="1">GSH-S</shortName>
+<ecNumber evidence="1">6.3.2.3</ecNumber>
+</recommendedName>
+</protein>
+<organism evidence="5">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project focused on splicing variants.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="1">ATP + gamma-L-glutamyl-L-cysteine + glycine = ADP + phosphate + glutathione.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1 3">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<text evidence="1 3">Binds 1 Mg(2+) ion per subunit.</text>
+</comment>
+<comment type="pathway" evidence="1">
+<text>Sulfur metabolism; glutathione biosynthesis; glutathione from L-cysteine and L-glutamate: step 2/2.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the eukaryotic GSH synthase family.</text>
+</comment>
+<dbReference type="EC" id="6.3.2.3" evidence="1"/>
+<dbReference type="EMBL" id="AK293144">
+<property type="protein sequence ID" value="BAH11461.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.82327"/>
+<dbReference type="ProteinModelPortal" id="B7Z1C5"/>
+<dbReference type="STRING" id="9606.ENSP00000216951"/>
+<dbReference type="PaxDb" id="B7Z1C5"/>
+<dbReference type="PeptideAtlas" id="B7Z1C5"/>
+<dbReference type="PRIDE" id="B7Z1C5"/>
+<dbReference type="eggNOG" id="KOG0021">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XPHH">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG002458"/>
+<dbReference type="UniPathway" id="UPA00142">
+<property type="reaction ID" value="UER00210"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000100983"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043295">
+<property type="term" value="F:glutathione binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004363">
+<property type="term" value="F:glutathione synthase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042803">
+<property type="term" value="F:protein homodimerization activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd00228">
+<property type="entry name" value="eu-GS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.1080.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1490.50">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.1760">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004887">
+<property type="entry name" value="Glutathione_synth_subst-bd_euk"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005615">
+<property type="entry name" value="Glutathione_synthase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014042">
+<property type="entry name" value="Glutathione_synthase_a-hlx_euk"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014709">
+<property type="entry name" value="Glutathione_synthase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016185">
+<property type="entry name" value="PreATP-grasp_dom"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11130">
+<property type="entry name" value="PTHR11130"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03917">
+<property type="entry name" value="GSH_synth_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03199">
+<property type="entry name" value="GSH_synthase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF001558">
+<property type="entry name" value="GSHase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52440">
+<property type="entry name" value="SSF52440"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01986">
+<property type="entry name" value="glut_syn_euk"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1 2">ATP-binding</keyword>
+<keyword id="KW-0317" evidence="1">Glutathione biosynthesis</keyword>
+<keyword id="KW-0436" evidence="1">Ligase</keyword>
+<keyword id="KW-0460" evidence="1 3">Magnesium</keyword>
+<keyword id="KW-0479" evidence="1 3">Metal-binding</keyword>
+<keyword id="KW-0547" evidence="1 2">Nucleotide-binding</keyword>
+<feature type="domain" description="GSH_synthase" evidence="4">
+<location>
+<begin position="136"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="295"/>
+<end position="304"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="329"/>
+<end position="332"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="3">
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="3">
+<location>
+<position position="77"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="3">
+<location>
+<position position="299"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="2">
+<location>
+<position position="56"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="2">
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="2">
+<location>
+<position position="151"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="2">
+<location>
+<position position="236"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="2">
+<location>
+<position position="306"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="2">
+<location>
+<position position="356"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="2">
+<location>
+<position position="381"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="2">
+<location>
+<position position="383"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP; via carbonyl oxygen" evidence="2">
+<location>
+<position position="389"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PIRNR" id="PIRNR001558"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="PIRSR" id="PIRSR001558-1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="PIRSR" id="PIRSR001558-2"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF03199"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAH11461.1"/>
+</source>
+</evidence>
+<sequence length="405" mass="44838" checksum="C3E9281FBC29D550" modified="2009-03-03" version="1">
+MDFNLLVDAVSQNAAFLEQTLSSTIKQDDFTARLFDIHKQVLKEGIAQTVFLGLNRSDYM
+FQRSADGSPALKQIEINTISASFGGLASRTPAVHRHVLSVLSKTKEAGKILSNNPSKGLA
+LGIAKAWELYGSPNALVLLIAQEKERNIFDQRAIENELLARNIHVIRRTFEDISEKGSLD
+QDRRLFVDGQEIAVVYFRDGYMPRQYSLQNWEARLLLERSHAAKCPDIATQLAGTKKVQQ
+ELSRPGMLEMLLPGQPEAVARLRATFAGLYSLDVGEEGDQAIAEALAAPSRFVLKPQREG
+GGNNLYGEEMVQALKQLKDSEERASYILMEKIEPEPFENCLLRPGSPARVVQCISELGIF
+GVYVRQEKTLVMNKHVGHLLRTKAIEHADGGVAAGVAVLDNPYPV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

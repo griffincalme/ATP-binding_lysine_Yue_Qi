@@ -1,0 +1,2162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2002-01-31" modified="2017-05-10" version="173">
+<accession>Q9HC29</accession>
+<accession>E2JEQ6</accession>
+<accession>Q96RH5</accession>
+<accession>Q96RH6</accession>
+<accession>Q96RH8</accession>
+<name>NOD2_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Nucleotide-binding oligomerization domain-containing protein 2</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Caspase recruitment domain-containing protein 15</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Inflammatory bowel disease protein 1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">NOD2</name>
+<name type="synonym">CARD15</name>
+<name type="synonym">IBD1</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2001" name="J. Biol. Chem." volume="276" first="4812" last="4818">
+<title>Nod2, a Nod1/Apaf-1 family member that is restricted to monocytes and activates NF-kappaB.</title>
+<authorList>
+<person name="Ogura Y."/>
+<person name="Inohara N."/>
+<person name="Benito A."/>
+<person name="Chen F.F."/>
+<person name="Yamaoka S."/>
+<person name="Nunez G."/>
+</authorList>
+<dbReference type="PubMed" id="11087742"/>
+<dbReference type="DOI" id="10.1074/jbc.M008072200"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1 AND 2)</scope>
+<scope>MUTAGENESIS OF LYS-305</scope>
+<scope>VARIANT ARG-908</scope>
+<source>
+<tissue>Mammary gland</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2001" name="Nature" volume="411" first="599" last="603">
+<title>Association of NOD2 leucine-rich repeat variants with susceptibility to Crohn's disease.</title>
+<authorList>
+<person name="Hugot J.-P."/>
+<person name="Chamaillard M."/>
+<person name="Zouali H."/>
+<person name="Lesage S."/>
+<person name="Cezard J.-P."/>
+<person name="Belaiche J."/>
+<person name="Almer S."/>
+<person name="Tysk C."/>
+<person name="O'Morain C.A."/>
+<person name="Gassull M."/>
+<person name="Binder V."/>
+<person name="Finkel Y."/>
+<person name="Cortot A."/>
+<person name="Modigliani R."/>
+<person name="Laurent-Puig P."/>
+<person name="Gower-Rousseau C."/>
+<person name="Macry J."/>
+<person name="Colombel J.-F."/>
+<person name="Sahbatou M."/>
+<person name="Thomas G."/>
+</authorList>
+<dbReference type="PubMed" id="11385576"/>
+<dbReference type="DOI" id="10.1038/35079107"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORMS 1 AND 2)</scope>
+<scope>INVOLVEMENT IN IBD1</scope>
+<scope>VARIANTS IBD1 THR-140; ARG-157; CYS-235; ARG-248; ASN-291; SER-294; VAL-301; TRP-311; VAL-348; ARG-352; CYS-373; SER-414; LEU-431; VAL-432; LYS-441; THR-612; VAL-612; TRP-684; TRP-702; CYS-703; CYS-713; GLY-725; VAL-755; VAL-758; LYS-778; MET-793; LYS-843; SER-853; VAL-863; THR-885; ARG-908 AND ASP-924</scope>
+<scope>VARIANTS MET-189; SER-268; SER-289; ASP-918 AND ILE-955</scope>
+<source>
+<tissue>Leukocyte</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2010" name="BMC Res. Notes" volume="3" first="224" last="224">
+<title>NOD2-C2 - a novel NOD2 isoform activating NF-kappaB in a muramyl dipeptide-independent manner.</title>
+<authorList>
+<person name="Kramer M."/>
+<person name="Boeck J."/>
+<person name="Reichenbach D."/>
+<person name="Kaether C."/>
+<person name="Schreiber S."/>
+<person name="Platzer M."/>
+<person name="Rosenstiel P."/>
+<person name="Huse K."/>
+</authorList>
+<dbReference type="PubMed" id="20698950"/>
+<dbReference type="DOI" id="10.1186/1756-0500-3-224"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 3)</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="40301" last="40309">
+<title>A role for Erbin in the regulation of Nod2-dependent NF-kappaB signaling.</title>
+<authorList>
+<person name="McDonald C."/>
+<person name="Chen F.F."/>
+<person name="Ollendorff V."/>
+<person name="Ogura Y."/>
+<person name="Marchetto S."/>
+<person name="Lecine P."/>
+<person name="Borg J.P."/>
+<person name="Nunez G."/>
+</authorList>
+<dbReference type="PubMed" id="16203728"/>
+<dbReference type="DOI" id="10.1074/jbc.M508538200"/>
+</citation>
+<scope>INTERACTION WITH ERBBI2P</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="7803" last="7808">
+<title>A NOD2-NALP1 complex mediates caspase-1-dependent IL-1beta secretion in response to Bacillus anthracis infection and muramyl dipeptide.</title>
+<authorList>
+<person name="Hsu L.C."/>
+<person name="Ali S.R."/>
+<person name="McGillivray S."/>
+<person name="Tseng P.H."/>
+<person name="Mariathasan S."/>
+<person name="Humke E.W."/>
+<person name="Eckmann L."/>
+<person name="Powell J.J."/>
+<person name="Nizet V."/>
+<person name="Dixit V.M."/>
+<person name="Karin M."/>
+</authorList>
+<dbReference type="PubMed" id="18511561"/>
+<dbReference type="DOI" id="10.1073/pnas.0802726105"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH CASP1; CASP4 AND NLRP1</scope>
+<scope>AUTOINHIBITION</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2009" name="Curr. Biol." volume="19" first="1255" last="1263">
+<title>ITCH K63-ubiquitinates the NOD2 binding protein, RIP2, to influence inflammatory signaling pathways.</title>
+<authorList>
+<person name="Tao M."/>
+<person name="Scacheri P.C."/>
+<person name="Marinis J.M."/>
+<person name="Harhaj E.W."/>
+<person name="Matesic L.E."/>
+<person name="Abbott D.W."/>
+</authorList>
+<dbReference type="PubMed" id="19592251"/>
+<dbReference type="DOI" id="10.1016/j.cub.2009.06.038"/>
+</citation>
+<scope>INTERACTION WITH RIPK2</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2012" name="Inflamm. Bowel Dis." volume="18" first="603" last="612">
+<title>Control of NOD2 and Rip2-dependent innate immune activation by GEF-H1.</title>
+<authorList>
+<person name="Zhao Y."/>
+<person name="Alonso C."/>
+<person name="Ballester I."/>
+<person name="Song J.H."/>
+<person name="Chang S.Y."/>
+<person name="Guleng B."/>
+<person name="Arihiro S."/>
+<person name="Murray P.J."/>
+<person name="Xavier R."/>
+<person name="Kobayashi K.S."/>
+<person name="Reinecker H.C."/>
+</authorList>
+<dbReference type="PubMed" id="21887730"/>
+<dbReference type="DOI" id="10.1002/ibd.21851"/>
+</citation>
+<scope>IDENTIFICATION IN A COMPLEX WITH ARHGEF2 AND RIPK2</scope>
+<scope>INTERACTION WITH RIPK2</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2012" name="J. Biol. Chem." volume="287" first="29213" last="29226">
+<title>The c-Jun N-terminal kinase (JNK)-binding protein (JNKBP1) acts as a negative regulator of NOD2 protein signaling by inhibiting its oligomerization process.</title>
+<authorList>
+<person name="Lecat A."/>
+<person name="Di Valentin E."/>
+<person name="Somja J."/>
+<person name="Jourdan S."/>
+<person name="Fillet M."/>
+<person name="Kufer T.A."/>
+<person name="Habraken Y."/>
+<person name="Sadzot C."/>
+<person name="Louis E."/>
+<person name="Delvenne P."/>
+<person name="Piette J."/>
+<person name="Legrand-Poels S."/>
+</authorList>
+<dbReference type="PubMed" id="22700971"/>
+<dbReference type="DOI" id="10.1074/jbc.M112.355545"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INTERACTION WITH MAPKBP1</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2012" name="J. Biol. Chem." volume="287" first="39800" last="39811">
+<title>Proteasomal degradation of Nod2 protein mediates tolerance to bacterial cell wall components.</title>
+<authorList>
+<person name="Lee K.H."/>
+<person name="Biswas A."/>
+<person name="Liu Y.J."/>
+<person name="Kobayashi K.S."/>
+</authorList>
+<dbReference type="PubMed" id="23019338"/>
+<dbReference type="DOI" id="10.1074/jbc.M112.410027"/>
+</citation>
+<scope>INTERACTION WITH HSP90 AND SOCS3</scope>
+<scope>POLYUBIQUITINATION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2013" name="EMBO J." volume="32" first="566" last="582">
+<title>TMEM59 defines a novel ATG16L1-binding motif that promotes local activation of LC3.</title>
+<authorList>
+<person name="Boada-Romero E."/>
+<person name="Letek M."/>
+<person name="Fleischer A."/>
+<person name="Pallauf K."/>
+<person name="Ramon-Barros C."/>
+<person name="Pimentel-Muinos F.X."/>
+</authorList>
+<dbReference type="PubMed" id="23376921"/>
+<dbReference type="DOI" id="10.1038/emboj.2013.8"/>
+</citation>
+<scope>INTERACTION WITH ATG16L1</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2013" name="FEBS Lett." volume="587" first="2137" last="2142">
+<title>A role for the Ankyrin repeat containing protein Ankrd17 in Nod1- and Nod2-mediated inflammatory responses.</title>
+<authorList>
+<person name="Menning M."/>
+<person name="Kufer T.A."/>
+</authorList>
+<dbReference type="PubMed" id="23711367"/>
+<dbReference type="DOI" id="10.1016/j.febslet.2013.05.037"/>
+</citation>
+<scope>INTERACTION WITH ANKRD17</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2013" name="Mol. Cell" volume="50" first="818" last="830">
+<title>OTULIN restricts Met1-linked ubiquitination to control innate immune signaling.</title>
+<authorList>
+<person name="Fiil B.K."/>
+<person name="Damgaard R.B."/>
+<person name="Wagner S.A."/>
+<person name="Keusekotten K."/>
+<person name="Fritsch M."/>
+<person name="Bekker-Jensen S."/>
+<person name="Mailand N."/>
+<person name="Choudhary C."/>
+<person name="Komander D."/>
+<person name="Gyrd-Hansen M."/>
+</authorList>
+<dbReference type="PubMed" id="23806334"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2013.06.004"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2014" name="FEBS Lett." volume="588" first="2830" last="2836">
+<title>Interaction between NOD2 and CARD9 involves the NOD2 NACHT and the linker region between the NOD2 CARDs and NACHT domain.</title>
+<authorList>
+<person name="Parkhouse R."/>
+<person name="Boyle J.P."/>
+<person name="Mayle S."/>
+<person name="Sawmynaden K."/>
+<person name="Rittinger K."/>
+<person name="Monie T.P."/>
+</authorList>
+<dbReference type="PubMed" id="24960071"/>
+<dbReference type="DOI" id="10.1016/j.febslet.2014.06.035"/>
+</citation>
+<scope>INTERACTION WITH CARD9</scope>
+<scope>VARIANTS IBD1 ALA-357; PHE-363 AND VAL-550</scope>
+<scope>VARIANT ALA-463</scope>
+<scope>CHARACTERIZATION OF VARIANTS IBD1 ARG-248; ALA-357; PHE-363; LEU-431; LYS-441; VAL-550; VAL-612 AND TRP-702</scope>
+<scope>CHARACTERIZATION OF VARIANT BLAUS TRP-334</scope>
+<scope>CHARACTERIZATION OF VARIANT ALA-463</scope>
+<scope>MUTAGENESIS OF ASP-379</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2014" name="FEBS Lett." volume="588" first="3382" last="3389">
+<title>Blau syndrome polymorphisms in NOD2 identify nucleotide hydrolysis and helical domain 1 as signalling regulators.</title>
+<authorList>
+<person name="Parkhouse R."/>
+<person name="Boyle J.P."/>
+<person name="Monie T.P."/>
+</authorList>
+<dbReference type="PubMed" id="25093298"/>
+<dbReference type="DOI" id="10.1016/j.febslet.2014.07.029"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>CHARACTERIZATION OF VARIANTS BLAUS GLN-334; TRP-334; GLY-383; LYS-383; PHE-469; ASP-481; LEU-490; TYR-495; LEU-496; THR-513; CYS-587; ASN-605; PRO-605 AND LYS-670</scope>
+<scope>CHARACTERIZATION OF VARIANTS AND CYS-471</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2014" name="J. Biol. Chem." volume="289" first="18987" last="18998">
+<title>The molecular chaperone HSP70 binds to and stabilizes NOD2, an important protein involved in Crohn disease.</title>
+<authorList>
+<person name="Mohanan V."/>
+<person name="Grimes C.L."/>
+</authorList>
+<dbReference type="PubMed" id="24790089"/>
+<dbReference type="DOI" id="10.1074/jbc.M114.557686"/>
+</citation>
+<scope>INTERACTION WITH HSPA1A</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>CHARACTERIZATION OF VARIANTS IBD1 TRP-702 AND ARG-908</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2001" name="Nat. Genet." volume="29" first="19" last="20">
+<title>CARD15 mutations in Blau syndrome.</title>
+<authorList>
+<person name="Miceli-Richard C."/>
+<person name="Lesage S."/>
+<person name="Rybojad M."/>
+<person name="Prieur A.M."/>
+<person name="Manouvrier-Hanu S."/>
+<person name="Hafner R."/>
+<person name="Chamaillard M."/>
+<person name="Zouali H."/>
+<person name="Thomas G."/>
+<person name="Hugot J.-P."/>
+</authorList>
+<dbReference type="PubMed" id="11528384"/>
+<dbReference type="DOI" id="10.1038/ng720"/>
+</citation>
+<scope>VARIANTS BLAUS GLN-334; TRP-334 AND PHE-469</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2004" name="Am. J. Hum. Genet." volume="74" first="623" last="636">
+<title>Crohn disease: frequency and nature of CARD15 mutations in Ashkenazi and Sephardi/Oriental Jewish families.</title>
+<authorList>
+<person name="Tukel T."/>
+<person name="Shalata A."/>
+<person name="Present D."/>
+<person name="Rachmilewitz D."/>
+<person name="Mayer L."/>
+<person name="Grant D."/>
+<person name="Risch N."/>
+<person name="Desnick R.J."/>
+</authorList>
+<dbReference type="PubMed" id="15024686"/>
+<dbReference type="DOI" id="10.1086/382226"/>
+</citation>
+<scope>VARIANTS IBD1 ASN-113; ALA-357; PHE-363; VAL-550 AND SER-852</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2005" name="Blood" volume="105" first="1195" last="1197">
+<title>Early-onset sarcoidosis and CARD15 mutations with constitutive nuclear factor-kappaB activation: common genetic etiology with Blau syndrome.</title>
+<authorList>
+<person name="Kanazawa N."/>
+<person name="Okafuji I."/>
+<person name="Kambe N."/>
+<person name="Nishikomori R."/>
+<person name="Nakata-Hizume M."/>
+<person name="Nagai S."/>
+<person name="Fuji A."/>
+<person name="Yuasa T."/>
+<person name="Manki A."/>
+<person name="Sakurai Y."/>
+<person name="Nakajima M."/>
+<person name="Kobayashi H."/>
+<person name="Fujiwara I."/>
+<person name="Tsutsumi H."/>
+<person name="Utani A."/>
+<person name="Nishigori C."/>
+<person name="Heike T."/>
+<person name="Nakahata T."/>
+<person name="Miyachi Y."/>
+</authorList>
+<dbReference type="PubMed" id="15459013"/>
+<dbReference type="DOI" id="10.1182/blood-2004-07-2972"/>
+</citation>
+<scope>VARIANTS BLAUS TRP-334; GLU-382; LEU-496; THR-513; PRO-605; THR-612 AND LYS-670</scope>
+<scope>CHARACTERIZATION OF VARIANTS BLAUS GLU-382; LEU-496; THR-513; PRO-605 AND LYS-670</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2005" name="Eur. J. Hum. Genet." volume="13" first="742" last="747">
+<title>A new CARD15 mutation in Blau syndrome.</title>
+<authorList>
+<person name="van Duist M.M."/>
+<person name="Albrecht M."/>
+<person name="Podswiadek M."/>
+<person name="Giachino D."/>
+<person name="Lengauer T."/>
+<person name="Punzi L."/>
+<person name="De Marchi M."/>
+</authorList>
+<dbReference type="PubMed" id="15812565"/>
+<dbReference type="DOI" id="10.1038/sj.ejhg.5201404"/>
+</citation>
+<scope>VARIANT BLAUS LYS-383</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2006" name="Immunogenetics" volume="58" first="99" last="106">
+<title>Eight novel CARD15 variants detected by DNA sequence analysis of the CARD15 gene in 111 patients with inflammatory bowel disease.</title>
+<authorList>
+<person name="Schnitzler F."/>
+<person name="Brand S."/>
+<person name="Staudinger T."/>
+<person name="Pfennig S."/>
+<person name="Hofbauer K."/>
+<person name="Seiderer J."/>
+<person name="Tillack C."/>
+<person name="Goke B."/>
+<person name="Ochsenkuhn T."/>
+<person name="Lohse P."/>
+</authorList>
+<dbReference type="PubMed" id="16485124"/>
+<dbReference type="DOI" id="10.1007/s00251-005-0073-2"/>
+</citation>
+<scope>VARIANTS IBD1 TRP-311; TRP-702; CYS-703; HIS-713; VAL-755; CYS-760; TRP-790 AND ARG-908</scope>
+<scope>VARIANTS SER-268; SER-289; CYS-391; ALA-463; TRP-791; LYS-825 AND VAL-849</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2009" name="Arthritis Rheum." volume="60" first="1797" last="1803">
+<title>NOD2-associated pediatric granulomatous arthritis, an expanding phenotype: study of an international registry and a national cohort in Spain.</title>
+<authorList>
+<person name="Rose C.D."/>
+<person name="Arostegui J.I."/>
+<person name="Martin T.M."/>
+<person name="Espada G."/>
+<person name="Scalzi L."/>
+<person name="Yague J."/>
+<person name="Rosenbaum J.T."/>
+<person name="Modesto C."/>
+<person name="Cristina Arnal M."/>
+<person name="Merino R."/>
+<person name="Garcia-Consuegra J."/>
+<person name="Carballo Silva M.A."/>
+<person name="Wouters C.H."/>
+</authorList>
+<dbReference type="PubMed" id="19479837"/>
+<dbReference type="DOI" id="10.1002/art.24533"/>
+</citation>
+<scope>VARIANTS BLAUS GLN-334; TRP-334; LYS-383; LEU-490; TYR-495 AND CYS-587</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2009" name="Arthritis Rheum." volume="60" first="242" last="250">
+<title>Role of the NOD2 genotype in the clinical phenotype of Blau syndrome and early-onset sarcoidosis.</title>
+<authorList>
+<person name="Okafuji I."/>
+<person name="Nishikomori R."/>
+<person name="Kanazawa N."/>
+<person name="Kambe N."/>
+<person name="Fujisawa A."/>
+<person name="Yamazaki S."/>
+<person name="Saito M."/>
+<person name="Yoshioka T."/>
+<person name="Kawai T."/>
+<person name="Sakai H."/>
+<person name="Tanizaki H."/>
+<person name="Heike T."/>
+<person name="Miyachi Y."/>
+<person name="Nakahata T."/>
+</authorList>
+<dbReference type="PubMed" id="19116920"/>
+<dbReference type="DOI" id="10.1002/art.24134"/>
+</citation>
+<scope>VARIANTS BLAUS GLN-334; TRP-334; GLU-382; GLY-383; TYR-495; LEU-496; THR-513; PRO-605 AND LYS-670</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2009" name="Rheumatology" volume="48" first="706" last="707">
+<title>Cardiac infiltration in early-onset sarcoidosis associated with a novel heterozygous mutation, G481D, in CARD15.</title>
+<authorList>
+<person name="Okada S."/>
+<person name="Konishi N."/>
+<person name="Tsumura M."/>
+<person name="Shirao K."/>
+<person name="Yasunaga S."/>
+<person name="Sakai H."/>
+<person name="Nishikomori R."/>
+<person name="Takihara Y."/>
+<person name="Kobayashi M."/>
+</authorList>
+<dbReference type="PubMed" id="19359344"/>
+<dbReference type="DOI" id="10.1093/rheumatology/kep061"/>
+</citation>
+<scope>VARIANT BLAUS ASP-481</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2009" name="Scand. J. Rheumatol." volume="38" first="190" last="197">
+<title>A novel mutation in the NOD2 gene associated with Blau syndrome: a Norwegian family with four affected members.</title>
+<authorList>
+<person name="Milman N."/>
+<person name="Ursin K."/>
+<person name="Rodevand E."/>
+<person name="Nielsen F.C."/>
+<person name="Hansen T.V."/>
+</authorList>
+<dbReference type="PubMed" id="19169908"/>
+<dbReference type="DOI" id="10.1080/03009740802464194"/>
+</citation>
+<scope>VARIANT BLAUS ASN-605</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2010" name="Pediatr. Dermatol." volume="27" first="69" last="73">
+<title>Sporadic Blau syndrome with onset of widespread granulomatous dermatitis in the newborn period.</title>
+<authorList>
+<person name="Stoevesandt J."/>
+<person name="Morbach H."/>
+<person name="Martin T.M."/>
+<person name="Zierhut M."/>
+<person name="Girschick H."/>
+<person name="Hamm H."/>
+</authorList>
+<dbReference type="PubMed" id="20199415"/>
+<dbReference type="DOI" id="10.1111/j.1525-1470.2009.01060.x"/>
+</citation>
+<scope>VARIANT BLAUS TRP-334</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2011" name="Arthritis Res. Ther." volume="13" first="R148" last="R148">
+<title>A new category of autoinflammatory disease associated with NOD2 gene mutations.</title>
+<authorList>
+<person name="Yao Q."/>
+<person name="Zhou L."/>
+<person name="Cusumano P."/>
+<person name="Bose N."/>
+<person name="Piliang M."/>
+<person name="Jayakar B."/>
+<person name="Su L.C."/>
+<person name="Shen B."/>
+</authorList>
+<dbReference type="PubMed" id="21914217"/>
+<dbReference type="DOI" id="10.1186/ar3462"/>
+</citation>
+<scope>INVOLVEMENT IN YAOS</scope>
+<scope>VARIANT YAOS TRP-702</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2015" name="Case Rep. Rheumatol." volume="2015" first="463959" last="463959">
+<title>A new mutation in blau syndrome.</title>
+<authorList>
+<person name="Zeybek C."/>
+<person name="Basbozkurt G."/>
+<person name="Gul D."/>
+<person name="Demirkaya E."/>
+<person name="Gok F."/>
+</authorList>
+<dbReference type="PubMed" id="25692065"/>
+<dbReference type="DOI" id="10.1155/2015/463959"/>
+</citation>
+<scope>VARIANT BLAUS SER-507</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2015" name="J. Allergy Clin. Immunol.">
+<title>Somatic NOD2 mosaicism in Blau syndrome.</title>
+<authorList>
+<person name="de Inocencio J."/>
+<person name="Mensa-Vilaro A."/>
+<person name="Tejada-Palacios P."/>
+<person name="Enriquez-Merayo E."/>
+<person name="Gonzalez-Roca E."/>
+<person name="Magri G."/>
+<person name="Ruiz-Ortiz E."/>
+<person name="Cerutti A."/>
+<person name="Yaguee J."/>
+<person name="Arostegui J.I."/>
+</authorList>
+<dbReference type="PubMed" id="25724124"/>
+<dbReference type="DOI" id="10.1016/j.jaci.2014.12.1941"/>
+</citation>
+<scope>VARIANT BLAUS GLN-334</scope>
+<scope>VARIANT SER-268</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2015" name="Rheumatology" volume="54" first="1904" last="1912">
+<title>NOD2-associated autoinflammatory disease: a large cohort study.</title>
+<authorList>
+<person name="Yao Q."/>
+<person name="Shen M."/>
+<person name="McDonald C."/>
+<person name="Lacbawan F."/>
+<person name="Moran R."/>
+<person name="Shen B."/>
+</authorList>
+<dbReference type="PubMed" id="26070941"/>
+<dbReference type="DOI" id="10.1093/rheumatology/kev207"/>
+</citation>
+<scope>INVOLVEMENT IN YAOS</scope>
+<scope>VARIANT YAOS ARG-908</scope>
+</reference>
+<comment type="function">
+<text evidence="11 24">Involved in gastrointestinal immunity. Upon stimulation by muramyl dipeptide (MDP), a fragment of bacterial peptidoglycan, binds the proximal adapter receptor-interacting RIPK2, which recruits ubiquitin ligases as XIAP, BIRC2, BIRC3 and the LUBAC complex, triggering activation of MAP kinases and activation of NF-kappa-B signaling. This in turn leads to the transcriptional activation of hundreds of genes involved in immune response. Required for MDP-induced NLRP1-dependent CASP1 activation and IL1B release in macrophages (PubMed:18511561).</text>
+</comment>
+<comment type="subunit">
+<text evidence="9 11 16 18 20 21 22 23 25 26">Component of a signaling complex consisting of ARHGEF2, NOD2 and RIPK2 (PubMed:21887730). Interacts (via CARD domain) with RIPK2 (via CARD domain) (PubMed:19592251, PubMed:21887730). Interacts with ATG16L1 (PubMed:23376921). Interacts (via NACHT domain) with CARD9 (PubMed:24960071). Interacts with ANKRD17 (via N-terminus) (PubMed:23711367). Interacts with HSPA1A; the interaction enhances NOD2 stability (PubMed:24790089). Interacts (via both CARD domains) with HSP90; the interaction enhances NOD2 stability (PubMed:23019338). Interacts (via CARD domain) with SOCS3; the interaction promotes NOD2 degradation (PubMed:23019338). Interacts (via CARD domain) with ERBBI2P; the interaction inhibits activation of NOD2 (PubMed:16203728). Interacts (via CARD domain) with CASP1; this interaction leads to IL1B processing. Also interacts with CASP4. Interacts with NLRP1; this interaction is enhanced in the presence of muramyl dipeptide (MDP) and leads to increased IL1B release (PubMed:18511561). Interacts with MAPKBP1; the interaction is enhanced in the presence of muramyl dipeptide (MDP) (PubMed:22700971).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-7445625"/>
+<interactant intactId="EBI-993903">
+<id>Q96RT1</id>
+<label>ERBIN</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-7445625"/>
+<interactant intactId="EBI-8449250">
+<id>Q96RT1-2</id>
+<label>ERBIN</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-7445625"/>
+<interactant intactId="EBI-3385283">
+<id>Q9Y3D6</id>
+<label>FIS1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-7445625"/>
+<interactant intactId="EBI-10226985">
+<id>Q10471</id>
+<label>GALNT2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-7445625"/>
+<interactant intactId="EBI-399080">
+<id>Q92993</id>
+<label>KAT5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-7445625"/>
+<interactant intactId="EBI-372742">
+<id>Q9P0J0</id>
+<label>NDUFA13</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-7445625"/>
+<interactant intactId="EBI-968374">
+<id>Q16537</id>
+<label>PPP2R5E</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-7445625"/>
+<interactant intactId="EBI-358522">
+<id>O43353</id>
+<label>RIPK2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-7445625"/>
+<interactant intactId="EBI-711424">
+<id>Q04724</id>
+<label>TLE1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-7445625"/>
+<interactant intactId="EBI-719493">
+<id>P14373</id>
+<label>TRIM27</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>10</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-7445625"/>
+<interactant intactId="EBI-353844">
+<id>P08670</id>
+<label>VIM</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="25 27">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="27">Membrane</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="9">Basolateral cell membrane</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative initiation"/>
+<isoform>
+<id>Q9HC29-1</id>
+<name>1</name>
+<name>Nod2</name>
+<sequence type="displayed"/>
+<text>Can activate NF-kappa-B. More abundant.</text>
+</isoform>
+<isoform>
+<id>Q9HC29-2</id>
+<name>2</name>
+<name>Nod2b</name>
+<sequence type="described" ref="VSP_018689"/>
+<text>Can activate NF-kappa-B.</text>
+</isoform>
+<isoform>
+<id>Q9HC29-3</id>
+<name>3</name>
+<name>NOD2-C2</name>
+<sequence type="described" ref="VSP_018689 VSP_046567 VSP_046568"/>
+<text>Can activate NF-kappa-B.</text>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="20">Expressed in intestinal mucosa, mainly in Paneth cells and, at lower extent, in the glandular epithelium.</text>
+</comment>
+<comment type="domain">
+<text evidence="22">The ATG16L1-binding motif mediates interaction with ATG16L1.</text>
+</comment>
+<comment type="domain">
+<text evidence="11">Intramolecular interactions between the N-terminal moiety and the leucine-rich repeats (LRR) may be important for autoinhibition in the absence of activating signal. In the absence of LRRs, the protein becomes a constitutive activator of CASP1 cleavage and proIL1B processing.</text>
+</comment>
+<comment type="PTM">
+<text evidence="21">Polyubiquitinated following MDP stimulation, leading to proteasome-mediated degradation (PubMed:23019338).</text>
+</comment>
+<comment type="disease" evidence="5 7 8 12 13 14 15 17 26 27 28 29">
+<disease id="DI-01286">
+<name>Blau syndrome</name>
+<acronym>BLAUS</acronym>
+<description>An autosomal dominant inflammatory disorder characterized by the formation of immune granulomas invading the skin, joints and eye. Other organs may be involved. Clinical manifestations are variable and include early-onset granulomatous arthritis, uveitis and skin rash. Blindness, joint destruction and visceral involvement have been reported in severe cases.</description>
+<dbReference type="MIM" id="186580"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="4 6 10 25 26">
+<disease id="DI-01452">
+<name>Inflammatory bowel disease 1</name>
+<acronym>IBD1</acronym>
+<description>A chronic, relapsing inflammation of the gastrointestinal tract with a complex etiology. It is subdivided into Crohn disease and ulcerative colitis phenotypes. Crohn disease may affect any part of the gastrointestinal tract from the mouth to the anus, but most frequently it involves the terminal ileum and colon. Bowel inflammation is transmural and discontinuous; it may contain granulomas or be associated with intestinal or perianal fistulas. In contrast, in ulcerative colitis, the inflammation is continuous and limited to rectal and colonic mucosal layers; fistulas and granulomas are not observed. Both diseases include extraintestinal inflammation of the skin, eyes, or joints.</description>
+<dbReference type="MIM" id="266600"/>
+</disease>
+<text>Disease susceptibility is associated with variations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="19 30">
+<disease id="DI-04941">
+<name>Yao syndrome</name>
+<acronym>YAOS</acronym>
+<description>An autoinflammatory disease characterized by periodic fever, dermatitis, polyarthritis, leg swelling, and gastrointestinal and sicca-like symptoms. YAOS is a complex disease with multifactorial inheritance.</description>
+<dbReference type="MIM" id="617321"/>
+</disease>
+<text>Disease susceptibility is associated with variations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="online information" name="INFEVERS">
+<link uri="http://fmf.igh.cnrs.fr/ISSAID/infevers/search.php?n=6"/>
+<text>Repertory of FMF and hereditary autoinflammatory disorders mutations</text>
+</comment>
+<dbReference type="EMBL" id="AF178930">
+<property type="protein sequence ID" value="AAG33677.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF385089">
+<property type="protein sequence ID" value="AAK70867.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF385090">
+<property type="protein sequence ID" value="AAK70868.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ303140">
+<property type="protein sequence ID" value="CAC42117.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ204571">
+<property type="protein sequence ID" value="ADN95581.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS10746.1">
+<molecule id="Q9HC29-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001280486.1">
+<molecule id="Q9HC29-2"/>
+<property type="nucleotide sequence ID" value="NM_001293557.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_071445.1">
+<molecule id="Q9HC29-1"/>
+<property type="nucleotide sequence ID" value="NM_022162.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_005256141.1">
+<molecule id="Q9HC29-2"/>
+<property type="nucleotide sequence ID" value="XM_005256084.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.592072"/>
+<dbReference type="ProteinModelPortal" id="Q9HC29"/>
+<dbReference type="SMR" id="Q9HC29"/>
+<dbReference type="BioGrid" id="122077">
+<property type="interactions" value="33"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-41998N"/>
+<dbReference type="IntAct" id="Q9HC29">
+<property type="interactions" value="15"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-151071"/>
+<dbReference type="STRING" id="9606.ENSP00000300589"/>
+<dbReference type="BindingDB" id="Q9HC29"/>
+<dbReference type="ChEMBL" id="CHEMBL1293266"/>
+<dbReference type="GuidetoPHARMACOLOGY" id="1763"/>
+<dbReference type="iPTMnet" id="Q9HC29"/>
+<dbReference type="PhosphoSitePlus" id="Q9HC29"/>
+<dbReference type="BioMuta" id="NOD2"/>
+<dbReference type="DMDM" id="20137973"/>
+<dbReference type="EPD" id="Q9HC29"/>
+<dbReference type="PaxDb" id="Q9HC29"/>
+<dbReference type="PeptideAtlas" id="Q9HC29"/>
+<dbReference type="PRIDE" id="Q9HC29"/>
+<dbReference type="DNASU" id="64127"/>
+<dbReference type="Ensembl" id="ENST00000300589">
+<molecule id="Q9HC29-1"/>
+<property type="protein sequence ID" value="ENSP00000300589"/>
+<property type="gene ID" value="ENSG00000167207"/>
+</dbReference>
+<dbReference type="GeneID" id="64127"/>
+<dbReference type="KEGG" id="hsa:64127"/>
+<dbReference type="UCSC" id="uc002egm.2">
+<molecule id="Q9HC29-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="64127"/>
+<dbReference type="DisGeNET" id="64127"/>
+<dbReference type="GeneCards" id="NOD2"/>
+<dbReference type="HGNC" id="HGNC:5331">
+<property type="gene designation" value="NOD2"/>
+</dbReference>
+<dbReference type="HPA" id="HPA041985"/>
+<dbReference type="HPA" id="HPA054494"/>
+<dbReference type="MalaCards" id="NOD2"/>
+<dbReference type="MIM" id="186580">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="266600">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="605956">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="617321">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9HC29"/>
+<dbReference type="OpenTargets" id="ENSG00000167207"/>
+<dbReference type="Orphanet" id="117">
+<property type="disease" value="Behcet disease"/>
+</dbReference>
+<dbReference type="Orphanet" id="90340">
+<property type="disease" value="Blau syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="206">
+<property type="disease" value="Crohn disease"/>
+</dbReference>
+<dbReference type="Orphanet" id="771">
+<property type="disease" value="Ulcerative colitis"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA26074"/>
+<dbReference type="eggNOG" id="KOG4308">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410ZBX3">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00860000133673"/>
+<dbReference type="HOGENOM" id="HOG000113814"/>
+<dbReference type="HOVERGEN" id="HBG050792"/>
+<dbReference type="InParanoid" id="Q9HC29"/>
+<dbReference type="KO" id="K10165"/>
+<dbReference type="OMA" id="FDEFKFR"/>
+<dbReference type="OrthoDB" id="EOG091G01CG"/>
+<dbReference type="PhylomeDB" id="Q9HC29"/>
+<dbReference type="TreeFam" id="TF352118"/>
+<dbReference type="Reactome" id="R-HSA-168638">
+<property type="pathway name" value="NOD1/2 Signaling Pathway"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-445989">
+<property type="pathway name" value="TAK1 activates NFkB by phosphorylation and activation of IKKs complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-446652">
+<property type="pathway name" value="Interleukin-1 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-450302">
+<property type="pathway name" value="activated TAK1 mediates p38 MAPK activation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-450321">
+<property type="pathway name" value="JNK (c-Jun kinases) phosphorylation and activation mediated by activated human TAK1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5689896">
+<property type="pathway name" value="Ovarian tumor domain proteases"/>
+</dbReference>
+<dbReference type="SignaLink" id="Q9HC29"/>
+<dbReference type="GeneWiki" id="NOD2"/>
+<dbReference type="GenomeRNAi" id="64127"/>
+<dbReference type="PRO" id="PR:Q9HC29"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 16"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000167207"/>
+<dbReference type="CleanEx" id="HS_NOD2"/>
+<dbReference type="ExpressionAtlas" id="Q9HC29">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9HC29">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016323">
+<property type="term" value="C:basolateral plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009986">
+<property type="term" value="C:cell surface"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005856">
+<property type="term" value="C:cytoskeleton"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005794">
+<property type="term" value="C:Golgi apparatus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043234">
+<property type="term" value="C:protein complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031982">
+<property type="term" value="C:vesicle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003779">
+<property type="term" value="F:actin binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050700">
+<property type="term" value="F:CARD domain binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019899">
+<property type="term" value="F:enzyme binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030544">
+<property type="term" value="F:Hsp70 protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051879">
+<property type="term" value="F:Hsp90 protein binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032500">
+<property type="term" value="F:muramyl dipeptide binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042834">
+<property type="term" value="F:peptidoglycan binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019901">
+<property type="term" value="F:protein kinase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000187">
+<property type="term" value="P:activation of MAPK activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035419">
+<property type="term" value="P:activation of MAPK activity involved in innate immune response"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071225">
+<property type="term" value="P:cellular response to muramyl dipeptide"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071407">
+<property type="term" value="P:cellular response to organic cyclic compound"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002367">
+<property type="term" value="P:cytokine production involved in immune response"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002374">
+<property type="term" value="P:cytokine secretion involved in immune response"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006952">
+<property type="term" value="P:defense response"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042742">
+<property type="term" value="P:defense response to bacterium"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016045">
+<property type="term" value="P:detection of bacterium"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009595">
+<property type="term" value="P:detection of biotic stimulus"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032498">
+<property type="term" value="P:detection of muramyl dipeptide"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045087">
+<property type="term" value="P:innate immune response"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035556">
+<property type="term" value="P:intracellular signal transduction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007254">
+<property type="term" value="P:JNK cascade"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030277">
+<property type="term" value="P:maintenance of gastrointestinal epithelium"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000110">
+<property type="term" value="P:negative regulation of macrophage apoptotic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070431">
+<property type="term" value="P:nucleotide-binding oligomerization domain containing 2 signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070423">
+<property type="term" value="P:nucleotide-binding oligomerization domain containing signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050871">
+<property type="term" value="P:positive regulation of B cell activation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900017">
+<property type="term" value="P:positive regulation of cytokine production involved in inflammatory response"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002606">
+<property type="term" value="P:positive regulation of dendritic cell antigen processing and presentation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002732">
+<property type="term" value="P:positive regulation of dendritic cell cytokine production"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050679">
+<property type="term" value="P:positive regulation of epithelial cell proliferation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070374">
+<property type="term" value="P:positive regulation of ERK1 and ERK2 cascade"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046645">
+<property type="term" value="P:positive regulation of gamma-delta T cell activation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043123">
+<property type="term" value="P:positive regulation of I-kappaB kinase/NF-kappaB signaling"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032731">
+<property type="term" value="P:positive regulation of interleukin-1 beta production"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050718">
+<property type="term" value="P:positive regulation of interleukin-1 beta secretion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032733">
+<property type="term" value="P:positive regulation of interleukin-10 production"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032740">
+<property type="term" value="P:positive regulation of interleukin-17 production"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032755">
+<property type="term" value="P:positive regulation of interleukin-6 production"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032757">
+<property type="term" value="P:positive regulation of interleukin-8 production"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046330">
+<property type="term" value="P:positive regulation of JNK cascade"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051092">
+<property type="term" value="P:positive regulation of NF-kappaB transcription factor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901224">
+<property type="term" value="P:positive regulation of NIK/NF-kappaB signaling"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051770">
+<property type="term" value="P:positive regulation of nitric-oxide synthase biosynthetic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045747">
+<property type="term" value="P:positive regulation of Notch signaling pathway"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051353">
+<property type="term" value="P:positive regulation of oxidoreductase activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043552">
+<property type="term" value="P:positive regulation of phosphatidylinositol 3-kinase activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000363">
+<property type="term" value="P:positive regulation of prostaglandin-E synthase activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060585">
+<property type="term" value="P:positive regulation of prostaglandin-endoperoxide synthase activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032874">
+<property type="term" value="P:positive regulation of stress-activated MAPK cascade"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription from RNA polymerase II promoter"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032760">
+<property type="term" value="P:positive regulation of tumor necrosis factor production"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002830">
+<property type="term" value="P:positive regulation of type 2 immune response"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016579">
+<property type="term" value="P:protein deubiquitination"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051259">
+<property type="term" value="P:protein oligomerization"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050727">
+<property type="term" value="P:regulation of inflammatory response"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032495">
+<property type="term" value="P:response to muramyl dipeptide"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007584">
+<property type="term" value="P:response to nutrient"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.80.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001315">
+<property type="entry name" value="CARD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011029">
+<property type="entry name" value="DEATH-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032675">
+<property type="entry name" value="L_dom-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001611">
+<property type="entry name" value="Leu-rich_rpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007111">
+<property type="entry name" value="NACHT_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00619">
+<property type="entry name" value="CARD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13516">
+<property type="entry name" value="LRR_6"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47986">
+<property type="entry name" value="SSF47986"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50209">
+<property type="entry name" value="CARD"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51450">
+<property type="entry name" value="LRR"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50837">
+<property type="entry name" value="NACHT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0024">Alternative initiation</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0391">Immunity</keyword>
+<keyword id="KW-0399">Innate immunity</keyword>
+<keyword id="KW-0433">Leucine-rich repeat</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<feature type="chain" description="Nucleotide-binding oligomerization domain-containing protein 2" id="PRO_0000004418">
+<location>
+<begin position="1"/>
+<end position="1040"/>
+</location>
+</feature>
+<feature type="domain" description="CARD 1" evidence="1">
+<location>
+<begin position="26"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="domain" description="CARD 2" evidence="1">
+<location>
+<begin position="126"/>
+<end position="218"/>
+</location>
+</feature>
+<feature type="domain" description="NACHT" evidence="2">
+<location>
+<begin position="293"/>
+<end position="618"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 1">
+<location>
+<begin position="791"/>
+<end position="812"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 2">
+<location>
+<begin position="816"/>
+<end position="839"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 3">
+<location>
+<begin position="844"/>
+<end position="865"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 4">
+<location>
+<begin position="872"/>
+<end position="884"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 5">
+<location>
+<begin position="900"/>
+<end position="920"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 6">
+<location>
+<begin position="928"/>
+<end position="949"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 7">
+<location>
+<begin position="956"/>
+<end position="976"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 8">
+<location>
+<begin position="984"/>
+<end position="1005"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 9">
+<location>
+<begin position="1012"/>
+<end position="1032"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="299"/>
+<end position="306"/>
+</location>
+</feature>
+<feature type="region of interest" description="Required for CARD9 binding" evidence="26">
+<location>
+<begin position="241"/>
+<end position="274"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="ATG16L1-binding motif">
+<location>
+<begin position="63"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2 and isoform 3." id="VSP_018689" evidence="31 32">
+<location>
+<begin position="1"/>
+<end position="27"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_046567" evidence="32">
+<original>AATCKKYMA</original>
+<variation>DERTEAQKG</variation>
+<location>
+<begin position="216"/>
+<end position="224"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_046568" evidence="32">
+<location>
+<begin position="225"/>
+<end position="1040"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34936594." id="VAR_036871">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="81"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895468." id="VAR_073228" evidence="6">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="113"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; also found in patients with ulcerative colitis; unknown pathological significance; dbSNP:rs34684955." id="VAR_012665" evidence="4">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="140"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895420." id="VAR_012666" evidence="4">
+<original>W</original>
+<variation>R</variation>
+<location>
+<position position="157"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs61755182." id="VAR_012667" evidence="4">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="189"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895422." id="VAR_012668" evidence="4">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="235"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; no disruption of NOD2-CARD9 interaction; dbSNP:rs104895423." id="VAR_012669" evidence="4 26">
+<original>L</original>
+<variation>R</variation>
+<location>
+<position position="248"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2066842." id="VAR_012670" evidence="4 10 29">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="268"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs5743271." id="VAR_012671" evidence="4 10">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="289"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895424." id="VAR_012672" evidence="4">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="291"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895425." id="VAR_012673" evidence="4">
+<original>T</original>
+<variation>S</variation>
+<location>
+<position position="294"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895426." id="VAR_012674" evidence="4">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="301"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; also found in patients with ulcerative colitis; unknown pathological significance; dbSNP:rs104895427." id="VAR_012675" evidence="4 10">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="311"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS; somatic mosaicism in 4.9% to 11% of peripheral blood cells; hyperactive; dbSNP:rs104895461." id="VAR_012676" evidence="5 12 15 27 29">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="334"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS; no disruption of NOD2-CARD9 interaction; hyperactive; dbSNP:rs104895462." id="VAR_012677" evidence="5 7 12 15 17 26 27">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="334"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895428." id="VAR_012678" evidence="4">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="348"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs5743272." id="VAR_012679" evidence="4">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="352"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; no disruption of NOD2-CARD9 interaction; dbSNP:rs104895469." id="VAR_073229" evidence="6 26">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="357"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; no disruption of NOD2-CARD9 interaction; dbSNP:rs104895470." id="VAR_073230" evidence="6 26">
+<original>I</original>
+<variation>F</variation>
+<location>
+<position position="363"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs145293873." id="VAR_012680" evidence="4">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="373"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS; hyperactive; dbSNP:rs104895476." id="VAR_023822" evidence="7 12">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="382"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS; unknown pathological significance; hyperactive; dbSNP:rs104895493." id="VAR_073231" evidence="12 27">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="383"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS; hyperactive; dbSNP:rs104895477." id="VAR_023823" evidence="8 15 27">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="383"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs104895481." id="VAR_073232" evidence="10">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="391"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895429." id="VAR_012681" evidence="4">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="414"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; no disruption of NOD2-CARD9 interaction; dbSNP:rs104895431." id="VAR_012682" evidence="4 26">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="431"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs2076754." id="VAR_012683" evidence="4">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="432"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; no disruption of NOD2-CARD9 interaction; dbSNP:rs104895432." id="VAR_012684" evidence="4 26">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="441"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Polymorphism; no disruption of NOD2-CARD9 interaction; dbSNP:rs104895482." id="VAR_073233" evidence="10 26">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="463"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Polymorphism; hyperactive; dbSNP:rs104895492." id="VAR_073234" evidence="27">
+<original>G</original>
+<variation>W</variation>
+<location>
+<position position="464"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS; hyperactive; dbSNP:rs104895460." id="VAR_012685" evidence="5 27">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="469"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Polymorphism; does not affect activity; dbSNP:rs1078327." id="VAR_036872" evidence="27">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="471"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS; atypical form with cardiac infiltration; sporadic case; unknown pathological significance; hyperactive; dbSNP:rs104895494." id="VAR_073235" evidence="14 27">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="481"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS; unknown pathological significance; hyperactive; dbSNP:rs104895480." id="VAR_073236" evidence="15 27">
+<original>W</original>
+<variation>L</variation>
+<location>
+<position position="490"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS; unknown pathological significance; hyperactive; dbSNP:rs104895478." id="VAR_073237" evidence="12 15 27">
+<original>C</original>
+<variation>Y</variation>
+<location>
+<position position="495"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS; hyperactive; dbSNP:rs104895472." id="VAR_023824" evidence="7 12 27">
+<original>H</original>
+<variation>L</variation>
+<location>
+<position position="496"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS." id="VAR_073180" evidence="28">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="507"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS; hyperactive; dbSNP:rs104895473." id="VAR_073238" evidence="7 12 27">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="513"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; no disruption of NOD2-CARD9 interaction; dbSNP:rs104895471." id="VAR_073239" evidence="6 26">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="550"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS; unknown pathological significance; not hyperactive; dbSNP:rs104895479." id="VAR_073240" evidence="15 27">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="587"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS; hyperactive." id="VAR_065228" evidence="13 27">
+<original>T</original>
+<variation>N</variation>
+<location>
+<position position="605"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS; hyperactive; dbSNP:rs104895474." id="VAR_073241" evidence="7 12 27">
+<original>T</original>
+<variation>P</variation>
+<location>
+<position position="605"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS and IBD1; unknown pathological significance; dbSNP:rs104895438." id="VAR_012686" evidence="4 7">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="612"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; no disruption of NOD2-CARD9 interaction; dbSNP:rs104895439." id="VAR_012687" evidence="4 26">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="612"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BLAUS; hyperactive; dbSNP:rs104895475." id="VAR_073242" evidence="7 12 27">
+<original>N</original>
+<variation>K</variation>
+<location>
+<position position="670"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs5743276." id="VAR_012688" evidence="4">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="684"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1 and YAOS; associated with disease susceptibility; no disruption of NOD2-CARD9 interaction; decreases half-life of protein; dbSNP:rs2066844." id="VAR_012689" evidence="4 10 19 25 26">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="702"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; also found in patients with ulcerative colitis; unknown pathological significance; dbSNP:rs5743277." id="VAR_012690" evidence="4 10">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="703"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895440." id="VAR_012691" evidence="4">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="713"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895483." id="VAR_073243" evidence="10">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="713"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs5743278." id="VAR_012692" evidence="4">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="725"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; also found in patients with ulcerative colitis; unknown pathological significance; dbSNP:rs61747625." id="VAR_012693" evidence="4 10">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="755"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895442." id="VAR_012694" evidence="4">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="758"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs3813758." id="VAR_073244" evidence="10">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="760"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895443." id="VAR_012695" evidence="4">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="778"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs5743279." id="VAR_024402">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="790"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs62029861." id="VAR_073245" evidence="10">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="790"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs104895484." id="VAR_073246" evidence="10">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="791"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895444." id="VAR_012696" evidence="4">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="793"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs104895485." id="VAR_073247" evidence="10">
+<original>N</original>
+<variation>K</variation>
+<location>
+<position position="825"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895445." id="VAR_012697" evidence="4">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="843"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs104895486." id="VAR_073248" evidence="10">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="849"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895467." id="VAR_073249" evidence="6">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="852"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895446." id="VAR_012698" evidence="4">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="853"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895447." id="VAR_012699" evidence="4">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="863"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance." id="VAR_012700" evidence="4">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="885"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1 and YAOS; associated with disease susceptibility; decreases half-life of protein; dbSNP:rs2066845." id="VAR_012701" evidence="3 4 10 25 30">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="908"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs104895452." id="VAR_012702" evidence="4">
+<original>A</original>
+<variation>D</variation>
+<location>
+<position position="918"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBD1; unknown pathological significance; dbSNP:rs104895453." id="VAR_012703" evidence="4">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="924"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs5743291." id="VAR_012704" evidence="4">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="955"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No activation." evidence="3">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="305"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No disruption in NOD2-CARD9 interaction." evidence="26">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="379"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00046"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00136"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11087742"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11385576"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11528384"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15024686"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15459013"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15812565"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16203728"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16485124"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18511561"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19116920"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19169908"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19359344"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19479837"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19592251"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20199415"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21887730"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21914217"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22700971"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23019338"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23376921"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23711367"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23806334"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24790089"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24960071"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25093298"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25692065"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25724124"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26070941"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="11087742"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="20698950"/>
+</source>
+</evidence>
+<sequence length="1040" mass="115283" checksum="0037592D96D7DDFF" modified="2001-03-01" version="1">
+MGEEGGSASHDEEERASVLLGHSPGCEMCSQEAFQAQRSQLVELLVSGSLEGFESVLDWL
+LSWEVLSWEDYEGFHLLGQPLSHLARRLLDTVWNKGTWACQKLIAAAQEAQADSQSPKLH
+GCWDPHSLHPARDLQSHRPAIVRRLHSHVENMLDLAWERGFVSQYECDEIRLPIFTPSQR
+ARRLLDLATVKANGLAAFLLQHVQELPVPLALPLEAATCKKYMAKLRTTVSAQSRFLSTY
+DGAETLCLEDIYTENVLEVWADVGMAGPPQKSPATLGLEELFSTPGHLNDDADTVLVVGE
+AGSGKSTLLQRLHLLWAAGQDFQEFLFVFPFSCRQLQCMAKPLSVRTLLFEHCCWPDVGQ
+EDIFQLLLDHPDRVLLTFDGFDEFKFRFTDRERHCSPTDPTSVQTLLFNLLQGNLLKNAR
+KVVTSRPAAVSAFLRKYIRTEFNLKGFSEQGIELYLRKRHHEPGVADRLIRLLQETSALH
+GLCHLPVFSWMVSKCHQELLLQEGGSPKTTTDMYLLILQHFLLHATPPDSASQGLGPSLL
+RGRLPTLLHLGRLALWGLGMCCYVFSAQQLQAAQVSPDDISLGFLVRAKGVVPGSTAPLE
+FLHITFQCFFAAFYLALSADVPPALLRHLFNCGRPGNSPMARLLPTMCIQASEGKDSSVA
+ALLQKAEPHNLQITAAFLAGLLSREHWGLLAECQTSEKALLRRQACARWCLARSLRKHFH
+SIPPAAPGEAKSVHAMPGFIWLIRSLYEMQEERLARKAARGLNVGHLKLTFCSVGPTECA
+ALAFVLQHLRRPVALQLDYNSVGDIGVEQLLPCLGVCKALYLRDNNISDRGICKLIECAL
+HCEQLQKLALFNNKLTDGCAHSMAKLLACRQNFLALRLGNNYITAAGAQVLAEGLRGNTS
+LQFLGFWGNRVGDEGAQALAEALGDHQSLRWLSLVGNNIGSVGAQALALMLAKNVMLEEL
+CLEENHLQDEGVCSLAEGLKKNSSLKILKLSNNCITYLGAEALLQALERNDTILEVWLRG
+NTFSLEEVDKLGCRDTRLLL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

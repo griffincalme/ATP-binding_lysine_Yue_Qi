@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2014-05-14" modified="2017-02-15" version="19">
+<accession>W8DXL6</accession>
+<name>W8DXL6_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="3">Receptor protein serine/threonine kinase</fullName>
+<ecNumber evidence="3">2.7.11.30</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="12">TGFBR2</name>
+</gene>
+<organism evidence="12">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="12">
+<citation type="journal article" date="2014" name="Exp. Cell Res.">
+<title>The early manifestation, tumor-specific occurrence and prognostic significance of TGFBR2 aberrant splicing in oral carcinoma.</title>
+<authorList>
+<person name="Sivadas V.P."/>
+<person name="Gulati S."/>
+<person name="Varghese B.T."/>
+<person name="Balan A."/>
+<person name="Kannan S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="2">ATP + [receptor-protein] = ADP + [receptor-protein] phosphate.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. TGFB receptor subfamily.</text>
+</comment>
+<dbReference type="EC" id="2.7.11.30" evidence="3"/>
+<dbReference type="EMBL" id="KC792578">
+<property type="protein sequence ID" value="AHI94912.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.604277"/>
+<dbReference type="UniGene" id="Hs.82028"/>
+<dbReference type="STRING" id="9606.ENSP00000351905"/>
+<dbReference type="PaxDb" id="W8DXL6"/>
+<dbReference type="PeptideAtlas" id="W8DXL6"/>
+<dbReference type="eggNOG" id="KOG3653">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XS2Z">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="TGFBR2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004702">
+<property type="term" value="F:signal transducer, downstream of receptor, with serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005026">
+<property type="term" value="F:transforming growth factor beta receptor activity, type II"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001245">
+<property type="entry name" value="Ser-Thr/Tyr_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000333">
+<property type="entry name" value="TGFB_receptor"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015013">
+<property type="entry name" value="Transforming_GF_b_rcpt_2_ecto"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR23255">
+<property type="entry name" value="PTHR23255"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08917">
+<property type="entry name" value="ecTbetaR2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07714">
+<property type="entry name" value="Pkinase_Tyr"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="4">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="5">Kinase</keyword>
+<keyword id="KW-0472" evidence="1 8">Membrane</keyword>
+<keyword id="KW-0547" evidence="4">Nucleotide-binding</keyword>
+<keyword id="KW-0675" evidence="6 12">Receptor</keyword>
+<keyword id="KW-0723" evidence="5">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0732" evidence="9">Signal</keyword>
+<keyword id="KW-0808" evidence="5">Transferase</keyword>
+<keyword id="KW-0812" evidence="1 8">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="1 8">Transmembrane helix</keyword>
+<feature type="signal peptide" evidence="9">
+<location>
+<begin position="1"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="chain" description="Receptor protein serine/threonine kinase" id="PRO_5004909684" evidence="9">
+<location>
+<begin position="24"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="8">
+<location>
+<begin position="160"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="domain" description="ecTbetaR2" evidence="11">
+<location>
+<begin position="49"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="domain" description="Pkinase_Tyr" evidence="10">
+<location>
+<begin position="245"/>
+<end position="308"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00138163"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00410096"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00410109"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00488784"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00488798"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00488829"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00595019"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="SignalP"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF07714"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF08917"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AHI94912.1"/>
+</source>
+</evidence>
+<sequence length="325" mass="36914" checksum="05766888E95C8D63" modified="2014-05-14" version="1">
+MGRGLLRGLWPLHIVLWTRIASTIPPHVQKSVNNDMIVTDNNGAVKFPQLCKFCDVRFST
+CDNQKSCMSNCSITSICEKPQEVCVAVWRKNDENITLETVCHDPKLPYHDFILEDAASPK
+CIMKEKKKPGETFFMCSCSSDECNDNIIFSEEYNTSNPDLLLVIFQVTGISLLPPLGVAI
+SVIIIFYCYRVNRQQKLSSTWETGKTRKLMEFSEHCAIILEDDRSDISSTCANNINHNTE
+LLPIELDTLVGKGRFAEVYKAKLKQNTSEQFETVAVKIFPYEEYASWKTEKDIFSDINLK
+HLDRLSGRSCSEEKIPEDGSLNTTK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2005-02-15" modified="2017-05-10" version="88">
+<accession>Q5H9Q5</accession>
+<name>Q5H9Q5_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="7">Putative uncharacterized protein DKFZp781N0293</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="7">DKFZp781N0293</name>
+</gene>
+<organism evidence="7">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7">
+<citation type="submission" date="2005-01" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="The German cDNA Consortium"/>
+<person name="Koehrer K."/>
+<person name="Beyer A."/>
+<person name="Mewes H.W."/>
+<person name="Weil B."/>
+<person name="Amid C."/>
+<person name="Osanger A."/>
+<person name="Fobo G."/>
+<person name="Han M."/>
+<person name="Wiemann S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="7">Colon carcinoma</tissue>
+</source>
+</reference>
+<comment type="catalytic activity">
+<text evidence="3">ATP + a protein = ADP + a phosphoprotein.</text>
+</comment>
+<dbReference type="EMBL" id="CR933673">
+<property type="protein sequence ID" value="CAI45969.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001028750.1">
+<property type="nucleotide sequence ID" value="NM_001033578.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_037389.4">
+<property type="nucleotide sequence ID" value="NM_013257.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_733827.2">
+<property type="nucleotide sequence ID" value="NM_170709.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.613417"/>
+<dbReference type="UniGene" id="Hs.733251"/>
+<dbReference type="ProteinModelPortal" id="Q5H9Q5"/>
+<dbReference type="STRING" id="9606.ENSP00000262211"/>
+<dbReference type="PaxDb" id="Q5H9Q5"/>
+<dbReference type="DNASU" id="23678"/>
+<dbReference type="GeneID" id="23678"/>
+<dbReference type="KEGG" id="hsa:23678"/>
+<dbReference type="CTD" id="23678"/>
+<dbReference type="PharmGKB" id="PA35722"/>
+<dbReference type="eggNOG" id="KOG0598">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG2101">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XNPH">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG108317"/>
+<dbReference type="KO" id="K13304"/>
+<dbReference type="SignaLink" id="Q5H9Q5"/>
+<dbReference type="GenomeRNAi" id="23678"/>
+<dbReference type="Genevisible" id="Q5H9Q5">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035091">
+<property type="term" value="F:phosphatidylinositol binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1520.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000961">
+<property type="entry name" value="AGC-kinase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001683">
+<property type="entry name" value="Phox"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017892">
+<property type="entry name" value="Pkinase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00433">
+<property type="entry name" value="Pkinase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00787">
+<property type="entry name" value="PX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00312">
+<property type="entry name" value="PX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00133">
+<property type="entry name" value="S_TK_X"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF64268">
+<property type="entry name" value="SSF64268"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51285">
+<property type="entry name" value="AGC_KINASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50195">
+<property type="entry name" value="PX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="2">Kinase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0723" evidence="2">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808" evidence="2">Transferase</keyword>
+<feature type="domain" description="PX (phox homology)" evidence="5">
+<location>
+<begin position="12"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase" evidence="4">
+<location>
+<begin position="162"/>
+<end position="419"/>
+</location>
+</feature>
+<feature type="domain" description="AGC-kinase C-terminal" evidence="6">
+<location>
+<begin position="420"/>
+<end position="496"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00593399"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00593706"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00594266"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50195"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51285"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAI45969.1"/>
+</source>
+</evidence>
+<sequence length="496" mass="57094" checksum="D4D5162DB3C4C447" modified="2005-02-15" version="1">
+MQRDHTMDYKESCPSVSIPSSDEHREKKKRFTVYKVLVSVGRSEWFVFRRYAEFDKLYNT
+LKKQFPAMALKIPAKRIFGDNFDPDFIKQRRAGLNEFIQNLVRYPELYNHPDVRAFLQMD
+SPKHQSDPSEDEDERSSQKLHSTSQNINLGPSGNPHAKPTDFDFLKVIGKGSFGKVLLAK
+RKLDGKFYAVNVLQKKIVLNRKEQKHIMAERNVLLKNVKHPFLVGLHYSFQTTEKLYFVL
+DFVNGGELFFHLQRERSFPEHRARFYAAEIASALGYLHSIKIVYRDLKPENILLDSVGHV
+VLTDFGLCKEGIAISDTTTTFCGTPEYLAPEVIRKQPYDNTVDWWCLGAVLYEMLYGLPP
+FYCRDVAEMYDNILHKPLSLRPGVSLTAWSILEELLEKDRQNRLGAKEDFLEIQNHPFFE
+SLSWADLVQKKIPPPFNPNVAGPDDIRNFDTAFTEETVPYSVCVSSDYSIVNASVLEADD
+AFVGFSYAPPSEDLFL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

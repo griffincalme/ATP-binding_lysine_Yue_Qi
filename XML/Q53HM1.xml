@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2005-05-24" modified="2017-05-10" version="93">
+<accession>Q53HM1</accession>
+<name>Q53HM1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Uridine kinase</fullName>
+<ecNumber evidence="1">2.7.1.48</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">Uridine-cytidine kinase</fullName>
+</alternativeName>
+</protein>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="journal article" date="1994" name="Gene" volume="138" first="171" last="174">
+<title>Oligo-capping: a simple method to replace the cap structure of eukaryotic mRNAs with oligoribonucleotides.</title>
+<authorList>
+<person name="Maruyama K."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="8125298"/>
+<dbReference type="DOI" id="10.1016/0378-1119(94)90802-8"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="3">Coronary artery</tissue>
+</source>
+</reference>
+<reference key="2" evidence="3">
+<citation type="journal article" date="1997" name="Gene" volume="200" first="149" last="156">
+<title>Construction and characterization of a full length-enriched and a 5'-end-enriched cDNA library.</title>
+<authorList>
+<person name="Suzuki Y."/>
+<person name="Yoshitomo K."/>
+<person name="Maruyama K."/>
+<person name="Suyama A."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="9373149"/>
+<dbReference type="DOI" id="10.1016/S0378-1119(97)00411-3"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="3">Coronary artery</tissue>
+</source>
+</reference>
+<reference key="3" evidence="3">
+<citation type="submission" date="2005-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Suzuki Y."/>
+<person name="Sugano S."/>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Takeda T."/>
+<person name="Sakaki Y."/>
+<person name="Tanaka A."/>
+<person name="Yokoyama S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="3">Coronary artery</tissue>
+</source>
+</reference>
+<comment type="catalytic activity">
+<text evidence="1">ATP + cytidine = ADP + CMP.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1">ATP + uridine = ADP + UMP.</text>
+</comment>
+<comment type="pathway" evidence="1">
+<text>Pyrimidine metabolism; CTP biosynthesis via salvage pathway; CTP from cytidine: step 1/3.</text>
+</comment>
+<comment type="pathway" evidence="1">
+<text>Pyrimidine metabolism; UMP biosynthesis via salvage pathway; UMP from uridine: step 1/1.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the uridine kinase family.</text>
+</comment>
+<dbReference type="EC" id="2.7.1.48" evidence="1"/>
+<dbReference type="EMBL" id="AK222559">
+<property type="protein sequence ID" value="BAD96279.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001180308.1">
+<property type="nucleotide sequence ID" value="NM_001193379.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_060329.2">
+<property type="nucleotide sequence ID" value="NM_017859.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.504998"/>
+<dbReference type="UniGene" id="Hs.695829"/>
+<dbReference type="STRING" id="9606.ENSP00000346155"/>
+<dbReference type="PaxDb" id="Q53HM1"/>
+<dbReference type="PeptideAtlas" id="Q53HM1"/>
+<dbReference type="PRIDE" id="Q53HM1"/>
+<dbReference type="DNASU" id="54963"/>
+<dbReference type="GeneID" id="54963"/>
+<dbReference type="KEGG" id="hsa:54963"/>
+<dbReference type="CTD" id="54963"/>
+<dbReference type="eggNOG" id="KOG4203">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0035">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0572">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG055146"/>
+<dbReference type="KO" id="K00876"/>
+<dbReference type="UniPathway" id="UPA00574">
+<property type="reaction ID" value="UER00637"/>
+</dbReference>
+<dbReference type="UniPathway" id="UPA00579">
+<property type="reaction ID" value="UER00640"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="54963"/>
+<dbReference type="Genevisible" id="Q53HM1">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004849">
+<property type="term" value="F:uridine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044211">
+<property type="term" value="P:CTP salvage"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044206">
+<property type="term" value="P:UMP salvage"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="CDD" id="cd06223">
+<property type="entry name" value="PRTases_typeI"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000836">
+<property type="entry name" value="PRibTrfase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006083">
+<property type="entry name" value="PRK/URK"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029057">
+<property type="entry name" value="PRTase-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029933">
+<property type="entry name" value="UCKL1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000764">
+<property type="entry name" value="Uridine_kinase-like"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10285:SF98">
+<property type="entry name" value="PTHR10285:SF98"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00485">
+<property type="entry name" value="PRK"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00988">
+<property type="entry name" value="URIDINKINASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53271">
+<property type="entry name" value="SSF53271"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00235">
+<property type="entry name" value="udk"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="1 3">Kinase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0808" evidence="1 3">Transferase</keyword>
+<feature type="domain" description="PRK" evidence="2">
+<location>
+<begin position="101"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="3">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU003825"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF00485"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAD96279.1"/>
+</source>
+</evidence>
+<sequence length="548" mass="61201" checksum="4DD744A1809D9120" modified="2005-05-24" version="1" fragment="single">
+MAAPPARADADPSPTSPPTARDTPGRQAEKSETACEDRSNAESLDRLLPPVGTGRSPRKR
+TTSQCKSEPPLLRTSKRTIYTAGRPPWYNEHGTQSKEAFAIGLGGGSASGKTTVARMIIE
+ALDVPWVVLLSMDSFYKVLTEQQQEQAAHNNFNFDHPDAFDFDLIIFTLKKLKQGKSVKV
+PIYDFTTHSRKKDWKTLYGANVIIFEGIMAFADKTLLELLDMKIFVDTDSDIRLVRRLRR
+DISERGRDIEGVIKQYNKFVKPSFDQYIQPTMRLADIVVPRGSGNTVAIDLIVQHVHSQL
+EERELSVRAALASAHQCHPLPRTLSVLKSTPQVRGMHTIIRDKETSRDEFIFYSKRLMRL
+LIEHALSFLPFQDCVVQTPQGQDYAGKCYAGKQITGVSILRAGETMEPALRAVCKDVRIG
+TILIQTNQLTGEPELHYLRLPKDISDDHVILMDCTVSTGAAAMMAVRVLLDHDVPEDKIF
+LLSLLMAEMGVHSVAYAFPRVRIITTAVDKRVNDLFRIIPGIGNFGDRYFGTDAVPDGSD
+EEEVAYTG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

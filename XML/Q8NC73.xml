@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2002-10-01" modified="2017-05-10" version="82">
+<accession>Q8NC73</accession>
+<name>Q8NC73_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Cation-transporting ATPase</fullName>
+<ecNumber evidence="1">3.6.3.-</ecNumber>
+</recommendedName>
+</protein>
+<organism evidence="2">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="submission" date="2002-03" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project.</title>
+<authorList>
+<person name="Isogai T."/>
+<person name="Ota T."/>
+<person name="Nishikawa T."/>
+<person name="Hayashi K."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Suzuki Y."/>
+<person name="Nagai K."/>
+<person name="Sugano S."/>
+<person name="Ishii S."/>
+<person name="Kawai-Hio Y."/>
+<person name="Saito K."/>
+<person name="Yamamoto J."/>
+<person name="Wakamatsu A."/>
+<person name="Nakamura Y."/>
+<person name="Kojima S."/>
+<person name="Nagahari K."/>
+<person name="Masuho Y."/>
+<person name="Ono T."/>
+<person name="Okano K."/>
+<person name="Yoshikawa Y."/>
+<person name="Aotsuka S."/>
+<person name="Sasaki N."/>
+<person name="Hattori A."/>
+<person name="Okumura K."/>
+<person name="Iwayanagi T."/>
+<person name="Ninomiya K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Membrane</location>
+<topology evidence="1">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type V subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="1">Lacks conserved residue(s) required for the propagation of feature annotation.</text>
+</comment>
+<dbReference type="EC" id="3.6.3.-" evidence="1"/>
+<dbReference type="EMBL" id="AK074920">
+<property type="protein sequence ID" value="BAC11294.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.501794"/>
+<dbReference type="ProteinModelPortal" id="Q8NC73"/>
+<dbReference type="STRING" id="9606.ENSP00000349877"/>
+<dbReference type="PaxDb" id="Q8NC73"/>
+<dbReference type="PeptideAtlas" id="Q8NC73"/>
+<dbReference type="PRIDE" id="Q8NC73"/>
+<dbReference type="eggNOG" id="KOG0209">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0474">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006812">
+<property type="term" value="P:cation transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.1110.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.1110.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023299">
+<property type="entry name" value="ATPase_P-typ_cyto_domN"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023298">
+<property type="entry name" value="ATPase_P-typ_TM_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023214">
+<property type="entry name" value="HAD-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006544">
+<property type="entry name" value="P-type_TPase_V"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001757">
+<property type="entry name" value="P_typ_ATPase"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56784">
+<property type="entry name" value="SSF56784"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF81660">
+<property type="entry name" value="SSF81660"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01494">
+<property type="entry name" value="ATPase_P-type"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01657">
+<property type="entry name" value="P-ATPase-V"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0378" evidence="1">Hydrolase</keyword>
+<keyword id="KW-0460" evidence="1">Magnesium</keyword>
+<keyword id="KW-0472" evidence="1">Membrane</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0812" evidence="1">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="1">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="420"/>
+<end position="441"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="471"/>
+<end position="489"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="501"/>
+<end position="519"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="539"/>
+<end position="559"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU362082"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAC11294.1"/>
+</source>
+</evidence>
+<sequence length="572" mass="63278" checksum="299CD113377F7F6B" modified="2002-10-01" version="1">
+MSVLASYEKLGSTDLCYIAAVKGAPETLHSMFSQCPPDYHHIHTEISREGARVLALGYKE
+LGHLTHQQAREVKREALECSLKFVGFIVVSCPLKADSKAVTREIQNASHRVVMITGDNPL
+TACHVAQELHFIEKAHTLILQPPSEKGRQCEWRSTDGSIVLPLARGSPKALALEYALCLT
+GDGLAHLQATDPQQLLRLIPHVQVFARVAPKQKEFVITSLKELGYVTLMCGDGTNDVGAL
+KHADVGVALLANAPERVVERRRRPRDSPTLSNSGIRATSRTAKQRSGLPPSEGQPTSQRD
+RLSQVLRDLEDESTPIVKLGDASIAAPFTSKLSSIHCICHVIKQGRCTLVTTLQMFKILA
+LNALILAYSQSVLYLEGVKFSDFQATLQGLLLAGCFLFISRSKPLKTLSRERPLPNIFNL
+YTILTVMLQFFVHFLSLVYLYREAQARSPEKQEQFVDLYKEFEPSLVNSTVYIMAMAMQM
+ATFAINYKGPPFMESLPENKPLVWSLAVSLLAIIGLLLGSSPDFNSQFGLVDIPVEFKLV
+IAQVLLLDFCLALLADRVLQFFLGTPKLKVPS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

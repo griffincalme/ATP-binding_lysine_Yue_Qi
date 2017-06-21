@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2007-12-04" modified="2017-05-10" version="59">
+<accession>A8K9G6</accession>
+<name>A8K9G6_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="4">cDNA FLJ75133, highly similar to Homo sapiens NACHT, leucine rich repeat and PYD containing 2, mRNA</fullName>
+</submittedName>
+</protein>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="4">Thymus</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AK292681">
+<property type="protein sequence ID" value="BAF85370.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001334932.1">
+<property type="nucleotide sequence ID" value="NM_001348003.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.369279"/>
+<dbReference type="ProteinModelPortal" id="A8K9G6"/>
+<dbReference type="STRING" id="9606.ENSP00000409370"/>
+<dbReference type="PaxDb" id="A8K9G6"/>
+<dbReference type="PeptideAtlas" id="A8K9G6"/>
+<dbReference type="PRIDE" id="A8K9G6"/>
+<dbReference type="GeneID" id="55655"/>
+<dbReference type="eggNOG" id="ENOG410IM14">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410ZI5C">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG103856"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.80.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004020">
+<property type="entry name" value="DAPIN"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011029">
+<property type="entry name" value="DEATH-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032675">
+<property type="entry name" value="L_dom-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001611">
+<property type="entry name" value="Leu-rich_rpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007111">
+<property type="entry name" value="NACHT_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13516">
+<property type="entry name" value="LRR_6"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02758">
+<property type="entry name" value="PYRIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01289">
+<property type="entry name" value="PYRIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47986">
+<property type="entry name" value="SSF47986"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50824">
+<property type="entry name" value="DAPIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50837">
+<property type="entry name" value="NACHT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="domain" description="Pyrin" evidence="2">
+<location>
+<begin position="1"/>
+<end position="94"/>
+</location>
+</feature>
+<feature type="domain" description="NACHT" evidence="3">
+<location>
+<begin position="204"/>
+<end position="402"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00074409"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50824"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50837"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAF85370.1"/>
+</source>
+</evidence>
+<sequence length="1059" mass="120326" checksum="D412B5FB96E9E922" modified="2007-12-04" version="1">
+MVSSAQMGFNLQALLEQLSQDELSKFKYLITTFSLAHELQKIPHKEVDKADGKQLVEILT
+THCDSYWVEMASLQVFEKMHRMDLSERAKDEVREAALKSFNKRKPLSLGITRKERPPLDV
+DEMLERFKTEAQETKGNVICLGKEVFKGKKPDKDNRCRYILKTKFREMWKSWPGDSKEVQ
+VMAERYKMLIPFSNPRVLPGPFSYTVVLYGPAGLGKTTLAQKLMLDWAEDNLIHKFKYAF
+YLSCRELSRLGPCSFAELVFRDWPELQDDIPHILAQARKILFVIDGFDELGAAPVALIED
+ICGDWEKKKPVPVLLGSLLNRVMLPKAALLVTTRPRALRDLRILAEEPIYIRVEGFLEED
+RRAYFLRHFGDEDQAMRAFELMRSNAALFQLGSAPAVCWIVCTTLKLQMEKGEDPVPTCL
+TRTGLFLRFLCSRFPQGAQLRGALRTLSLLAAQGLWAQTSVLHREDLERLGVQESDLRLF
+LDGDILRQDRVSKGCYSFIHLSFQQFLTALFYTLEKEEEEDRDGHAWDIGDVQKLLSGVE
+RLRNPDLIQAGYYSFGLANEKRAKELEATFGCRMSPDIKQELLRCDISCKGGHSTVTDLQ
+ELLGCLYESQEEELVKEVMAQFKEISLHLNAVDVVPSSFCVKHCRNLQKMSLQVIKENLP
+ENVTASESDAEVERSQDDQHMLPFWTDLCSIFGSNKDLMGLAINDSFLSASLVRILCEQI
+ASDTCHLQRVVFKNISPADAHRNLCLALRGHKTVTYLTLQGNDQDDMFPALCEVLRHPEC
+NLRYLGLVSCSATTQQWADLSLALEVNQSLTCVNLSDNELLDEGAKLLYTTLRHPKCFLQ
+RLSLENCHLTEANCKDLAAVLVVSRELTHLCLAKNPIGNTGVKFLCEGLRYPECKLQTLV
+LWNCDITSDGCCDLTKLLQEKSSLLCLDLGLNHIGVKGMKFLCEALRKPLCNLRCLWLWG
+CSIPPFSCEDLCSTLSCNQSLVTLDLGQNPLGSSGVKMLFETLTCSSGTLRTLWLKIDDF
+NDELNKLLEEIEEKNPQLIIDTEKHHPWEERPSSHDFMI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

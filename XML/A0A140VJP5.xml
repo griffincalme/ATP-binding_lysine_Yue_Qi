@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2016-06-08" modified="2017-05-10" version="8">
+<accession>A0A140VJP5</accession>
+<name>A0A140VJP5_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">S-adenosylmethionine synthase</fullName>
+<ecNumber evidence="1">2.5.1.6</ecNumber>
+</recommendedName>
+</protein>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="submission" date="2010-03" db="EMBL/GenBank/DDBJ databases">
+<title>Human testis protein.</title>
+<authorList>
+<person name="Li J.Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Catalyzes the formation of S-adenosylmethionine from methionine and ATP.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1">ATP + L-methionine + H(2)O = phosphate + diphosphate + S-adenosyl-L-methionine.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>K(+)</name>
+<dbReference type="ChEBI" id="CHEBI:29103"/>
+</cofactor>
+<text evidence="1">Binds 1 potassium ion per subunit. The potassium ion interacts primarily with the substrate.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<text evidence="1">Binds 2 magnesium ions per subunit. The magnesium ions interact primarily with the substrate.</text>
+</comment>
+<comment type="pathway" evidence="1">
+<text>Amino-acid biosynthesis; S-adenosyl-L-methionine biosynthesis; S-adenosyl-L-methionine from L-methionine: step 1/1.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the AdoMet synthase family.</text>
+</comment>
+<dbReference type="EC" id="2.5.1.6" evidence="1"/>
+<dbReference type="EMBL" id="HM005434">
+<property type="protein sequence ID" value="AEE61032.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_005902.1">
+<property type="nucleotide sequence ID" value="NM_005911.5"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.516157"/>
+<dbReference type="ProteinModelPortal" id="A0A140VJP5"/>
+<dbReference type="SMR" id="A0A140VJP5"/>
+<dbReference type="GeneID" id="4144"/>
+<dbReference type="KEGG" id="hsa:4144"/>
+<dbReference type="CTD" id="4144"/>
+<dbReference type="KO" id="K00789"/>
+<dbReference type="PhylomeDB" id="A0A140VJP5"/>
+<dbReference type="UniPathway" id="UPA00315">
+<property type="reaction ID" value="UER00080"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="A0A140VJP5">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004478">
+<property type="term" value="F:methionine adenosyltransferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006730">
+<property type="term" value="P:one-carbon metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006556">
+<property type="term" value="P:S-adenosylmethionine biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00086">
+<property type="entry name" value="S_AdoMet_synth1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022631">
+<property type="entry name" value="ADOMET_SYNTHASE_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022630">
+<property type="entry name" value="S-AdoMet_synt_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022629">
+<property type="entry name" value="S-AdoMet_synt_central"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022628">
+<property type="entry name" value="S-AdoMet_synt_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002133">
+<property type="entry name" value="S-AdoMet_synthetase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022636">
+<property type="entry name" value="S-AdoMet_synthetase_sfam"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11964">
+<property type="entry name" value="PTHR11964"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02773">
+<property type="entry name" value="S-AdoMet_synt_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02772">
+<property type="entry name" value="S-AdoMet_synt_M"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00438">
+<property type="entry name" value="S-AdoMet_synt_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000497">
+<property type="entry name" value="MAT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55973">
+<property type="entry name" value="SSF55973"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01034">
+<property type="entry name" value="metK"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00376">
+<property type="entry name" value="ADOMET_SYNTHASE_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00377">
+<property type="entry name" value="ADOMET_SYNTHASE_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0460" evidence="1">Magnesium</keyword>
+<keyword id="KW-0479" evidence="1">Metal-binding</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0554" evidence="1">One-carbon metabolism</keyword>
+<keyword id="KW-0630" evidence="1">Potassium</keyword>
+<keyword id="KW-0808" evidence="1">Transferase</keyword>
+<feature type="domain" description="S-AdoMet_synt_N" evidence="3">
+<location>
+<begin position="18"/>
+<end position="115"/>
+</location>
+</feature>
+<feature type="domain" description="S-AdoMet_synt_M" evidence="4">
+<location>
+<begin position="130"/>
+<end position="250"/>
+</location>
+</feature>
+<feature type="domain" description="S-AdoMet_synt_C" evidence="5">
+<location>
+<begin position="252"/>
+<end position="388"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000541"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU004462"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF00438"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF02772"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF02773"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AEE61032.1"/>
+</source>
+</evidence>
+<sequence length="395" mass="43661" checksum="2E7D1B91CC4F7BDD" modified="2016-06-08" version="1">
+MNGQLNGFHEAFIEEGTFLFTSESVGEGHPDKICDQISDAVLDAHLQQDPDAKVACETVA
+KTGMILLAGEITSRAAVDYQKVVREAVKHIGYDDSSKGFDYKTCNVLVALEQQSPDIAQG
+VHLDRNEEDIGAGDQGLMFGYATDETEECMPLTIVLAHKLNAKLAELRRNGTLPWLRPDS
+KTQVTVQYMQDRGAVLPIRVHTIVISVQHDEEVCLDEMRDALKEKVIKAVVPAKYLDEDT
+IYHLQPSGRFVIGGPQGDAGLTGRKIIVDTYGGWGAHGGGAFSGKDYTKVDRSAAYAARW
+VAKSLVKGGLCRRVLVQVSYAIGVSHPLSISIFHYGTSQKSERELLEIVKKNFDLRPGVI
+VRDLDLKKPIYQRTAAYGHFGRDSFPWEVPKKLKY
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2007-12-04" modified="2017-05-10" version="60">
+<accession>A8K8Q4</accession>
+<name>A8K8Q4_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">DNA ligase</fullName>
+<ecNumber evidence="1">6.5.1.1</ecNumber>
+</recommendedName>
+</protein>
+<organism evidence="5">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="5">Testis</tissue>
+</source>
+</reference>
+<comment type="catalytic activity">
+<text evidence="1">ATP + (deoxyribonucleotide)(n)-3'-hydroxyl + 5'-phospho-(deoxyribonucleotide)(m) = (deoxyribonucleotide)(n+m) + AMP + diphosphate.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the ATP-dependent DNA ligase family.</text>
+</comment>
+<dbReference type="EC" id="6.5.1.1" evidence="1"/>
+<dbReference type="EMBL" id="AK292419">
+<property type="protein sequence ID" value="BAF85108.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001317524.1">
+<property type="nucleotide sequence ID" value="NM_001330595.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.166091"/>
+<dbReference type="STRING" id="9606.ENSP00000349393"/>
+<dbReference type="PaxDb" id="A8K8Q4"/>
+<dbReference type="PeptideAtlas" id="A8K8Q4"/>
+<dbReference type="GeneID" id="3981"/>
+<dbReference type="CTD" id="3981"/>
+<dbReference type="eggNOG" id="KOG0966">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1793">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG005516"/>
+<dbReference type="SignaLink" id="A8K8Q4"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003910">
+<property type="term" value="F:DNA ligase (ATP) activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071897">
+<property type="term" value="P:DNA biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051103">
+<property type="term" value="P:DNA ligation involved in DNA repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006310">
+<property type="term" value="P:DNA recombination"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006260">
+<property type="term" value="P:DNA replication"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd00027">
+<property type="entry name" value="BRCT"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.3260.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.10190">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001357">
+<property type="entry name" value="BRCT_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000977">
+<property type="entry name" value="DNA_ligase_ATP-dep"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012309">
+<property type="entry name" value="DNA_ligase_ATP-dep_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012310">
+<property type="entry name" value="DNA_ligase_ATP-dep_cent"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016059">
+<property type="entry name" value="DNA_ligase_ATP-dep_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012308">
+<property type="entry name" value="DNA_ligase_ATP-dep_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021536">
+<property type="entry name" value="DNA_ligase_IV_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029710">
+<property type="entry name" value="LIG4"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012340">
+<property type="entry name" value="NA-bd_OB-fold"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10459:SF84">
+<property type="entry name" value="PTHR10459:SF84"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00533">
+<property type="entry name" value="BRCT"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04679">
+<property type="entry name" value="DNA_ligase_A_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01068">
+<property type="entry name" value="DNA_ligase_A_M"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04675">
+<property type="entry name" value="DNA_ligase_A_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF11411">
+<property type="entry name" value="DNA_ligase_IV"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00292">
+<property type="entry name" value="BRCT"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50249">
+<property type="entry name" value="SSF50249"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52113">
+<property type="entry name" value="SSF52113"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00574">
+<property type="entry name" value="dnl1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50172">
+<property type="entry name" value="BRCT"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00697">
+<property type="entry name" value="DNA_LIGASE_A1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00333">
+<property type="entry name" value="DNA_LIGASE_A2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50160">
+<property type="entry name" value="DNA_LIGASE_A3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0227" evidence="1">DNA damage</keyword>
+<keyword id="KW-0233" evidence="1">DNA recombination</keyword>
+<keyword id="KW-0234" evidence="1">DNA repair</keyword>
+<keyword id="KW-0235" evidence="1">DNA replication</keyword>
+<keyword id="KW-0436" evidence="1 5">Ligase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="domain" description="DNA_LIGASE_A3" evidence="3">
+<location>
+<begin position="288"/>
+<end position="422"/>
+</location>
+</feature>
+<feature type="domain" description="BRCT" evidence="4">
+<location>
+<begin position="587"/>
+<end position="676"/>
+</location>
+</feature>
+<feature type="domain" description="BRCT" evidence="4">
+<location>
+<begin position="741"/>
+<end position="844"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000617"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU004196"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50160"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50172"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAF85108.1"/>
+</source>
+</evidence>
+<sequence length="844" mass="96203" checksum="9BE5FF88F7E9ED4E" modified="2007-12-04" version="1">
+MRLILPQLERERMAYGIKETMLAKLYIELLNLPRDGKDALKLLNYRTPTGTHGDAGDFAM
+IAYFVLKPRCLQKGSLTIQQVNDLLDSIASNNSAKRKDLIKKSLLQLITQSSALEQKWLI
+RMIIKDLKLGVSQQTIFSVFHNDAAELHNVTTDLEKVCRQLHDPSVGLSDISITLFSAFK
+PMLAAIADIEHIEKDMKHQSFYIETKLDGERMQMHKDGDVYKYFSRNGYNYTDQFGASPT
+EGSLTPFIHNAFKADIQICILDGEMMAYNPNTQTFMQKGTKFDIKRMVEDSDLQTCYCVF
+DVLMVNNKKLGHETLRKRYEILSSIFTPIPGRIEIVQKTQAHTKNEVIDALNEAIDKREE
+GIMVKQPLSIYKPDKRGEGWLKIKPEYVSGLMDELDILIVGGYWGKGSRGGMMSHFLCAV
+AEKPPPGEKPSVFHTLSRVGSGCTMKELYDLGLKLAKYWKPFHRKAPPSSILCGTEKPEV
+YIEPCNSVIVQIKAAEIVPSDMYKTGCTLRFPRIEKIRDDKEWHECMTLDDLEQLRGKAS
+GKLASKHLYIGGDDEPQEKKRKAAPKMKKVIGIIEHLKAPNLTNVNKISNIFEDVEFCVM
+SGTDSQPKPDLENRTAEFGGYIVQNPGPDTYCVIAGSENIRVKNIILSNKHDVVKPAWLL
+ECFKTKSFVPWQPRFMIHMCPSTKEHFAREYDCYGDSYFIDTDLNQLKEVFSGIKNSNEQ
+TPEEMASLIADLEYRYSWDCSPLSMFRRHTVYLDSYAVINDLSTKNEGTRLAIKALELRF
+HGAKVVSCLAEGVSHVIIGEDHSRVADFKAFRRTFKRKFKILKESWVTDSIDKCELQEEN
+QYLI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

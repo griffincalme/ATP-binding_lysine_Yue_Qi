@@ -1,0 +1,1583 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-04-12" modified="2017-05-10" version="157">
+<accession>Q9UN37</accession>
+<accession>B2RCB7</accession>
+<accession>Q8TF07</accession>
+<accession>Q9UI03</accession>
+<accession>Q9Y582</accession>
+<name>VPS4A_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Vacuolar protein sorting-associated protein 4A</fullName>
+<ecNumber>3.6.4.6</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Protein SKD2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>VPS4-1</fullName>
+<shortName>hVPS4</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="27">VPS4A</name>
+<name type="synonym" evidence="25">VPS4</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="24 29">
+<citation type="journal article" date="2001" name="J. Mol. Biol." volume="312" first="469" last="480">
+<title>Mammalian cells express two VPS4 proteins both of which are involved in intracellular protein trafficking.</title>
+<authorList>
+<person name="Scheuring S."/>
+<person name="Roehricht R.A."/>
+<person name="Schoening-Burkhardt B."/>
+<person name="Beyer A."/>
+<person name="Mueller S."/>
+<person name="Abts H.F."/>
+<person name="Koehrer K."/>
+</authorList>
+<dbReference type="PubMed" id="11563910"/>
+<dbReference type="DOI" id="10.1006/jmbi.2001.4917"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INTERACTION WITH VPS4B</scope>
+<scope>MUTAGENESIS OF GLU-228</scope>
+<source>
+<tissue>Keratinocyte</tissue>
+</source>
+</reference>
+<reference key="2" evidence="27">
+<citation type="journal article" date="2003" name="Gene" volume="305" first="47" last="59">
+<title>Comparative sequence and expression analyses of four mammalian VPS4 genes.</title>
+<authorList>
+<person name="Beyer A."/>
+<person name="Scheuring S."/>
+<person name="Mueller S."/>
+<person name="Mincheva A."/>
+<person name="Lichter P."/>
+<person name="Koehrer K."/>
+</authorList>
+<dbReference type="PubMed" id="12594041"/>
+<dbReference type="DOI" id="10.1016/S0378-1119(02)01205-2"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="3" evidence="30">
+<citation type="submission" date="1999-03" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of a new human cDNA homologous to Homo sapiens SKD1 protein.</title>
+<authorList>
+<person name="Ding J.B."/>
+<person name="Yu L."/>
+<person name="Zhao S.Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="4" evidence="30">
+<citation type="submission" date="1999-06" db="EMBL/GenBank/DDBJ databases">
+<title>Isolation of a homolog of SKD1.</title>
+<authorList>
+<person name="Patejunas G."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Heart</tissue>
+</source>
+</reference>
+<reference key="5" evidence="26">
+<citation type="journal article" date="2000" name="Proc. Natl. Acad. Sci. U.S.A." volume="97" first="9543" last="9548">
+<title>Gene expression profiling in the human hypothalamus-pituitary-adrenal axis and full-length cDNA cloning.</title>
+<authorList>
+<person name="Hu R.-M."/>
+<person name="Han Z.-G."/>
+<person name="Song H.-D."/>
+<person name="Peng Y.-D."/>
+<person name="Huang Q.-H."/>
+<person name="Ren S.-X."/>
+<person name="Gu Y.-J."/>
+<person name="Huang C.-H."/>
+<person name="Li Y.-B."/>
+<person name="Jiang C.-L."/>
+<person name="Fu G."/>
+<person name="Zhang Q.-H."/>
+<person name="Gu B.-W."/>
+<person name="Dai M."/>
+<person name="Mao Y.-F."/>
+<person name="Gao G.-F."/>
+<person name="Rong R."/>
+<person name="Ye M."/>
+<person name="Zhou J."/>
+<person name="Xu S.-H."/>
+<person name="Gu J."/>
+<person name="Shi J.-X."/>
+<person name="Jin W.-R."/>
+<person name="Zhang C.-K."/>
+<person name="Wu T.-M."/>
+<person name="Huang G.-Y."/>
+<person name="Chen Z."/>
+<person name="Chen M.-D."/>
+<person name="Chen J.-L."/>
+</authorList>
+<dbReference type="PubMed" id="10931946"/>
+<dbReference type="DOI" id="10.1073/pnas.160270997"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue evidence="26">Hypothalamus</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Kidney</tissue>
+</source>
+</reference>
+<reference key="7" evidence="30">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="8" evidence="28">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="9" evidence="24 25">
+<citation type="journal article" date="2000" name="Mol. Biol. Cell" volume="11" first="227" last="239">
+<title>ATPase-defective mammalian VPS4 localizes to aberrant endosomes and impairs cholesterol trafficking.</title>
+<authorList>
+<person name="Bishop N."/>
+<person name="Woodman P."/>
+</authorList>
+<dbReference type="PubMed" id="10637304"/>
+<dbReference type="DOI" id="10.1091/mbc.11.1.227"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 6-437</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>MUTAGENESIS OF LYS-173 AND GLU-228</scope>
+<source>
+<tissue evidence="25">Brain</tissue>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2001" name="Cell" volume="107" first="55" last="65">
+<title>Tsg101 and the vacuolar protein sorting pathway are essential for HIV-1 budding.</title>
+<authorList>
+<person name="Garrus J.E."/>
+<person name="von Schwedler U.K."/>
+<person name="Pornillos O.W."/>
+<person name="Morham S.G."/>
+<person name="Zavitz K.H."/>
+<person name="Wang H.E."/>
+<person name="Wettstein D.A."/>
+<person name="Stray K.M."/>
+<person name="Cote M."/>
+<person name="Rich R.L."/>
+<person name="Myszka D.G."/>
+<person name="Sundquist W.I."/>
+</authorList>
+<dbReference type="PubMed" id="11595185"/>
+<dbReference type="DOI" id="10.1016/S0092-8674(01)00506-2"/>
+</citation>
+<scope>FUNCTION IN VIRUS RELEASE</scope>
+<scope>MUTAGENESIS OF LYS-173 AND GLU-228</scope>
+</reference>
+<reference key="11" evidence="24">
+<citation type="journal article" date="2001" name="J. Cell Sci." volume="114" first="2395" last="2404">
+<title>CHMP1 functions as a member of a newly defined family of vesicle trafficking proteins.</title>
+<authorList>
+<person name="Howard T.L."/>
+<person name="Stauffer D.R."/>
+<person name="Degnin C.R."/>
+<person name="Hollenberg S.M."/>
+</authorList>
+<dbReference type="PubMed" id="11559748"/>
+</citation>
+<scope>INTERACTION WITH CHMP1A</scope>
+<scope>MUTAGENESIS OF GLU-228</scope>
+</reference>
+<reference key="12" evidence="24">
+<citation type="journal article" date="2003" name="Cell" volume="114" first="701" last="713">
+<title>The protein network of HIV budding.</title>
+<authorList>
+<person name="von Schwedler U.K."/>
+<person name="Stuchell M."/>
+<person name="Mueller B."/>
+<person name="Ward D.M."/>
+<person name="Chung H.-Y."/>
+<person name="Morita E."/>
+<person name="Wang H.E."/>
+<person name="Davis T."/>
+<person name="He G.P."/>
+<person name="Cimbora D.M."/>
+<person name="Scott A."/>
+<person name="Kraeusslich H.-G."/>
+<person name="Kaplan J."/>
+<person name="Morham S.G."/>
+<person name="Sundquist W.I."/>
+</authorList>
+<dbReference type="PubMed" id="14505570"/>
+<dbReference type="DOI" id="10.1016/S0092-8674(03)00714-1"/>
+</citation>
+<scope>INTERACTION WITH CHMP1A; CHMP1B; CHMP2A; CHMP4A; CHMP4B; CHMP4C AND CHMP6</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2003" name="Proc. Natl. Acad. Sci. U.S.A." volume="100" first="12414" last="12419">
+<title>Divergent retroviral late-budding domains recruit vacuolar protein sorting factors by using alternative adaptor proteins.</title>
+<authorList>
+<person name="Martin-Serrano J."/>
+<person name="Yarovoy A."/>
+<person name="Perez-Caballero D."/>
+<person name="Bieniasz P.D."/>
+</authorList>
+<dbReference type="PubMed" id="14519844"/>
+<dbReference type="DOI" id="10.1073/pnas.2133846100"/>
+</citation>
+<scope>INTERACTION WITH CHMP1A; CHMP1B; CHMP2A; CHMP2B AND CHMP3</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2003" name="Proc. Natl. Acad. Sci. U.S.A." volume="100" first="152845" last="152845">
+<authorList>
+<person name="Martin-Serrano J."/>
+<person name="Yarovoy A."/>
+<person name="Perez-Caballero D."/>
+<person name="Bieniasz P.D."/>
+</authorList>
+</citation>
+<scope>ERRATUM</scope>
+</reference>
+<reference key="15" evidence="24">
+<citation type="journal article" date="2004" name="J. Cell Sci." volume="117" first="1699" last="1708">
+<title>ATPase-deficient hVPS4 impairs formation of internal endosomal vesicles and stabilizes bilayered clathrin coats on endosomal vacuoles.</title>
+<authorList>
+<person name="Sachse M."/>
+<person name="Strous G.J."/>
+<person name="Klumperman J."/>
+</authorList>
+<dbReference type="PubMed" id="15075231"/>
+<dbReference type="DOI" id="10.1242/jcs.00998"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF GLU-228</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2005" name="EMBO J." volume="24" first="3658" last="3669">
+<title>Structural and mechanistic studies of VPS4 proteins.</title>
+<authorList>
+<person name="Scott A."/>
+<person name="Chung H.Y."/>
+<person name="Gonciarz-Swiatek M."/>
+<person name="Hill G.C."/>
+<person name="Whitby F.G."/>
+<person name="Gaspar J."/>
+<person name="Holton J.M."/>
+<person name="Viswanathan R."/>
+<person name="Ghaffarian S."/>
+<person name="Hill C.P."/>
+<person name="Sundquist W.I."/>
+</authorList>
+<dbReference type="PubMed" id="16193069"/>
+<dbReference type="DOI" id="10.1038/sj.emboj.7600818"/>
+</citation>
+<scope>MUTAGENESIS OF 201-TRP-LEU-202 AND GLY-203</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2007" name="EMBO J." volume="26" first="4215" last="4227">
+<title>Human ESCRT and ALIX proteins interact with proteins of the midbody and function in cytokinesis.</title>
+<authorList>
+<person name="Morita E."/>
+<person name="Sandrin V."/>
+<person name="Chung H.Y."/>
+<person name="Morham S.G."/>
+<person name="Gygi S.P."/>
+<person name="Rodesch C.K."/>
+<person name="Sundquist W.I."/>
+</authorList>
+<dbReference type="PubMed" id="17853893"/>
+<dbReference type="DOI" id="10.1038/sj.emboj.7601850"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2008" name="Nat. Struct. Mol. Biol." volume="15" first="1278" last="1286">
+<title>Structural basis for midbody targeting of spastin by the ESCRT-III protein CHMP1B.</title>
+<authorList>
+<person name="Yang D."/>
+<person name="Rismanchi N."/>
+<person name="Renvoise B."/>
+<person name="Lippincott-Schwartz J."/>
+<person name="Blackstone C."/>
+<person name="Hurley J.H."/>
+</authorList>
+<dbReference type="PubMed" id="18997780"/>
+<dbReference type="DOI" id="10.1038/nsmb.1512"/>
+</citation>
+<scope>INTERACTION WITH SPAST</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2009" name="Mol. Biol. Cell" volume="20" first="1374" last="1387">
+<title>Essential role of hIST1 in cytokinesis.</title>
+<authorList>
+<person name="Agromayor M."/>
+<person name="Carlton J.G."/>
+<person name="Phelan J.P."/>
+<person name="Matthews D.R."/>
+<person name="Carlin L.M."/>
+<person name="Ameer-Beg S."/>
+<person name="Bowers K."/>
+<person name="Martin-Serrano J."/>
+</authorList>
+<dbReference type="PubMed" id="19129480"/>
+<dbReference type="DOI" id="10.1091/mbc.E08-05-0474"/>
+</citation>
+<scope>INTERACTION WITH IST1</scope>
+<scope>MUTAGENESIS OF LEU-64</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2009" name="Mol. Biol. Cell" volume="20" first="1360" last="1373">
+<title>Biochemical analyses of human IST1 and its function in cytokinesis.</title>
+<authorList>
+<person name="Bajorek M."/>
+<person name="Morita E."/>
+<person name="Skalicky J.J."/>
+<person name="Morham S.G."/>
+<person name="Babst M."/>
+<person name="Sundquist W.I."/>
+</authorList>
+<dbReference type="PubMed" id="19129479"/>
+<dbReference type="DOI" id="10.1091/mbc.E08-05-0475"/>
+</citation>
+<scope>INTERACTION WITH IST1</scope>
+<scope>MUTAGENESIS OF VAL-13 AND LEU-64</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2009" name="Science" volume="325" first="834" last="840">
+<title>Lysine acetylation targets protein complexes and co-regulates major cellular functions.</title>
+<authorList>
+<person name="Choudhary C."/>
+<person name="Kumar C."/>
+<person name="Gnad F."/>
+<person name="Nielsen M.L."/>
+<person name="Rehman M."/>
+<person name="Walther T.C."/>
+<person name="Olsen J.V."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="19608861"/>
+<dbReference type="DOI" id="10.1126/science.1175371"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-8</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2011" name="J. Virol." volume="85" first="7153" last="7161">
+<title>Mechanism of inhibition of retrovirus release from cells by interferon-induced gene ISG15.</title>
+<authorList>
+<person name="Kuang Z."/>
+<person name="Seo E.J."/>
+<person name="Leis J."/>
+</authorList>
+<dbReference type="PubMed" id="21543490"/>
+<dbReference type="DOI" id="10.1128/JVI.02610-10"/>
+</citation>
+<scope>INTERACTION WITH CHMP1B; CHMP2A; CHMP3; CHMP4B AND CHMP6</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2012" name="Nat. Cell Biol." volume="14" first="677" last="685">
+<title>Syndecan-syntenin-ALIX regulates the biogenesis of exosomes.</title>
+<authorList>
+<person name="Baietti M.F."/>
+<person name="Zhang Z."/>
+<person name="Mortier E."/>
+<person name="Melchior A."/>
+<person name="Degeest G."/>
+<person name="Geeraerts A."/>
+<person name="Ivarsson Y."/>
+<person name="Depoortere F."/>
+<person name="Coomans C."/>
+<person name="Vermeiren E."/>
+<person name="Zimmermann P."/>
+<person name="David G."/>
+</authorList>
+<dbReference type="PubMed" id="22660413"/>
+<dbReference type="DOI" id="10.1038/ncb2502"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2014" name="Nat. Cell Biol." volume="16" first="550" last="560">
+<title>ANCHR mediates Aurora-B-dependent abscission checkpoint control through retention of VPS4.</title>
+<authorList>
+<person name="Thoresen S.B."/>
+<person name="Campsteijn C."/>
+<person name="Vietri M."/>
+<person name="Schink K.O."/>
+<person name="Liestoel K."/>
+<person name="Andersen J.S."/>
+<person name="Raiborg C."/>
+<person name="Stenmark H."/>
+</authorList>
+<dbReference type="PubMed" id="24814515"/>
+<dbReference type="DOI" id="10.1038/ncb2959"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH ZFYVE19</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2005" name="Proc. Natl. Acad. Sci. U.S.A." volume="102" first="13813" last="13818">
+<title>Structure and ESCRT-III protein interactions of the MIT domain of human VPS4A.</title>
+<authorList>
+<person name="Scott A."/>
+<person name="Gaspar J."/>
+<person name="Stuchell-Brereton M.D."/>
+<person name="Alam S.L."/>
+<person name="Skalicky J.J."/>
+<person name="Sundquist W.I."/>
+</authorList>
+<dbReference type="PubMed" id="16174732"/>
+<dbReference type="DOI" id="10.1073/pnas.0502165102"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-77</scope>
+<scope>INTERACTION WITH CHMP1B</scope>
+<scope>MUTAGENESIS OF LEU-64 AND GLU-68</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2007" name="Nature" volume="449" first="740" last="744">
+<title>ESCRT-III recognition by VPS4 ATPases.</title>
+<authorList>
+<person name="Stuchell-Brereton M.D."/>
+<person name="Skalicky J.J."/>
+<person name="Kieffer C."/>
+<person name="Karren M.A."/>
+<person name="Ghaffarian S."/>
+<person name="Sundquist W.I."/>
+</authorList>
+<dbReference type="PubMed" id="17928862"/>
+<dbReference type="DOI" id="10.1038/nature06172"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-84 IN COMPLEX WITH CHMP1A</scope>
+<scope>INTERACTION WITH CHMP2B</scope>
+<scope>MUTAGENESIS OF LEU-64 AND LYS-173</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2008" name="Dev. Cell" volume="15" first="62" last="73">
+<title>Two distinct modes of ESCRT-III recognition are required for VPS4 functions in lysosomal protein targeting and HIV-1 budding.</title>
+<authorList>
+<person name="Kieffer C."/>
+<person name="Skalicky J.J."/>
+<person name="Morita E."/>
+<person name="De Domenico I."/>
+<person name="Ward D.M."/>
+<person name="Kaplan J."/>
+<person name="Sundquist W.I."/>
+</authorList>
+<dbReference type="PubMed" id="18606141"/>
+<dbReference type="DOI" id="10.1016/j.devcel.2008.05.014"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-84 IN COMPLEX WITH CHMP6</scope>
+<scope>INTERACTION WITH CHMP1A</scope>
+<scope>MUTAGENESIS OF VAL-13; LEU-64 AND LYS-173</scope>
+</reference>
+<comment type="function">
+<text evidence="9 10 13 22 23">Involved in late steps of the endosomal multivesicular bodies (MVB) pathway. Recognizes membrane-associated ESCRT-III assemblies and catalyzes their disassembly, possibly in combination with membrane fission. Redistributes the ESCRT-III components to the cytoplasm for further rounds of MVB sorting. MVBs contain intraluminal vesicles (ILVs) that are generated by invagination and scission from the limiting membrane of the endosome and mostly are delivered to lysosomes enabling degradation of membrane proteins, such as stimulated growth factor receptors, lysosomal enzymes and lipids. In conjunction with the ESCRT machinery also appears to function in topologically equivalent membrane fission events, such as the terminal stages of cytokinesis and enveloped virus budding (HIV-1 and other lentiviruses). Involved in cytokinesis: retained at the midbody by ZFYVE19/ANCHR and CHMP4C until abscission checkpoint signaling is terminated at late cytokinesis. It is then released following dephosphorylation of CHMP4C, leading to abscission (PubMed:24814515). VPS4A/B are required for the exosomal release of SDCBP, CD63 and syndecan (PubMed:22660413).</text>
+</comment>
+<comment type="catalytic activity">
+<text>ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 8 9 11 12 14 16 17 18 19 20 21 23">Proposed to be monomeric or homodimeric in nucleotide-free form and to oligomerize upon binding to ATP to form two stacked hexameric or heptameric rings with a central pore through which ESCRT-III substrates are translocated in an ATP-dependent manner (By similarity). Interacts with CHMP1A, CHMP1B, CHMP2A, CHMP2B, CHMP3, CHMP4A, CHMP4B, CHMP4C and CHMP6. Interacts with VPS4B; the interaction suggests a heteromeric assembly with VPS4B. Interacts with SPAST. Interacts with IST1. Interacts with ZFYVE19/ANCHR; leading to retain it at midbody.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1171942"/>
+<interactant intactId="EBI-1057156">
+<id>Q9HD42</id>
+<label>CHMP1A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1171942"/>
+<interactant intactId="EBI-2118090">
+<id>Q7LBR1</id>
+<label>CHMP1B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1171942"/>
+<interactant intactId="EBI-2692789">
+<id>O43633</id>
+<label>CHMP2A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Prevacuolar compartment membrane</location>
+<topology>Peripheral membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="24">Late endosome membrane</location>
+<topology evidence="24">Peripheral membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location>Midbody</location>
+</subcellularLocation>
+<text evidence="23">Membrane-associated in the prevacuolar endosomal compartment. Localizes to the midbody of dividing cells, interaction with ZFYVE19/ANCHR mediates retention at midbody (PubMed:24814515). Localized in two distinct rings on either side of the Flemming body.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="7 9">Ubiquitously expressed.</text>
+</comment>
+<comment type="domain">
+<text evidence="4">The MIT domain serves as an adapter for ESCRT-III proteins. It forms an asymmetric three-helix bundle that binds amphipathic MIM (MIT interacting motif) helices along the groove between MIT helices 2 and 3 present in a subset of ESCRT-III proteins thus establishing the canonical MIM-MIT interaction. In an extended conformation along the groove between helices 1 and 3, also binds to a type-2 MIT interacting motif (MIM2).</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the AAA ATPase family.</text>
+</comment>
+<comment type="sequence caution" evidence="24">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="AAL75948" version="1"/>
+</conflict>
+<location>
+<position position="123"/>
+</location>
+<location>
+<position position="133"/>
+</location>
+<location>
+<position position="157"/>
+</location>
+<location>
+<position position="163"/>
+</location>
+</comment>
+<dbReference type="EC" id="3.6.4.6"/>
+<dbReference type="EMBL" id="AF255952">
+<property type="protein sequence ID" value="AAK52408.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF282903">
+<property type="protein sequence ID" value="AAG01470.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF132747">
+<property type="protein sequence ID" value="AAL75948.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF159063">
+<property type="protein sequence ID" value="AAD49227.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF112215">
+<property type="protein sequence ID" value="AAF17203.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK315026">
+<property type="protein sequence ID" value="BAG37514.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471092">
+<property type="protein sequence ID" value="EAW83263.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC047932">
+<property type="protein sequence ID" value="AAH47932.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF155740">
+<property type="protein sequence ID" value="AAD42971.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS45517.1"/>
+<dbReference type="RefSeq" id="NP_037377.1">
+<property type="nucleotide sequence ID" value="NM_013245.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.128420"/>
+<dbReference type="PDB" id="1YXR">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-77"/>
+</dbReference>
+<dbReference type="PDB" id="2JQ9">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-84"/>
+</dbReference>
+<dbReference type="PDB" id="2K3W">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-84"/>
+</dbReference>
+<dbReference type="PDBsum" id="1YXR"/>
+<dbReference type="PDBsum" id="2JQ9"/>
+<dbReference type="PDBsum" id="2K3W"/>
+<dbReference type="ProteinModelPortal" id="Q9UN37"/>
+<dbReference type="SMR" id="Q9UN37"/>
+<dbReference type="BioGrid" id="118059">
+<property type="interactions" value="28"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-44585N"/>
+<dbReference type="IntAct" id="Q9UN37">
+<property type="interactions" value="18"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000254950"/>
+<dbReference type="iPTMnet" id="Q9UN37"/>
+<dbReference type="PhosphoSitePlus" id="Q9UN37"/>
+<dbReference type="BioMuta" id="VPS4A"/>
+<dbReference type="DMDM" id="62511240"/>
+<dbReference type="EPD" id="Q9UN37"/>
+<dbReference type="MaxQB" id="Q9UN37"/>
+<dbReference type="PaxDb" id="Q9UN37"/>
+<dbReference type="PeptideAtlas" id="Q9UN37"/>
+<dbReference type="PRIDE" id="Q9UN37"/>
+<dbReference type="DNASU" id="27183"/>
+<dbReference type="Ensembl" id="ENST00000254950">
+<property type="protein sequence ID" value="ENSP00000254950"/>
+<property type="gene ID" value="ENSG00000132612"/>
+</dbReference>
+<dbReference type="GeneID" id="27183"/>
+<dbReference type="KEGG" id="hsa:27183"/>
+<dbReference type="UCSC" id="uc002eww.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="27183"/>
+<dbReference type="DisGeNET" id="27183"/>
+<dbReference type="GeneCards" id="VPS4A"/>
+<dbReference type="HGNC" id="HGNC:13488">
+<property type="gene designation" value="VPS4A"/>
+</dbReference>
+<dbReference type="HPA" id="CAB018751"/>
+<dbReference type="HPA" id="CAB034411"/>
+<dbReference type="HPA" id="HPA060092"/>
+<dbReference type="MIM" id="609982">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9UN37"/>
+<dbReference type="OpenTargets" id="ENSG00000132612"/>
+<dbReference type="PharmGKB" id="PA38362"/>
+<dbReference type="eggNOG" id="KOG0739">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XRHN">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00550000074466"/>
+<dbReference type="HOGENOM" id="HOG000225146"/>
+<dbReference type="HOVERGEN" id="HBG057074"/>
+<dbReference type="InParanoid" id="Q9UN37"/>
+<dbReference type="KO" id="K12196"/>
+<dbReference type="OMA" id="NPSMMID"/>
+<dbReference type="OrthoDB" id="EOG091G0Q8J"/>
+<dbReference type="PhylomeDB" id="Q9UN37"/>
+<dbReference type="TreeFam" id="TF105012"/>
+<dbReference type="Reactome" id="R-HSA-162588">
+<property type="pathway name" value="Budding and maturation of HIV virion"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-917729">
+<property type="pathway name" value="Endosomal Sorting Complex Required For Transport (ESCRT)"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="VPS4A">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="Q9UN37"/>
+<dbReference type="GeneWiki" id="VPS4A"/>
+<dbReference type="GenomeRNAi" id="27183"/>
+<dbReference type="PRO" id="PR:Q9UN37"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 16"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000132612"/>
+<dbReference type="CleanEx" id="HS_VPS4A"/>
+<dbReference type="ExpressionAtlas" id="Q9UN37">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9UN37">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005813">
+<property type="term" value="C:centrosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005769">
+<property type="term" value="C:early endosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005768">
+<property type="term" value="C:endosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090543">
+<property type="term" value="C:Flemming body"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005770">
+<property type="term" value="C:late endosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031902">
+<property type="term" value="C:late endosome membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005764">
+<property type="term" value="C:lysosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030496">
+<property type="term" value="C:midbody"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048471">
+<property type="term" value="C:perinuclear region of cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000922">
+<property type="term" value="C:spindle pole"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005774">
+<property type="term" value="C:vacuolar membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042623">
+<property type="term" value="F:ATPase activity, coupled"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008022">
+<property type="term" value="F:protein C-terminus binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019904">
+<property type="term" value="F:protein domain specific binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009838">
+<property type="term" value="P:abscission"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051301">
+<property type="term" value="P:cell division"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000920">
+<property type="term" value="P:cell separation after cytokinesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016197">
+<property type="term" value="P:endosomal transport"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034058">
+<property type="term" value="P:endosomal vesicle fusion"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904896">
+<property type="term" value="P:ESCRT complex disassembly"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904903">
+<property type="term" value="P:ESCRT III complex disassembly"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032367">
+<property type="term" value="P:intracellular cholesterol transport"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061738">
+<property type="term" value="P:late endosomal microautophagy"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016236">
+<property type="term" value="P:macroautophagy"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006900">
+<property type="term" value="P:membrane budding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007080">
+<property type="term" value="P:mitotic metaphase plate congression"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036258">
+<property type="term" value="P:multivesicular body assembly"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032466">
+<property type="term" value="P:negative regulation of cytokinesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006997">
+<property type="term" value="P:nucleus organization"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903543">
+<property type="term" value="P:positive regulation of exosomal secretion"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903774">
+<property type="term" value="P:positive regulation of viral budding via host ESCRT complex"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903902">
+<property type="term" value="P:positive regulation of viral life cycle"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902188">
+<property type="term" value="P:positive regulation of viral release from host cell"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015031">
+<property type="term" value="P:protein transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032880">
+<property type="term" value="P:regulation of protein localization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903076">
+<property type="term" value="P:regulation of protein localization to plasma membrane"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043162">
+<property type="term" value="P:ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090611">
+<property type="term" value="P:ubiquitin-independent protein catabolic process via the multivesicular body sorting pathway"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007033">
+<property type="term" value="P:vacuole organization"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072319">
+<property type="term" value="P:vesicle uncoating"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016192">
+<property type="term" value="P:vesicle-mediated transport"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039702">
+<property type="term" value="P:viral budding via host ESCRT complex"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019058">
+<property type="term" value="P:viral life cycle"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019076">
+<property type="term" value="P:viral release from host cell"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003959">
+<property type="entry name" value="ATPase_AAA_core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003960">
+<property type="entry name" value="ATPase_AAA_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007330">
+<property type="entry name" value="MIT"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015415">
+<property type="entry name" value="Vps4_C"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00004">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04212">
+<property type="entry name" value="MIT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF09336">
+<property type="entry name" value="Vps4_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00745">
+<property type="entry name" value="MIT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF116846">
+<property type="entry name" value="SSF116846"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00674">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0132">Cell division</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0967">Endosome</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0653">Protein transport</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="Vacuolar protein sorting-associated protein 4A" id="PRO_0000084765">
+<location>
+<begin position="1"/>
+<end position="437"/>
+</location>
+</feature>
+<feature type="domain" description="MIT">
+<location>
+<begin position="2"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="24">
+<location>
+<begin position="167"/>
+<end position="174"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with CHMP1B">
+<location>
+<begin position="1"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="2">
+<location>
+<position position="8"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="5">
+<location>
+<position position="95"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="5">
+<location>
+<position position="97"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Diminishes interaction with IST1." evidence="17 19">
+<original>V</original>
+<variation>A</variation>
+<variation>D</variation>
+<location>
+<position position="13"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes interaction with CHMP6, no effect on interaction with CHMP1A." evidence="17 19">
+<original>V</original>
+<variation>D</variation>
+<location>
+<position position="13"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Greatly diminishes localization to punctate class E compartments; when associated with Q-173." evidence="17 19">
+<original>V</original>
+<variation>D</variation>
+<location>
+<position position="13"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes interaction with CHMP1B; diminishes interaction with IST1." evidence="14 16 17 19 20">
+<original>L</original>
+<variation>A</variation>
+<variation>D</variation>
+<location>
+<position position="64"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Greatly diminishes localization to punctate class E compartments and partially restores HIV-1 release; when associated with Q-173." evidence="14 16 17 19 20">
+<original>L</original>
+<variation>D</variation>
+<location>
+<position position="64"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Modestly reduces interaction with CHMP6." evidence="14 16 17 19 20">
+<original>L</original>
+<variation>D</variation>
+<location>
+<position position="64"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Diminishes interaction with CHMP1B." evidence="14">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="68"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Defective in ATP-binding. Causes membrane association. Induces vacuolation of endosomal compartments and impairs cholesterol sorting. Inhibits HIV-1 release. Greatly diminishes localization to punctate class E compartments and partially restores HIV-1 release; when associated with D-64. Greatly diminishes localization to punctate class E compartments; when associated with D-173." evidence="7 10 16 17">
+<original>K</original>
+<variation>Q</variation>
+<location>
+<position position="173"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly impairs HIV-1 release." evidence="15">
+<original>WL</original>
+<variation>AA</variation>
+<location>
+<begin position="201"/>
+<end position="202"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impairs HIV-1 release." evidence="15">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="203"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Defective in ATP-hydrolysis. Causes membrane association. Induces vacuolation of endosomal compartments and impairs cholesterol and protein sorting. Inhibits HIV-1 release. Increases binding to CHMP1." evidence="7 8 9 10 13">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="228"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AAL75948 and 5; AAF17203." ref="3 5" evidence="24">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="79"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AAL75948." ref="3" evidence="24">
+<original>N</original>
+<variation>T</variation>
+<location>
+<position position="185"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 8; AAD42971." ref="8" evidence="24">
+<original>R</original>
+<variation>K</variation>
+<location>
+<position position="284"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="5"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="25"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="50"/>
+<end position="76"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1YXR"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19608861"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250"/>
+<evidence key="4" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="O75351"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q793F9"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000255"/>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10637304"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11559748"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11563910"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11595185"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14505570"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14519844"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15075231"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16174732"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16193069"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17928862"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18606141"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18997780"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19129479"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19129480"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21543490"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22660413"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24814515"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000305"/>
+<evidence key="25" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAD42971.1"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAF17203.1"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAG01470.1"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAH47932.1"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAK52408.1"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAL75948.1"/>
+</source>
+</evidence>
+<sequence length="437" mass="48898" checksum="C3CC556FB84F105C" modified="2000-05-01" version="1">
+MTTSTLQKAIDLVTKATEEDKAKNYEEALRLYQHAVEYFLHAIKYEAHSDKAKESIRAKC
+VQYLDRAEKLKDYLRSKEKHGKKPVKENQSEGKGSDSDSEGDNPEKKKLQEQLMGAVVME
+KPNIRWNDVAGLEGAKEALKEAVILPIKFPHLFTGKRTPWRGILLFGPPGTGKSYLAKAV
+ATEANNSTFFSVSSSDLMSKWLGESEKLVKNLFELARQHKPSIIFIDEVDSLCGSRNENE
+SEAARRIKTEFLVQMQGVGNNNDGTLVLGATNIPWVLDSAIRRRFEKRIYIPLPEEAARA
+QMFRLHLGSTPHNLTDANIHELARKTEGYSGADISIIVRDSLMQPVRKVQSATHFKKVCG
+PSRTNPSMMIDDLLTPCSPGDPGAMEMTWMDVPGDKLLEPVVCMSDMLRSLATTRPTVNA
+DDLLKVKKFSEDFGQES
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

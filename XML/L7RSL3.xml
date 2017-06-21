@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2013-04-03" modified="2017-05-10" version="39">
+<accession>L7RSL3</accession>
+<name>L7RSL3_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="13">Fms-related tyrosine kinase 1 (Vascular endothelial growth factor/vascular permeability factor receptor)</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="13">FLT1</name>
+</gene>
+<organism evidence="13">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="13">
+<citation type="submission" date="2012-08" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Rieder M.J."/>
+<person name="Bertucci C."/>
+<person name="Stanaway I.B."/>
+<person name="Johnson E.J."/>
+<person name="Swanson J.E."/>
+<person name="Siegel D.L."/>
+<person name="da Ponte S.H."/>
+<person name="Igartua C."/>
+<person name="Patterson K."/>
+<person name="Nickerson D.A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="1 7">ATP + a [protein]-L-tyrosine = ADP + a [protein]-L-tyrosine phosphate.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Membrane</location>
+<topology evidence="1">Single-pass type I membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the protein kinase superfamily. Tyr protein kinase family. CSF-1/PDGF receptor subfamily.</text>
+</comment>
+<dbReference type="EMBL" id="JX512442">
+<property type="protein sequence ID" value="AGC09589.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_002010.2">
+<property type="nucleotide sequence ID" value="NM_002019.4"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.594454"/>
+<dbReference type="ProteinModelPortal" id="L7RSL3"/>
+<dbReference type="SMR" id="L7RSL3"/>
+<dbReference type="STRING" id="9606.ENSP00000282397"/>
+<dbReference type="BindingDB" id="L7RSL3"/>
+<dbReference type="PaxDb" id="L7RSL3"/>
+<dbReference type="PRIDE" id="L7RSL3"/>
+<dbReference type="GeneID" id="2321"/>
+<dbReference type="KEGG" id="hsa:2321"/>
+<dbReference type="CTD" id="2321"/>
+<dbReference type="eggNOG" id="KOG0200">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0515">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="KO" id="K05096"/>
+<dbReference type="OMA" id="ILTHIGH"/>
+<dbReference type="OrthoDB" id="EOG091G01TL"/>
+<dbReference type="PhylomeDB" id="L7RSL3"/>
+<dbReference type="ChiTaRS" id="FLT1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="2321"/>
+<dbReference type="Bgee" id="ENSG00000102755"/>
+<dbReference type="ExpressionAtlas" id="L7RSL3">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015629">
+<property type="term" value="C:actin cytoskeleton"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005021">
+<property type="term" value="F:vascular endothelial growth factor-activated receptor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048010">
+<property type="term" value="P:vascular endothelial growth factor receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.40.10">
+<property type="match status" value="8"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007110">
+<property type="entry name" value="Ig-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013783">
+<property type="entry name" value="Ig-like_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013098">
+<property type="entry name" value="Ig_I-set"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003599">
+<property type="entry name" value="Ig_sub"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003598">
+<property type="entry name" value="Ig_sub2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013106">
+<property type="entry name" value="Ig_V-set"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013151">
+<property type="entry name" value="Immunoglobulin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001245">
+<property type="entry name" value="Ser-Thr/Tyr_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008266">
+<property type="entry name" value="Tyr_kinase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020635">
+<property type="entry name" value="Tyr_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001824">
+<property type="entry name" value="Tyr_kinase_rcpt_3_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009135">
+<property type="entry name" value="VEGFR1_rcpt"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07679">
+<property type="entry name" value="I-set"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00047">
+<property type="entry name" value="ig"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07714">
+<property type="entry name" value="Pkinase_Tyr"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01833">
+<property type="entry name" value="VEGFRECEPTR1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00409">
+<property type="entry name" value="IG"/>
+<property type="match status" value="7"/>
+</dbReference>
+<dbReference type="SMART" id="SM00408">
+<property type="entry name" value="IGc2"/>
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="SMART" id="SM00406">
+<property type="entry name" value="IGv"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00219">
+<property type="entry name" value="TyrKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48726">
+<property type="entry name" value="SSF48726"/>
+<property type="match status" value="8"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50835">
+<property type="entry name" value="IG_LIKE"/>
+<property type="match status" value="6"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00109">
+<property type="entry name" value="PROTEIN_KINASE_TYR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00240">
+<property type="entry name" value="RECEPTOR_TYR_KIN_III"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0067" evidence="8">ATP-binding</keyword>
+<keyword id="KW-1015" evidence="9">Disulfide bond</keyword>
+<keyword id="KW-0393" evidence="1 2">Immunoglobulin domain</keyword>
+<keyword id="KW-0418" evidence="4">Kinase</keyword>
+<keyword id="KW-0472" evidence="6">Membrane</keyword>
+<keyword id="KW-0547" evidence="8">Nucleotide-binding</keyword>
+<keyword id="KW-0675" evidence="1 5 13">Receptor</keyword>
+<keyword id="KW-0677" evidence="3">Repeat</keyword>
+<keyword id="KW-0732" evidence="10">Signal</keyword>
+<keyword id="KW-0808" evidence="4">Transferase</keyword>
+<keyword id="KW-0812" evidence="6">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="6">Transmembrane helix</keyword>
+<keyword id="KW-0829" evidence="4">Tyrosine-protein kinase</keyword>
+<feature type="signal peptide" evidence="10">
+<location>
+<begin position="1"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="chain" id="PRO_5003983118" evidence="10">
+<location>
+<begin position="27"/>
+<end position="1338"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like (immunoglobulin-like)" evidence="12">
+<location>
+<begin position="32"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like (immunoglobulin-like)" evidence="12">
+<location>
+<begin position="230"/>
+<end position="327"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like (immunoglobulin-like)" evidence="12">
+<location>
+<begin position="349"/>
+<end position="404"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like (immunoglobulin-like)" evidence="12">
+<location>
+<begin position="428"/>
+<end position="553"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like (immunoglobulin-like)" evidence="12">
+<location>
+<begin position="556"/>
+<end position="654"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like (immunoglobulin-like)" evidence="12">
+<location>
+<begin position="661"/>
+<end position="747"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase" evidence="11">
+<location>
+<begin position="827"/>
+<end position="1158"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000311"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00442402"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00457685"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00582553"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00600436"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00602683"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00701269"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00708816"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00803457"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="SignalP"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50835"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AGC09589.1"/>
+</source>
+</evidence>
+<sequence length="1338" mass="150769" checksum="FF3381EEFAF0787C" modified="2013-04-03" version="1">
+MVSYWDTGVLLCALLSCLLLTGSSSGSKLKDPELSLKGTQHIMQAGQTLHLQCRGEAAHK
+WSLPEMVSKESERLSITKSACGRNGKQFCSTLTLNTAQANHTGFYSCKYLAVPTSKKKET
+ESAIYIFISDTGRPFVEMYSEIPEIIHMTEGRELVIPCRVTSPNITVTLKKFPLDTLIPD
+GKRIIWDSRKGFIISNATYKEIGLLTCEATVNGHLYKTNYLTHRQTNTIIDVQISTPRPV
+KLLRGHTLVLNCTATTPLNTRVQMTWSYPDEKNKRASVRRRIDQSNSHANIFYSVLTIDK
+MQNKDKGLYTCRVRSGPSFKSVNTSVHIYDKAFITVKHRKQQVLETVAGKRSYRLSMKVK
+AFPSPEVVWLKDGLPATEKSARYLTRGYSLIIKDVTEEDAGNYTILLSIKQSNVFKNLTA
+TLIVNVKPQIYEKAVSSFPDPALYPLGSRQILTCTAYGIPQPTIKWFWHPCNHNHSEARC
+DFCSNNEESFILDADSNMGNRIESITQRMAIIEGKNKMASTLVVADSRISGIYICIASNK
+VGTVGRNISFYITDVPNGFHVNLEKMPTEGEDLKLSCTVNKFLYRDVTWILLRTVNNRTM
+HYSISKQKMAITKEHSITLNLTIMNVSLQDSGTYACRARNVYTGEEILQKKEITIRDQEA
+PYLLRNLSDHTVAISSSTTLDCHANGVPEPQITWFKNNHKIQQEPGIILGPGSSTLFIER
+VTEEDEGVYHCKATNQKGSVESSAYLTVQGTSDKSNLELITLTCTCVAATLFWLLLTLFI
+RKMKRSSSEIKTDYLSIIMDPDEVPLDEQCERLPYDASKWEFARERLKLGKSLGRGAFGK
+VVQASAFGIKKSPTCRTVAVKMLKEGATASEYKALMTELKILTHIGHHLNVVNLLGACTK
+QGGPLMVIVEYCKYGNLSNYLKSKRDLFFLNKDAALHMEPKKEKMEPGLEQGKKPRLDSV
+TSSESFASSGFQEDKSLSDVEEEEDSDGFYKEPITMEDLISYSFQVARGMEFLSSRKCIH
+RDLAARNILLSENNVVKICDFGLARDIYKNPDYVRKGDTRLPLKWMAPESIFDKIYSTKS
+DVWSYGVLLWEIFSLGGSPYPGVQMDEDFCSRLREGMRMRAPEYSTPEIYQIMLDCWHRD
+PKERPRFAELVEKLGDLLQANVQQDGKDYIPINAILTGNSGFTYSTPAFSEDFFKESISA
+PKFNSGSSDDVRYVNAFKFMSLERIKTFEELLPNATSMFDDYQGDSSTLLASPMLKRFTW
+TDSKPKASLKIDLRVTSKSKESGLSDVSRPSFCHSSCGHVSEGKRRFTYDHAELERKIAC
+CSPPPDYNSVVLYSTPPI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

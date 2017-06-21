@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2001-03-01" modified="2017-04-12" version="101">
+<accession>Q9H4N9</accession>
+<name>Q9H4N9_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="3">Clone CDABP0042 mRNA sequence</fullName>
+</submittedName>
+</protein>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="journal article" date="1996" name="Anal. Biochem." volume="236" first="107" last="113">
+<title>A "double adaptor" method for improved shotgun library construction.</title>
+<authorList>
+<person name="Andersson B."/>
+<person name="Wentland M.A."/>
+<person name="Ricafrente J.Y."/>
+<person name="Liu W."/>
+<person name="Gibbs R.A."/>
+</authorList>
+<dbReference type="PubMed" id="8619474"/>
+<dbReference type="DOI" id="10.1006/abio.1996.0138"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="2" evidence="3">
+<citation type="journal article" date="1997" name="Genome Res." volume="7" first="353" last="358">
+<title>Large-scale concatenation cDNA sequencing.</title>
+<authorList>
+<person name="Yu W."/>
+<person name="Andersson B."/>
+<person name="Worley K.C."/>
+<person name="Muzny D.M."/>
+<person name="Ding Y."/>
+<person name="Liu W."/>
+<person name="Ricafrente J.Y."/>
+<person name="Wentland M.A."/>
+<person name="Lennon G."/>
+<person name="Gibbs R.A."/>
+</authorList>
+<dbReference type="PubMed" id="9110174"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="3" evidence="3">
+<citation type="submission" date="2000-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Zhou J."/>
+<person name="Yu W."/>
+<person name="Tang H."/>
+<person name="Mei G."/>
+<person name="Tsang Y.T.M."/>
+<person name="Bouck J."/>
+<person name="Gibbs R.A."/>
+<person name="Margolin J.F."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the MCM family.</text>
+</comment>
+<dbReference type="EMBL" id="AY007130">
+<property type="protein sequence ID" value="AAG01994.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.438720"/>
+<dbReference type="ProteinModelPortal" id="Q9H4N9"/>
+<dbReference type="MINT" id="MINT-1447717"/>
+<dbReference type="STRING" id="9606.ENSP00000307288"/>
+<dbReference type="PaxDb" id="Q9H4N9"/>
+<dbReference type="PeptideAtlas" id="Q9H4N9"/>
+<dbReference type="PRIDE" id="Q9H4N9"/>
+<dbReference type="eggNOG" id="KOG0482">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1241">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000166508"/>
+<dbReference type="GO" id="GO:0042555">
+<property type="term" value="C:MCM complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003678">
+<property type="term" value="F:DNA helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006270">
+<property type="term" value="P:DNA replication initiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR031327">
+<property type="entry name" value="MCM"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008050">
+<property type="entry name" value="MCM7"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018525">
+<property type="entry name" value="MCM_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001208">
+<property type="entry name" value="MCM_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11630:SF78">
+<property type="entry name" value="PTHR11630:SF78"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00493">
+<property type="entry name" value="MCM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01657">
+<property type="entry name" value="MCMFAMILY"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00350">
+<property type="entry name" value="MCM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00847">
+<property type="entry name" value="MCM_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50051">
+<property type="entry name" value="MCM_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0238" evidence="1">DNA-binding</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="domain" description="MCM" evidence="2">
+<location>
+<begin position="1"/>
+<end position="169"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU004070"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50051"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAG01994.1"/>
+</source>
+</evidence>
+<sequence length="351" mass="39244" checksum="A98BCFB9922E80F5" modified="2001-03-01" version="1">
+MKIRGNINICLMGDPGVAKSQLLSYIDRLAPRSQYTTGRGSSGVGLTAAVLRDSVSGELT
+LEGGALVLADQGVCCIDEFDKMAEADRTAIHEVMEQQTISIAKAGILTTLNARCSILAAA
+NPAYGRYNPRRSLEQNIQLPAALLSRFDLLWLIQDRPDRDNDLRLAQHITYVHQHSRQPP
+SQFEPLDMKLMRRYIAMCREKQPMVPESLADYITAAYVEMRREAWASKDATYTSARTLLA
+ILRLSTALARLRMVDVVEKEDVNEAIRLMEMSKDSLLGDKGQTARTQRPADVIFATVREL
+VSGGRSVRFSEAEQRCVSRGFTPAQFQAALDEYEELNVWQVNASRTRITFV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-09-23" modified="2017-05-10" version="51">
+<accession>B4DF61</accession>
+<name>B4DF61_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="3">cDNA FLJ53309, highly similar to Methionyl-tRNA synthetase (EC 6.1.1.10)</fullName>
+</submittedName>
+</protein>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project focused on splicing variants.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="3">Cerebellum</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the class-I aminoacyl-tRNA synthetase family.</text>
+</comment>
+<dbReference type="EMBL" id="AK293945">
+<property type="protein sequence ID" value="BAG57322.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.632707"/>
+<dbReference type="ProteinModelPortal" id="B4DF61"/>
+<dbReference type="STRING" id="9606.ENSP00000262027"/>
+<dbReference type="PaxDb" id="B4DF61"/>
+<dbReference type="PeptideAtlas" id="B4DF61"/>
+<dbReference type="PRIDE" id="B4DF61"/>
+<dbReference type="eggNOG" id="KOG0867">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG1247">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0143">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004825">
+<property type="term" value="F:methionine-tRNA ligase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006431">
+<property type="term" value="P:methionyl-tRNA aminoacylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd00814">
+<property type="entry name" value="MetRS_core"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.730.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.620">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00098">
+<property type="entry name" value="Met_tRNA_synth_type1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001412">
+<property type="entry name" value="aa-tRNA-synth_I_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023458">
+<property type="entry name" value="Met-tRNA_ligase_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014758">
+<property type="entry name" value="Met-tRNA_synth"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015413">
+<property type="entry name" value="Methionyl/Leucyl_tRNA_Synth"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033911">
+<property type="entry name" value="MetRS_core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029038">
+<property type="entry name" value="MetRS_Zn"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014729">
+<property type="entry name" value="Rossmann-like_a/b/a_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009080">
+<property type="entry name" value="tRNAsynth_Ia_anticodon-bd"/>
+</dbReference>
+<dbReference type="Pfam" id="PF09334">
+<property type="entry name" value="tRNA-synt_1g"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01041">
+<property type="entry name" value="TRNASYNTHMET"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47323">
+<property type="entry name" value="SSF47323"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF57770">
+<property type="entry name" value="SSF57770"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00398">
+<property type="entry name" value="metG"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00178">
+<property type="entry name" value="AA_TRNA_LIGASE_I"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0030" evidence="1 3">Aminoacyl-tRNA synthetase</keyword>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0436" evidence="1 3">Ligase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0648" evidence="1">Protein biosynthesis</keyword>
+<feature type="domain" description="tRNA-synt_1g" evidence="2">
+<location>
+<begin position="32"/>
+<end position="423"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU363039"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF09334"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG57322.1"/>
+</source>
+</evidence>
+<sequence length="635" mass="71801" checksum="3710AAC3068EE3ED" modified="2008-09-23" version="1">
+MAVTAWEKGLESLPPLRPQQNPVLPVAGERNVLITSALPYVSNVPHLGNIIGCVLSADVF
+ARYSRLRQWNTLYLCGTDEYGTATETKALEEGLTPQEICDKYHIIHADIYRWFNISFDIF
+GRTTTPQQTKITQDIFQQLLKRGFVLQDTVEQLRCEHCARFLADRFVEGVCPFCGYEEAR
+GDQCDKCGKLINAVELKKPQCKVCRSCPVVQSSQHLFLDLPKLEKRLEEWLGRTLPGSDW
+TPNAQFITRSWLRDGLKPRCITRDLKWGTPVPLEGFEDKVFYVWFDATIGYLSITANYTD
+QWERWWKNPEQVDLYQFMAKDNVPFHSLVFPCSALGAEDNYTLVSHLIATEYLNYEDGKF
+SKSRGVGVFGDMAQDTGIPADIWRFYLLYIRPEGQDSAFSWTDLLLKNNSELLNNLGNFI
+NRAGMFVSKFFGGYVPEMVLTPDDQRLLAHVTLELQHYHQLLEKVRIRDALRSILTISRH
+GNQYIQVNEPWKRIKGSEADRQRAGTVTGLAVNIAALLSVMLQPYMPTVSATIQAQLQLP
+PPACSILLTNFLCTLPAGHQIGTVSPLFQKLENDQIESLRQRFGGGQVRKLKAVPSLHNS
+HSITSLISLSSPHPSLFPSFGPAASSLTVFLSCLN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

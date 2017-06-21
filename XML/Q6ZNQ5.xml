@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2004-07-05" modified="2017-01-18" version="58">
+<accession>Q6ZNQ5</accession>
+<name>Q6ZNQ5_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="6">cDNA FLJ27339 fis, clone TMS09615, highly similar to TFIIH basal transcription factor complex helicase subunit (EC 3.6.1.-)</fullName>
+</submittedName>
+</protein>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="submission" date="2003-07" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project.</title>
+<authorList>
+<person name="Kawakami B."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Suzuki Y."/>
+<person name="Hata H."/>
+<person name="Nakagawa K."/>
+<person name="Mizuno S."/>
+<person name="Morinaga M."/>
+<person name="Kawamura M."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Otsuki T."/>
+<person name="Sato H."/>
+<person name="Nishikawa T."/>
+<person name="Nagai K."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="6">Thymus</tissue>
+</source>
+</reference>
+<comment type="catalytic activity">
+<text evidence="3">ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Nucleus</location>
+</subcellularLocation>
+</comment>
+<dbReference type="EMBL" id="AK130849">
+<property type="protein sequence ID" value="BAC85446.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.487294"/>
+<dbReference type="ProteinModelPortal" id="Q6ZNQ5"/>
+<dbReference type="STRING" id="9606.ENSP00000375809"/>
+<dbReference type="MaxQB" id="Q6ZNQ5"/>
+<dbReference type="PaxDb" id="Q6ZNQ5"/>
+<dbReference type="PeptideAtlas" id="Q6ZNQ5"/>
+<dbReference type="PRIDE" id="Q6ZNQ5"/>
+<dbReference type="eggNOG" id="KOG1131">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1199">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004003">
+<property type="term" value="F:ATP-dependent DNA helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006289">
+<property type="term" value="P:nucleotide-excision repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006555">
+<property type="entry name" value="ATP-dep_Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013020">
+<property type="entry name" value="DNA_helicase_DNA-repair_Rad3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010643">
+<property type="entry name" value="HBB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001945">
+<property type="entry name" value="RAD3/XPD"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06777">
+<property type="entry name" value="HBB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13307">
+<property type="entry name" value="Helicase_C_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00852">
+<property type="entry name" value="XRODRMPGMNTD"/>
+</dbReference>
+<dbReference type="SMART" id="SM00491">
+<property type="entry name" value="HELICc2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00604">
+<property type="entry name" value="rad3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2 6">ATP-binding</keyword>
+<keyword id="KW-0347" evidence="2 6">Helicase</keyword>
+<keyword id="KW-0378" evidence="2 6">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="2 6">Nucleotide-binding</keyword>
+<keyword id="KW-0539" evidence="1">Nucleus</keyword>
+<feature type="domain" description="HELICc2" evidence="5">
+<location>
+<begin position="235"/>
+<end position="379"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00051128"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00051160"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00364933"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00556201"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00491"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAC85446.1"/>
+</source>
+</evidence>
+<sequence length="453" mass="50971" checksum="2406B5BD7BA85858" modified="2004-07-05" version="1">
+MRQWLFVTCRCTAWGCKFPKQAQCPPSLSAHCLGRQARDRRDGGGRAAGPAHASVCPPTP
+SLLPARFCAERLRSLLHTLEITDLADFSPLTLLANFATLVSTYAKGFTIIIEPFDDRTPT
+IANPILHFSCMDASLAIKPVFERFQSVIITSGTLSPLDIYPKILDFHPVTMATFTMTLAR
+VCLCPMIIGRGNDQVAISSKLETREDIAVIRNYGNLLLEMSAVVPDGIVAFFTSYQYMES
+TVASWYEQGILENIQRNKLLFIETQDGAETSVALEKYQEACENGRGAILLSVARGKVSEG
+IDFVHHYGRAVIMFGVPYVYTQSRILKARLEYLRDQFQIRENDFLTFDAMRHAAQCVGRA
+IRGKTDYGLMVFADKRFARGDKRGKLPRWIQEHLTDANLNLTVDEGVQVAKYFLRQMAQP
+FHREDQLGLSLLSLEQLESEETLQRIEQIAQQL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

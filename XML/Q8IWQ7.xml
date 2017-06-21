@@ -1,0 +1,401 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2003-03-01" modified="2017-04-12" version="116">
+<accession>Q8IWQ7</accession>
+<name>Q8IWQ7_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="13">CDC42-binding protein kinase beta</fullName>
+</submittedName>
+</protein>
+<organism evidence="13">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="13">
+<citation type="submission" date="2002-10" db="EMBL/GenBank/DDBJ databases">
+<title>Plasmid tagging for efficient large-scale sequence completion of entire clone inserts.</title>
+<authorList>
+<person name="Fu G.K."/>
+<person name="Jackson A.A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="3">ATP + a protein = ADP + a phosphoprotein.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.</text>
+</comment>
+<dbReference type="EMBL" id="AY166586">
+<property type="protein sequence ID" value="AAN86031.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.35433"/>
+<dbReference type="ProteinModelPortal" id="Q8IWQ7"/>
+<dbReference type="PeptideAtlas" id="Q8IWQ7"/>
+<dbReference type="PRIDE" id="Q8IWQ7"/>
+<dbReference type="HOGENOM" id="HOG000294133"/>
+<dbReference type="HOVERGEN" id="HBG055933"/>
+<dbReference type="SignaLink" id="Q8IWQ7"/>
+<dbReference type="ChiTaRS" id="CDC42BPA">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005622">
+<property type="term" value="C:intracellular"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035556">
+<property type="term" value="P:intracellular signal transduction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd00029">
+<property type="entry name" value="C1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.130.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.30.29.30">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.810.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000961">
+<property type="entry name" value="AGC-kinase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001180">
+<property type="entry name" value="CNH_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000095">
+<property type="entry name" value="CRIB_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014930">
+<property type="entry name" value="Myotonic_dystrophy_kinase_coil"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002219">
+<property type="entry name" value="PE/DAG-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011993">
+<property type="entry name" value="PH_dom-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001849">
+<property type="entry name" value="PH_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017892">
+<property type="entry name" value="Pkinase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015943">
+<property type="entry name" value="WD40/YVTN_repeat-like_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00130">
+<property type="entry name" value="C1_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00780">
+<property type="entry name" value="CNH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08826">
+<property type="entry name" value="DMPK_coil"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00433">
+<property type="entry name" value="Pkinase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="ProDom" id="PD011252">
+<property type="entry name" value="Myotonic_dystrophy_kinase_coil"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00109">
+<property type="entry name" value="C1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00036">
+<property type="entry name" value="CNH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00285">
+<property type="entry name" value="PBD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00233">
+<property type="entry name" value="PH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00133">
+<property type="entry name" value="S_TK_X"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50729">
+<property type="entry name" value="SSF50729"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51285">
+<property type="entry name" value="AGC_KINASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50219">
+<property type="entry name" value="CNH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50108">
+<property type="entry name" value="CRIB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50003">
+<property type="entry name" value="PH_DOMAIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00479">
+<property type="entry name" value="ZF_DAG_PE_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50081">
+<property type="entry name" value="ZF_DAG_PE_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0175" evidence="6">Coiled coil</keyword>
+<keyword id="KW-0418" evidence="2">Kinase</keyword>
+<keyword id="KW-0479" evidence="5">Metal-binding</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0723" evidence="2">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808" evidence="2">Transferase</keyword>
+<keyword id="KW-0862" evidence="5">Zinc</keyword>
+<keyword id="KW-0863" evidence="5">Zinc-finger</keyword>
+<feature type="domain" description="Protein kinase" evidence="8">
+<location>
+<begin position="77"/>
+<end position="343"/>
+</location>
+</feature>
+<feature type="domain" description="AGC-kinase C-terminal" evidence="12">
+<location>
+<begin position="344"/>
+<end position="414"/>
+</location>
+</feature>
+<feature type="domain" description="Phorbol-ester/DAG-type" evidence="9">
+<location>
+<begin position="918"/>
+<end position="968"/>
+</location>
+</feature>
+<feature type="domain" description="PH" evidence="7">
+<location>
+<begin position="988"/>
+<end position="1107"/>
+</location>
+</feature>
+<feature type="domain" description="CNH" evidence="11">
+<location>
+<begin position="1133"/>
+<end position="1405"/>
+</location>
+</feature>
+<feature type="domain" description="CRIB" evidence="10">
+<location>
+<begin position="1477"/>
+<end position="1490"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="6">
+<location>
+<begin position="441"/>
+<end position="468"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="6">
+<location>
+<begin position="482"/>
+<end position="560"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="6">
+<location>
+<begin position="634"/>
+<end position="739"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="6">
+<location>
+<begin position="833"/>
+<end position="860"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00593399"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00593706"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00594266"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00784564"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00795753"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50003"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50081"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50108"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50219"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51285"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAN86031.1"/>
+</source>
+</evidence>
+<sequence length="1638" mass="186038" checksum="6AF8981F30E6C404" modified="2003-03-01" version="1">
+MSGEVRLRQLEQFILDGPAQTNGQCFSVETLLDILICLYDECNNSPLRREKNILEYLEWA
+KPFTSKVKQMRLHREDFEILKVIGRGAFGEVAVVKLKNADKVFAMKILNKWEMLKRAETA
+CFREERDVLVNGDNKWITTLHYAFQDDNNLYLVMDYYVGGDLLTLLSKFEDRLPEDMARF
+YLAEMVIAIDSVHQLHYVHRDIKPDNILMDMNGHIRLADFGSCLKLMEDGTVQSSVAVGT
+PDYISPEILQAMEDGKGRYGPECDWWSLGVCMYEMLYGETPFYAESLVETYGKIMNHKER
+FQFPAQVTDVSENAKDPIRRLICGREHRLGQSGIEDFKKHPFFSGIDWDNIRNCEAPYIP
+EVSSPTDTSNFDVDDDCLKNSETMPPPTHTAFSGHHLPFVGFTYTSSCVLSDRSCLRVTA
+GPTSLDLDVNVQRTLDNNLATEAYERRIKRLEQEKLELSRKLQESTQTVQALQYSTVDGP
+LTASKDLEIKNLKEVIEKLRKQVTESSHLEQQLEEANAVRQELDDAFRQIKAYEKQIKTL
+QQEREDLNKLEVHTEALAAEASKDRKLREQSEHYSKQLENELEGLKQKQISYSPGVCSIE
+HQQEITKLKTDLEKKSIFYEEELSKREGIHANEIKNLKKELHDSEGQQLALNKEIMILKD
+KLEKTRRESQSEREEFESEFKQQYEREKVLLTEENKKLTSELDKLTTLYENLSIHNQQLE
+EEVKDLADKKESVAHWEAQITEIIQWVSDEKDARGYLQALASKMTEELEALRNSSLGTRA
+TDMPWKMRRFAKLDMSARLELQSALDAEIRAKQAIQEELNKVKASNIITECKLKDSEKKN
+LELLSEIEQLIKDTEELRSEKGIEHQDSQHSFLAFLNTPTDALDQFETVDSTPLSVHTPT
+LRKKGCPGSTGFPPKRKTHQFFVKSFTTPTKCHQCTSLMVGLIRQGCSCEVCGFSCHITC
+VNKAPTTCPVPPEQTKGPLGIDPQKGIGTAYEGHVRIPKPAGVKKGWQRALAIVCDFKLF
+LYDIAEGKASQPSVVISQVIDMRDEEFSVSSVLASDVIHASRKDIPCIFRVTASQLSASN
+NKCSILMLADTENEKNKWVGVLSELHKILKKNKFRDRSVYVPKEAYDSTLPLIKTTQAAA
+IIDHERIALGNEEGLFVVHVTKDEIIRVGDNKKIHQIELIPNDQLVAVISGRNRHVRLFP
+MSALDGRETDFYKLSETKGCQTVTSGKVRHGALTCLCVAMKRQVLCYELFQSKTRHRKFK
+EIQVPYNVQWMAIFSEQLCVGFQSGFLRYPLNGEGNPYSMLHSNDHTLSFIAHQPMDAIC
+AVEISSKEYLLCFNSIGIYTDCQGRRSRQQELMWPANPSSCCYNAPYLSVYSENAVDIFD
+VNSMEWIQTLPLKKVRPLNNEGSLNLLGLETIRLIYFKNKMAEGDELVVPETSDNSRKQM
+VRNINNKRRYSFRVPEEERMQQRREMLRDPEMRNKLISNPTNFNHIAHMGPGDGIQILKD
+LPMNPRPQESRTVFSGSVSIPSITKSRPEPGRSMSASSGLSARSSAQNGSALKREFSGGS
+YSAKRQPMPSPSEGSLSSGGMDQGSDAPARDFDGEDSDSPRHSTASNSSNLSSPPSPVSP
+RKTKSLSLESTDRGSWDP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

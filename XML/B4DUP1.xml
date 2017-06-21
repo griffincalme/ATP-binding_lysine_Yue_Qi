@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-09-23" modified="2017-05-10" version="41">
+<accession>B4DUP1</accession>
+<name>B4DUP1_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="4">cDNA FLJ57602, highly similar to Creatine kinase M-type (EC 2.7.3.2)</fullName>
+</submittedName>
+</protein>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project focused on splicing variants.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="4">Skeletal muscle</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1 2">Belongs to the ATP:guanido phosphotransferase family.</text>
+</comment>
+<comment type="caution">
+<text evidence="1">Lacks conserved residue(s) required for the propagation of feature annotation.</text>
+</comment>
+<dbReference type="EMBL" id="AK300730">
+<property type="protein sequence ID" value="BAG62403.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.334347"/>
+<dbReference type="ProteinModelPortal" id="B4DUP1"/>
+<dbReference type="MaxQB" id="B4DUP1"/>
+<dbReference type="PeptideAtlas" id="B4DUP1"/>
+<dbReference type="PRIDE" id="B4DUP1"/>
+<dbReference type="HOGENOM" id="HOG000232165"/>
+<dbReference type="HOVERGEN" id="HBG001339"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016301">
+<property type="term" value="F:kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.590.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000749">
+<property type="entry name" value="ATP-guanido_PTrfase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022415">
+<property type="entry name" value="ATP-guanido_PTrfase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022414">
+<property type="entry name" value="ATP-guanido_PTrfase_cat"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014746">
+<property type="entry name" value="Gln_synth/guanido_kin_cat_dom"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11547">
+<property type="entry name" value="PTHR11547"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00217">
+<property type="entry name" value="ATP-gua_Ptrans"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00112">
+<property type="entry name" value="PHOSPHAGEN_KINASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51510">
+<property type="entry name" value="PHOSPHAGEN_KINASE_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="1 2 4">Kinase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0808" evidence="1 2 4">Transferase</keyword>
+<feature type="domain" description="Phosphagen kinase C-terminal" evidence="3">
+<location>
+<begin position="39"/>
+<end position="253"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="178"/>
+<end position="182"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="206"/>
+<end position="211"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="77"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="122"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00843"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000505"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51510"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG62403.1"/>
+</source>
+</evidence>
+<sequence length="267" mass="29941" checksum="9939D0A0B01189A1" modified="2008-09-23" version="1">
+MRSPTKFSRNSLTPSSRIATGATNPLTSTRLTSTMKTSRVEKLSVEALNSLTGEFKGKYY
+PLKSMTEKEQQQLIDDHFLFDKPVSPLLLASGMARDWPDARGIWHNDNKSFLVWVNEEDH
+LRVISMEKGGNMKEVFRRFCVGLQKIEEIFKKAGHPFMWNQHLGYVLTCPSNLGTGLRGG
+VHVKLAHLSKHPKFEEILTRLRLQKRGTGGVDTAAVGSVFDVSNADRLGSSEVEQVQLVV
+DGVKLMVEMEKKLEKGQSIDDMIPAQK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-09-23" modified="2017-02-15" version="41">
+<accession>B4DPT9</accession>
+<name>B4DPT9_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="3">Receptor protein serine/threonine kinase</fullName>
+<ecNumber evidence="3">2.7.11.30</ecNumber>
+</recommendedName>
+</protein>
+<organism evidence="9">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="9">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project focused on splicing variants.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="9">Mammary gland</tissue>
+</source>
+</reference>
+<comment type="catalytic activity">
+<text evidence="2">ATP + [receptor-protein] = ADP + [receptor-protein] phosphate.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. TGFB receptor subfamily.</text>
+</comment>
+<dbReference type="EC" id="2.7.11.30" evidence="3"/>
+<dbReference type="EMBL" id="AK298493">
+<property type="protein sequence ID" value="BAG60701.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.591026"/>
+<dbReference type="STRING" id="9606.ENSP00000373574"/>
+<dbReference type="PaxDb" id="B4DPT9"/>
+<dbReference type="PeptideAtlas" id="B4DPT9"/>
+<dbReference type="eggNOG" id="KOG2052">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XQT0">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="SignaLink" id="B4DPT9"/>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004702">
+<property type="term" value="F:signal transducer, downstream of receptor, with serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007178">
+<property type="term" value="P:transmembrane receptor protein serine/threonine kinase signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000333">
+<property type="entry name" value="TGFB_receptor"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR23255">
+<property type="entry name" value="PTHR23255"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="4">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="5">Kinase</keyword>
+<keyword id="KW-0472" evidence="1">Membrane</keyword>
+<keyword id="KW-0547" evidence="4">Nucleotide-binding</keyword>
+<keyword id="KW-0675" evidence="6 9">Receptor</keyword>
+<keyword id="KW-0723" evidence="5">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808" evidence="5">Transferase</keyword>
+<keyword id="KW-0812" evidence="1">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="1">Transmembrane helix</keyword>
+<feature type="domain" description="Protein kinase" evidence="8">
+<location>
+<begin position="1"/>
+<end position="139"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00138163"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00410096"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00410109"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00488784"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00488798"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00488829"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00595019"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG60701.1"/>
+</source>
+</evidence>
+<sequence length="150" mass="17285" checksum="79E064ACEAFA3306" modified="2008-09-23" version="1">
+MHSQGSDYLDIGNNPRVGTKRYMAPEVLDEQIRTDCFESYKWTDIWAFGLVLWEIARRTI
+VNGIVEDYRPPFYDVVPNDPSFEDMKKVVCVDQQTPTIPNRLAADPVLSGLAQMMRECWY
+PNPPARLTALRIKKTLQKISNSPEKPKVIQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

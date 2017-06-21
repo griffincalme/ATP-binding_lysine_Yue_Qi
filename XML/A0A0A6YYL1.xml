@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2015-02-04" modified="2017-05-10" version="19">
+<accession>A0A0A6YYL1</accession>
+<name>A0A0A6YYL1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">5-formyltetrahydrofolate cyclo-ligase</fullName>
+<ecNumber evidence="2">6.3.3.2</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">ST20-MTHFS</name>
+</gene>
+<organism evidence="3 4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3 4">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="671" last="675">
+<title>Analysis of the DNA sequence and duplication history of human chromosome 15.</title>
+<authorList>
+<person name="Zody M.C."/>
+<person name="Garber M."/>
+<person name="Sharpe T."/>
+<person name="Young S.K."/>
+<person name="Rowen L."/>
+<person name="O'Neill K."/>
+<person name="Whittaker C.A."/>
+<person name="Kamal M."/>
+<person name="Chang J.L."/>
+<person name="Cuomo C.A."/>
+<person name="Dewar K."/>
+<person name="FitzGerald M.G."/>
+<person name="Kodira C.D."/>
+<person name="Madan A."/>
+<person name="Qin S."/>
+<person name="Yang X."/>
+<person name="Abbasi N."/>
+<person name="Abouelleil A."/>
+<person name="Arachchi H.M."/>
+<person name="Baradarani L."/>
+<person name="Birditt B."/>
+<person name="Bloom S."/>
+<person name="Bloom T."/>
+<person name="Borowsky M.L."/>
+<person name="Burke J."/>
+<person name="Butler J."/>
+<person name="Cook A."/>
+<person name="DeArellano K."/>
+<person name="DeCaprio D."/>
+<person name="Dorris L. III"/>
+<person name="Dors M."/>
+<person name="Eichler E.E."/>
+<person name="Engels R."/>
+<person name="Fahey J."/>
+<person name="Fleetwood P."/>
+<person name="Friedman C."/>
+<person name="Gearin G."/>
+<person name="Hall J.L."/>
+<person name="Hensley G."/>
+<person name="Johnson E."/>
+<person name="Jones C."/>
+<person name="Kamat A."/>
+<person name="Kaur A."/>
+<person name="Locke D.P."/>
+<person name="Madan A."/>
+<person name="Munson G."/>
+<person name="Jaffe D.B."/>
+<person name="Lui A."/>
+<person name="Macdonald P."/>
+<person name="Mauceli E."/>
+<person name="Naylor J.W."/>
+<person name="Nesbitt R."/>
+<person name="Nicol R."/>
+<person name="O'Leary S.B."/>
+<person name="Ratcliffe A."/>
+<person name="Rounsley S."/>
+<person name="She X."/>
+<person name="Sneddon K.M."/>
+<person name="Stewart S."/>
+<person name="Sougnez C."/>
+<person name="Stone S.M."/>
+<person name="Topham K."/>
+<person name="Vincent D."/>
+<person name="Wang S."/>
+<person name="Zimmer A.R."/>
+<person name="Birren B.W."/>
+<person name="Hood L."/>
+<person name="Lander E.S."/>
+<person name="Nusbaum C."/>
+</authorList>
+<dbReference type="PubMed" id="16572171"/>
+<dbReference type="DOI" id="10.1038/nature04601"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="3">
+<citation type="submission" date="2014-12" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="2">ATP + 5-formyltetrahydrofolate = ADP + phosphate + 5,10-methenyltetrahydrofolate.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="2">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the 5-formyltetrahydrofolate cyclo-ligase family.</text>
+</comment>
+<comment type="caution">
+<text evidence="3">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EC" id="6.3.3.2" evidence="2"/>
+<dbReference type="EMBL" id="AC015871">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC021483">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001186689.1">
+<property type="nucleotide sequence ID" value="NM_001199760.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.459049"/>
+<dbReference type="ProteinModelPortal" id="A0A0A6YYL1"/>
+<dbReference type="SMR" id="A0A0A6YYL1"/>
+<dbReference type="STRING" id="9606.ENSP00000455643"/>
+<dbReference type="PaxDb" id="A0A0A6YYL1"/>
+<dbReference type="PRIDE" id="A0A0A6YYL1"/>
+<dbReference type="Ensembl" id="ENST00000479961">
+<property type="protein sequence ID" value="ENSP00000455643"/>
+<property type="gene ID" value="ENSG00000259332"/>
+</dbReference>
+<dbReference type="GeneID" id="100528021"/>
+<dbReference type="KEGG" id="hsa:100528021"/>
+<dbReference type="CTD" id="100528021"/>
+<dbReference type="HGNC" id="HGNC:44655">
+<property type="gene designation" value="ST20-MTHFS"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000259332"/>
+<dbReference type="eggNOG" id="KOG3093">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0212">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="KO" id="K01934"/>
+<dbReference type="OrthoDB" id="EOG091G0Q5W"/>
+<dbReference type="GenomeRNAi" id="100528021"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 15"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="A0A0A6YYL1">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030272">
+<property type="term" value="F:5-formyltetrahydrofolate cyclo-ligase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009396">
+<property type="term" value="P:folic acid-containing compound biosynthetic process"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035999">
+<property type="term" value="P:tetrahydrofolate interconversion"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002698">
+<property type="entry name" value="FTHF_cligase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR23407:SF8">
+<property type="entry name" value="PTHR23407:SF8"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01812">
+<property type="entry name" value="5-FTHF_cyc-lig"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF006806">
+<property type="entry name" value="FTHF_cligase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02727">
+<property type="entry name" value="MTHFS_bact"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0067" evidence="1 2">ATP-binding</keyword>
+<keyword id="KW-0181" evidence="4">Complete proteome</keyword>
+<keyword id="KW-0460" evidence="2">Magnesium</keyword>
+<keyword id="KW-0479" evidence="2">Metal-binding</keyword>
+<keyword id="KW-0547" evidence="1 2">Nucleotide-binding</keyword>
+<keyword id="KW-1185" evidence="4">Reference proteome</keyword>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="121"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate; via carbonyl oxygen" evidence="1">
+<location>
+<position position="32"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="1">
+<location>
+<position position="37"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PIRSR" id="PIRSR006806-1"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU361279"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000455643"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="179" mass="20519" checksum="DE1ACF55C16F8B49" modified="2015-02-04" version="1">
+MARSRLTATSVSQVQVIAHSEYQKSKRISIFLSMQDEIETEEIIKDIFQRGKICFIPRYR
+FQSNHMDMVRIESPEEISLLPKTSWNIPQPGEGDVREEALSTGGLDLIFMPGLGFDKHGN
+RLGRGKGYYDAYLKRCLQHQEVKPYTLALAFKEQICLQVPVNENDMKVDEVLYEDSSTA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

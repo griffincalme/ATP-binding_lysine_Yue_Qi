@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-09-23" modified="2017-04-12" version="41">
+<accession>B4DP70</accession>
+<name>B4DP70_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="4">cDNA FLJ51017, highly similar to ATP-dependent RNA helicase DDX1 (EC 3.6.1.-)</fullName>
+</submittedName>
+</protein>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project focused on splicing variants.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<dbReference type="EMBL" id="AK298212">
+<property type="protein sequence ID" value="BAG60482.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.440599"/>
+<dbReference type="STRING" id="9606.ENSP00000233084"/>
+<dbReference type="PaxDb" id="B4DP70"/>
+<dbReference type="PeptideAtlas" id="B4DP70"/>
+<dbReference type="PRIDE" id="B4DP70"/>
+<dbReference type="eggNOG" id="KOG0349">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0513">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG005462"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003676">
+<property type="term" value="F:nucleic acid binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001870">
+<property type="entry name" value="B30.2/SPRY"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013320">
+<property type="entry name" value="ConA-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011545">
+<property type="entry name" value="DEAD/DEAH_box_helicase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003877">
+<property type="entry name" value="SPRY_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00270">
+<property type="entry name" value="DEAD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00622">
+<property type="entry name" value="SPRY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00490">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00449">
+<property type="entry name" value="SPRY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF49899">
+<property type="entry name" value="SSF49899"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50188">
+<property type="entry name" value="B302_SPRY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="4">ATP-binding</keyword>
+<keyword id="KW-0347" evidence="4">Helicase</keyword>
+<keyword id="KW-0378" evidence="4">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="4">Nucleotide-binding</keyword>
+<feature type="domain" description="B30.2/SPRY" evidence="1">
+<location>
+<begin position="1"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase ATP-binding" evidence="2">
+<location>
+<begin position="163"/>
+<end position="336"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase C-terminal" evidence="3">
+<location>
+<begin position="401"/>
+<end position="529"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="4">
+<location>
+<position position="529"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50188"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51192"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51194"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG60482.1"/>
+</source>
+</evidence>
+<sequence length="529" mass="59197" checksum="63FEE5C6778D9A9F" modified="2008-09-23" version="1" fragment="single">
+MNPYDRGSAFAIGSDGLCCQSREVKEWHGCRATKGLMKGKHYYEVSCHDHGLCRVGWSTM
+QASLDLGTDKFGFGFGGTGKKSHNKQFDNYGEEFTMHDTIGCYLDIDKGHVKFSKNGKDL
+GLAFEIPPHMKNQALFPACVLKNAELKFNFGEEEFKFPPKDGFVALSKAPDGYIVKSQHS
+GNAQVTQTKFLPNAPKALIVEPSRELAEQTLNNIKQFKKYIDNPKLRELLIIGGVAARDQ
+LSVLENGVDIVVGTPGRLDDLVSTGKLNLSQVRFLVLDEADGLLSQGYSDFINRMHNQIP
+QVTSDGKRLQVIVCSATLHSFDVKKLSDKIMHFPTWVDLKGEDSVPDTVHHVVVPVNPKT
+DRLWERLGKSHIRTDDVHAKDNTRPGANSPEMWSEAIKILKGEYAVRAIKEHKMDQAIIF
+CRTKIDCDNLEQYFIQQGGGPDKKGHQFSCVCLHGDRKPHERKQNLERFKKGDVRFLICT
+DVAARGIDIHGVPYVINVTLPDEKQNYVHRIGRVGRAERMGLAISLVAT
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

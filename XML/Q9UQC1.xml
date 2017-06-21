@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2000-05-01" modified="2016-07-06" version="84">
+<accession>Q9UQC1</accession>
+<name>Q9UQC1_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="2">Heat shock protein 72</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">HSP70-1</name>
+</gene>
+<organism evidence="2">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="journal article" date="1999" name="Biochem. Biophys. Res. Commun." volume="257" first="193" last="198">
+<title>An additional exon of stress-inducible heat shock protein 70 gene (HSP70-1).</title>
+<authorList>
+<person name="Shimizu S."/>
+<person name="Nomura K."/>
+<person name="Ujihara M."/>
+<person name="Demura H."/>
+</authorList>
+<dbReference type="PubMed" id="10092532"/>
+<dbReference type="DOI" id="10.1006/bbrc.1999.0433"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the heat shock protein 70 family.</text>
+</comment>
+<dbReference type="EMBL" id="AB018045">
+<property type="protein sequence ID" value="BAA77235.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.274402"/>
+<dbReference type="UniGene" id="Hs.702139"/>
+<dbReference type="UniGene" id="Hs.743411"/>
+<dbReference type="ProteinModelPortal" id="Q9UQC1"/>
+<dbReference type="IntAct" id="Q9UQC1">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1153419"/>
+<dbReference type="STRING" id="9606.ENSP00000364802"/>
+<dbReference type="PaxDb" id="Q9UQC1"/>
+<dbReference type="PeptideAtlas" id="Q9UQC1"/>
+<dbReference type="PRIDE" id="Q9UQC1"/>
+<dbReference type="eggNOG" id="KOG0101">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0443">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG051845"/>
+<dbReference type="ChiTaRS" id="HSPA1A">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018181">
+<property type="entry name" value="Heat_shock_70_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013126">
+<property type="entry name" value="Hsp_70_fam"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00012">
+<property type="entry name" value="HSP70"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00301">
+<property type="entry name" value="HEATSHOCK70"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00329">
+<property type="entry name" value="HSP70_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0346" evidence="2">Stress response</keyword>
+<feature type="non-terminal residue" evidence="2">
+<location>
+<position position="151"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU003322"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAA77235.1"/>
+</source>
+</evidence>
+<sequence length="151" mass="16474" checksum="5C504568DF2CC850" modified="2000-05-01" version="1" fragment="single">
+MKHWPFQVINDGDKPKVQVSYKGETKAFYPEEISSMVLTKMKEIAEAYLGYPVTNAVITV
+PAYFNDSQRQATKDAGVIAGLNVLRIINEPTAAAIAYGLDRTGKGERNVLIFDLGGGTFD
+VSILTIDDGIFEVKATAGDTHLGGEDFDNRQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

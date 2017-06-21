@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2001-06-01" modified="2017-04-12" version="67">
+<accession>Q9BQJ5</accession>
+<name>Q9BQJ5_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="1">Helicase-like protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">DDX13</name>
+</gene>
+<organism evidence="1">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="1">
+<citation type="journal article" date="1995" name="Genomics" volume="25" first="660" last="666">
+<title>Identification and characterization of a human cDNA homologous to yeast SKI2.</title>
+<authorList>
+<person name="Lee S.-G."/>
+<person name="Lee I."/>
+<person name="Park S.H."/>
+<person name="Kang C."/>
+<person name="Song K."/>
+</authorList>
+<dbReference type="PubMed" id="7759100"/>
+<dbReference type="DOI" id="10.1016/0888-7543(95)80008-A"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="1">Placenta</tissue>
+</source>
+</reference>
+<reference key="2" evidence="1">
+<citation type="submission" date="1995-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Kyuyoung S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="1">Placenta</tissue>
+</source>
+</reference>
+<reference key="3" evidence="1">
+<citation type="journal article" date="1997" name="Mol. Cells" volume="7" first="414" last="418">
+<title>Genomic organization of the human DDX13 gene located between RD and RP1 in the class III MHC complex.</title>
+<authorList>
+<person name="Lee S.G."/>
+<person name="Song K."/>
+</authorList>
+<dbReference type="PubMed" id="9264031"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="1">Placenta</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AH003444">
+<property type="protein sequence ID" value="AAA93259.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.89864"/>
+<dbReference type="STRING" id="9606.ENSP00000364543"/>
+<dbReference type="PaxDb" id="Q9BQJ5"/>
+<dbReference type="PeptideAtlas" id="Q9BQJ5"/>
+<dbReference type="PRIDE" id="Q9BQJ5"/>
+<dbReference type="eggNOG" id="KOG0948">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG4581">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="SKIV2L">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000204351"/>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0347" evidence="1">Helicase</keyword>
+<keyword id="KW-0378" evidence="1">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="non-terminal residue" evidence="1">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAA93259.2"/>
+</source>
+</evidence>
+<sequence length="27" mass="2936" checksum="060565716C02D281" modified="2001-06-01" version="1" fragment="single">
+PVLGAKMETAATLLRRDIVFAASLYTQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

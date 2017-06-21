@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2005-04-26" modified="2017-02-15" version="82">
+<accession>Q59ED6</accession>
+<name>Q59ED6_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Serine/threonine-protein kinase PLK</fullName>
+<ecNumber evidence="1">2.7.11.21</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">Polo-like kinase</fullName>
+</alternativeName>
+</protein>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="submission" date="2005-03" db="EMBL/GenBank/DDBJ databases">
+<title>Homo sapiens protein coding cDNA.</title>
+<authorList>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Takeda T."/>
+<person name="Sakaki Y."/>
+<person name="Tanaka A."/>
+<person name="Yokoyama S."/>
+<person name="Ohara O."/>
+<person name="Nagase T."/>
+<person name="Kikuno R.F."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="4">Aorta endothelial cell</tissue>
+</source>
+</reference>
+<comment type="catalytic activity">
+<text evidence="1">ATP + a protein = ADP + a phosphoprotein.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. CDC5/Polo subfamily.</text>
+</comment>
+<dbReference type="EC" id="2.7.11.21" evidence="1"/>
+<dbReference type="EMBL" id="AB209875">
+<property type="protein sequence ID" value="BAD93112.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.632415"/>
+<dbReference type="ProteinModelPortal" id="Q59ED6"/>
+<dbReference type="STRING" id="9606.ENSP00000361275"/>
+<dbReference type="PaxDb" id="Q59ED6"/>
+<dbReference type="PeptideAtlas" id="Q59ED6"/>
+<dbReference type="eggNOG" id="KOG0575">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XQBP">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG001843"/>
+<dbReference type="SignaLink" id="Q59ED6"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd13118">
+<property type="entry name" value="POLO_box_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd13117">
+<property type="entry name" value="POLO_box_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1120.30">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033701">
+<property type="entry name" value="POLO_box_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033695">
+<property type="entry name" value="POLO_box_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000959">
+<property type="entry name" value="POLO_box_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020658">
+<property type="entry name" value="Ser/Thr_kinase_Plk3"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24345:SF65">
+<property type="entry name" value="PTHR24345:SF65"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00659">
+<property type="entry name" value="POLO_box"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50078">
+<property type="entry name" value="POLO_BOX"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="1">Kinase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0723" evidence="1">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808" evidence="1">Transferase</keyword>
+<feature type="domain" description="Protein kinase" evidence="2">
+<location>
+<begin position="37"/>
+<end position="289"/>
+</location>
+</feature>
+<feature type="domain" description="POLO box" evidence="3">
+<location>
+<begin position="445"/>
+<end position="508"/>
+</location>
+</feature>
+<feature type="domain" description="POLO box" evidence="3">
+<location>
+<begin position="542"/>
+<end position="612"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="4">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU361162"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50078"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAD93112.1"/>
+</source>
+</evidence>
+<sequence length="621" mass="69269" checksum="EC180D84FCFD5427" modified="2005-04-26" version="1" fragment="single">
+SRQRHARPGPGGTEKPGPRCDAPAAWSLPPVSCLRTYLKGRLLGKGGFARCYEATDTETG
+SAYAVKVIPQSRVAKPHQREKILNEIELHRDLQHRHIVRFSHHFEDADNIYIFLELCSRK
+SLAHIWKARHTLLEPEVRYYLRQILSGLKYLHQRGILHRDLKLGNFFITENMELKVGDFG
+LAARLEPPEQRKKTICGTPNYVAPEVLLRQGHGPEADVWSLGCVMYTLLCGSPPFETADL
+KETYRCIKQVHYTLPASLSLPARQLLAAILRASPRDRPSIDQILRHDFFTKGYTPDRLPI
+SSCVTVPDLTPPNPARSLFAKVTKSLFGRKKKSKNHAQERDEVSGLVSGLMRTSVGHQDA
+RPEAPAASGPAPVSLVETAPEDSSPRGTLASSGDGFEEGLTVATVVESALCALRNCIAFM
+PPAEQNPAPLAQPEPLVWVSKWVDYSNKFGFGYQLSSRRVAVLFNDGTHMALSANRKTVH
+YNPTSTKHFSFSVGAVPRALQPQLGILRYFASYMEQHLMKGGDLPSVEEVEVPAPPLLLQ
+WVKTDQALLMLFSDGTVQVNFYGDHTKLILSGWEPLLVTFVARNRSACTYLASHLRQLGC
+SPDLRQRLRYALRLLRDRSPA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

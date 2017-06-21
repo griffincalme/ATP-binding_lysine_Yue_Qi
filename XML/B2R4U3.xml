@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-07-01" modified="2017-05-10" version="57">
+<accession>B2R4U3</accession>
+<name>B2R4U3_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="6">cDNA, FLJ92217, highly similar to Homo sapiens ubiquitin-conjugating enzyme E2C (UBE2C), mRNA</fullName>
+</submittedName>
+</protein>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="submission" date="2008-01" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO functional analysis of protein and research application project.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Iida Y."/>
+<person name="Takayama Y."/>
+<person name="Murakawa K."/>
+<person name="Kanehori K."/>
+<person name="Andoh T."/>
+<person name="Kagawa N."/>
+<person name="Sato R."/>
+<person name="Kawamura Y."/>
+<person name="Tanaka S."/>
+<person name="Kisu Y."/>
+<person name="Sugano S."/>
+<person name="Goshima N."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="6">Testis</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1 2 3">Belongs to the ubiquitin-conjugating enzyme family.</text>
+</comment>
+<dbReference type="EMBL" id="AK311949">
+<property type="protein sequence ID" value="BAG34890.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.93002"/>
+<dbReference type="ProteinModelPortal" id="B2R4U3"/>
+<dbReference type="STRING" id="9606.ENSP00000348838"/>
+<dbReference type="PaxDb" id="B2R4U3"/>
+<dbReference type="PeptideAtlas" id="B2R4U3"/>
+<dbReference type="PRIDE" id="B2R4U3"/>
+<dbReference type="eggNOG" id="KOG0421">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4111IGV">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG063308"/>
+<dbReference type="SignaLink" id="B2R4U3"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd00195">
+<property type="entry name" value="UBCc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.10.110.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000608">
+<property type="entry name" value="UBQ-conjugat_E2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023313">
+<property type="entry name" value="UBQ-conjugating_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016135">
+<property type="entry name" value="UBQ-conjugating_enzyme/RWD"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00179">
+<property type="entry name" value="UQ_con"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54495">
+<property type="entry name" value="SSF54495"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00183">
+<property type="entry name" value="UBIQUITIN_CONJUGAT_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50127">
+<property type="entry name" value="UBIQUITIN_CONJUGAT_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<keyword id="KW-0833" evidence="2 4">Ubl conjugation pathway</keyword>
+<feature type="domain" description="UBIQUITIN_CONJUGAT_2" evidence="5">
+<location>
+<begin position="33"/>
+<end position="158"/>
+</location>
+</feature>
+<feature type="active site" description="Glycyl thioester intermediate" evidence="1">
+<location>
+<position position="114"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00388"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU362109"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00805669"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00805691"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50127"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG34890.1"/>
+</source>
+</evidence>
+<sequence length="179" mass="19618" checksum="0B6238AC9D0650FA" modified="2008-07-01" version="1">
+MASQNRDPAATSVAAARKGAEPSGGAARGPVGKRLQQELMTLMMSGDKGISAFPESDNLF
+KWVGTIHGAAGTVYEDLRYKLSLEFPSGYPYNAPTVKLLTPCYHPNVDTQGNICLDILKE
+KWSALYDVRTILLSIQSLLGEPNIDSPLNTHAAELWKNPTAFKKYLQETYSKQVTSQEP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

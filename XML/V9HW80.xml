@@ -1,0 +1,512 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2014-03-19" modified="2017-05-10" version="34">
+<accession>V9HW80</accession>
+<name>V9HW80_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="6">Epididymis luminal protein 220</fullName>
+</submittedName>
+<submittedName>
+<fullName evidence="7">Epididymis secretory protein Li 70</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="7">HEL-S-70</name>
+<name type="synonym" evidence="6">HEL-220</name>
+</gene>
+<organism evidence="7">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7">
+<citation type="submission" date="2008-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Li J."/>
+<person name="Wang H."/>
+<person name="Liu J."/>
+<person name="Liu F."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="interaction">
+<interactant intactId="EBI-10175326"/>
+<interactant intactId="EBI-1993677">
+<id>Q9BZE9</id>
+<label>ASPSCR1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10175326"/>
+<interactant intactId="EBI-10175276">
+<id>A9UGY9</id>
+<label>ATG5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10175326"/>
+<interactant intactId="EBI-741885">
+<id>Q96LK0</id>
+<label>CEP19</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10175326"/>
+<interactant intactId="EBI-740402">
+<id>O60941</id>
+<label>DTNB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10175326"/>
+<interactant intactId="EBI-10281506">
+<id>Q969W3</id>
+<label>FAM104A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10175326"/>
+<interactant intactId="EBI-739832">
+<id>Q8TBB1</id>
+<label>LNX1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10175326"/>
+<interactant intactId="EBI-721577">
+<id>Q9UNZ2</id>
+<label>NSFL1C</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10175326"/>
+<interactant intactId="EBI-1994037">
+<id>Q9Y263</id>
+<label>PLAA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10175326"/>
+<interactant intactId="EBI-359352">
+<id>P25786</id>
+<label>PSMA1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10175326"/>
+<interactant intactId="EBI-373337">
+<id>O76064</id>
+<label>RNF8</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10175326"/>
+<interactant intactId="EBI-358122">
+<id>P32969</id>
+<label>RPL9P9</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10175326"/>
+<interactant intactId="EBI-751901">
+<id>O94941</id>
+<label>UBOX5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10175326"/>
+<interactant intactId="EBI-1058647">
+<id>Q04323</id>
+<label>UBXN1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10175326"/>
+<interactant intactId="EBI-1993619">
+<id>Q14CS0</id>
+<label>UBXN2B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10175326"/>
+<interactant intactId="EBI-741158">
+<id>Q96HA8</id>
+<label>WDYHV1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the AAA ATPase family.</text>
+</comment>
+<dbReference type="EMBL" id="FJ224344">
+<property type="protein sequence ID" value="ACI46036.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="FJ224352">
+<property type="protein sequence ID" value="ACI46044.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_009057.1">
+<property type="nucleotide sequence ID" value="NM_007126.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.529782"/>
+<dbReference type="IntAct" id="V9HW80">
+<property type="interactions" value="15"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000351777"/>
+<dbReference type="GeneID" id="7415"/>
+<dbReference type="KEGG" id="hsa:7415"/>
+<dbReference type="UCSC" id="uc003zvy.3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="7415"/>
+<dbReference type="eggNOG" id="KOG0730">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0464">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="KO" id="K13525"/>
+<dbReference type="OMA" id="MADSKGD"/>
+<dbReference type="OrthoDB" id="EOG091G024K"/>
+<dbReference type="ChiTaRS" id="VCP">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="7415"/>
+<dbReference type="GO" id="GO:1904949">
+<property type="term" value="C:ATPase complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036513">
+<property type="term" value="C:Derlin-1 retrotranslocation complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043209">
+<property type="term" value="C:myelin sheath"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034098">
+<property type="term" value="C:VCP-NPL4-UFD1 AAA ATPase complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990730">
+<property type="term" value="C:VCP-NSFL1C complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043531">
+<property type="term" value="F:ADP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036435">
+<property type="term" value="F:K48-linked polyubiquitin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042288">
+<property type="term" value="F:MHC class I protein binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032403">
+<property type="term" value="F:protein complex binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990381">
+<property type="term" value="F:ubiquitin-specific protease binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006919">
+<property type="term" value="P:activation of cysteine-type endopeptidase activity involved in apoptotic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070842">
+<property type="term" value="P:aggresome assembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046034">
+<property type="term" value="P:ATP metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006888">
+<property type="term" value="P:ER to Golgi vesicle-mediated transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010918">
+<property type="term" value="P:positive regulation of mitochondrial membrane potential"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032436">
+<property type="term" value="P:positive regulation of proteasomal ubiquitin-dependent protein catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034214">
+<property type="term" value="P:protein hexamerization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051260">
+<property type="term" value="P:protein homooligomerization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030970">
+<property type="term" value="P:retrograde protein transport, ER to cytosol"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006511">
+<property type="term" value="P:ubiquitin-dependent protein catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.10.330.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005938">
+<property type="entry name" value="AAA_ATPase_CDC48"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009010">
+<property type="entry name" value="Asp_de-COase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003959">
+<property type="entry name" value="ATPase_AAA_core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003960">
+<property type="entry name" value="ATPase_AAA_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004201">
+<property type="entry name" value="Cdc48_dom2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029067">
+<property type="entry name" value="CDC48_domain_2-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003338">
+<property type="entry name" value="CDC4_N-term_subdom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015415">
+<property type="entry name" value="Vps4_C"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00004">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02933">
+<property type="entry name" value="CDC48_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02359">
+<property type="entry name" value="CDC48_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF09336">
+<property type="entry name" value="Vps4_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM01072">
+<property type="entry name" value="CDC48_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01073">
+<property type="entry name" value="CDC48_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50692">
+<property type="entry name" value="SSF50692"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54585">
+<property type="entry name" value="SSF54585"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01243">
+<property type="entry name" value="CDC48"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00674">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<feature type="domain" description="CDC48_N" evidence="5">
+<location>
+<begin position="25"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="domain" description="CDC48_2" evidence="4">
+<location>
+<begin position="125"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="domain" description="AAA" evidence="3">
+<location>
+<begin position="237"/>
+<end position="373"/>
+</location>
+</feature>
+<feature type="domain" description="AAA" evidence="3">
+<location>
+<begin position="510"/>
+<end position="649"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00552016"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00552105"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00382"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM01072"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM01073"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ACI46036.1"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ACI46044.1"/>
+</source>
+</evidence>
+<sequence length="806" mass="89322" checksum="501B721D3A77BA8A" modified="2014-03-19" version="1">
+MASGADSKGDDLSTAILKQKNRPNRLIVDEAINEDNSVVSLSQPKMDELQLFRGDTVLLK
+GKKRREAVCIVLSDDTCSDEKIRMNRVVRNNLRVRLGDVISIQPCPDVKYGKRIHVLPID
+DTVEGITGNLFEVYLKPYFLEAYRPIRKGDIFLVRGGMRAVEFKVVETDPSPYCIVAPDT
+VIHCEGEPIKREDEEESLNEVGYDDIGGCRKQLAQIKEMVELPLRHPALFKAIGVKPPRG
+ILLYGPPGTGKTLIARAVANETGAFFFLINGPEIMSKLAGESESNLRKAFEEAEKNAPAI
+IFIDELDAIAPKREKTHGEVERRIVSQLLTLMDGLKQRAHVIVMAATNRPNSIDPALRRF
+GRFDREVDIGIPDATGRLEILQIHTKNMKLADDVDLEQVANETHGHVGADLAALCSEAAL
+QAIRKKMDLIDLEDETIDAEVMNSLAVTMDDFRWALSQSNPSALRETVVEVPQVTWEDIG
+GLEDVKRELQELVQYPVEHPDKFLKFGMTPSKGVLFYGPPGCGKTLLAKAIANECQANFI
+SIKGPELLTMWFGESEANVREIFDKARQAAPCVLFFDELDSIAKARGGNIGDGGGAADRV
+INQILTEMDGMSTKKNVFIIGATNRPDIIDPAILRPGRLDQLIYIPLPDEKSRVAILKAN
+LRKSPVAKDVDLEFLAKMTNGFSGADLTEICQRACKLAIRESIESEIRRERERQTNPSAM
+EVEEDDPVPEIRRDHFEEAMRFARRSVSDNDIRKYEMFAQTLQQSRGFGSFRFPSGNQGG
+AGPSQGSGGGTGGSVYTEDNDDDLYG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

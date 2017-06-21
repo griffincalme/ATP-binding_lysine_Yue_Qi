@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2008-03-18" modified="2017-05-10" version="107">
+<accession>Q9C0K3</accession>
+<accession>Q5CZI4</accession>
+<name>ARP3C_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Actin-related protein 3C</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Actin-related protein 11</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ACTR3C</name>
+<name type="synonym">ARP11</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2001" name="Biochem. Biophys. Res. Commun." volume="280" first="61" last="67">
+<title>Isolation of a novel actin-related gene expressed in low-metastatic PC-14 human lung adenocarcinoma.</title>
+<authorList>
+<person name="Shindo-Okada N."/>
+<person name="Shimizu K."/>
+</authorList>
+<dbReference type="PubMed" id="11162478"/>
+<dbReference type="DOI" id="10.1006/bbrc.2000.4059"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<source>
+<tissue>Lung</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2007" name="BMC Genomics" volume="8" first="399" last="399">
+<title>The full-ORF clone resource of the German cDNA consortium.</title>
+<authorList>
+<person name="Bechtel S."/>
+<person name="Rosenfelder H."/>
+<person name="Duda A."/>
+<person name="Schmidt C.P."/>
+<person name="Ernst U."/>
+<person name="Wellenreuther R."/>
+<person name="Mehrle A."/>
+<person name="Schuster C."/>
+<person name="Bahr A."/>
+<person name="Bloecker H."/>
+<person name="Heubner D."/>
+<person name="Hoerlein A."/>
+<person name="Michel G."/>
+<person name="Wedler H."/>
+<person name="Koehrer K."/>
+<person name="Ottenwaelder B."/>
+<person name="Poustka A."/>
+<person name="Wiemann S."/>
+<person name="Schupp I."/>
+</authorList>
+<dbReference type="PubMed" id="17974005"/>
+<dbReference type="DOI" id="10.1186/1471-2164-8-399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+<source>
+<tissue>Fetal kidney</tissue>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2">May play a role in the suppression of metastatic potential in lung adenoma carcinoma cells.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q9C0K3-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q9C0K3-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_032218"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="2">Expressed in kidney, stomach, spleen, bone marrow, uterus, testis, placenta, skeletal muscle, mammary gland, lung, fetal liver, and fetal kidney, but not detected in small intestine, brain, and thymus. Expressed in low-metastatic lung adenocarcinoma cells but not in high-metastatic ones.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the actin family.</text>
+</comment>
+<dbReference type="EMBL" id="AB039791">
+<property type="protein sequence ID" value="BAB21501.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BX640643">
+<property type="protein sequence ID" value="CAI56711.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS47744.1">
+<molecule id="Q9C0K3-1"/>
+</dbReference>
+<dbReference type="PIR" id="JC7580">
+<property type="entry name" value="JC7580"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001157930.1">
+<molecule id="Q9C0K3-1"/>
+<property type="nucleotide sequence ID" value="NM_001164458.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001157931.1">
+<molecule id="Q9C0K3-1"/>
+<property type="nucleotide sequence ID" value="NM_001164459.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011514808.1">
+<molecule id="Q9C0K3-1"/>
+<property type="nucleotide sequence ID" value="XM_011516506.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011514809.1">
+<molecule id="Q9C0K3-1"/>
+<property type="nucleotide sequence ID" value="XM_011516507.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011514810.1">
+<molecule id="Q9C0K3-1"/>
+<property type="nucleotide sequence ID" value="XM_011516508.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016868038.1">
+<molecule id="Q9C0K3-1"/>
+<property type="nucleotide sequence ID" value="XM_017012549.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.664579"/>
+<dbReference type="ProteinModelPortal" id="Q9C0K3"/>
+<dbReference type="BioGrid" id="576126">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000252071"/>
+<dbReference type="iPTMnet" id="Q9C0K3"/>
+<dbReference type="PhosphoSitePlus" id="Q9C0K3"/>
+<dbReference type="BioMuta" id="ACTR3C"/>
+<dbReference type="DMDM" id="74739414"/>
+<dbReference type="MaxQB" id="Q9C0K3"/>
+<dbReference type="PaxDb" id="Q9C0K3"/>
+<dbReference type="PeptideAtlas" id="Q9C0K3"/>
+<dbReference type="PRIDE" id="Q9C0K3"/>
+<dbReference type="Ensembl" id="ENST00000252071">
+<molecule id="Q9C0K3-1"/>
+<property type="protein sequence ID" value="ENSP00000252071"/>
+<property type="gene ID" value="ENSG00000106526"/>
+</dbReference>
+<dbReference type="GeneID" id="653857"/>
+<dbReference type="KEGG" id="hsa:653857"/>
+<dbReference type="UCSC" id="uc003wgu.3">
+<molecule id="Q9C0K3-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="653857"/>
+<dbReference type="GeneCards" id="ACTR3C"/>
+<dbReference type="H-InvDB" id="HIX0041149"/>
+<dbReference type="H-InvDB" id="HIX0201521"/>
+<dbReference type="HGNC" id="HGNC:37282">
+<property type="gene designation" value="ACTR3C"/>
+</dbReference>
+<dbReference type="HPA" id="HPA055957"/>
+<dbReference type="neXtProt" id="NX_Q9C0K3"/>
+<dbReference type="OpenTargets" id="ENSG00000106526"/>
+<dbReference type="PharmGKB" id="PA165617588"/>
+<dbReference type="eggNOG" id="KOG0678">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5277">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00550000074695"/>
+<dbReference type="HOGENOM" id="HOG000034070"/>
+<dbReference type="HOVERGEN" id="HBG075770"/>
+<dbReference type="InParanoid" id="Q9C0K3"/>
+<dbReference type="KO" id="K18584"/>
+<dbReference type="OMA" id="HIFPNIV"/>
+<dbReference type="PhylomeDB" id="Q9C0K3"/>
+<dbReference type="TreeFam" id="TF300644"/>
+<dbReference type="SignaLink" id="Q9C0K3"/>
+<dbReference type="ChiTaRS" id="ACTR3C">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="653857"/>
+<dbReference type="PRO" id="PR:Q9C0K3"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 7"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000106526"/>
+<dbReference type="ExpressionAtlas" id="Q9C0K3">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9C0K3">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005885">
+<property type="term" value="C:Arp2/3 protein complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003779">
+<property type="term" value="F:actin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034314">
+<property type="term" value="P:Arp2/3 complex-mediated actin nucleation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004000">
+<property type="entry name" value="Actin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015623">
+<property type="entry name" value="Arp3_met"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11937">
+<property type="entry name" value="PTHR11937"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11937:SF304">
+<property type="entry name" value="PTHR11937:SF304"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00022">
+<property type="entry name" value="Actin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00268">
+<property type="entry name" value="ACTIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0009">Actin-binding</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="1">
+<location>
+<begin position="1"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="chain" description="Actin-related protein 3C" id="PRO_0000324333">
+<location>
+<begin position="22"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_032218" evidence="3">
+<location>
+<begin position="1"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAI56711." ref="2" evidence="4">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="189"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11162478"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="17974005"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="210" mass="23712" checksum="AB94A33B440CD35B" modified="2001-06-01" version="1" precursor="true">
+MFESFNVPGLYIAVQAVLALAASWTSRQVGERTLTGIVIDSGDGVTHVIPVAEGYVIGSC
+IKHIPIAGRDITYFIQQLLREREVGIPPEQSLETAKAIKEKYCYICPDIVKEFAKYDVDP
+QKWIKQYTGINAINQKKFVIDVGYERFLGPEIFFHPEFANPDSMESISDVVDEVIQNCPI
+DVRRPLYKMEQIPLSYPQGHGFHPLSPPFH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

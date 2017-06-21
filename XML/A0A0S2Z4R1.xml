@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2016-02-17" modified="2017-05-10" version="12">
+<accession>A0A0S2Z4R1</accession>
+<name>A0A0S2Z4R1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Tyrosine--tRNA ligase</fullName>
+<ecNumber evidence="1">6.1.1.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">Tyrosyl-tRNA synthetase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="3">YARS</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="journal article" date="2016" name="Cell" volume="164" first="805" last="817">
+<title>Widespread Expansion of Protein Interaction Capabilities by Alternative Splicing.</title>
+<authorList>
+<person name="Yang X."/>
+<person name="Coulombe-Huntington J."/>
+<person name="Kang S."/>
+<person name="Sheynkman G.M."/>
+<person name="Hao T."/>
+<person name="Richardson A."/>
+<person name="Sun S."/>
+<person name="Yang F."/>
+<person name="Shen Y.A."/>
+<person name="Murray R."/>
+<person name="Spirohn K."/>
+<person name="Begg B.E."/>
+<person name="Duran-Frigola M."/>
+<person name="MacWilliams A."/>
+<person name="Pevzner S.J."/>
+<person name="Zhong Q."/>
+<person name="Trigg S.A."/>
+<person name="Tam S."/>
+<person name="Ghamsari L."/>
+<person name="Sahni N."/>
+<person name="Yi S."/>
+<person name="Rodriguez M.D."/>
+<person name="Balcha D."/>
+<person name="Tan G."/>
+<person name="Costanzo M."/>
+<person name="Andrews B."/>
+<person name="Boone C."/>
+<person name="Zhou X.J."/>
+<person name="Salehi-Ashtiani K."/>
+<person name="Charloteaux B."/>
+<person name="Chen A."/>
+<person name="Calderwood M.A."/>
+<person name="Aloy P."/>
+<person name="Roth F.P."/>
+<person name="Hill D.E."/>
+<person name="Iakoucheva L.M."/>
+<person name="Xia Y."/>
+<person name="Vidal M."/>
+</authorList>
+<dbReference type="PubMed" id="26871637"/>
+<dbReference type="DOI" id="10.1016/j.cell.2016.01.029"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="1">ATP + L-tyrosine + tRNA(Tyr) = AMP + diphosphate + L-tyrosyl-tRNA(Tyr).</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the class-I aminoacyl-tRNA synthetase family.</text>
+</comment>
+<dbReference type="EC" id="6.1.1.1" evidence="1"/>
+<dbReference type="EMBL" id="KU178431">
+<property type="protein sequence ID" value="ALQ33889.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_003671.1">
+<property type="nucleotide sequence ID" value="NM_003680.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.213264"/>
+<dbReference type="ProteinModelPortal" id="A0A0S2Z4R1"/>
+<dbReference type="SMR" id="A0A0S2Z4R1"/>
+<dbReference type="GeneID" id="8565"/>
+<dbReference type="KEGG" id="hsa:8565"/>
+<dbReference type="CTD" id="8565"/>
+<dbReference type="KO" id="K01866"/>
+<dbReference type="OMA" id="PIRKKFE"/>
+<dbReference type="PhylomeDB" id="A0A0S2Z4R1"/>
+<dbReference type="ExpressionAtlas" id="A0A0S2Z4R1">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000049">
+<property type="term" value="F:tRNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004831">
+<property type="term" value="F:tyrosine-tRNA ligase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006437">
+<property type="term" value="P:tyrosyl-tRNA aminoacylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd00805">
+<property type="entry name" value="TyrRS_core"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.620">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002305">
+<property type="entry name" value="aa-tRNA-synth_Ic"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012340">
+<property type="entry name" value="NA-bd_OB-fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014729">
+<property type="entry name" value="Rossmann-like_a/b/a_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002547">
+<property type="entry name" value="tRNA-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002307">
+<property type="entry name" value="Tyr-tRNA-ligase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00579">
+<property type="entry name" value="tRNA-synt_1b"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01588">
+<property type="entry name" value="tRNA_bind"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01040">
+<property type="entry name" value="TRNASYNTHTYR"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50249">
+<property type="entry name" value="SSF50249"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00234">
+<property type="entry name" value="tyrS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50886">
+<property type="entry name" value="TRBD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0030" evidence="1 3">Aminoacyl-tRNA synthetase</keyword>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0436" evidence="1 3">Ligase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0648" evidence="1">Protein biosynthesis</keyword>
+<feature type="domain" description="TRNA-binding" evidence="2">
+<location>
+<begin position="364"/>
+<end position="468"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="3">
+<location>
+<position position="528"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU361234"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50886"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ALQ33889.1"/>
+</source>
+</evidence>
+<sequence length="528" mass="59143" checksum="00C7E88843905780" modified="2016-02-17" version="1" fragment="single">
+MGDAPSPEEKLHLITRNLQEVLGEEKLKEILKERELKIYWGTATTGKPHVAYFVPMSKIA
+DFLKAGCEVTILFADLHAYLDNMKAPWELLELRVSYYENVIKAMLESIGVPLEKLKFIKG
+TDYQLSKEYTLDVYRLSSVVTQHDSKKAGAEVVKQVEHPLLSGLLYPGLQALDEEYLKVD
+AQFGGIDQRKIFTFAEKYLPALGYSKRVHLMNPMVPGLTGSKMSSSEEESKIDLLDRKED
+VKKKLKKAFCEPGNVENNGVLSFIKHVLFPLKSEFVILRDEKWGGNKTYTAYVDLEKDFA
+AEVVHPGDLKNSVEVALNKLLDPIREKFNTPALKKLASAAYPDPSKQKPMAKGPAKNSEP
+EEVIPSRLDIRVGKIITVEKHPDADSLYVEKIDVGEAEPRTVVSGLVQFVPKEELQDRLV
+VVLCNLKPQKMRGVESQGMLLCASIEGINRQVEPLDPPAGSAPGEHVFVKGYEKGQPDEE
+LKPKKKVFEKLQADFKISEECIAQWKQTNFMTKLGSISCKSLKGGNIS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

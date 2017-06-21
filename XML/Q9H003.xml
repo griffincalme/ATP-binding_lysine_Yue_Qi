@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2001-03-01" modified="2017-04-12" version="47">
+<accession>Q9H003</accession>
+<name>Q9H003_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="2">Putative ATP-binding cassette protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">ABC-transporter</name>
+</gene>
+<organism evidence="2">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="submission" date="2000-09" db="EMBL/GenBank/DDBJ databases">
+<title>Altered gene expression in lymphocytes of patients with normal-tension glaucoma.</title>
+<authorList>
+<person name="Golubnitschaja-Labudova O."/>
+<person name="Liu R."/>
+<person name="Decker C."/>
+<person name="Zhu P."/>
+<person name="Haefliger I.O."/>
+<person name="Flammer J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="2">Blood</tissue>
+</source>
+</reference>
+<reference key="2" evidence="2">
+<citation type="submission" date="2000-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Golubnitschaja O."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="2">Blood</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AJ278917">
+<property type="protein sequence ID" value="CAC07210.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="ProteinModelPortal" id="Q9H003"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003439">
+<property type="entry name" value="ABC_transporter-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00005">
+<property type="entry name" value="ABC_tran"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<feature type="domain" description="ABC transporter" evidence="1">
+<location>
+<begin position="1"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="2">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="2">
+<location>
+<position position="109"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF00005"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAC07210.1"/>
+</source>
+</evidence>
+<sequence length="109" mass="12056" checksum="4DA6835DBC99308C" modified="2001-03-01" version="1" fragment="single">
+LSGGMRQRAAIARTLYEHQPIVLMDEPFSALDAITRAEIQSLAAELLAQNTVLLITHDPM
+EACRLSHRLLVLSPWPLGLDDTHRISGQPPRAPDDADLLKSQAELLQQL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

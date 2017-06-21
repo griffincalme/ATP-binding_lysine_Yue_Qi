@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2005-04-26" modified="2017-02-15" version="82">
+<accession>Q59F73</accession>
+<name>Q59F73_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="7">Beta adrenergic receptor kinase 1 variant</fullName>
+</submittedName>
+</protein>
+<organism evidence="7">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7">
+<citation type="submission" date="2005-03" db="EMBL/GenBank/DDBJ databases">
+<title>Homo sapiens protein coding cDNA.</title>
+<authorList>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Takeda T."/>
+<person name="Sakaki Y."/>
+<person name="Tanaka A."/>
+<person name="Yokoyama S."/>
+<person name="Ohara O."/>
+<person name="Nagase T."/>
+<person name="Kikuno R.F."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="7">Spleen</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AB209588">
+<property type="protein sequence ID" value="BAD92825.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.83636"/>
+<dbReference type="ProteinModelPortal" id="Q59F73"/>
+<dbReference type="STRING" id="9606.ENSP00000312262"/>
+<dbReference type="MaxQB" id="Q59F73"/>
+<dbReference type="PaxDb" id="Q59F73"/>
+<dbReference type="PeptideAtlas" id="Q59F73"/>
+<dbReference type="PRIDE" id="Q59F73"/>
+<dbReference type="eggNOG" id="KOG0986">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410YRQZ">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000006742"/>
+<dbReference type="HOVERGEN" id="HBG050559"/>
+<dbReference type="SignaLink" id="Q59F73"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.30.29.30">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000961">
+<property type="entry name" value="AGC-kinase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011993">
+<property type="entry name" value="PH_dom-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001849">
+<property type="entry name" value="PH_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00169">
+<property type="entry name" value="PH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00233">
+<property type="entry name" value="PH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00133">
+<property type="entry name" value="S_TK_X"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50729">
+<property type="entry name" value="SSF50729"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51285">
+<property type="entry name" value="AGC_KINASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50003">
+<property type="entry name" value="PH_DOMAIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0175" evidence="3">Coiled coil</keyword>
+<keyword id="KW-0418" evidence="2">Kinase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0675" evidence="7">Receptor</keyword>
+<keyword id="KW-0723" evidence="2">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808" evidence="2">Transferase</keyword>
+<feature type="domain" description="Protein kinase" evidence="5">
+<location>
+<begin position="1"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="domain" description="AGC-kinase C-terminal" evidence="6">
+<location>
+<begin position="125"/>
+<end position="192"/>
+</location>
+</feature>
+<feature type="domain" description="PH" evidence="4">
+<location>
+<begin position="229"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="3">
+<location>
+<begin position="311"/>
+<end position="338"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="7">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00593399"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00593706"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50003"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51285"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAD92825.1"/>
+</source>
+</evidence>
+<sequence length="360" mass="41576" checksum="02036310107C3C4B" modified="2005-04-26" version="1" fragment="single">
+VPPTLSLPTPCHSRLWPPCSHRGTHGYMAPEVLQKGVAYDSSADWFSLGCMLFKLLRGHS
+PFRQHKTKDKHEIDRMTLTMAVELPDSFSPELRSLLEGLLQRDVNRRLGCLGRGAQEVKE
+SPFFRSLDWQMVFLQKYPPPLIPPRGEVNAADAFDIGSFDEEDTKGIKLLDSDQELYRNF
+PLTISERWQQEVAETVFDTINAETDRLEARKKAKNKQLGHEEDYALGKDCIMHGYMSKMG
+NPFLTQWQRRYFYLFPNRLEWRGEGEAPQSLLTMEEIQSVEETQIKERKCLLLKIRGGKQ
+FILQCDSDPELVQWKKELRDAYREAQQLVQRVPKMKNKPRSPVVELSKVPLVQRGSANGL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

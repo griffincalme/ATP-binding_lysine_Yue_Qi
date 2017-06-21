@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2005-05-24" modified="2016-07-06" version="59">
+<accession>Q53GZ6</accession>
+<name>Q53GZ6_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="3">Heat shock 70kDa protein 8 isoform 1 variant</fullName>
+</submittedName>
+</protein>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="journal article" date="1994" name="Gene" volume="138" first="171" last="174">
+<title>Oligo-capping: a simple method to replace the cap structure of eukaryotic mRNAs with oligoribonucleotides.</title>
+<authorList>
+<person name="Maruyama K."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="8125298"/>
+<dbReference type="DOI" id="10.1016/0378-1119(94)90802-8"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="3">Liver</tissue>
+</source>
+</reference>
+<reference key="2" evidence="3">
+<citation type="journal article" date="1997" name="Gene" volume="200" first="149" last="156">
+<title>Construction and characterization of a full length-enriched and a 5'-end-enriched cDNA library.</title>
+<authorList>
+<person name="Suzuki Y."/>
+<person name="Yoshitomo K."/>
+<person name="Maruyama K."/>
+<person name="Suyama A."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="9373149"/>
+<dbReference type="DOI" id="10.1016/S0378-1119(97)00411-3"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="3">Liver</tissue>
+</source>
+</reference>
+<reference key="3" evidence="3">
+<citation type="submission" date="2005-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Suzuki Y."/>
+<person name="Sugano S."/>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Takeda T."/>
+<person name="Sakaki Y."/>
+<person name="Tanaka A."/>
+<person name="Yokoyama S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="3">Liver</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the heat shock protein 70 family.</text>
+</comment>
+<dbReference type="EMBL" id="AK222785">
+<property type="protein sequence ID" value="BAD96505.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.180414"/>
+<dbReference type="ProteinModelPortal" id="Q53GZ6"/>
+<dbReference type="IntAct" id="Q53GZ6">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-4874001"/>
+<dbReference type="STRING" id="9606.ENSP00000227378"/>
+<dbReference type="PaxDb" id="Q53GZ6"/>
+<dbReference type="PeptideAtlas" id="Q53GZ6"/>
+<dbReference type="PRIDE" id="Q53GZ6"/>
+<dbReference type="eggNOG" id="KOG0101">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0443">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG051845"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.1270.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.34.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018181">
+<property type="entry name" value="Heat_shock_70_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029048">
+<property type="entry name" value="HSP70_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029047">
+<property type="entry name" value="HSP70_peptide-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013126">
+<property type="entry name" value="Hsp_70_fam"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00012">
+<property type="entry name" value="HSP70"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00301">
+<property type="entry name" value="HEATSHOCK70"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF100920">
+<property type="entry name" value="SSF100920"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF100934">
+<property type="entry name" value="SSF100934"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00297">
+<property type="entry name" value="HSP70_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00329">
+<property type="entry name" value="HSP70_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01036">
+<property type="entry name" value="HSP70_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0175" evidence="2">Coiled coil</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0346" evidence="3">Stress response</keyword>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="512"/>
+<end position="535"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="3">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU003322"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAD96505.1"/>
+</source>
+</evidence>
+<sequence length="646" mass="70899" checksum="1B4C6FC838693588" modified="2005-05-24" version="1" fragment="single">
+MSKGPAVGIDLGTTYSCVGVFQHGKVEIIANDQGNRTTPSYVAFTDTERLIGDAAKNQVA
+MNPTNTVFDAKRLIGRRFDDAVVQSDMKHWPFMVVNDAGRPKVQVEYKGETKSFYPEEVS
+SMVLTKMKEIAEAYLGKTVTNAVVTVPAYFNDSQRQATKDAGTIAGLNVLRIINEPTAAA
+IAYGLDEKVGAERNVLIFDLGGGTFDVSILTIEDGIFEVKSTAGDTHLGGEDFDNRMVNH
+FIAEFKRKHKKDISENKRAVRRLRTACERAKRTLSSSTQASIEIDSLYEGIDFYTSITRA
+RFEELNADLFRGTLDPVEKALRDAKLDKSQIHDIVLVGGSTRIPKIQKLLQDFFNGKELN
+KSINPDEAVAYGAAVQAAILSGDKSENVQDLLLLDVTPLSLGIETAGGVMTVLIKRNTTI
+PTKQTQTFTTYSDNQPGVLIQVYEGERAMTKDNNLLGKFELTGIPPAPRGVPQIEVTFDI
+DANGILNVSAVDKSTGKENKITITNDKGRLSKEDIERMVQEAEKYKAEDEKQRDKVSSKN
+SLESYAFNMKATVEDEKLQGKINDEDKQKILDKCNEIINWLDKNQTAEKEEFEHQQKELE
+KVCNPIITKLYQSAGGMPGGMPGGFPGGGAPPSGGASSGPTIEEVD
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

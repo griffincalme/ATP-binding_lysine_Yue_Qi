@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-09-23" modified="2017-05-10" version="46">
+<accession>B4E0I9</accession>
+<name>B4E0I9_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="7">cDNA FLJ61014, highly similar to Myosin-8</fullName>
+</submittedName>
+</protein>
+<organism evidence="7">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project focused on splicing variants.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="7">Thymus</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="5">Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family.</text>
+</comment>
+<dbReference type="EMBL" id="AK303395">
+<property type="protein sequence ID" value="BAG64451.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.700484"/>
+<dbReference type="ProteinModelPortal" id="B4E0I9"/>
+<dbReference type="STRING" id="9606.ENSP00000384330"/>
+<dbReference type="PaxDb" id="B4E0I9"/>
+<dbReference type="PeptideAtlas" id="B4E0I9"/>
+<dbReference type="eggNOG" id="KOG0161">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5022">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG105641"/>
+<dbReference type="GO" id="GO:0016459">
+<property type="term" value="C:myosin complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003779">
+<property type="term" value="F:actin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003774">
+<property type="term" value="F:motor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000048">
+<property type="entry name" value="IQ_motif_EF-hand-BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001609">
+<property type="entry name" value="Myosin_head_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004009">
+<property type="entry name" value="Myosin_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00063">
+<property type="entry name" value="Myosin_head"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02736">
+<property type="entry name" value="Myosin_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00193">
+<property type="entry name" value="MYOSINHEAVY"/>
+</dbReference>
+<dbReference type="SMART" id="SM00242">
+<property type="entry name" value="MYSc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50096">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51456">
+<property type="entry name" value="MYOSIN_MOTOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0009" evidence="1">Actin-binding</keyword>
+<keyword id="KW-0067" evidence="4">ATP-binding</keyword>
+<keyword id="KW-0175" evidence="2">Coiled coil</keyword>
+<keyword id="KW-0505" evidence="3">Motor protein</keyword>
+<keyword id="KW-0518" evidence="3">Myosin</keyword>
+<keyword id="KW-0547" evidence="4">Nucleotide-binding</keyword>
+<feature type="domain" description="Myosin motor" evidence="6">
+<location>
+<begin position="88"/>
+<end position="781"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00091456"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00091485"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00117479"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00476620"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00572438"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51456"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG64451.1"/>
+</source>
+</evidence>
+<sequence length="884" mass="100820" checksum="9FDA96DB496A2EC3" modified="2008-09-23" version="1">
+MSASSDAEMAVFGEAAPYLRKSEKERIEAQNKPFDAKTSVFVAEPKESYVKSTIQSKEGG
+KVTVKTEGGATLTVREDQVFPMNPPKYDKIEDMAMMTHLHEPGVLYNLKERYAAWMIYTY
+SGLFCVTVNPYKWLPVYKPEVVAAYRGKKRQEAPPHIFSISDNAYQFMLTDRENQSILIT
+GESGAGKTVNTKRVIQYFATIAVTGEKKKDESGKMQGTLEDQIISANPLLEAFGNAKTVR
+NDNSSRFGKFIRIHFGTTGKLASADIETYLLEKSRVTFQLKAERSYHIFYQITSNKKPDL
+IEMLLITTNPYDYAFVSQGEITVPSIDDQEELMATDSAIDILGFTPEEKVSIYKLTGAVM
+HYGNMKFKQKQREEQAEPDGTEVADKAAYLQSLNSADLLKALCYPRVKVGNEYVTKGQTV
+QQVYNAVGALAKAVYEKMFLWMVTRINQQLDTKQPRQYFIGVLDIAGFEIFDFNSLEQLC
+INSTNEKLQQFFNHHMFVLEQEEYKKEGIEWTFIDFGMDLAACIELIEKPLGIFSILEEE
+CMFPKATDTSFKNKLYDQHLGKSANFQKPKVVKGKAEAHFSLIHYAGTVDYSITGWLDKN
+KDPLNDTVVGLYQKSAMKTLASLFSTYASAEADSSAKKGAKKKGSSFQTVSALFRENLNK
+LMTNLRSTHPHFVRCIIPNETKTPGAMEHELVLHQLRCNGVLEGIRICRKGFPSRILYGD
+FKQRYKVLNASAIPEGQFIDSKKASEKLLASIDIDHTQYKFGHTKVFFKAGLLGLLEEMR
+DEKLAQIITRTQAVCRGFLMRVEYQKMLQRREALFCIQYNVRAFMNVKHWPWMKLFFKIK
+PLLKSAETEKEMATMKEEFQLLFLQRIIRGIYSMKNHDNSLYIK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

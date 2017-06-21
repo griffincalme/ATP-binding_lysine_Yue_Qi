@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2014-03-19" modified="2017-05-10" version="29">
+<accession>V9HWH2</accession>
+<name>V9HWH2_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="9">Creatine kinase brain isoform 1</fullName>
+</submittedName>
+<submittedName>
+<fullName evidence="8">Epididymis secretory protein Li 29</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="8">HEL-S-29</name>
+<name type="synonym" evidence="9">CKB</name>
+</gene>
+<organism evidence="8">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="8">
+<citation type="submission" date="2008-06" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Li J.Y."/>
+<person name="Wang H.Y."/>
+<person name="Liu F.J."/>
+<person name="Liu J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="2" evidence="9">
+<citation type="journal article" date="2016" name="Cell" volume="164" first="805" last="817">
+<title>Widespread Expansion of Protein Interaction Capabilities by Alternative Splicing.</title>
+<authorList>
+<person name="Yang X."/>
+<person name="Coulombe-Huntington J."/>
+<person name="Kang S."/>
+<person name="Sheynkman G.M."/>
+<person name="Hao T."/>
+<person name="Richardson A."/>
+<person name="Sun S."/>
+<person name="Yang F."/>
+<person name="Shen Y.A."/>
+<person name="Murray R."/>
+<person name="Spirohn K."/>
+<person name="Begg B.E."/>
+<person name="Duran-Frigola M."/>
+<person name="MacWilliams A."/>
+<person name="Pevzner S.J."/>
+<person name="Zhong Q."/>
+<person name="Trigg S.A."/>
+<person name="Tam S."/>
+<person name="Ghamsari L."/>
+<person name="Sahni N."/>
+<person name="Yi S."/>
+<person name="Rodriguez M.D."/>
+<person name="Balcha D."/>
+<person name="Tan G."/>
+<person name="Costanzo M."/>
+<person name="Andrews B."/>
+<person name="Boone C."/>
+<person name="Zhou X.J."/>
+<person name="Salehi-Ashtiani K."/>
+<person name="Charloteaux B."/>
+<person name="Chen A."/>
+<person name="Calderwood M.A."/>
+<person name="Aloy P."/>
+<person name="Roth F.P."/>
+<person name="Hill D.E."/>
+<person name="Iakoucheva L.M."/>
+<person name="Xia Y."/>
+<person name="Vidal M."/>
+</authorList>
+<dbReference type="PubMed" id="26871637"/>
+<dbReference type="DOI" id="10.1016/j.cell.2016.01.029"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="interaction">
+<interactant intactId="EBI-10284791"/>
+<interactant intactId="EBI-745641">
+<id>Q96DX5</id>
+<label>ASB9</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="similarity">
+<text evidence="1 2 5">Belongs to the ATP:guanido phosphotransferase family.</text>
+</comment>
+<dbReference type="EMBL" id="EU794629">
+<property type="protein sequence ID" value="ACJ13683.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="KU177977">
+<property type="protein sequence ID" value="ALQ33435.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001814.2">
+<property type="nucleotide sequence ID" value="NM_001823.4"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.173724"/>
+<dbReference type="IntAct" id="V9HWH2">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000299198"/>
+<dbReference type="PaxDb" id="V9HWH2"/>
+<dbReference type="GeneID" id="1152"/>
+<dbReference type="KEGG" id="hsa:1152"/>
+<dbReference type="UCSC" id="uc001ynf.3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="1152"/>
+<dbReference type="eggNOG" id="KOG3581">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3869">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="KO" id="K00933"/>
+<dbReference type="OMA" id="RGHEFMW"/>
+<dbReference type="OrthoDB" id="EOG091G0HZ0"/>
+<dbReference type="ChiTaRS" id="CKB">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="1152"/>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030425">
+<property type="term" value="C:dendrite"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005615">
+<property type="term" value="C:extracellular space"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043209">
+<property type="term" value="C:myelin sheath"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043025">
+<property type="term" value="C:neuronal cell body"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004111">
+<property type="term" value="F:creatine kinase activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030644">
+<property type="term" value="P:cellular chloride ion homeostasis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021549">
+<property type="term" value="P:cerebellum development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.135.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.590.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000749">
+<property type="entry name" value="ATP-guanido_PTrfase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022415">
+<property type="entry name" value="ATP-guanido_PTrfase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022414">
+<property type="entry name" value="ATP-guanido_PTrfase_cat"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022413">
+<property type="entry name" value="ATP-guanido_PTrfase_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014746">
+<property type="entry name" value="Gln_synth/guanido_kin_cat_dom"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11547">
+<property type="entry name" value="PTHR11547"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00217">
+<property type="entry name" value="ATP-gua_Ptrans"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02807">
+<property type="entry name" value="ATP-gua_PtransN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48034">
+<property type="entry name" value="SSF48034"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00112">
+<property type="entry name" value="PHOSPHAGEN_KINASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51510">
+<property type="entry name" value="PHOSPHAGEN_KINASE_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51509">
+<property type="entry name" value="PHOSPHAGEN_KINASE_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="1 4">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="1 2 3 9">Kinase</keyword>
+<keyword id="KW-0547" evidence="1 4">Nucleotide-binding</keyword>
+<keyword id="KW-0808" evidence="1 2 3 9">Transferase</keyword>
+<feature type="domain" description="Phosphagen kinase N-terminal" evidence="6">
+<location>
+<begin position="11"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="domain" description="Phosphagen kinase C-terminal" evidence="7">
+<location>
+<begin position="125"/>
+<end position="367"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="128"/>
+<end position="132"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="292"/>
+<end position="296"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="320"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="191"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="236"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="9">
+<location>
+<position position="381"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00843"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000505"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00424900"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00424901"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00541973"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51509"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51510"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ACJ13683.1"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ALQ33435.1"/>
+</source>
+</evidence>
+<sequence length="381" mass="42644" checksum="637AA67A86AE3059" modified="2014-03-19" version="1">
+MPFSNSHNALKLRFPAEDEFPDLSAHNNHMAKVLTPELYAELRAKSTPSGFTLDDVIQTG
+VDNPGHPYIMTVGCVAGDEESYEVFKDLFDPIIEDRHGGYKPSDEHKTDLNPDNLQGGDD
+LDPNYVLSSRVRTGRSIRGFCLPPHCSRGERRAIEKLAVEALSSLDGDLAGRYYALKSMT
+EAEQQQLIDDHFLFDKPVSPLLLASGMARDWPDARGIWHNDNKTFLVWVNEEDHLRVISM
+QKGGNMKEVFTRFCTGLTQIETLFKSKDYEFMWNPHLGYILTCPSNLGTGLRAGVHIKLP
+NLGKHEKFSEVLKRLRLQKRGTGGVDTAAVGGVFDVSNADRLGFSEVELVQMVVDGVKLL
+IEMEQRLEQGQAIDDLMPAQK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

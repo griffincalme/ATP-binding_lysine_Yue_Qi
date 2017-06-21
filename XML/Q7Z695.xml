@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2007-01-09" modified="2017-03-15" version="108">
+<accession>Q7Z695</accession>
+<accession>Q96CN6</accession>
+<accession>Q9Y6T5</accession>
+<name>ADCK2_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Uncharacterized aarF domain-containing protein kinase 2</fullName>
+<ecNumber>2.7.11.-</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">ADCK2</name>
+<name type="synonym">AARF</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="2003-05" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Huang C.Q."/>
+<person name="Shan Y.X."/>
+<person name="Cheng Z."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2003" name="Nature" volume="424" first="157" last="164">
+<title>The DNA sequence of human chromosome 7.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Graves T.A."/>
+<person name="Pepin K.H."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Maas J."/>
+<person name="Jaeger S."/>
+<person name="Walker R."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="O'Laughlin M.D."/>
+<person name="Schaller M.E."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Cordes M."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Edwards J."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Andrews S."/>
+<person name="Isak A."/>
+<person name="Vanbrunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Lamar B."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Bielicki L."/>
+<person name="Scott K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Harris A."/>
+<person name="Strong C.M."/>
+<person name="Hou S."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Leonard S."/>
+<person name="Rohlfing T."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Abbott A."/>
+<person name="Minx P."/>
+<person name="Maupin R."/>
+<person name="Strowmatt C."/>
+<person name="Latreille P."/>
+<person name="Miller N."/>
+<person name="Johnson D."/>
+<person name="Murray J."/>
+<person name="Woessner J.P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Schultz B.R."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Nelson J.O."/>
+<person name="Berkowicz N."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Bedell J.A."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Chissoe S.L."/>
+<person name="Marra M.A."/>
+<person name="Raymond C."/>
+<person name="Haugen E."/>
+<person name="Gillett W."/>
+<person name="Zhou Y."/>
+<person name="James R."/>
+<person name="Phelps K."/>
+<person name="Iadanoto S."/>
+<person name="Bubb K."/>
+<person name="Simms E."/>
+<person name="Levy R."/>
+<person name="Clendenning J."/>
+<person name="Kaul R."/>
+<person name="Kent W.J."/>
+<person name="Furey T.S."/>
+<person name="Baertsch R.A."/>
+<person name="Brent M.R."/>
+<person name="Keibler E."/>
+<person name="Flicek P."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Bailey J.A."/>
+<person name="Portnoy M.E."/>
+<person name="Torrents D."/>
+<person name="Chinwalla A.T."/>
+<person name="Gish W.R."/>
+<person name="Eddy S.R."/>
+<person name="McPherson J.D."/>
+<person name="Olson M.V."/>
+<person name="Eichler E.E."/>
+<person name="Green E.D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="12853948"/>
+<dbReference type="DOI" id="10.1038/nature01782"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1-388</scope>
+<source>
+<tissue>Muscle</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2007" name="Nature" volume="446" first="153" last="158">
+<title>Patterns of somatic mutation in human cancer genomes.</title>
+<authorList>
+<person name="Greenman C."/>
+<person name="Stephens P."/>
+<person name="Smith R."/>
+<person name="Dalgliesh G.L."/>
+<person name="Hunter C."/>
+<person name="Bignell G."/>
+<person name="Davies H."/>
+<person name="Teague J."/>
+<person name="Butler A."/>
+<person name="Stevens C."/>
+<person name="Edkins S."/>
+<person name="O'Meara S."/>
+<person name="Vastrik I."/>
+<person name="Schmidt E.E."/>
+<person name="Avis T."/>
+<person name="Barthorpe S."/>
+<person name="Bhamra G."/>
+<person name="Buck G."/>
+<person name="Choudhury B."/>
+<person name="Clements J."/>
+<person name="Cole J."/>
+<person name="Dicks E."/>
+<person name="Forbes S."/>
+<person name="Gray K."/>
+<person name="Halliday K."/>
+<person name="Harrison R."/>
+<person name="Hills K."/>
+<person name="Hinton J."/>
+<person name="Jenkinson A."/>
+<person name="Jones D."/>
+<person name="Menzies A."/>
+<person name="Mironenko T."/>
+<person name="Perry J."/>
+<person name="Raine K."/>
+<person name="Richardson D."/>
+<person name="Shepherd R."/>
+<person name="Small A."/>
+<person name="Tofts C."/>
+<person name="Varian J."/>
+<person name="Webb T."/>
+<person name="West S."/>
+<person name="Widaa S."/>
+<person name="Yates A."/>
+<person name="Cahill D.P."/>
+<person name="Louis D.N."/>
+<person name="Goldstraw P."/>
+<person name="Nicholson A.G."/>
+<person name="Brasseur F."/>
+<person name="Looijenga L."/>
+<person name="Weber B.L."/>
+<person name="Chiew Y.-E."/>
+<person name="DeFazio A."/>
+<person name="Greaves M.F."/>
+<person name="Green A.R."/>
+<person name="Campbell P."/>
+<person name="Birney E."/>
+<person name="Easton D.F."/>
+<person name="Chenevix-Trench G."/>
+<person name="Tan M.-H."/>
+<person name="Khoo S.K."/>
+<person name="Teh B.T."/>
+<person name="Yuen S.T."/>
+<person name="Leung S.Y."/>
+<person name="Wooster R."/>
+<person name="Futreal P.A."/>
+<person name="Stratton M.R."/>
+</authorList>
+<dbReference type="PubMed" id="17344846"/>
+<dbReference type="DOI" id="10.1038/nature05610"/>
+</citation>
+<scope>VARIANTS [LARGE SCALE ANALYSIS] PRO-307; LEU-418; LEU-622 AND LEU-626</scope>
+</reference>
+<comment type="function">
+<text>The function of this protein is not yet clear. It is not known if it has protein kinase activity and what type of substrate it would phosphorylate (Ser, Thr or Tyr).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Membrane</location>
+<topology evidence="4">Single-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the protein kinase superfamily. ADCK protein kinase family.</text>
+</comment>
+<comment type="sequence caution" evidence="4">
+<conflict type="miscellaneous discrepancy">
+<sequence resource="EMBL-CDS" id="AAH14107" version="1"/>
+</conflict>
+<text>Aberrant splicing.</text>
+</comment>
+<dbReference type="EC" id="2.7.11.-"/>
+<dbReference type="EMBL" id="AY302592">
+<property type="protein sequence ID" value="AAP60021.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC006344">
+<property type="protein sequence ID" value="AAD43192.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC006452">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC014107">
+<property type="protein sequence ID" value="AAH14107.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS5861.1"/>
+<dbReference type="RefSeq" id="NP_443085.2">
+<property type="nucleotide sequence ID" value="NM_052853.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.744886"/>
+<dbReference type="ProteinModelPortal" id="Q7Z695"/>
+<dbReference type="BioGrid" id="124782">
+<property type="interactions" value="16"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000072869"/>
+<dbReference type="iPTMnet" id="Q7Z695"/>
+<dbReference type="PhosphoSitePlus" id="Q7Z695"/>
+<dbReference type="BioMuta" id="ADCK2"/>
+<dbReference type="DMDM" id="74723374"/>
+<dbReference type="PaxDb" id="Q7Z695"/>
+<dbReference type="PeptideAtlas" id="Q7Z695"/>
+<dbReference type="PRIDE" id="Q7Z695"/>
+<dbReference type="DNASU" id="90956"/>
+<dbReference type="Ensembl" id="ENST00000072869">
+<property type="protein sequence ID" value="ENSP00000072869"/>
+<property type="gene ID" value="ENSG00000133597"/>
+</dbReference>
+<dbReference type="GeneID" id="90956"/>
+<dbReference type="KEGG" id="hsa:90956"/>
+<dbReference type="UCSC" id="uc003vvy.2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="90956"/>
+<dbReference type="GeneCards" id="ADCK2"/>
+<dbReference type="HGNC" id="HGNC:19039">
+<property type="gene designation" value="ADCK2"/>
+</dbReference>
+<dbReference type="HPA" id="HPA036036"/>
+<dbReference type="neXtProt" id="NX_Q7Z695"/>
+<dbReference type="OpenTargets" id="ENSG00000133597"/>
+<dbReference type="PharmGKB" id="PA134902329"/>
+<dbReference type="eggNOG" id="KOG1236">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0661">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000001536"/>
+<dbReference type="HOGENOM" id="HOG000252975"/>
+<dbReference type="HOVERGEN" id="HBG080821"/>
+<dbReference type="InParanoid" id="Q7Z695"/>
+<dbReference type="KO" id="K08869"/>
+<dbReference type="OMA" id="TLWLHLL"/>
+<dbReference type="OrthoDB" id="EOG091G054C"/>
+<dbReference type="PhylomeDB" id="Q7Z695"/>
+<dbReference type="TreeFam" id="TF315018"/>
+<dbReference type="GenomeRNAi" id="90956"/>
+<dbReference type="PRO" id="PR:Q7Z695"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 7"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000133597"/>
+<dbReference type="CleanEx" id="HS_ADCK2"/>
+<dbReference type="ExpressionAtlas" id="Q7Z695">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q7Z695">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004147">
+<property type="entry name" value="UbiB_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03109">
+<property type="entry name" value="ABC1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0723">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Uncharacterized aarF domain-containing protein kinase 2" id="PRO_0000271792">
+<location>
+<begin position="1"/>
+<end position="626"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="103"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase">
+<location>
+<begin position="200"/>
+<end position="618"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="206"/>
+<end position="214"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="1">
+<location>
+<position position="445"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="311"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2968558." id="VAR_060990">
+<original>S</original>
+<variation>G</variation>
+<location>
+<position position="66"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1140034." id="VAR_029992" evidence="3">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="307"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3748092." id="VAR_041418" evidence="3">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="418"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3748092." id="VAR_029993">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="418"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1046515." id="VAR_029994" evidence="3">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="622"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55922126." id="VAR_041419" evidence="3">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="626"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17344846"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="626" mass="68982" checksum="F8E25DB672017AF4" modified="2003-10-01" version="1">
+MVAPWRVSVRVCLSHLRCFELRQGLSLLRPSECPRDARLCWLLLGTLPKVVSLCGDVGEG
+APDVLSRRRVRCSGAAGAGPAESLPRAGPLGGVFLHLRLWLRAGALLVKFFPLLLLYPLT
+YLAPSVSTLWLHLLLKATETSGPTYIKLGQWASTRRDLFSEAFCAQFSKLHVRVTPHPWT
+HTERFLRQAFGDDWGSILSFENREPVGSGCVAQVYKAYANTAFLETDSVQRLGRASCLPP
+FSHTGAVGGLRELFGYLGNGRKPPENLADQSFLERLLLPKADLVGSNAGVSRAQVPGHQP
+EATNLISVAVKVLHPGLLAQVHMDLLLMKIGSRVLGVLPGIKWLSLPEIVEEFEKLMVQQ
+IDLRYEAQNLEHFQVNFRNVKAVKFPTPLRPFVTREVLVETYEESVPVSSYQQAGIPVDL
+KRKIARLGINMLLKMIFVDNFVHADLHPGNILVQGANGLSSSQEAQLQQADICDTLVVAV
+PSSLCPLRLVLLDAGIVAELQAPDLRNFRAVFMAVVMGQGQRVAELILHHARASECRDVE
+GFKTEMAMLVTQARKNTITLEKLHVSSLLSSVFKLLMTHKVKLESNFASIVFAIMVLEGL
+GRSLDPKLDILEAARPFLLTGPVCPP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

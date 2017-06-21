@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2004-07-05" modified="2017-05-10" version="91">
+<accession>Q6ZV30</accession>
+<name>Q6ZV30_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Acetyl-coenzyme A synthetase</fullName>
+<ecNumber evidence="1">6.2.1.1</ecNumber>
+</recommendedName>
+</protein>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="submission" date="2003-07" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizuguchi H."/>
+<person name="Inagaki H."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Otsuki T."/>
+<person name="Sato H."/>
+<person name="Wakamatsu A."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Isono Y."/>
+<person name="Kawai-Hio Y."/>
+<person name="Saito K."/>
+<person name="Nishikawa T."/>
+<person name="Kimura K."/>
+<person name="Yamashita H."/>
+<person name="Matsuo K."/>
+<person name="Nakamura Y."/>
+<person name="Sekine M."/>
+<person name="Kikuchi H."/>
+<person name="Kanda K."/>
+<person name="Wagatsuma M."/>
+<person name="Murakawa K."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Oshima A."/>
+<person name="Sugiyama A."/>
+<person name="Kawakami B."/>
+<person name="Suzuki Y."/>
+<person name="Sugano S."/>
+<person name="Nagahari K."/>
+<person name="Masuho Y."/>
+<person name="Nagai K."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="4">Thalamus</tissue>
+</source>
+</reference>
+<comment type="catalytic activity">
+<text evidence="1">ATP + acetate + CoA = AMP + diphosphate + acetyl-CoA.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the ATP-dependent AMP-binding enzyme family.</text>
+</comment>
+<dbReference type="EC" id="6.2.1.1" evidence="1"/>
+<dbReference type="EMBL" id="AK125058">
+<property type="protein sequence ID" value="BAC86035.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.529353"/>
+<dbReference type="ProteinModelPortal" id="Q6ZV30"/>
+<dbReference type="STRING" id="9606.ENSP00000316924"/>
+<dbReference type="REPRODUCTION-2DPAGE" id="IPI00791746"/>
+<dbReference type="MaxQB" id="Q6ZV30"/>
+<dbReference type="PaxDb" id="Q6ZV30"/>
+<dbReference type="PeptideAtlas" id="Q6ZV30"/>
+<dbReference type="PRIDE" id="Q6ZV30"/>
+<dbReference type="eggNOG" id="KOG1175">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0365">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG014401"/>
+<dbReference type="ChiTaRS" id="ACSS1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000154930"/>
+<dbReference type="GO" id="GO:0003987">
+<property type="term" value="F:acetate-CoA ligase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016208">
+<property type="term" value="F:AMP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019427">
+<property type="term" value="P:acetyl-CoA biosynthetic process from acetate"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011904">
+<property type="entry name" value="Ac_CoA_lig"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025110">
+<property type="entry name" value="AMP-bd_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020845">
+<property type="entry name" value="AMP-binding_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000873">
+<property type="entry name" value="AMP-dep_Synth/Lig"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00501">
+<property type="entry name" value="AMP-binding"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13193">
+<property type="entry name" value="AMP-binding_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02188">
+<property type="entry name" value="Ac_CoA_lig_AcsA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00455">
+<property type="entry name" value="AMP_BINDING"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0436" evidence="1">Ligase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="domain" description="AMP-binding" evidence="2">
+<location>
+<begin position="54"/>
+<end position="472"/>
+</location>
+</feature>
+<feature type="domain" description="AMP-binding_C" evidence="3">
+<location>
+<begin position="481"/>
+<end position="559"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU361147"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF00501"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF13193"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAC86035.1"/>
+</source>
+</evidence>
+<sequence length="606" mass="66524" checksum="6BC6F2033C33240D" modified="2004-07-05" version="1">
+MLKTFLFLEKYFPCIKYSSACFPGTGLDVYDIKFAVLLHPQTALHFGPPPSLMAFSSLCC
+RELLETTCRLANTLKRHGVHRGDRVAIYMPVSPLAVAAMLACARIGAVHTVIFAGFSAES
+LAGRINDAKCKVVITFNQGLRGGRVVELKKIVDEAVKHCPTVQHVLVAHRTDNKVHMGDL
+DVPLEQEMAKEDPVCAPESMGSEDMLFMLYTSGSTGMPKGIVHTQAGYLLYAALTHKLVF
+DHQPGDIFGCVADIGWITGHSYVVYGPLCNGATSVLFESTPVYPNAGRYWETVERLKINQ
+FYGAPTAVRLLLKYGDAWVKKYDRSSLRTLGSVGEPINCEAWEWLHRVVGDSRCTLVDTW
+WQTETGGICIAPRPSEEGAEILPAMAMRPFFGIVPVLMDEKGSVVEGSNVSGALCISQAW
+PGMARTIYGDHQRFVDAYFKAYPGYYFTGDGAYRTEGGYYQITGRMDDVINISGHRLGTA
+EIEDAIADHPAVPESAVIGYPHDIKGEAAFAFIVVKDSAGDSDVVVQELKSMVATKIAKY
+AVPDEILVVKRLPKTRSGKVMRRLLRKIITSEAQELGDTTTLEDPSIIAEILSVYQKCKD
+KQAAAK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

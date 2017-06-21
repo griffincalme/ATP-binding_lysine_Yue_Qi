@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2005-10-11" modified="2017-05-10" version="70">
+<accession>Q3T7C7</accession>
+<name>Q3T7C7_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="4">tRNA isopentenylpyrophosphate transferase isoform 1</fullName>
+<ecNumber evidence="4">2.5.1.8</ecNumber>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="4">TRIT1</name>
+</gene>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="journal article" date="2005" name="Oncogene" volume="24" first="5502" last="5509">
+<title>Identification and functional characterization of the candidate tumor suppressor gene TRIT1 in human lung cancer.</title>
+<authorList>
+<person name="Spinola M."/>
+<person name="Galvan A."/>
+<person name="Pignatiello C."/>
+<person name="Conti B."/>
+<person name="Pastorino U."/>
+<person name="Nicander B."/>
+<person name="Paroni R."/>
+<person name="Dragani T.A."/>
+</authorList>
+<dbReference type="PubMed" id="15870694"/>
+<dbReference type="DOI" id="10.1038/sj.onc.1208687"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="4">Lung</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the IPP transferase family.</text>
+</comment>
+<dbReference type="EC" id="2.5.1.8" evidence="4"/>
+<dbReference type="EMBL" id="AY702933">
+<property type="protein sequence ID" value="AAW63394.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_060116.2">
+<property type="nucleotide sequence ID" value="NM_017646.5"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.356554"/>
+<dbReference type="ProteinModelPortal" id="Q3T7C7"/>
+<dbReference type="STRING" id="9606.ENSP00000321810"/>
+<dbReference type="PaxDb" id="Q3T7C7"/>
+<dbReference type="PeptideAtlas" id="Q3T7C7"/>
+<dbReference type="GeneID" id="54802"/>
+<dbReference type="KEGG" id="hsa:54802"/>
+<dbReference type="CTD" id="54802"/>
+<dbReference type="eggNOG" id="KOG1384">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0324">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG052492"/>
+<dbReference type="KO" id="K00791"/>
+<dbReference type="ChiTaRS" id="TRIT1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="54802"/>
+<dbReference type="Bgee" id="ENSG00000043514"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003676">
+<property type="term" value="F:nucleic acid binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016740">
+<property type="term" value="F:transferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008033">
+<property type="term" value="P:tRNA processing"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018022">
+<property type="entry name" value="IPP_trans"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003604">
+<property type="entry name" value="Matrin/U1-like-C_Znf_C2H2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022755">
+<property type="entry name" value="Znf_C2H2_jaz"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013087">
+<property type="entry name" value="Znf_C2H2_type"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11088:SF43">
+<property type="entry name" value="PTHR11088:SF43"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01715">
+<property type="entry name" value="IPPT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12171">
+<property type="entry name" value="zf-C2H2_jaz"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00451">
+<property type="entry name" value="ZnF_U1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF57667">
+<property type="entry name" value="SSF57667"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00174">
+<property type="entry name" value="miaA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0479" evidence="2">Metal-binding</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0808" evidence="1 4">Transferase</keyword>
+<keyword id="KW-0862" evidence="2">Zinc</keyword>
+<keyword id="KW-0863" evidence="2">Zinc-finger</keyword>
+<feature type="domain" description="U1-type" evidence="3">
+<location>
+<begin position="336"/>
+<end position="370"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU003785"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00771733"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00451"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAW63394.1"/>
+</source>
+</evidence>
+<sequence length="411" mass="47257" checksum="93636766D89E1273" modified="2005-10-11" version="1">
+MQVYEGLDIITNKVSAQEQRICRHHMISFVDPLVTNYTVVDFRNRATALIEDIFARDKIP
+IVVGGTNYYIESLLWKVLVNTKPQEMGTEKVIDRKVELEKEDGLVLHKRLSQVDPEMAAK
+LHPHDKRKVARSLQVFEETGISHSEFLHRQHTEEGGGPLGGPLKFSNPCILWLHADQAVL
+DERLDKRVDDMLAAGLLEELRDFHRRYNQKNVSENSQDYQHGIFQSIGFKEFHEYLITEG
+KCTLETSNQLLKKGIEALKQVTKRYARKQNRWVKNRFLSRPGPIVPPVYGLEVSDVSKWE
+ESVLEPALEIVQSFIQGHKPTATPIKMPYNEAENKRSYHLCDLCDRIIIGDREWAAHIKS
+KSHLNQLKKRRRLDSDAVNTIESQSVSPDHNKEPKEKGSPGQNDQELKCSV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

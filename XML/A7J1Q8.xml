@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2007-09-11" modified="2016-06-08" version="35">
+<accession>A7J1Q8</accession>
+<name>A7J1Q8_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="1">Variant ATP-binding cassette sub-family B member 4</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">ABCB4</name>
+</gene>
+<organism evidence="1">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="1">
+<citation type="submission" date="2006-07" db="EMBL/GenBank/DDBJ databases">
+<title>Identification of 24 new mutations of MDR3 gene in progressive familial intrahepatic cholestasis with elevated serum gamma-glutamyltransferase activity (PFIC3).</title>
+<authorList>
+<person name="Degiorgio D."/>
+<person name="Colombo C."/>
+<person name="Seia M."/>
+<person name="Porcaro L."/>
+<person name="Costantino L."/>
+<person name="Coviello D.A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<dbReference type="EMBL" id="DQ861352">
+<property type="protein sequence ID" value="ABH04426.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.654403"/>
+<dbReference type="STRING" id="9606.ENSP00000265723"/>
+<dbReference type="PaxDb" id="A7J1Q8"/>
+<dbReference type="eggNOG" id="KOG0055">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1132">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="non-terminal residue" evidence="1">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="1">
+<location>
+<position position="38"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ABH04426.1"/>
+</source>
+</evidence>
+<sequence length="38" mass="4007" checksum="C3552A78E461BA04" modified="2007-09-11" version="1" fragment="single">
+VFFSILIGAFSVGQAAPCIDAFANARGAVYVIFDIIDN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

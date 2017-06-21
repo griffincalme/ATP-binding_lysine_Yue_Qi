@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2014-06-11" modified="2017-05-10" version="26">
+<accession>X5D2L7</accession>
+<name>X5D2L7_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="4">Kinesin family member 1A isoform B</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="4">KIF1A</name>
+</gene>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="journal article" date="2014" name="Nat. Commun." volume="5" first="3650" last="3650">
+<title>Protein interaction network of alternatively spliced isoforms from brain links genetic risk factors for autism.</title>
+<authorList>
+<person name="Corominas R."/>
+<person name="Yang X."/>
+<person name="Lin G.N."/>
+<person name="Kang S."/>
+<person name="Shen Y."/>
+<person name="Ghamsari L."/>
+<person name="Broly M."/>
+<person name="Rodriguez M."/>
+<person name="Tam S."/>
+<person name="Wanamaker S.A."/>
+<person name="Fan C."/>
+<person name="Yi S."/>
+<person name="Tasan M."/>
+<person name="Lemmens I."/>
+<person name="Kuang X."/>
+<person name="Zhao N."/>
+<person name="Malhotra D."/>
+<person name="Michaelson J.J."/>
+<person name="Vacic V."/>
+<person name="Calderwood M.A."/>
+<person name="Roth F.P."/>
+<person name="Tavernier J."/>
+<person name="Horvath S."/>
+<person name="Salehi-Ashtiani K."/>
+<person name="Korkin D."/>
+<person name="Sebat J."/>
+<person name="Hill D.E."/>
+<person name="Hao T."/>
+<person name="Vidal M."/>
+<person name="Iakoucheva L.M."/>
+</authorList>
+<dbReference type="PubMed" id="24722188"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="4">Adult whole brain</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family.</text>
+</comment>
+<dbReference type="EMBL" id="KJ534874">
+<property type="protein sequence ID" value="AHW56514.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.516802"/>
+<dbReference type="STRING" id="9606.ENSP00000322791"/>
+<dbReference type="PaxDb" id="X5D2L7"/>
+<dbReference type="PeptideAtlas" id="X5D2L7"/>
+<dbReference type="eggNOG" id="KOG0245">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5059">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="KIF1A">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008017">
+<property type="term" value="F:microtubule binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003777">
+<property type="term" value="F:microtubule motor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007018">
+<property type="term" value="P:microtubule-based movement"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.30.29.30">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.850.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001752">
+<property type="entry name" value="Kinesin_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011993">
+<property type="entry name" value="PH_dom-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001849">
+<property type="entry name" value="PH_domain"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00225">
+<property type="entry name" value="Kinesin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00169">
+<property type="entry name" value="PH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00380">
+<property type="entry name" value="KINESINHEAVY"/>
+</dbReference>
+<dbReference type="SMART" id="SM00129">
+<property type="entry name" value="KISc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00233">
+<property type="entry name" value="PH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50729">
+<property type="entry name" value="SSF50729"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50067">
+<property type="entry name" value="KINESIN_MOTOR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50003">
+<property type="entry name" value="PH_DOMAIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0505" evidence="1">Motor protein</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="domain" description="Kinesin motor" evidence="3">
+<location>
+<begin position="5"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="domain" description="PH" evidence="2">
+<location>
+<begin position="333"/>
+<end position="431"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="97"/>
+<end position="104"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="4">
+<location>
+<position position="448"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00283"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50003"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50067"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AHW56514.1"/>
+</source>
+</evidence>
+<sequence length="448" mass="50584" checksum="272090E19AFF7CBD" modified="2014-06-11" version="1" fragment="single">
+MAGASVKVAVRVRPFNSREMSRDSKCIIQMSGSTTTIVNPKQPKETPKSFSFDYSYWSHT
+SPEDINYASQKQVYRDIGEEMLQHAFEGYNVCIFAYGQTGAGKSYTMMGKQEKDQQGIIP
+QLCEDLFSRINDTTNDNMSYSVEVSYMEIYCERVRDLLNPKNKGNLRVREHPLLGPYVED
+LSKLAVTSYNDIQDLMDSGNKARTVAATNMNETSSRFTHTFNREYTHSHVCVSASESKLS
+EMSVTLLRDPSMSPLGVATLTPSSTCPSLVEGRYGATDLRTPQPCSRPASPEPELLPEAD
+SKKLPSPARATETDKEPQRLLVPDIQEIRVSPIVSKKGYLHFLEPHTSGWARRFVVVRRP
+YAYMYNSDKDTVERFVLNLATAQVEYSEDQQAMLKTPNTFAVCTEHRGILLQAASDKDMH
+DWLYAFNPLLAGTIRSKLSRRRSAQMRV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,2006 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1990-11-01" modified="2017-05-10" version="207">
+<accession>P18074</accession>
+<accession>Q2TB78</accession>
+<accession>Q2YDY2</accession>
+<accession>Q7KZU6</accession>
+<accession>Q8N721</accession>
+<name>ERCC2_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>TFIIH basal transcription factor complex helicase XPD subunit</fullName>
+<ecNumber>3.6.4.12</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Basic transcription factor 2 80 kDa subunit</fullName>
+<shortName>BTF2 p80</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>CXPD</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>DNA excision repair protein ERCC-2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>DNA repair protein complementing XP-D cells</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>TFIIH basal transcription factor complex 80 kDa subunit</fullName>
+<shortName>TFIIH 80 kDa subunit</shortName>
+<shortName>TFIIH p80</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Xeroderma pigmentosum group D-complementing protein</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ERCC2</name>
+<name type="synonym">XPD</name>
+<name type="synonym">XPDC</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1990" name="EMBO J." volume="9" first="1437" last="1447">
+<title>ERCC2: cDNA cloning and molecular characterization of a human nucleotide excision repair gene with high homology to yeast RAD3.</title>
+<authorList>
+<person name="Weber C.A."/>
+<person name="Salazar E.P."/>
+<person name="Stewart S.A."/>
+<person name="Thompson L.H."/>
+</authorList>
+<dbReference type="PubMed" id="2184031"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Fibroblast</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="Genomics" volume="34" first="399" last="409">
+<title>Sequence analysis of the ERCC2 gene regions in human, mouse, and hamster reveals three linked genes.</title>
+<authorList>
+<person name="Lamerdin J.E."/>
+<person name="Stilwagen S.A."/>
+<person name="Ramirez M.H."/>
+<person name="Stubbs L."/>
+<person name="Carrano A.V."/>
+</authorList>
+<dbReference type="PubMed" id="8786141"/>
+<dbReference type="DOI" id="10.1006/geno.1996.0303"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<tissue>Fibroblast</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="2002-03" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NIEHS SNPs program"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>VARIANTS ASN-312 AND GLN-751</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2003-05" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full-length CDSs in BD Creator(TM) system donor vector.</title>
+<authorList>
+<person name="Kalnine N."/>
+<person name="Chen X."/>
+<person name="Rolfs A."/>
+<person name="Halleck A."/>
+<person name="Hines L."/>
+<person name="Eisenstein S."/>
+<person name="Koundinya M."/>
+<person name="Raphael J."/>
+<person name="Moreira D."/>
+<person name="Kelley T."/>
+<person name="LaBaer J."/>
+<person name="Lin Y."/>
+<person name="Phelan M."/>
+<person name="Farmer A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+</reference>
+<reference key="5">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<scope>VARIANT GLN-751</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<scope>VARIANT GLN-751</scope>
+<source>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1992" name="Proc. Natl. Acad. Sci. U.S.A." volume="89" first="261" last="265">
+<title>Correction of Xeroderma pigmentosum complementation group D mutant cell phenotypes by chromosome and gene transfer: involvement of the human ERCC2 DNA repair gene.</title>
+<authorList>
+<person name="Fletjer W.L."/>
+<person name="McDaniel L.D."/>
+<person name="Johns D."/>
+<person name="Friedberg E.C."/>
+<person name="Schultz R.A."/>
+</authorList>
+<dbReference type="PubMed" id="1729695"/>
+<dbReference type="DOI" id="10.1073/pnas.89.1.261"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1993" name="Nature" volume="365" first="852" last="855">
+<title>Human Xeroderma pigmentosum group D gene encodes a DNA helicase.</title>
+<authorList>
+<person name="Sung P."/>
+<person name="Bailly V."/>
+<person name="Weber C.A."/>
+<person name="Thompson L.H."/>
+<person name="Prakash L."/>
+<person name="Prakash S."/>
+</authorList>
+<dbReference type="PubMed" id="8413672"/>
+<dbReference type="DOI" id="10.1038/365852a0"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1995" name="Proc. Natl. Acad. Sci. U.S.A." volume="92" first="3259" last="3263">
+<title>The 62- and 80-kDa subunits of transcription factor IIH mediate the interaction with Epstein-Barr virus nuclear protein 2.</title>
+<authorList>
+<person name="Tong X."/>
+<person name="Drapkin R."/>
+<person name="Reinberg D."/>
+<person name="Kieff E."/>
+</authorList>
+<dbReference type="PubMed" id="7724549"/>
+<dbReference type="DOI" id="10.1073/pnas.92.8.3259"/>
+</citation>
+<scope>INTERACTION WITH EBV EBNA2</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1998" name="J. Biol. Chem." volume="273" first="34444" last="34453">
+<title>Immunoaffinity purification and functional characterization of human transcription factor IIH and RNA polymerase II from clonal cell lines that conditionally express epitope-tagged subunits of the multiprotein complexes.</title>
+<authorList>
+<person name="Kershnar E."/>
+<person name="Wu S.-Y."/>
+<person name="Chiang C.-M."/>
+</authorList>
+<dbReference type="PubMed" id="9852112"/>
+<dbReference type="DOI" id="10.1074/jbc.273.51.34444"/>
+</citation>
+<scope>IDENTIFICATION IN THE TFIIH BASAL TRANSCRIPTION FACTOR</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1998" name="Nat. Genet." volume="20" first="184" last="188">
+<title>Mutations in the XPD helicase gene result in XP and TTD phenotypes, preventing interaction between XPD and the p44 subunit of TFIIH.</title>
+<authorList>
+<person name="Coin F."/>
+<person name="Marinoni J.-C."/>
+<person name="Rodolfo C."/>
+<person name="Fribourg S."/>
+<person name="Pedrini A.M."/>
+<person name="Egly J.-M."/>
+</authorList>
+<dbReference type="PubMed" id="9771713"/>
+<dbReference type="DOI" id="10.1038/2491"/>
+</citation>
+<scope>INTERACTION WITH GTF2H2</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1999" name="Mol. Cell" volume="3" first="87" last="95">
+<title>Reconstitution of the transcription factor TFIIH: assignment of functions for the three enzymatic subunits, XPB, XPD, and cdk7.</title>
+<authorList>
+<person name="Tirode F."/>
+<person name="Busso D."/>
+<person name="Coin F."/>
+<person name="Egly J.-M."/>
+</authorList>
+<dbReference type="PubMed" id="10024882"/>
+<dbReference type="DOI" id="10.1016/S1097-2765(00)80177-X"/>
+</citation>
+<scope>MUTAGENESIS OF LYS-48</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2004" name="Mol. Cell" volume="16" first="187" last="197">
+<title>Selective regulation of vitamin D receptor-responsive genes by TFIIH.</title>
+<authorList>
+<person name="Drane P."/>
+<person name="Compe E."/>
+<person name="Catez P."/>
+<person name="Chymkowitch P."/>
+<person name="Egly J.-M."/>
+</authorList>
+<dbReference type="PubMed" id="15494306"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2004.10.007"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>POSSIBLE PATHOLOGICAL MECHANISM OF VARIANT XP-D TRP-683</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2006" name="Biochem. Biophys. Res. Commun." volume="348" first="473" last="477">
+<title>Identification and Herc5-mediated ISGylation of novel target proteins.</title>
+<authorList>
+<person name="Takeuchi T."/>
+<person name="Inoue S."/>
+<person name="Yokosawa H."/>
+</authorList>
+<dbReference type="PubMed" id="16884686"/>
+<dbReference type="DOI" id="10.1016/j.bbrc.2006.07.076"/>
+</citation>
+<scope>ISGYLATION</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2009" name="J. Biol. Chem." volume="284" first="5165" last="5174">
+<title>MCAF1/AM is involved in Sp1-mediated maintenance of cancer-associated telomerase activity.</title>
+<authorList>
+<person name="Liu L."/>
+<person name="Ishihara K."/>
+<person name="Ichimura T."/>
+<person name="Fujita N."/>
+<person name="Hino S."/>
+<person name="Tomita S."/>
+<person name="Watanabe S."/>
+<person name="Saitoh N."/>
+<person name="Ito T."/>
+<person name="Nakao M."/>
+</authorList>
+<dbReference type="PubMed" id="19106100"/>
+<dbReference type="DOI" id="10.1074/jbc.M807098200"/>
+</citation>
+<scope>INTERACTION WITH ATF7IP</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2010" name="Mol. Cell" volume="39" first="632" last="640">
+<title>MMXD, a TFIIH-independent XPD-MMS19 protein complex involved in chromosome segregation.</title>
+<authorList>
+<person name="Ito S."/>
+<person name="Tan L.J."/>
+<person name="Andoh D."/>
+<person name="Narita T."/>
+<person name="Seki M."/>
+<person name="Hirano Y."/>
+<person name="Narita K."/>
+<person name="Kuraoka I."/>
+<person name="Hiraoka Y."/>
+<person name="Tanaka K."/>
+</authorList>
+<dbReference type="PubMed" id="20797633"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2010.07.029"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>IDENTIFICATION IN MMXD COMPLEX</scope>
+<scope>INTERACTION WITH FAM196B</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2012" name="Science" volume="337" first="243" last="245">
+<title>MMS19 links cytoplasmic iron-sulfur cluster assembly to DNA metabolism.</title>
+<authorList>
+<person name="Gari K."/>
+<person name="Leon Ortiz A.M."/>
+<person name="Borel V."/>
+<person name="Flynn H."/>
+<person name="Skehel J.M."/>
+<person name="Boulton S.J."/>
+</authorList>
+<dbReference type="PubMed" id="22678361"/>
+<dbReference type="DOI" id="10.1126/science.1219664"/>
+</citation>
+<scope>IRON-SULFUR-BINDING</scope>
+<scope>COFACTOR</scope>
+<scope>MUTAGENESIS OF CYS-190</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="1994" name="Hum. Mol. Genet." volume="3" first="1783" last="1788">
+<title>Structural and mutational analysis of the xeroderma pigmentosum group D (XPD) gene.</title>
+<authorList>
+<person name="Frederick G.D."/>
+<person name="Amirkhan R.H."/>
+<person name="Schultz R.A."/>
+<person name="Friedberg E.C."/>
+</authorList>
+<dbReference type="PubMed" id="7849702"/>
+<dbReference type="DOI" id="10.1093/hmg/3.10.1783"/>
+</citation>
+<scope>VARIANT XP-D VAL-461</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="1994" name="Nat. Genet." volume="7" first="189" last="194">
+<title>Mutations in the xeroderma pigmentosum group D DNA repair/transcription gene in patients with trichothiodystrophy.</title>
+<authorList>
+<person name="Broughton B.C."/>
+<person name="Steingrimsdottir H."/>
+<person name="Weber C.A."/>
+<person name="Lehmann A.R."/>
+</authorList>
+<dbReference type="PubMed" id="7920640"/>
+<dbReference type="DOI" id="10.1038/ng0694-189"/>
+</citation>
+<scope>VARIANTS TTD1 HIS-112; PRO-616; TRP-722 AND 488-VAL--MET-493 DEL</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="1995" name="Am. J. Hum. Genet." volume="56" first="167" last="174">
+<title>Molecular and cellular analysis of the DNA repair defect in a patient in xeroderma pigmentosum complementation group D who has the clinical features of xeroderma pigmentosum and Cockayne syndrome.</title>
+<authorList>
+<person name="Broughton B.C."/>
+<person name="Thompson A.F."/>
+<person name="Harcourt S.A."/>
+<person name="Vermeulen W."/>
+<person name="Hoeijmakers J.H.J."/>
+<person name="Botta E."/>
+<person name="Stefanini M."/>
+<person name="King M.D."/>
+<person name="Weber C.A."/>
+<person name="Cole J."/>
+<person name="Arlett C.F."/>
+<person name="Lehmann A.R."/>
+</authorList>
+<dbReference type="PubMed" id="7825573"/>
+</citation>
+<scope>VARIANT XP-D ARG-675</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="1995" name="Cancer Res." volume="55" first="5656" last="5663">
+<title>Defects in the DNA repair and transcription gene ERCC2 in the cancer-prone disorder xeroderma pigmentosum group D.</title>
+<authorList>
+<person name="Takayama K."/>
+<person name="Salazar E.P."/>
+<person name="Lehmann A.R."/>
+<person name="Stefanini M."/>
+<person name="Thompson L.H."/>
+<person name="Weber C.A."/>
+</authorList>
+<dbReference type="PubMed" id="7585650"/>
+</citation>
+<scope>VARIANTS XP-D</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="1996" name="Am. J. Hum. Genet." volume="58" first="263" last="270">
+<title>Defects in the DNA repair and transcription gene ERCC2(XPD) in trichothiodystrophy.</title>
+<authorList>
+<person name="Takayama K."/>
+<person name="Salazar E.P."/>
+<person name="Broughton B.C."/>
+<person name="Lehmann A.R."/>
+<person name="Sarasin A."/>
+<person name="Thompson L.H."/>
+<person name="Weber C.A."/>
+</authorList>
+<dbReference type="PubMed" id="8571952"/>
+</citation>
+<scope>VARIANTS TTD1 CYS-658 AND ARG-713</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="1997" name="Hum. Mutat." volume="9" first="322" last="331">
+<title>Mutations in the XPD gene leading to Xeroderma pigmentosum symptoms.</title>
+<authorList>
+<person name="Kobayashi T."/>
+<person name="Kuraoka I."/>
+<person name="Saijo M."/>
+<person name="Nakatsu Y."/>
+<person name="Tanaka A."/>
+<person name="Someda Y."/>
+<person name="Fukuro S."/>
+<person name="Tanaka K."/>
+</authorList>
+<dbReference type="PubMed" id="9101292"/>
+<dbReference type="DOI" id="10.1002/(SICI)1098-1004(1997)9:4&lt;322::AID-HUMU4>3.0.CO;2-7"/>
+</citation>
+<scope>VARIANT XP-D ARG-541</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="1997" name="Hum. Mutat." volume="9" first="519" last="525">
+<title>DNA repair characteristics and mutations in the ERCC2 DNA repair and transcription gene in a trichothiodystrophy patient.</title>
+<authorList>
+<person name="Takayama K."/>
+<person name="Danks D.M."/>
+<person name="Salazar E.P."/>
+<person name="Cleaver J.E."/>
+<person name="Weber C.A."/>
+</authorList>
+<dbReference type="PubMed" id="9195225"/>
+<dbReference type="DOI" id="10.1002/(SICI)1098-1004(1997)9:6&lt;519::AID-HUMU4>3.3.CO;2-N"/>
+</citation>
+<scope>VARIANTS TTD1 VAL-461; 716-VAL--ARG-730 DEL AND PRO-725</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="1997" name="Proc. Natl. Acad. Sci. U.S.A." volume="94" first="8658" last="8663">
+<title>Xeroderma pigmentosum and trichothiodystrophy are associated with different mutations in the XPD (ERCC2) repair/transcription gene.</title>
+<authorList>
+<person name="Taylor E.M."/>
+<person name="Broughton B.C."/>
+<person name="Botta E."/>
+<person name="Stefanini M."/>
+<person name="Sarasin A."/>
+<person name="Jaspers N.G.J."/>
+<person name="Fawcett H."/>
+<person name="Harcourt S.A."/>
+<person name="Arlett C.F."/>
+<person name="Lehmann A.R."/>
+</authorList>
+<dbReference type="PubMed" id="9238033"/>
+<dbReference type="DOI" id="10.1073/pnas.94.16.8658"/>
+</citation>
+<scope>VARIANTS TTD1/XP</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="1998" name="Am. J. Hum. Genet." volume="63" first="1036" last="1048">
+<title>Analysis of mutations in the XPD gene in Italian patients with trichothiodystrophy: site of mutation correlates with repair deficiency, but gene dosage appears to determine clinical severity.</title>
+<authorList>
+<person name="Botta E."/>
+<person name="Nardo T."/>
+<person name="Broughton B.C."/>
+<person name="Marinoni S."/>
+<person name="Lehmann A.R."/>
+<person name="Stefanini M."/>
+</authorList>
+<dbReference type="PubMed" id="9758621"/>
+<dbReference type="DOI" id="10.1086/302063"/>
+</citation>
+<scope>VARIANTS TTD1 HIS-112; TYR-259; VAL-461; THR-482 DEL; GLY-673 AND TRP-722</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="1999" name="Hum. Mutat." volume="14" first="9" last="22">
+<title>A summary of mutations in the UV-sensitive disorders: xeroderma pigmentosum, Cockayne syndrome, and trichothiodystrophy.</title>
+<authorList>
+<person name="Cleaver J.E."/>
+<person name="Thompson L.H."/>
+<person name="Richardson A.S."/>
+<person name="States J.C."/>
+</authorList>
+<dbReference type="PubMed" id="10447254"/>
+<dbReference type="DOI" id="10.1002/(SICI)1098-1004(1999)14:1&lt;9::AID-HUMU2>3.0.CO;2-6"/>
+</citation>
+<scope>REVIEW ON VARIANTS XP-D</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2001" name="Am. J. Hum. Genet." volume="69" first="291" last="300">
+<title>Cerebro-oculo-facio-skeletal syndrome with a nucleotide excision-repair defect and a mutated XPD gene, with prenatal diagnosis in a triplet pregnancy.</title>
+<authorList>
+<person name="Graham J.M. Jr."/>
+<person name="Anyane-Yeboa K."/>
+<person name="Raams A."/>
+<person name="Appeldoorn E."/>
+<person name="Kleijer W.J."/>
+<person name="Garritsen V.H."/>
+<person name="Busch D."/>
+<person name="Edersheim T.G."/>
+<person name="Jaspers N.G.J."/>
+</authorList>
+<dbReference type="PubMed" id="11443545"/>
+<dbReference type="DOI" id="10.1086/321295"/>
+</citation>
+<scope>VARIANTS COFS2 TRP-616 AND ASN-681</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2001" name="Cancer Epidemiol. Biomarkers Prev." volume="10" first="355" last="360">
+<title>Associations between ercc2 polymorphisms and gliomas.</title>
+<authorList>
+<person name="Caggana M."/>
+<person name="Kilgallen J."/>
+<person name="Conroy J.M."/>
+<person name="Wiencke J.K."/>
+<person name="Kelsey K.T."/>
+<person name="Miike R."/>
+<person name="Chen P."/>
+<person name="Wrensch M.R."/>
+</authorList>
+<dbReference type="PubMed" id="11319176"/>
+</citation>
+<scope>VARIANT CYS-616</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2001" name="Cancer Res." volume="61" first="1354" last="1357">
+<title>Modulation of nucleotide excision repair capacity by XPD polymorphisms in lung cancer patients.</title>
+<authorList>
+<person name="Spitz M.R."/>
+<person name="Wu X."/>
+<person name="Wang Y."/>
+<person name="Wang L.E."/>
+<person name="Shete S."/>
+<person name="Amos C.I."/>
+<person name="Guo Z."/>
+<person name="Lei L."/>
+<person name="Mohrenweiser H."/>
+<person name="Wei Q."/>
+</authorList>
+<dbReference type="PubMed" id="11245433"/>
+</citation>
+<scope>VARIANTS ASN-312 AND GLN-751</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2001" name="Carcinogenesis" volume="22" first="1185" last="1188">
+<title>XPD exon 10 and 23 polymorphisms and DNA repair in human skin in situ.</title>
+<authorList>
+<person name="Hemminki K."/>
+<person name="Xu G."/>
+<person name="Angelini S."/>
+<person name="Snellman E."/>
+<person name="Jansen C.T."/>
+<person name="Lambert B."/>
+<person name="Hou S.M."/>
+</authorList>
+<dbReference type="PubMed" id="11470747"/>
+<dbReference type="DOI" id="10.1093/carcin/22.8.1185"/>
+</citation>
+<scope>VARIANTS ASN-312 AND GLN-751</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="2001" name="Genes Dev." volume="15" first="15" last="23">
+<title>The xeroderma pigmentosum group D (XPD) gene: one gene, two functions, three diseases.</title>
+<authorList>
+<person name="Lehmann A.R."/>
+</authorList>
+<dbReference type="PubMed" id="11156600"/>
+<dbReference type="DOI" id="10.1101/gad.859501"/>
+</citation>
+<scope>REVIEW ON VARIANTS</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="2001" name="Hum. Mol. Genet." volume="10" first="2539" last="2547">
+<title>Two individuals with features of both xeroderma pigmentosum and trichothiodystrophy highlight the complexity of the clinical outcomes of mutations in the XPD gene.</title>
+<authorList>
+<person name="Broughton B.C."/>
+<person name="Berneburg M."/>
+<person name="Fawcett H."/>
+<person name="Taylor E.M."/>
+<person name="Arlett C.F."/>
+<person name="Nardo T."/>
+<person name="Stefanini M."/>
+<person name="Menefee E."/>
+<person name="Price V.H."/>
+<person name="Queille S."/>
+<person name="Sarasin A."/>
+<person name="Bohnert E."/>
+<person name="Krutmann J."/>
+<person name="Davidson R."/>
+<person name="Kraemer K.H."/>
+<person name="Lehmann A.R."/>
+</authorList>
+<dbReference type="PubMed" id="11709541"/>
+<dbReference type="DOI" id="10.1093/hmg/10.22.2539"/>
+</citation>
+<scope>VARIANTS XP-D HIS-112; PRO-485 AND 582-GLU-LYS-583 DELINS VAL-SER-GLU</scope>
+<scope>VARIANTS ASN-312 AND GLN-751</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="2001" name="Nat. Genet." volume="27" first="299" last="303">
+<title>A temperature-sensitive disorder in basal transcription and DNA repair in humans.</title>
+<authorList>
+<person name="Vermeulen W."/>
+<person name="Rademakers S."/>
+<person name="Jaspers N.G.J."/>
+<person name="Appeldoorn E."/>
+<person name="Raams A."/>
+<person name="Klein B."/>
+<person name="Kleijer W.J."/>
+<person name="Hansen L.K."/>
+<person name="Hoeijmakers J.H.J."/>
+</authorList>
+<dbReference type="PubMed" id="11242112"/>
+<dbReference type="DOI" id="10.1038/85864"/>
+</citation>
+<scope>VARIANTS TTD1 CYS-658 AND ARG-713</scope>
+</reference>
+<comment type="function">
+<text evidence="4 13 15 22">ATP-dependent 5'-3' DNA helicase, component of the core-TFIIH basal transcription factor. Involved in nucleotide excision repair (NER) of DNA by opening DNA around the damage, and in RNA transcription by RNA polymerase II by anchoring the CDK-activating kinase (CAK) complex, composed of CDK7, cyclin H and MAT1, to the core-TFIIH complex. Involved in the regulation of vitamin-D receptor activity. As part of the mitotic spindle-associated MMXD complex it plays a role in chromosome segregation. Might have a role in aging process and could play a causative role in the generation of skin cancers.</text>
+</comment>
+<comment type="catalytic activity">
+<text>ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="16">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="16">
+<name>[4Fe-4S] cluster</name>
+<dbReference type="ChEBI" id="CHEBI:49883"/>
+</cofactor>
+<text evidence="16">Binds 1 [4Fe-4S] cluster.</text>
+</comment>
+<comment type="subunit">
+<text evidence="14 15 18 28 29">One of the six subunits forming the core-TFIIH basal transcription factor which associates with the CAK complex composed of CDK7, CCNH/cyclin H and MNAT1 to form the TFIIH basal transcription factor. The interaction with GTF2H2 results in the stimulation of the 5'-->3' helicase activity. Component of the MMXD complex, which includes CIAO1, ERCC2, FAM96B, MMS19 and SLC25A5. Interacts with FAM196B; the interaction is direct. Interacts with ATF7IP. Interacts with Epstein-Barr virus EBNA2.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-6380590"/>
+<interactant intactId="EBI-8469755">
+<id>Q6P1K8</id>
+<label>GTF2H2C_2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-6380590"/>
+<interactant intactId="EBI-1044169">
+<id>Q96T76</id>
+<label>MMS19</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="15">Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="15">Cytoplasm</location>
+<location evidence="15">Cytoskeleton</location>
+<location evidence="15">Spindle</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>P18074-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P18074-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_043132 VSP_043133 VSP_043134"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+</comment>
+<comment type="PTM">
+<text evidence="34">ISGylated.</text>
+</comment>
+<comment type="disease" evidence="5 11 13 17 19 20 24">
+<disease id="DI-01158">
+<name>Xeroderma pigmentosum complementation group D</name>
+<acronym>XP-D</acronym>
+<description>An autosomal recessive pigmentary skin disorder characterized by solar hypersensitivity of the skin, high predisposition for developing cancers on areas exposed to sunlight and, in some cases, neurological abnormalities. The skin develops marked freckling and other pigmentation abnormalities. Some XP-D patients present features of Cockayne syndrome, including cachectic dwarfism, pigmentary retinopathy, ataxia, decreased nerve conduction velocities. The phenotype combining xeroderma pigmentosum and Cockayne syndrome traits is referred to as XP-CS complex.</description>
+<dbReference type="MIM" id="278730"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="6 21 23 25 26 27">
+<disease id="DI-01104">
+<name>Trichothiodystrophy 1, photosensitive</name>
+<acronym>TTD1</acronym>
+<description>A form of trichothiodystrophy, an autosomal recessive disease characterized by sulfur-deficient brittle hair and multisystem variable abnormalities. The spectrum of clinical features varies from mild disease with only hair involvement to severe disease with cutaneous, neurologic and profound developmental defects. Ichthyosis, intellectual and developmental disabilities, decreased fertility, abnormal characteristics at birth, ocular abnormalities, short stature, and infections are common manifestations. There are both photosensitive and non-photosensitive forms of the disorder. TTD1 patients manifest cutaneous photosensitivity.</description>
+<dbReference type="MIM" id="601675"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="9">
+<disease id="DI-00259">
+<name>Cerebro-oculo-facio-skeletal syndrome 2</name>
+<acronym>COFS2</acronym>
+<description>A disorder of prenatal onset characterized by microcephaly, congenital cataracts, facial dysmorphism, neurogenic arthrogryposis, growth failure and severe psychomotor retardation. COFS is considered to be part of the nucleotide-excision repair disorders spectrum that include also xeroderma pigmentosum, trichothiodystrophy and Cockayne syndrome.</description>
+<dbReference type="MIM" id="610756"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="33">Belongs to the helicase family. RAD3/XPD subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="33">
+<conflict type="erroneous gene model prediction">
+<sequence resource="EMBL-CDS" id="AAM45142" version="1"/>
+</conflict>
+</comment>
+<comment type="online information" name="Allelic variations of the XP genes">
+<link uri="http://www.xpmutations.org/"/>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/XPDID297.html"/>
+</comment>
+<comment type="online information" name="NIEHS-SNPs">
+<link uri="http://egp.gs.washington.edu/data/ercc2/"/>
+</comment>
+<dbReference type="EC" id="3.6.4.12"/>
+<dbReference type="EMBL" id="X52221">
+<property type="protein sequence ID" value="CAA36463.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X52222">
+<property type="protein sequence ID" value="CAA36464.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L47234">
+<property type="protein sequence ID" value="AAL48323.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY092780">
+<property type="protein sequence ID" value="AAM45142.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT006883">
+<property type="protein sequence ID" value="AAP35529.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471126">
+<property type="protein sequence ID" value="EAW57341.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC108255">
+<property type="protein sequence ID" value="AAI08256.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC110523">
+<property type="protein sequence ID" value="AAI10524.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS33049.1">
+<molecule id="P18074-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS46112.1">
+<molecule id="P18074-2"/>
+</dbReference>
+<dbReference type="PIR" id="S10888">
+<property type="entry name" value="S10888"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000391.1">
+<molecule id="P18074-1"/>
+<property type="nucleotide sequence ID" value="NM_000400.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001124339.1">
+<molecule id="P18074-2"/>
+<property type="nucleotide sequence ID" value="NM_001130867.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.487294"/>
+<dbReference type="PDB" id="5IVW">
+<property type="method" value="EM"/>
+<property type="resolution" value="10.00"/>
+<property type="chains" value="W=1-760"/>
+</dbReference>
+<dbReference type="PDB" id="5IY6">
+<property type="method" value="EM"/>
+<property type="resolution" value="7.20"/>
+<property type="chains" value="W=1-760"/>
+</dbReference>
+<dbReference type="PDB" id="5IY7">
+<property type="method" value="EM"/>
+<property type="resolution" value="8.60"/>
+<property type="chains" value="W=1-760"/>
+</dbReference>
+<dbReference type="PDB" id="5IY8">
+<property type="method" value="EM"/>
+<property type="resolution" value="7.90"/>
+<property type="chains" value="W=1-760"/>
+</dbReference>
+<dbReference type="PDB" id="5IY9">
+<property type="method" value="EM"/>
+<property type="resolution" value="6.30"/>
+<property type="chains" value="W=1-760"/>
+</dbReference>
+<dbReference type="PDBsum" id="5IVW"/>
+<dbReference type="PDBsum" id="5IY6"/>
+<dbReference type="PDBsum" id="5IY7"/>
+<dbReference type="PDBsum" id="5IY8"/>
+<dbReference type="PDBsum" id="5IY9"/>
+<dbReference type="ProteinModelPortal" id="P18074"/>
+<dbReference type="SMR" id="P18074"/>
+<dbReference type="BioGrid" id="108380">
+<property type="interactions" value="35"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-644N"/>
+<dbReference type="IntAct" id="P18074">
+<property type="interactions" value="17"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-3008891"/>
+<dbReference type="STRING" id="9606.ENSP00000375809"/>
+<dbReference type="iPTMnet" id="P18074"/>
+<dbReference type="PhosphoSitePlus" id="P18074"/>
+<dbReference type="BioMuta" id="ERCC2"/>
+<dbReference type="DMDM" id="119540"/>
+<dbReference type="EPD" id="P18074"/>
+<dbReference type="MaxQB" id="P18074"/>
+<dbReference type="PaxDb" id="P18074"/>
+<dbReference type="PeptideAtlas" id="P18074"/>
+<dbReference type="PRIDE" id="P18074"/>
+<dbReference type="DNASU" id="2068"/>
+<dbReference type="Ensembl" id="ENST00000391945">
+<molecule id="P18074-1"/>
+<property type="protein sequence ID" value="ENSP00000375809"/>
+<property type="gene ID" value="ENSG00000104884"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000485403">
+<molecule id="P18074-2"/>
+<property type="protein sequence ID" value="ENSP00000431229"/>
+<property type="gene ID" value="ENSG00000104884"/>
+</dbReference>
+<dbReference type="GeneID" id="2068"/>
+<dbReference type="KEGG" id="hsa:2068"/>
+<dbReference type="UCSC" id="uc002pbj.3">
+<molecule id="P18074-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="2068"/>
+<dbReference type="DisGeNET" id="2068"/>
+<dbReference type="GeneCards" id="ERCC2"/>
+<dbReference type="GeneReviews" id="ERCC2"/>
+<dbReference type="HGNC" id="HGNC:3434">
+<property type="gene designation" value="ERCC2"/>
+</dbReference>
+<dbReference type="HPA" id="CAB005375"/>
+<dbReference type="HPA" id="HPA038057"/>
+<dbReference type="HPA" id="HPA069266"/>
+<dbReference type="MalaCards" id="ERCC2"/>
+<dbReference type="MIM" id="126340">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="278730">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="601675">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="610756">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P18074"/>
+<dbReference type="OpenTargets" id="ENSG00000104884"/>
+<dbReference type="Orphanet" id="1466">
+<property type="disease" value="COFS syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="33364">
+<property type="disease" value="Trichothiodystrophy"/>
+</dbReference>
+<dbReference type="Orphanet" id="276258">
+<property type="disease" value="Xeroderma pigmentosum complementation group D"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA27848"/>
+<dbReference type="eggNOG" id="KOG1131">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1199">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00550000075092"/>
+<dbReference type="HOGENOM" id="HOG000205390"/>
+<dbReference type="HOVERGEN" id="HBG051498"/>
+<dbReference type="InParanoid" id="P18074"/>
+<dbReference type="KO" id="K10844"/>
+<dbReference type="OMA" id="AQDAMEM"/>
+<dbReference type="OrthoDB" id="EOG091G0262"/>
+<dbReference type="PhylomeDB" id="P18074"/>
+<dbReference type="TreeFam" id="TF101232"/>
+<dbReference type="Reactome" id="R-HSA-112382">
+<property type="pathway name" value="Formation of RNA Pol II elongation complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-113418">
+<property type="pathway name" value="Formation of the Early Elongation Complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-167152">
+<property type="pathway name" value="Formation of HIV elongation complex in the absence of HIV Tat"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-167158">
+<property type="pathway name" value="Formation of the HIV-1 Early Elongation Complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-167160">
+<property type="pathway name" value="RNA Pol II CTD phosphorylation and interaction with CE during HIV infection"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-167161">
+<property type="pathway name" value="HIV Transcription Initiation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-167162">
+<property type="pathway name" value="RNA Polymerase II HIV Promoter Escape"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-167172">
+<property type="pathway name" value="Transcription of the HIV genome"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-167200">
+<property type="pathway name" value="Formation of HIV-1 elongation complex containing HIV-1 Tat"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-167246">
+<property type="pathway name" value="Tat-mediated elongation of the HIV-1 transcript"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2564830">
+<property type="pathway name" value="Cytosolic iron-sulfur cluster assembly"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-427413">
+<property type="pathway name" value="NoRC negatively regulates rRNA expression"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5696395">
+<property type="pathway name" value="Formation of Incision Complex in GG-NER"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5696400">
+<property type="pathway name" value="Dual Incision in GG-NER"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-674695">
+<property type="pathway name" value="RNA Polymerase II Pre-transcription Events"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6781823">
+<property type="pathway name" value="Formation of TC-NER Pre-Incision Complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6781827">
+<property type="pathway name" value="Transcription-Coupled Nucleotide Excision Repair (TC-NER)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6782135">
+<property type="pathway name" value="Dual incision in TC-NER"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6782210">
+<property type="pathway name" value="Gap-filling DNA repair synthesis and ligation in TC-NER"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6796648">
+<property type="pathway name" value="TP53 Regulates Transcription of DNA Repair Genes"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-72086">
+<property type="pathway name" value="mRNA Capping"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-73762">
+<property type="pathway name" value="RNA Polymerase I Transcription Initiation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-73772">
+<property type="pathway name" value="RNA Polymerase I Promoter Escape"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-73776">
+<property type="pathway name" value="RNA Polymerase II Promoter Escape"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-73777">
+<property type="pathway name" value="RNA Polymerase I Chain Elongation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-73779">
+<property type="pathway name" value="RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-73863">
+<property type="pathway name" value="RNA Polymerase I Transcription Termination"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-75953">
+<property type="pathway name" value="RNA Polymerase II Transcription Initiation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-75955">
+<property type="pathway name" value="RNA Polymerase II Transcription Elongation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-76042">
+<property type="pathway name" value="RNA Polymerase II Transcription Initiation And Promoter Clearance"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-77075">
+<property type="pathway name" value="RNA Pol II CTD phosphorylation and interaction with CE"/>
+</dbReference>
+<dbReference type="SIGNOR" id="P18074"/>
+<dbReference type="ChiTaRS" id="ERCC2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="ERCC2"/>
+<dbReference type="GenomeRNAi" id="2068"/>
+<dbReference type="PRO" id="PR:P18074"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 19"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000104884"/>
+<dbReference type="CleanEx" id="HS_ERCC2"/>
+<dbReference type="ExpressionAtlas" id="P18074">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P18074">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000439">
+<property type="term" value="C:core TFIIH complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005675">
+<property type="term" value="C:holo TFIIH complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071817">
+<property type="term" value="C:MMXD complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005819">
+<property type="term" value="C:spindle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005669">
+<property type="term" value="C:transcription factor TFIID complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051539">
+<property type="term" value="F:4 iron, 4 sulfur cluster binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043139">
+<property type="term" value="F:5'-3' DNA helicase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004003">
+<property type="term" value="F:ATP-dependent DNA helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008094">
+<property type="term" value="F:DNA-dependent ATPase activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008022">
+<property type="term" value="F:protein C-terminus binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0047485">
+<property type="term" value="F:protein N-terminus binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006370">
+<property type="term" value="P:7-methylguanosine mRNA capping"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007568">
+<property type="term" value="P:aging"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006915">
+<property type="term" value="P:apoptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030282">
+<property type="term" value="P:bone mineralization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008283">
+<property type="term" value="P:cell proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032289">
+<property type="term" value="P:central nervous system myelin formation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007059">
+<property type="term" value="P:chromosome segregation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0040016">
+<property type="term" value="P:embryonic cleavage"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048568">
+<property type="term" value="P:embryonic organ development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043249">
+<property type="term" value="P:erythrocyte maturation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030198">
+<property type="term" value="P:extracellular matrix organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070911">
+<property type="term" value="P:global genome nucleotide-excision repair"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035315">
+<property type="term" value="P:hair cell differentiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048820">
+<property type="term" value="P:hair follicle maturation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060218">
+<property type="term" value="P:hematopoietic stem cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001701">
+<property type="term" value="P:in utero embryonic development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035264">
+<property type="term" value="P:multicellular organism growth"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006289">
+<property type="term" value="P:nucleotide-excision repair"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000717">
+<property type="term" value="P:nucleotide-excision repair, DNA duplex unwinding"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033683">
+<property type="term" value="P:nucleotide-excision repair, DNA incision"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006295">
+<property type="term" value="P:nucleotide-excision repair, DNA incision, 3'-to lesion"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006296">
+<property type="term" value="P:nucleotide-excision repair, DNA incision, 5'-to lesion"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006294">
+<property type="term" value="P:nucleotide-excision repair, preincision complex assembly"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006293">
+<property type="term" value="P:nucleotide-excision repair, preincision complex stabilization"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043388">
+<property type="term" value="P:positive regulation of DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription from RNA polymerase II promoter"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009791">
+<property type="term" value="P:post-embryonic development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006468">
+<property type="term" value="P:protein phosphorylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901990">
+<property type="term" value="P:regulation of mitotic cell cycle phase transition"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001666">
+<property type="term" value="P:response to hypoxia"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006979">
+<property type="term" value="P:response to oxidative stress"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021510">
+<property type="term" value="P:spinal cord development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006363">
+<property type="term" value="P:termination of RNA polymerase I transcription"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006362">
+<property type="term" value="P:transcription elongation from RNA polymerase I promoter"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006368">
+<property type="term" value="P:transcription elongation from RNA polymerase II promoter"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006366">
+<property type="term" value="P:transcription from RNA polymerase II promoter"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006361">
+<property type="term" value="P:transcription initiation from RNA polymerase I promoter"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006367">
+<property type="term" value="P:transcription initiation from RNA polymerase II promoter"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006283">
+<property type="term" value="P:transcription-coupled nucleotide-excision repair"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009650">
+<property type="term" value="P:UV protection"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016032">
+<property type="term" value="P:viral process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006555">
+<property type="entry name" value="ATP-dep_Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010614">
+<property type="entry name" value="DEAD_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002464">
+<property type="entry name" value="DNA/RNA_helicase_DEAH_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013020">
+<property type="entry name" value="DNA_helicase_DNA-repair_Rad3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010643">
+<property type="entry name" value="HBB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014013">
+<property type="entry name" value="Helic_SF1/SF2_ATP-bd_DinG/Rad3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006554">
+<property type="entry name" value="Helicase-like_DEXD_c2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001945">
+<property type="entry name" value="RAD3/XPD"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06733">
+<property type="entry name" value="DEAD_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06777">
+<property type="entry name" value="HBB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13307">
+<property type="entry name" value="Helicase_C_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00852">
+<property type="entry name" value="XRODRMPGMNTD"/>
+</dbReference>
+<dbReference type="SMART" id="SM00488">
+<property type="entry name" value="DEXDc2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00491">
+<property type="entry name" value="HELICc2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00604">
+<property type="entry name" value="rad3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00690">
+<property type="entry name" value="DEAH_ATP_HELICASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51193">
+<property type="entry name" value="HELICASE_ATP_BIND_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0004">4Fe-4S</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0898">Cataract</keyword>
+<keyword id="KW-0159">Chromosome partition</keyword>
+<keyword id="KW-0172">Cockayne syndrome</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0209">Deafness</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0242">Dwarfism</keyword>
+<keyword id="KW-0347">Helicase</keyword>
+<keyword id="KW-0945">Host-virus interaction</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0977">Ichthyosis</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0411">Iron-sulfur</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<keyword id="KW-0857">Xeroderma pigmentosum</keyword>
+<feature type="chain" description="TFIIH basal transcription factor complex helicase XPD subunit" id="PRO_0000101980">
+<location>
+<begin position="1"/>
+<end position="760"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase ATP-binding" evidence="3">
+<location>
+<begin position="7"/>
+<end position="283"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="3">
+<location>
+<begin position="42"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="region of interest" description="Mediates interaction with MMS19">
+<location>
+<begin position="438"/>
+<end position="637"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="DEAH box">
+<location>
+<begin position="234"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Nuclear localization signal" evidence="2">
+<location>
+<begin position="682"/>
+<end position="695"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1">
+<location>
+<position position="116"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1">
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1">
+<location>
+<position position="155"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="33">
+<location>
+<position position="190"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_043132" evidence="32">
+<location>
+<begin position="1"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_043133" evidence="32">
+<original>FTIIIEPFDDRTPTIA</original>
+<variation>QAQHCGSSRNQKRSHP</variation>
+<location>
+<begin position="414"/>
+<end position="429"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_043134" evidence="32">
+<location>
+<begin position="430"/>
+<end position="760"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D." id="VAR_008187">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="47"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D." id="VAR_017282">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TTD1 and XP-D; dbSNP:rs121913020." id="VAR_003622" evidence="11 21 27">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="112"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1799791." id="VAR_011412">
+<original>I</original>
+<variation>M</variation>
+<location>
+<position position="199"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1799792." id="VAR_011413">
+<original>H</original>
+<variation>Y</variation>
+<location>
+<position position="201"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D." id="VAR_008188">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="234"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TTD1; dbSNP:rs370454709." id="VAR_008189" evidence="27">
+<original>C</original>
+<variation>Y</variation>
+<location>
+<position position="259"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1799793." id="VAR_011414" evidence="7 10 11 30">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="312"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D and TTD1; dbSNP:rs121913016." id="VAR_003623" evidence="20 25 27">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="461"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TTD1." id="VAR_008190" evidence="27">
+<location>
+<position position="482"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D; the corresponding mutation in fission yeast causes complete loss of activity; dbSNP:rs121913025." id="VAR_017283" evidence="11">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="485"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TTD1." id="VAR_017284">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="487"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TTD1; mild." id="VAR_003624" evidence="21">
+<location>
+<begin position="488"/>
+<end position="493"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D; dbSNP:rs772572683." id="VAR_017285">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="511"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D; mild; dbSNP:rs121913019." id="VAR_003625" evidence="24">
+<original>S</original>
+<variation>R</variation>
+<location>
+<position position="541"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D." id="VAR_008191">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="542"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D." id="VAR_017286" evidence="11">
+<original>EK</original>
+<variation>VSE</variation>
+<location>
+<begin position="582"/>
+<end position="583"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TTD1." id="VAR_017287">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="592"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TTD1." id="VAR_017288">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="594"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D; dbSNP:rs140522180." id="VAR_008192">
+<original>R</original>
+<variation>L</variation>
+<location>
+<position position="601"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D; dbSNP:rs753641926." id="VAR_017289">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="601"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D; combined with features of Cockayne syndrome; dbSNP:rs771824813." id="VAR_003627">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="602"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_011415" evidence="8">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="616"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D and TTD1; dbSNP:rs376556895." id="VAR_003626" evidence="21">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="616"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D and COFS2; dbSNP:rs121913024." id="VAR_008193" evidence="9">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="616"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TTD1; dbSNP:rs121913021." id="VAR_008194" evidence="6 23">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="658"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TTD1." id="VAR_017290">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="658"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TTD1; dbSNP:rs762141272." id="VAR_008195">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="658"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TTD1; dbSNP:rs770367713." id="VAR_017291">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="663"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D; dbSNP:rs752510317." id="VAR_017292">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="666"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TTD1." id="VAR_008196" evidence="27">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="673"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D/CS; severe form." id="VAR_003628" evidence="19">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="675"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D and COFS2; dbSNP:rs121913023." id="VAR_017293" evidence="9">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="681"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D." id="VAR_008197">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="683"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D; vitamin D-mediated activation of CYP24A1 is impaired in patient fibroblasts due to altered TFIIH-dependent phosphorylation of ETS1, subsequent impaired cooperation of ETS1 with VDR and altered VDR recruitment to CYP24A1 promoter; dbSNP:rs41556519." id="VAR_008198" evidence="13">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="683"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TTD1; dbSNP:rs121913022." id="VAR_008199" evidence="6 23">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="713"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XP-D and TTD1." id="VAR_003629" evidence="25">
+<location>
+<begin position="716"/>
+<end position="730"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TTD1; dbSNP:rs121913026." id="VAR_003630" evidence="21 27">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="722"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TTD1; dbSNP:rs121913018." id="VAR_003631" evidence="25">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="725"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Polymorphism; may be associated with increased susceptibility to DNA damage; dbSNP:rs13181." id="VAR_011416" evidence="7 10 11 12 30 31">
+<original>K</original>
+<variation>Q</variation>
+<location>
+<position position="751"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased transcriptional activity of the reconstituted TFIIH complex." evidence="4">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="48"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced iron-sulfur-binding. Iron-sulfur-binding is further decreased in absence of MMS19." evidence="16">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="190"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00541"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10024882"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10447254"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11242112"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11245433"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11319176"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11443545"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11470747"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11709541"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15494306"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19106100"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20797633"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22678361"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7585650"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7724549"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7825573"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7849702"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7920640"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8413672"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8571952"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9101292"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9195225"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9238033"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9758621"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9771713"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9852112"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source ref="3"/>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source ref="5"/>
+</evidence>
+<evidence key="32" type="ECO:0000303">
+<source ref="4"/>
+</evidence>
+<evidence key="33" type="ECO:0000305"/>
+<evidence key="34" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="16884686"/>
+</source>
+</evidence>
+<sequence length="760" mass="86909" checksum="746C0888CDF2E331" modified="1990-11-01" version="1">
+MKLNVDGLLVYFPYDYIYPEQFSYMRELKRTLDAKGHGVLEMPSGTGKTVSLLALIMAYQ
+RAYPLEVTKLIYCSRTVPEIEKVIEELRKLLNFYEKQEGEKLPFLGLALSSRKNLCIHPE
+VTPLRFGKDVDGKCHSLTASYVRAQYQHDTSLPHCRFYEEFDAHGREVPLPAGIYNLDDL
+KALGRRQGWCPYFLARYSILHANVVVYSYHYLLDPKIADLVSKELARKAVVVFDEAHNID
+NVCIDSMSVNLTRRTLDRCQGNLETLQKTVLRIKETDEQRLRDEYRRLVEGLREASAARE
+TDAHLANPVLPDEVLQEAVPGSIRTAEHFLGFLRRLLEYVKWRLRVQHVVQESPPAFLSG
+LAQRVCIQRKPLRFCAERLRSLLHTLEITDLADFSPLTLLANFATLVSTYAKGFTIIIEP
+FDDRTPTIANPILHFSCMDASLAIKPVFERFQSVIITSGTLSPLDIYPKILDFHPVTMAT
+FTMTLARVCLCPMIIGRGNDQVAISSKFETREDIAVIRNYGNLLLEMSAVVPDGIVAFFT
+SYQYMESTVASWYEQGILENIQRNKLLFIETQDGAETSVALEKYQEACENGRGAILLSVA
+RGKVSEGIDFVHHYGRAVIMFGVPYVYTQSRILKARLEYLRDQFQIRENDFLTFDAMRHA
+AQCVGRAIRGKTDYGLMVFADKRFARGDKRGKLPRWIQEHLTDANLNLTVDEGVQVAKYF
+LRQMAQPFHREDQLGLSLLSLEQLESEETLKRIEQIAQQL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

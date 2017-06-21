@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2005-05-24" modified="2017-04-12" version="70">
+<accession>Q53SE2</accession>
+<name>Q53SE2_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="2">Putative uncharacterized protein HSPD1</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">HSPD1</name>
+</gene>
+<organism evidence="2">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="submission" date="2000-01" db="EMBL/GenBank/DDBJ databases">
+<title>The sequence of Homo sapiens BAC clone RP11-198M19.</title>
+<authorList>
+<person name="Hawkins M."/>
+<person name="Du H."/>
+<person name="Elliott G."/>
+<person name="Drone K."/>
+<person name="Waligorski J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="2" evidence="2">
+<citation type="submission" date="2000-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Waterston R.H."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="3" evidence="2">
+<citation type="submission" date="2001-05" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Waterston R."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="4" evidence="2">
+<citation type="submission" date="2005-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Wilson R.K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the TCP-1 chaperonin family.</text>
+</comment>
+<dbReference type="EMBL" id="AC020550">
+<property type="protein sequence ID" value="AAX93145.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.595053"/>
+<dbReference type="UniGene" id="Hs.727543"/>
+<dbReference type="STRING" id="9606.ENSP00000340019"/>
+<dbReference type="PaxDb" id="Q53SE2"/>
+<dbReference type="PeptideAtlas" id="Q53SE2"/>
+<dbReference type="PRIDE" id="Q53SE2"/>
+<dbReference type="eggNOG" id="KOG0356">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0459">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG075181"/>
+<dbReference type="ChiTaRS" id="HSPD1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000144381"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.560.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.50.7.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017998">
+<property type="entry name" value="Chaperone_TCP-1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002423">
+<property type="entry name" value="Cpn60/TCP-1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027409">
+<property type="entry name" value="GroEL-like_apical_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027413">
+<property type="entry name" value="GROEL-like_equatorial"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00118">
+<property type="entry name" value="Cpn60_TCP1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00304">
+<property type="entry name" value="TCOMPLEXTCP1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0143" evidence="1">Chaperone</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="non-terminal residue" evidence="2">
+<location>
+<position position="233"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU004187"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAX93145.1"/>
+</source>
+</evidence>
+<sequence length="233" mass="25154" checksum="6B365D82F8C8AF2C" modified="2005-05-24" version="1" fragment="single">
+MLRLPTVFRQMRPVSRVLAPHLTRAYAKDVKFGADARALMLQGVDLLADAVAVTMGPKGR
+TVIIEQSWGSPKVTKDGVTVAKSIDLKDKYKNIGAKLVQDVANNTNEEAGDGTTTATVLA
+RSIAKEGFEKISKGANPVEIRRGVMLAVDAVIAELKKQSKPVTTPEEIAQVATISANGDK
+EIGNIISDAMKKVGRKGVITVKDGKTLNDELEIIEGMKFDRGYISPYFINTSK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,892 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2002-09-19" modified="2017-04-12" version="143">
+<accession>Q96DT5</accession>
+<accession>Q9UJ82</accession>
+<name>DYH11_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Dynein heavy chain 11, axonemal</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Axonemal beta dynein heavy chain 11</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Ciliary dynein heavy chain 11</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">DNAH11</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2002" name="Proc. Natl. Acad. Sci. U.S.A." volume="99" first="10282" last="10286">
+<title>Mutations in the DNAH11 (axonemal heavy chain dynein type 11) gene cause one form of situs inversus totalis and most likely primary ciliary dyskinesia.</title>
+<authorList>
+<person name="Bartoloni L."/>
+<person name="Blouin J.-L."/>
+<person name="Pan Y."/>
+<person name="Gehrig C."/>
+<person name="Maiti A.K."/>
+<person name="Scamuffa N."/>
+<person name="Rossier C."/>
+<person name="Jorissen M."/>
+<person name="Armengot M."/>
+<person name="Meeks M."/>
+<person name="Mitchison H.M."/>
+<person name="Chung E.M.K."/>
+<person name="Delozier-Blanchet C.D."/>
+<person name="Craigen W.J."/>
+<person name="Antonarakis S.E."/>
+</authorList>
+<dbReference type="PubMed" id="12142464"/>
+<dbReference type="DOI" id="10.1073/pnas.152337699"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>INVOLVEMENT IN CILD7</scope>
+<scope>VARIANT CILD7 GLN-2997</scope>
+<scope>VARIANTS LEU-34; ARG-639; CYS-654; ALA-1023; ALA-1038; GLY-1635; THR-3467; PRO-3758; VAL-4165 AND ILE-4170</scope>
+<source>
+<tissue>Nasal epithelium</tissue>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2003" name="Nature" volume="424" first="157" last="164">
+<title>The DNA sequence of human chromosome 7.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Graves T.A."/>
+<person name="Pepin K.H."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Maas J."/>
+<person name="Jaeger S."/>
+<person name="Walker R."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="O'Laughlin M.D."/>
+<person name="Schaller M.E."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Cordes M."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Edwards J."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Andrews S."/>
+<person name="Isak A."/>
+<person name="Vanbrunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Lamar B."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Bielicki L."/>
+<person name="Scott K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Harris A."/>
+<person name="Strong C.M."/>
+<person name="Hou S."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Leonard S."/>
+<person name="Rohlfing T."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Abbott A."/>
+<person name="Minx P."/>
+<person name="Maupin R."/>
+<person name="Strowmatt C."/>
+<person name="Latreille P."/>
+<person name="Miller N."/>
+<person name="Johnson D."/>
+<person name="Murray J."/>
+<person name="Woessner J.P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Schultz B.R."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Nelson J.O."/>
+<person name="Berkowicz N."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Bedell J.A."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Chissoe S.L."/>
+<person name="Marra M.A."/>
+<person name="Raymond C."/>
+<person name="Haugen E."/>
+<person name="Gillett W."/>
+<person name="Zhou Y."/>
+<person name="James R."/>
+<person name="Phelps K."/>
+<person name="Iadanoto S."/>
+<person name="Bubb K."/>
+<person name="Simms E."/>
+<person name="Levy R."/>
+<person name="Clendenning J."/>
+<person name="Kaul R."/>
+<person name="Kent W.J."/>
+<person name="Furey T.S."/>
+<person name="Baertsch R.A."/>
+<person name="Brent M.R."/>
+<person name="Keibler E."/>
+<person name="Flicek P."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Bailey J.A."/>
+<person name="Portnoy M.E."/>
+<person name="Torrents D."/>
+<person name="Chinwalla A.T."/>
+<person name="Gish W.R."/>
+<person name="Eddy S.R."/>
+<person name="McPherson J.D."/>
+<person name="Olson M.V."/>
+<person name="Eichler E.E."/>
+<person name="Green E.D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="12853948"/>
+<dbReference type="DOI" id="10.1038/nature01782"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="1999-01" db="EMBL/GenBank/DDBJ databases">
+<title>Chromosomal localization of human dynein heavy chain genes.</title>
+<authorList>
+<person name="Maiti A.K."/>
+<person name="Mattei M.-G."/>
+<person name="Jorissen M."/>
+<person name="Volz A."/>
+<person name="Ziegler A."/>
+<person name="Bouvagnet P."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 1897-1997</scope>
+<source>
+<tissue>Nasal polyp</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2008" name="Hum. Mutat." volume="29" first="289" last="298">
+<title>Primary ciliary dyskinesia associated with normal axoneme ultrastructure is caused by DNAH11 mutations.</title>
+<authorList>
+<person name="Schwabe G.C."/>
+<person name="Hoffmann K."/>
+<person name="Loges N.T."/>
+<person name="Birker D."/>
+<person name="Rossier C."/>
+<person name="de Santi M.M."/>
+<person name="Olbrich H."/>
+<person name="Fliegauf M."/>
+<person name="Failly M."/>
+<person name="Liebers U."/>
+<person name="Collura M."/>
+<person name="Gaedicke G."/>
+<person name="Mundlos S."/>
+<person name="Wahn U."/>
+<person name="Blouin J.-L."/>
+<person name="Niggemann B."/>
+<person name="Omran H."/>
+<person name="Antonarakis S.E."/>
+<person name="Bartoloni L."/>
+</authorList>
+<dbReference type="PubMed" id="18022865"/>
+<dbReference type="DOI" id="10.1002/humu.20656"/>
+</citation>
+<scope>INVOLVEMENT IN CILD7</scope>
+<scope>VARIANTS ALA-1023; ALA-1038; VAL-4165 AND ILE-4170</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2014" name="Eur. Respir. J." volume="44" first="1579" last="1588">
+<title>Ciliary beat pattern and frequency in genetic variants of primary ciliary dyskinesia.</title>
+<authorList>
+<person name="Raidt J."/>
+<person name="Wallmeier J."/>
+<person name="Hjeij R."/>
+<person name="Onnebrink J.G."/>
+<person name="Pennekamp P."/>
+<person name="Loges N.T."/>
+<person name="Olbrich H."/>
+<person name="Haeffner K."/>
+<person name="Dougherty G.W."/>
+<person name="Omran H."/>
+<person name="Werner C."/>
+</authorList>
+<dbReference type="PubMed" id="25186273"/>
+<dbReference type="DOI" id="10.1183/09031936.00052014"/>
+</citation>
+<scope>INVOLVEMENT IN CILD7</scope>
+<scope>VARIANTS CILD7 VAL-117; PRO-2383 AND SER-4327</scope>
+</reference>
+<comment type="function">
+<text>Force generating protein of respiratory cilia. Produces force towards the minus ends of microtubules. Dynein has ATPase activity; the force-producing power stroke is thought to occur on release of ADP.</text>
+</comment>
+<comment type="subunit">
+<text>Consists of at least two heavy chains and a number of intermediate and light chains.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Cytoskeleton</location>
+<location>Cilium axoneme</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text>Dynein heavy chains probably consist of an N-terminal stem (which binds cargo and interacts with other dynein components), and the head or motor domain. The motor contains six tandemly-linked AAA domains in the head, which form a ring. A stalk-like structure (formed by two of the coiled coil domains) protrudes between AAA 4 and AAA 5 and terminates in a microtubule-binding site. A seventh domain may also contribute to this ring; it is not clear whether the N-terminus or the C-terminus forms this extra domain. There are four well-conserved and two non-conserved ATPase sites, one per AAA domain. Probably only one of these (within AAA 1) actually hydrolyzes ATP, the others may serve a regulatory function.</text>
+</comment>
+<comment type="disease" evidence="3 4 5">
+<disease id="DI-00932">
+<name>Ciliary dyskinesia, primary, 7</name>
+<acronym>CILD7</acronym>
+<description>A disorder characterized by abnormalities of motile cilia. Respiratory infections leading to chronic inflammation and bronchiectasis are recurrent, due to defects in the respiratory cilia; reduced fertility is often observed in male patients due to abnormalities of sperm tails. Half of the patients exhibit randomization of left-right body asymmetry and situs inversus, due to dysfunction of monocilia at the embryonic node. Primary ciliary dyskinesia associated with situs inversus is referred to as Kartagener syndrome.</description>
+<dbReference type="MIM" id="611884"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the dynein heavy chain family.</text>
+</comment>
+<dbReference type="EMBL" id="AJ320497">
+<property type="protein sequence ID" value="CAC60121.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC004595">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC102952">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC073102">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC013481">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC005078">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC004002">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC099653">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ132087">
+<property type="protein sequence ID" value="CAA10560.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS64602.1"/>
+<dbReference type="RefSeq" id="NP_001264044.1">
+<property type="nucleotide sequence ID" value="NM_001277115.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.520245"/>
+<dbReference type="UniGene" id="Hs.744069"/>
+<dbReference type="ProteinModelPortal" id="Q96DT5"/>
+<dbReference type="SMR" id="Q96DT5"/>
+<dbReference type="BioGrid" id="114244">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000330671"/>
+<dbReference type="iPTMnet" id="Q96DT5"/>
+<dbReference type="PhosphoSitePlus" id="Q96DT5"/>
+<dbReference type="DMDM" id="311033455"/>
+<dbReference type="EPD" id="Q96DT5"/>
+<dbReference type="PaxDb" id="Q96DT5"/>
+<dbReference type="PeptideAtlas" id="Q96DT5"/>
+<dbReference type="PRIDE" id="Q96DT5"/>
+<dbReference type="Ensembl" id="ENST00000409508">
+<property type="protein sequence ID" value="ENSP00000475939"/>
+<property type="gene ID" value="ENSG00000105877"/>
+</dbReference>
+<dbReference type="GeneID" id="8701"/>
+<dbReference type="KEGG" id="hsa:8701"/>
+<dbReference type="UCSC" id="uc064bwj.1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="8701"/>
+<dbReference type="DisGeNET" id="8701"/>
+<dbReference type="GeneCards" id="DNAH11"/>
+<dbReference type="GeneReviews" id="DNAH11"/>
+<dbReference type="H-InvDB" id="HIX0006509"/>
+<dbReference type="H-InvDB" id="HIX0167830"/>
+<dbReference type="HGNC" id="HGNC:2942">
+<property type="gene designation" value="DNAH11"/>
+</dbReference>
+<dbReference type="HPA" id="HPA045880"/>
+<dbReference type="HPA" id="HPA056474"/>
+<dbReference type="MalaCards" id="DNAH11"/>
+<dbReference type="MIM" id="603339">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="611884">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q96DT5"/>
+<dbReference type="OpenTargets" id="ENSG00000105877"/>
+<dbReference type="Orphanet" id="244">
+<property type="disease" value="Primary ciliary dyskinesia"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA27396"/>
+<dbReference type="eggNOG" id="KOG3595">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5245">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00760000118964"/>
+<dbReference type="HOGENOM" id="HOG000237309"/>
+<dbReference type="HOVERGEN" id="HBG107831"/>
+<dbReference type="InParanoid" id="Q96DT5"/>
+<dbReference type="KO" id="K10408"/>
+<dbReference type="TreeFam" id="TF316836"/>
+<dbReference type="ChiTaRS" id="DNAH11">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="DNAH11"/>
+<dbReference type="GenomeRNAi" id="8701"/>
+<dbReference type="PRO" id="PR:Q96DT5"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 7"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000105877"/>
+<dbReference type="CleanEx" id="HS_DNAH11"/>
+<dbReference type="ExpressionAtlas" id="Q96DT5">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q96DT5">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005929">
+<property type="term" value="C:cilium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030286">
+<property type="term" value="C:dynein complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005874">
+<property type="term" value="C:microtubule"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003777">
+<property type="term" value="F:microtubule motor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003341">
+<property type="term" value="P:cilium movement"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007368">
+<property type="term" value="P:determination of left/right symmetry"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="SYSCILIA_CCNET"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030317">
+<property type="term" value="P:flagellated sperm motility"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="SYSCILIA_CCNET"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003356">
+<property type="term" value="P:regulation of cilium beat frequency"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="SYSCILIA_CCNET"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011704">
+<property type="entry name" value="ATPase_dyneun-rel_AAA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026983">
+<property type="entry name" value="DHC_fam"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030443">
+<property type="entry name" value="DNAH11"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024743">
+<property type="entry name" value="Dynein_HC_stalk"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024317">
+<property type="entry name" value="Dynein_heavy_chain_D4_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004273">
+<property type="entry name" value="Dynein_heavy_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013594">
+<property type="entry name" value="Dynein_heavy_dom-1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013602">
+<property type="entry name" value="Dynein_heavy_dom-2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10676">
+<property type="entry name" value="PTHR10676"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10676:SF307">
+<property type="entry name" value="PTHR10676:SF307"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07728">
+<property type="entry name" value="AAA_5"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12780">
+<property type="entry name" value="AAA_8"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08385">
+<property type="entry name" value="DHC_N1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08393">
+<property type="entry name" value="DHC_N2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03028">
+<property type="entry name" value="Dynein_heavy"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12777">
+<property type="entry name" value="MT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="5"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0966">Cell projection</keyword>
+<keyword id="KW-1186">Ciliopathy</keyword>
+<keyword id="KW-0969">Cilium</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0243">Dynein</keyword>
+<keyword id="KW-1012">Kartagener syndrome</keyword>
+<keyword id="KW-0493">Microtubule</keyword>
+<keyword id="KW-0505">Motor protein</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-0990">Primary ciliary dyskinesia</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<feature type="chain" description="Dynein heavy chain 11, axonemal" id="PRO_0000114633">
+<location>
+<begin position="1"/>
+<end position="4516"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="1893"/>
+<end position="1900"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="2174"/>
+<end position="2181"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="2510"/>
+<end position="2517"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="2855"/>
+<end position="2862"/>
+</location>
+</feature>
+<feature type="region of interest" description="Stem" evidence="1">
+<location>
+<begin position="1"/>
+<end position="1854"/>
+</location>
+</feature>
+<feature type="region of interest" description="AAA 1" evidence="1">
+<location>
+<begin position="1855"/>
+<end position="2076"/>
+</location>
+</feature>
+<feature type="region of interest" description="AAA 2" evidence="1">
+<location>
+<begin position="2136"/>
+<end position="2366"/>
+</location>
+</feature>
+<feature type="region of interest" description="AAA 3" evidence="1">
+<location>
+<begin position="2472"/>
+<end position="2719"/>
+</location>
+</feature>
+<feature type="region of interest" description="AAA 4" evidence="1">
+<location>
+<begin position="2817"/>
+<end position="3066"/>
+</location>
+</feature>
+<feature type="region of interest" description="Stalk" evidence="1">
+<location>
+<begin position="3072"/>
+<end position="3403"/>
+</location>
+</feature>
+<feature type="region of interest" description="AAA 5" evidence="1">
+<location>
+<begin position="3459"/>
+<end position="3686"/>
+</location>
+</feature>
+<feature type="region of interest" description="AAA 6" evidence="1">
+<location>
+<begin position="3896"/>
+<end position="4122"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="1274"/>
+<end position="1327"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="3072"/>
+<end position="3136"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="3312"/>
+<end position="3403"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="3668"/>
+<end position="3703"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Requires 2 nucleotide substitutions; dbSNP:rs398123604." id="VAR_013851" evidence="3">
+<original>E</original>
+<variation>L</variation>
+<location>
+<position position="34"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2285944." id="VAR_042944">
+<original>E</original>
+<variation>V</variation>
+<location>
+<position position="34"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CILD7; dbSNP:rs72655968." id="VAR_072472" evidence="5">
+<original>E</original>
+<variation>V</variation>
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs12670130." id="VAR_013852" evidence="3">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="639"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs62441683." id="VAR_013853" evidence="3">
+<original>S</original>
+<variation>C</variation>
+<location>
+<position position="654"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs10269582." id="VAR_013854" evidence="3 4">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="1023"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs10224537." id="VAR_013855" evidence="3 4">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="1038"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs17144788." id="VAR_042945">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="1316"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs17144835." id="VAR_013856" evidence="3">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="1635"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CILD7; dbSNP:rs72657353." id="VAR_072473" evidence="5">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="2383"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2003417." id="VAR_060141">
+<original>Y</original>
+<variation>H</variation>
+<location>
+<position position="2586"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs9639393." id="VAR_013857">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="2634"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs72657364." id="VAR_013858">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="2675"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CILD7; unknown pathological significance; dbSNP:rs35865357." id="VAR_013859" evidence="3">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="2997"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2214326." id="VAR_013860" evidence="3">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="3467"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4722064." id="VAR_013861">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="3708"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs17145720." id="VAR_013862" evidence="3">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="3758"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6461613." id="VAR_042946" evidence="3 4">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="4165"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs12537531." id="VAR_013863" evidence="3 4">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="4170"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CILD7; dbSNP:rs72658826." id="VAR_072474" evidence="5">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="4327"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12142464"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18022865"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25186273"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="4516" mass="520369" checksum="4F4F149CE7FF82D7" modified="2015-02-04" version="4">
+MAAQVAAREARDFREAPTLRLTSGAGLEAVGAVELEEEEENEEEAAARRARSFAQDARVR
+FLGGRLAMMLGFTEEKWSQYLESEDNRQVLGEFLESTSPACLVFSFAASGRLAASQEIPR
+DANHKLVFISKKITESIGVNDFSQVVLFGELPALSLGHVSAFLDEILVPVLSNKNNHKSW
+SCFTSQDMEYHIEVMKKKMYIFRGKMSRRTLLPIPTVAGKMDLDQNCSENKPPSNERIIL
+HAIESVVIEWSHQIQEIIERDSVQRLLNGLHLSPQAELDFWMMRRENLSCIYDQLQAPVV
+LKMVKILTTKQSSYFPTLKDIFLAVENALLEAQDVELYLRPLRRHIQCLQETEFPQTRIL
+IAPLFHTICLIWSHSKFYNTPARVIVLLQEFCNLFINQATAYLSPEDLLRGEIEESLEKV
+QVAVNILKTFKNSFFNYRKKLASYFMGRKLRPWDFQSHLVFCRFDKFLDRLIKIEDIFAT
+TLEFEKLERLEFGGTKGAILNGQVHEMSEELMELCKLFKQSTYDPSDCTNMEFESDYVAF
+KSKTLEFDRRLGTIICEAFFNCNGLEAAFKLLTIFGNFLEKPVVMEIFSLHYSTLVHMFN
+TELDVCKQLYNEHMKQIECGHVVLNKNMPFTSGNMKWAQQVLQRLQMFWSNFASLRYLFL
+GNPDHALVYQKYVEMTTLLDQFESRIYNEWKSNVDEICEFNLNQPLVKFSAINGLLCVNF
+DPKLVAVLREVKYLLMLKKQDIPDSALAIFKKRNTILKYIGNLDLLVQGYNKLKQTLLEV
+EYPLIEDELRAIDEQLTAATTWLTWQDDCWGYIERVRAATSELEHRVERTQKNVKVIQQT
+MRGWARCVLPPRREHRREAAFTLEDKGDLFTKKYKLIQGDGCKIHNLVEENRKLFKANPS
+LDTWKIYVEFIDDIVVEGFFQAIMHDLDFFLKNTEKQLKPAPFFQAQMILLPPEIVFKPS
+LDREAGDGFYDLVEEMLCNSFRMSAQMNRIATHLEIKNYQNDMDNMLGLAEVRQEIMNRV
+VNVINKVLDFRNTLETHTYLWVDDRAEFMKHFLLYGHAVSSDEMDAHANEEIPEQPPTLE
+QFKEQIDIYEALYVQMSKFEDFRVFDSWFKVDMKPFKVSLLTIIKKWSWMFQEHLLRFVI
+DSLNELQEFIKETDSGLQRELNEGDHDGLVDIMVHLLAVRSRQRATDELFEPLKETITLL
+ESYGQKMPEQVYIQLEELPERWETTKKIAATVRHEVSPLHNAEVTLIRKKCILFDAKQAE
+FRERFRHYAPLGFNAENPYTALDKANEELEALEEEMLQMQESTRLFEVALPEYKQMKQCR
+KEIKLLKGLWDVIIYVRRSIDNWTKTQWRQIHVEQMDVELRRFAKEIWSLNKEVRVWDAY
+TGLEGTVKDMTASLRAITELQSPALRDRHWHQLMKAIGVKFLINEATTLADLLALRLHRV
+EDDVRRIVDKAVKELGTEKVITEISQTWATMKFSYEVHYRTGIPLLKSDEQLFETLEHNQ
+VQLQTLLQSKYVEYFIEQVLSWQNKLNIADLVIFTWMEVQRTWSHLESIFVCSEDIRIQL
+VKDARRFDGVDAEFKELMFKTAKVENVLEATCRPNLYEKLKDLQSRLSLCEKALAEYLET
+KRIAFPRFYFVSSADLLDILSKGAQPKQVTCHLAKLFDSIADLQFEDNQDVSAHRAVGMY
+SKEKEYVPFQAECECVGHVETWLLQLEQTMQETVRHSITEAIVAYEEKPRELWIFDFPAQ
+VALTSSQIWWTTDVGIAFSRLEEGYETALKDFHKKQISQLNTLITLLLGELPPGDRQKIM
+TICTIDVHARDVVAKLISQKVVSPQAFTWLSQLRHRWEDTQKHCFVNICDAQFQYFYEYL
+GNSPRLVITPLTDRCYITLTQSLHLTMSGAPAGPAGTGKTETTKDLGRALGMMVYVFNCS
+EQMDYKSIGNIYKGLVQTGAWGCFDEFNRISVEVLSVVAVQVKMIHDAIRNRKKRFVFLG
+EAITLKPSVGIFITMNPGYAGRTELPENLKALFRPCAMVAPDIELICEILLVAEGFVDAR
+ALARKFITLYTLCKELLSKQDHYDWGLRAIKSVLVVAGSLKRGDKNRPEDQVLMRALRDF
+NMPKIVTDDIPVFLGLVGDLFPALDVPRRRKLHFEQMVRQSTLELRLQPEESFILKVVQL
+EELLAVRHSVFVVGNAGTGKSKILRTLNRTYVNMKQKPVWNDLNPKAVTTDELFGFIHHA
+TREWKDGKIVYSYFIGLFSSILREQANLKHDGPKWIVLDGDIDPMWIESLNTVMDDNKVL
+TLASNERIALTPFMRLLFEIHHLRSATPATVSRAGILYVNPQDLGWNPYVASWIDRRRHQ
+SEKANLTILFDKYVPACLDKLRTSFKTITSIPESSLVQTLCVLLECLLTPENVPSDSPKE
+VYEVYFVFACIWAFGGTLLQDQISDYQADFSRWWQKEMKAVKFPSQGTIFDYYVDHKTKK
+LLPWADKIAQFTMDPDVPLQTVLVHTTETARLRYFMELLLEKGKPLMLVGNAGVGKTVFV
+GDTLASLSEDYIVSRVPFNYYTTSTALQKILEKPLEKKAGHNYGPGGNKKLIYFIDDMNM
+PEVDLYGTVQPHTLIRQHIDYGHWYDRQKVMLKEIHNCQYVACMNPMVGSFTINPRLQRH
+FTVFAFNFPSLDALNTIYGQIFSFHFQQQAFAPSILRSGPTLIQATIAFHQTMMCNFLPT
+AIKFHYIFNLRDLSNVFQGILFASPECLKGPLDLIHLWLHESARVYGDKLIDKKDCDLFQ
+RRMLETAYKYFEGIDSHMLLQQPLIYCHFADRGKDPHYMPVKDWEVLKTILTETLDNYNE
+LNAAMHLVLFEDAMQHVCRISRILRTPQGCALLVGVGGSGKQSLSRLAAYLRGLEVFQIT
+LTEGYGIQELRVDLANLYIRTGAKNMPTVFLLTDAQVLDESFLVLINDLLASGEIPDLFS
+DEDVDKIISGIHNEVHALGMVDSRENCWKFFMARVRLQLKIILCFSPVGRTLRVRARKFP
+AIVNCTAIDWFHAWPQEALVSVSRRFIEETKGIEPVHKDSISLFMAHVHTTVNEMSTRYY
+QNERRHNYTTPKSFLEQISLFKNLLKKKQNEVSEKKERLVNGIQKLKTTASQVGDLKARL
+ASQEAELQLRNHDAEALITKIGLQTEKVSREKTIADAEERKVTAIQTEVFQKQRECEADL
+LKAEPALVAATAALNTLNRVNLSELKAFPNPPIAVTNVTAAVMVLLAPRGRVPKDRSWKA
+AKVFMGKVDDFLQALINYDKEHIPENCLKVVNEHYLKDPEFNPNLIRTKSFAAAGLCAWV
+INIIKFYEVYCDVEPKRQALAQANLELAAATEKLEAIRKKLVDLDRNLSRLTASFEKATA
+EKVRCQEEVNQTNKTIKLANRLVKELEAKKIRWGQSIKSFEAQEKTLCGDVLLTAAFVSY
+VGPFTRQYRQELVHCKWVPFLQQKVSIPLTEGLDLISMLTDDATIAAWNNEGLPSDRMST
+ENAAILTHCERWPLVIDPQQQGIKWIKNKYGMDLKVTHLGQKGFLNAIETALAFGDVILI
+ENLEETIDPVLDPLLGRNTIKKGKYIRIGDKECEFNKNFRLILHTKLANPHYKPELQAQT
+TLLNFTVTEDGLEAQLLAEVVSIERPDLEKLKLVLTKHQNDFKIELKYLEDDLLLRLSAA
+EGSFLDDTKLVERLEATKTTVAEIEHKVIEAKENERKINEARECYRPVAARASLLYFVIN
+DLQKINPLYQFSLKAFNVLFHRAIEQADKVEDMQGRISILMESITHAVFLYTSQALFEKD
+KLTFLSQMAFQILLRKKEIDPLELDFLLRFTVEHTHLSPVDFLTSQSWSAIKAIAVMEEF
+RGIDRDVEGSAKQWRKWVESECPEKEKLPQEWKKKSLIQKLILLRAMRPDRMTYALRNFV
+EEKLGAKYVERTRLDLVKAFEESSPATPIFFILSPGVDALKDLEILGKRLGFTIDSGKFH
+NVSLGQGQETVAEVALEKASKGGHWVILQNVHLVAKWLGTLEKLLERFSQGSHRDYRVFM
+SAESAPTPDEHIIPQGLLENSIKITNEPPTGMLANLHAALYNFDQDTLEICSKEQEFKSI
+LFSLCYFHACVAGRLRFGPQGWSRSYPFNPGDLTICASVLYNYLEANSKVPWEDLRYLFG
+EIMYGGHITDDWDRKLCRVYLEEFMNPSLTEDELMLAPGFAAPPYLDYAGYHQYIEEMLP
+PESPALYGLHPNAEIEFLTVTSNTLFRTLLEMQPRNALSGDELGQSTEEKVKNVLDDILE
+KLPEEFNMAEIMQKNSNRSPYVLVCFQECERMNILIREIRISLEQLDLSLKGELALSPAV
+EAQQFALSYDTVPDTWSKLAYPSTYGLAQWFNDLLLRCRELDTWTQDLTLPAVVWLSGFF
+NPQSFLTAIMQTMARKNEWPLDKTRLTADVTKKTKEDYGHPPREGAYLHGLFMEGARWDT
+QAGTIVEARLKELACPMPVIFAKATPVDRQETKQTYECPVYRTKLRGPSYIWTFRLKSEE
+KTAKWVLAGVALLLEA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,1180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1990-08-01" modified="2017-03-15" version="160">
+<accession>P17066</accession>
+<accession>Q1HBA8</accession>
+<accession>Q8IYK7</accession>
+<accession>Q9BT95</accession>
+<name>HSP76_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Heat shock 70 kDa protein 6</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Heat shock 70 kDa protein B'</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">HSPA6</name>
+<name type="synonym">HSP70B'</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1990" name="Biochem. J." volume="267" first="125" last="132">
+<title>The human heat-shock protein family. Expression of a novel heat-inducible HSP70 (HSP70B') and isolation of its cDNA and genomic DNA.</title>
+<authorList>
+<person name="Leung T.K.C."/>
+<person name="Rajendran M.Y."/>
+<person name="Monfries C."/>
+<person name="Hall C."/>
+<person name="Lim L."/>
+</authorList>
+<dbReference type="PubMed" id="2327978"/>
+<dbReference type="DOI" id="10.1042/bj2670125"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA]</scope>
+<source>
+<tissue>Lung</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="2006-05" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NIEHS SNPs program"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>VARIANTS THR-65; GLN-95; THR-150; SER-153; ASN-154; VAL-159; LYS-170; PRO-173; ALA-178; LYS-194; PHE-198; LYS-297; ILE-464; HIS-471; GLU-528; GLU-562; GLN-577 AND ALA-626</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Nature" volume="441" first="315" last="321">
+<title>The DNA sequence and biological annotation of human chromosome 1.</title>
+<authorList>
+<person name="Gregory S.G."/>
+<person name="Barlow K.F."/>
+<person name="McLay K.E."/>
+<person name="Kaul R."/>
+<person name="Swarbreck D."/>
+<person name="Dunham A."/>
+<person name="Scott C.E."/>
+<person name="Howe K.L."/>
+<person name="Woodfine K."/>
+<person name="Spencer C.C.A."/>
+<person name="Jones M.C."/>
+<person name="Gillson C."/>
+<person name="Searle S."/>
+<person name="Zhou Y."/>
+<person name="Kokocinski F."/>
+<person name="McDonald L."/>
+<person name="Evans R."/>
+<person name="Phillips K."/>
+<person name="Atkinson A."/>
+<person name="Cooper R."/>
+<person name="Jones C."/>
+<person name="Hall R.E."/>
+<person name="Andrews T.D."/>
+<person name="Lloyd C."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ambrose K.D."/>
+<person name="Anderson F."/>
+<person name="Andrew R.W."/>
+<person name="Ashwell R.I.S."/>
+<person name="Aubin K."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Beasley H."/>
+<person name="Bethel G."/>
+<person name="Bird C.P."/>
+<person name="Bray-Allen S."/>
+<person name="Brown J.Y."/>
+<person name="Brown A.J."/>
+<person name="Buckley D."/>
+<person name="Burton J."/>
+<person name="Bye J."/>
+<person name="Carder C."/>
+<person name="Chapman J.C."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C."/>
+<person name="Cobley V."/>
+<person name="Collier R.E."/>
+<person name="Corby N."/>
+<person name="Coville G.J."/>
+<person name="Davies J."/>
+<person name="Deadman R."/>
+<person name="Dunn M."/>
+<person name="Earthrowl M."/>
+<person name="Ellington A.G."/>
+<person name="Errington H."/>
+<person name="Frankish A."/>
+<person name="Frankland J."/>
+<person name="French L."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Gay L."/>
+<person name="Ghori M.R.J."/>
+<person name="Gibson R."/>
+<person name="Gilby L.M."/>
+<person name="Gillett W."/>
+<person name="Glithero R.J."/>
+<person name="Grafham D.V."/>
+<person name="Griffiths C."/>
+<person name="Griffiths-Jones S."/>
+<person name="Grocock R."/>
+<person name="Hammond S."/>
+<person name="Harrison E.S.I."/>
+<person name="Hart E."/>
+<person name="Haugen E."/>
+<person name="Heath P.D."/>
+<person name="Holmes S."/>
+<person name="Holt K."/>
+<person name="Howden P.J."/>
+<person name="Hunt A.R."/>
+<person name="Hunt S.E."/>
+<person name="Hunter G."/>
+<person name="Isherwood J."/>
+<person name="James R."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Joy A."/>
+<person name="Kay M."/>
+<person name="Kershaw J.K."/>
+<person name="Kibukawa M."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Knights A.J."/>
+<person name="Lad H."/>
+<person name="Laird G."/>
+<person name="Lawlor S."/>
+<person name="Leongamornlert D.A."/>
+<person name="Lloyd D.M."/>
+<person name="Loveland J."/>
+<person name="Lovell J."/>
+<person name="Lush M.J."/>
+<person name="Lyne R."/>
+<person name="Martin S."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="Matthews N.S.W."/>
+<person name="McLaren S."/>
+<person name="Milne S."/>
+<person name="Mistry S."/>
+<person name="Moore M.J.F."/>
+<person name="Nickerson T."/>
+<person name="O'Dell C.N."/>
+<person name="Oliver K."/>
+<person name="Palmeiri A."/>
+<person name="Palmer S.A."/>
+<person name="Parker A."/>
+<person name="Patel D."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Pelan S."/>
+<person name="Phelps K."/>
+<person name="Phillimore B.J."/>
+<person name="Plumb R."/>
+<person name="Rajan J."/>
+<person name="Raymond C."/>
+<person name="Rouse G."/>
+<person name="Saenphimmachak C."/>
+<person name="Sehra H.K."/>
+<person name="Sheridan E."/>
+<person name="Shownkeen R."/>
+<person name="Sims S."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Steward C."/>
+<person name="Subramanian S."/>
+<person name="Sycamore N."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Van Helmond Z."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="White S."/>
+<person name="Whitehead S.L."/>
+<person name="Wilkinson J.E."/>
+<person name="Willey D.L."/>
+<person name="Williams H."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Wu Z."/>
+<person name="Coulson A."/>
+<person name="Vaudin M."/>
+<person name="Sulston J.E."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Wooster R."/>
+<person name="Dunham I."/>
+<person name="Carter N.P."/>
+<person name="McVean G."/>
+<person name="Ross M.T."/>
+<person name="Harrow J."/>
+<person name="Olson M.V."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Bentley D.R."/>
+</authorList>
+<dbReference type="PubMed" id="16710414"/>
+<dbReference type="DOI" id="10.1038/nature04727"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Ovary</tissue>
+<tissue>Skin</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1992" name="Genomics" volume="12" first="74" last="79">
+<title>The human heat-shock genes HSPA6 and HSPA7 are both expressed and localize to chromosome 1.</title>
+<authorList>
+<person name="Leung T.K.C."/>
+<person name="Hall C."/>
+<person name="Rajendran M."/>
+<person name="Spurr N.K."/>
+<person name="Lim L."/>
+</authorList>
+<dbReference type="PubMed" id="1346391"/>
+<dbReference type="DOI" id="10.1016/0888-7543(92)90409-L"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-250</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1988" name="J. Mol. Biol." volume="203" first="97" last="105">
+<title>Cis-acting elements involved in the regulated expression of a human HSP70 gene.</title>
+<authorList>
+<person name="Schiller P."/>
+<person name="Amin J."/>
+<person name="Ananthan J."/>
+<person name="Brown M.E."/>
+<person name="Scott W.A."/>
+<person name="Voellmy R."/>
+</authorList>
+<dbReference type="PubMed" id="3184191"/>
+<dbReference type="DOI" id="10.1016/0022-2836(88)90094-0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-6</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2013" name="J. Biol. Chem." volume="288" first="27752" last="27763">
+<title>Identification and characterization of a novel human methyltransferase modulating Hsp70 function through lysine methylation.</title>
+<authorList>
+<person name="Jakobsson M.E."/>
+<person name="Moen A."/>
+<person name="Bousset L."/>
+<person name="Egge-Jacobsen W."/>
+<person name="Kernstock S."/>
+<person name="Melki R."/>
+<person name="Falnes P.O."/>
+</authorList>
+<dbReference type="PubMed" id="23921388"/>
+<dbReference type="DOI" id="10.1074/jbc.M113.483248"/>
+</citation>
+<scope>METHYLATION AT LYS-563</scope>
+<scope>MUTAGENESIS OF LYS-563</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2016" name="Cell Stress Chaperones" volume="21" first="379" last="404">
+<title>The human HSP70 family of chaperones: where do we stand?</title>
+<authorList>
+<person name="Radons J."/>
+</authorList>
+<dbReference type="PubMed" id="26865365"/>
+<dbReference type="DOI" id="10.1007/s12192-016-0676-6"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2010" name="PLoS ONE" volume="5" first="E8625" last="E8625">
+<title>Crystal structures of the ATPase domains of four human Hsp70 isoforms: HSPA1L/Hsp70-hom, HSPA2/Hsp70-2, HSPA6/Hsp70B', and HSPA5/BiP/GRP78.</title>
+<authorList>
+<person name="Wisniewska M."/>
+<person name="Karlberg T."/>
+<person name="Lehtio L."/>
+<person name="Johansson I."/>
+<person name="Kotenyova T."/>
+<person name="Moche M."/>
+<person name="Schuler H."/>
+</authorList>
+<dbReference type="PubMed" id="20072699"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0008625"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) OF 6-385 IN COMPLEX WITH ADP AND PHOSPHATE</scope>
+</reference>
+<comment type="function">
+<text evidence="7">Molecular chaperone implicated in a wide variety of cellular processes, including protection of the proteome from stress, folding and transport of newly synthesized polypeptides, activation of proteolysis of misfolded proteins and the formation and dissociation of protein complexes. Plays a pivotal role in the protein quality control system, ensuring the correct folding of proteins, the re-folding of misfolded proteins and controlling the targeting of proteins for subsequent degradation. This is achieved through cycles of ATP binding, ATP hydrolysis and ADP release, mediated by co-chaperones. The affinity for polypeptides is regulated by its nucleotide bound state. In the ATP-bound form, it has a low affinity for substrate proteins. However, upon hydrolysis of the ATP to ADP, it undergoes a conformational change that increases its affinity for substrate proteins. It goes through repeated cycles of ATP hydrolysis and nucleotide exchange, which permits cycles of substrate binding and release (PubMed:26865365).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-355106"/>
+<interactant intactId="EBI-710997">
+<id>P54274</id>
+<label>TERF1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="induction">
+<text>Only at higher temperatures, and no basal expression.</text>
+</comment>
+<comment type="domain">
+<text evidence="9">The N-terminal nucleotide binding domain (NBD) (also known as the ATPase domain) is responsible for binding and hydrolyzing ATP. The C-terminal substrate-binding domain (SBD) (also known as peptide-binding domain) binds to the client/substrate proteins. The two domains are allosterically coupled so that, when ATP is bound to the NBD, the SBD binds relatively weakly to clients. When ADP is bound in the NBD, a conformational change enhances the affinity of the SBD for client proteins.</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Belongs to the heat shock protein 70 family.</text>
+</comment>
+<comment type="online information" name="NIEHS-SNPs">
+<link uri="http://egp.gs.washington.edu/data/hspa6/"/>
+</comment>
+<dbReference type="EMBL" id="X51757">
+<property type="protein sequence ID" value="CAA36061.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X51758">
+<property type="protein sequence ID" value="CAA36062.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="DQ521571">
+<property type="protein sequence ID" value="ABF47108.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL590385">
+<property type="protein sequence ID" value="CAI16120.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC004279">
+<property type="protein sequence ID" value="AAH04279.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC035665">
+<property type="protein sequence ID" value="AAH35665.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="S78631">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS1231.1"/>
+<dbReference type="PIR" id="S09036">
+<property type="entry name" value="S09036"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_002146.2">
+<property type="nucleotide sequence ID" value="NM_002155.4"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.654614"/>
+<dbReference type="PDB" id="3FE1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B/C=6-385"/>
+</dbReference>
+<dbReference type="PDBsum" id="3FE1"/>
+<dbReference type="ProteinModelPortal" id="P17066"/>
+<dbReference type="SMR" id="P17066"/>
+<dbReference type="BioGrid" id="109542">
+<property type="interactions" value="79"/>
+</dbReference>
+<dbReference type="IntAct" id="P17066">
+<property type="interactions" value="41"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1139180"/>
+<dbReference type="STRING" id="9606.ENSP00000310219"/>
+<dbReference type="ChEMBL" id="CHEMBL3232688"/>
+<dbReference type="iPTMnet" id="P17066"/>
+<dbReference type="PhosphoSitePlus" id="P17066"/>
+<dbReference type="SwissPalm" id="P17066"/>
+<dbReference type="BioMuta" id="HSPA6"/>
+<dbReference type="DMDM" id="34978357"/>
+<dbReference type="UCD-2DPAGE" id="P17066"/>
+<dbReference type="EPD" id="P17066"/>
+<dbReference type="MaxQB" id="P17066"/>
+<dbReference type="PaxDb" id="P17066"/>
+<dbReference type="PeptideAtlas" id="P17066"/>
+<dbReference type="PRIDE" id="P17066"/>
+<dbReference type="DNASU" id="3310"/>
+<dbReference type="Ensembl" id="ENST00000309758">
+<property type="protein sequence ID" value="ENSP00000310219"/>
+<property type="gene ID" value="ENSG00000173110"/>
+</dbReference>
+<dbReference type="GeneID" id="3310"/>
+<dbReference type="KEGG" id="hsa:3310"/>
+<dbReference type="UCSC" id="uc001gaq.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="3310"/>
+<dbReference type="DisGeNET" id="3310"/>
+<dbReference type="GeneCards" id="HSPA6"/>
+<dbReference type="HGNC" id="HGNC:5239">
+<property type="gene designation" value="HSPA6"/>
+</dbReference>
+<dbReference type="HPA" id="CAB017452"/>
+<dbReference type="HPA" id="HPA028549"/>
+<dbReference type="HPA" id="HPA052504"/>
+<dbReference type="MIM" id="140555">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P17066"/>
+<dbReference type="OpenTargets" id="ENSG00000173110"/>
+<dbReference type="PharmGKB" id="PA29505"/>
+<dbReference type="eggNOG" id="KOG0101">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0443">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00870000136409"/>
+<dbReference type="HOGENOM" id="HOG000228135"/>
+<dbReference type="HOVERGEN" id="HBG051845"/>
+<dbReference type="InParanoid" id="P17066"/>
+<dbReference type="KO" id="K03283"/>
+<dbReference type="OMA" id="ICRPIFS"/>
+<dbReference type="OrthoDB" id="EOG091G03SF"/>
+<dbReference type="PhylomeDB" id="P17066"/>
+<dbReference type="TreeFam" id="TF105042"/>
+<dbReference type="Reactome" id="R-HSA-3371453">
+<property type="pathway name" value="Regulation of HSF1-mediated heat shock response"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6798695">
+<property type="pathway name" value="Neutrophil degranulation"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P17066"/>
+<dbReference type="GeneWiki" id="HSPA6"/>
+<dbReference type="GenomeRNAi" id="3310"/>
+<dbReference type="PRO" id="PR:P17066"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000173110"/>
+<dbReference type="CleanEx" id="HS_HSPA6"/>
+<dbReference type="Genevisible" id="P17066">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072562">
+<property type="term" value="C:blood microparticle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005814">
+<property type="term" value="C:centriole"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904813">
+<property type="term" value="C:ficolin-1-rich granule lumen"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034774">
+<property type="term" value="C:secretory granule lumen"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042623">
+<property type="term" value="F:ATPase activity, coupled"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019899">
+<property type="term" value="F:enzyme binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031072">
+<property type="term" value="F:heat shock protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051082">
+<property type="term" value="F:unfolded protein binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034605">
+<property type="term" value="P:cellular response to heat"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043312">
+<property type="term" value="P:neutrophil degranulation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042026">
+<property type="term" value="P:protein refolding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006986">
+<property type="term" value="P:response to unfolded protein"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.1270.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.34.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018181">
+<property type="entry name" value="Heat_shock_70_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029048">
+<property type="entry name" value="HSP70_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029047">
+<property type="entry name" value="HSP70_peptide-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013126">
+<property type="entry name" value="Hsp_70_fam"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00012">
+<property type="entry name" value="HSP70"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00301">
+<property type="entry name" value="HEATSHOCK70"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF100920">
+<property type="entry name" value="SSF100920"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF100934">
+<property type="entry name" value="SSF100934"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00297">
+<property type="entry name" value="HSP70_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00329">
+<property type="entry name" value="HSP70_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01036">
+<property type="entry name" value="HSP70_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0488">Methylation</keyword>
+<keyword id="KW-0944">Nitration</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<feature type="chain" description="Heat shock 70 kDa protein 6" id="PRO_0000078264">
+<location>
+<begin position="1"/>
+<end position="643"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP">
+<location>
+<begin position="14"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP">
+<location>
+<begin position="204"/>
+<end position="206"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP">
+<location>
+<begin position="270"/>
+<end position="277"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP">
+<location>
+<begin position="341"/>
+<end position="344"/>
+</location>
+</feature>
+<feature type="region of interest" description="Nucleotide-binding domain (NBD)" evidence="3">
+<location>
+<begin position="3"/>
+<end position="388"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate-binding domain (SBD)" evidence="3">
+<location>
+<begin position="396"/>
+<end position="511"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP">
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="4">
+<location>
+<position position="102"/>
+</location>
+</feature>
+<feature type="modified residue" description="Nitrated tyrosine" evidence="4">
+<location>
+<position position="136"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine; alternate" evidence="4">
+<location>
+<position position="330"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="2">
+<location>
+<position position="497"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6,N6,N6-trimethyllysine; by METTL21A; in vitro" evidence="5">
+<location>
+<position position="563"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6,N6-dimethyllysine; alternate" evidence="2">
+<location>
+<position position="563"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-methyllysine; alternate" evidence="2">
+<location>
+<position position="563"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="4">
+<location>
+<position position="626"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1); alternate" evidence="2">
+<location>
+<position position="330"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs549201566." id="VAR_060718" evidence="6">
+<original>P</original>
+<variation>T</variation>
+<location>
+<position position="65"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs400835." id="VAR_060719" evidence="6">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="95"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs10919224." id="VAR_049605" evidence="6">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="150"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs10919225." id="VAR_049606" evidence="6">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="153"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs10919226." id="VAR_049607" evidence="6">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="154"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs41297702." id="VAR_060720" evidence="6">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="159"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs41297704." id="VAR_049608" evidence="6">
+<original>N</original>
+<variation>K</variation>
+<location>
+<position position="170"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs41297708." id="VAR_049609" evidence="6">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="173"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs41297710." id="VAR_049610" evidence="6">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="178"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs41297714." id="VAR_049611" evidence="6">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="194"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs63749092." id="VAR_024182" evidence="6">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="198"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs41299256." id="VAR_049612">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="260"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs41297718." id="VAR_060721" evidence="6">
+<original>T</original>
+<variation>K</variation>
+<location>
+<position position="297"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs417707." id="VAR_059360">
+<original>V</original>
+<variation>F</variation>
+<location>
+<position position="336"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs388218." id="VAR_049613" evidence="6">
+<original>S</original>
+<variation>I</variation>
+<location>
+<position position="464"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs41299256." id="VAR_049614" evidence="6">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="471"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs570189." id="VAR_049615" evidence="6">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="528"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs570167." id="VAR_059361">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="528"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs753856." id="VAR_024183" evidence="6">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="562"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs452004." id="VAR_049616">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="572"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs368844." id="VAR_049617" evidence="6">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="577"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs41299260." id="VAR_049618" evidence="6">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="626"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of in vitro methylation by METTL21A." evidence="5">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="563"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA36061." ref="1" evidence="8">
+<original>RVC</original>
+<variation>PVS</variation>
+<location>
+<begin position="106"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA36061." ref="1" evidence="8">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="263"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="9"/>
+<end position="12"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="15"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="27"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="38"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="44"/>
+<end position="46"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="51"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="55"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="60"/>
+<end position="63"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="65"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="72"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="75"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="83"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="93"/>
+<end position="99"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="102"/>
+<end position="109"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="112"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="118"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="143"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="154"/>
+<end position="166"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="170"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="177"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="185"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="195"/>
+<end position="202"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="207"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="218"/>
+<end position="227"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="232"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="259"/>
+<end position="275"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="276"/>
+<end position="278"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="280"/>
+<end position="290"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="293"/>
+<end position="300"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="301"/>
+<end position="314"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="316"/>
+<end position="326"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="330"/>
+<end position="332"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="334"/>
+<end position="340"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="341"/>
+<end position="344"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="346"/>
+<end position="355"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="356"/>
+<end position="358"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="367"/>
+<end position="369"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="370"/>
+<end position="383"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3FE1"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P11021"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P11142"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P20029"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23921388"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source ref="2"/>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="26865365"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="26865365"/>
+</source>
+</evidence>
+<sequence length="643" mass="71028" checksum="BCE348F0226DB70B" modified="2003-09-19" version="2">
+MQAPRELAVGIDLGTTYSCVGVFQQGRVEILANDQGNRTTPSYVAFTDTERLVGDAAKSQ
+AALNPHNTVFDAKRLIGRKFADTTVQSDMKHWPFRVVSEGGKPKVRVCYRGEDKTFYPEE
+ISSMVLSKMKETAEAYLGQPVKHAVITVPAYFNDSQRQATKDAGAIAGLNVLRIINEPTA
+AAIAYGLDRRGAGERNVLIFDLGGGTFDVSVLSIDAGVFEVKATAGDTHLGGEDFDNRLV
+NHFMEEFRRKHGKDLSGNKRALRRLRTACERAKRTLSSSTQATLEIDSLFEGVDFYTSIT
+RARFEELCSDLFRSTLEPVEKALRDAKLDKAQIHDVVLVGGSTRIPKVQKLLQDFFNGKE
+LNKSINPDEAVAYGAAVQAAVLMGDKCEKVQDLLLLDVAPLSLGLETAGGVMTTLIQRNA
+TIPTKQTQTFTTYSDNQPGVFIQVYEGERAMTKDNNLLGRFELSGIPPAPRGVPQIEVTF
+DIDANGILSVTATDRSTGKANKITITNDKGRLSKEEVERMVHEAEQYKAEDEAQRDRVAA
+KNSLEAHVFHVKGSLQEESLRDKIPEEDRRKMQDKCREVLAWLEHNQLAEKEEYEHQKRE
+LEQICRPIFSRLYGGPGVPGGSSCGTQARQGDPSTGPIIEEVD
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

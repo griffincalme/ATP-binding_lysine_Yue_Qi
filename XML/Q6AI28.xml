@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2004-09-13" modified="2017-05-10" version="77">
+<accession>Q6AI28</accession>
+<name>Q6AI28_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="4">Putative uncharacterized protein DKFZp781N1972</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="4">DKFZp781N1972</name>
+</gene>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="submission" date="2004-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="The German cDNA Consortium"/>
+<person name="Koehrer K."/>
+<person name="Beyer A."/>
+<person name="Mewes H.W."/>
+<person name="Weil B."/>
+<person name="Amid C."/>
+<person name="Osanger A."/>
+<person name="Fobo G."/>
+<person name="Han M."/>
+<person name="Wiemann S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="4">Retina</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="CR627391">
+<property type="protein sequence ID" value="CAH10486.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000341.2">
+<property type="nucleotide sequence ID" value="NM_000350.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.416707"/>
+<dbReference type="ProteinModelPortal" id="Q6AI28"/>
+<dbReference type="STRING" id="9606.ENSP00000359245"/>
+<dbReference type="PaxDb" id="Q6AI28"/>
+<dbReference type="PeptideAtlas" id="Q6AI28"/>
+<dbReference type="DNASU" id="24"/>
+<dbReference type="GeneID" id="24"/>
+<dbReference type="KEGG" id="hsa:24"/>
+<dbReference type="CTD" id="24"/>
+<dbReference type="PharmGKB" id="PA24379"/>
+<dbReference type="eggNOG" id="KOG0059">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1131">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG060982"/>
+<dbReference type="KO" id="K05644"/>
+<dbReference type="GenomeRNAi" id="24"/>
+<dbReference type="Genevisible" id="Q6AI28">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005215">
+<property type="term" value="F:transporter activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026082">
+<property type="entry name" value="ABC_A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003439">
+<property type="entry name" value="ABC_transporter-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR19229">
+<property type="entry name" value="PTHR19229"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00005">
+<property type="entry name" value="ABC_tran"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50893">
+<property type="entry name" value="ABC_TRANSPORTER_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0472" evidence="2">Membrane</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0812" evidence="2">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="2">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="165"/>
+<end position="186"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="472"/>
+<end position="494"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="524"/>
+<end position="541"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="553"/>
+<end position="571"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="583"/>
+<end position="608"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transporter" evidence="3">
+<location>
+<begin position="730"/>
+<end position="962"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="764"/>
+<end position="771"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00434"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50893"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAH10486.1"/>
+</source>
+</evidence>
+<sequence length="1065" mass="118112" checksum="F6386682A8164E68" modified="2004-09-13" version="1">
+MDVVLHHVPEAKLVECIGQELIFLLPNKNFKHRAYASLFRELEETLADLGLSSFGISDTP
+LEEIFLKVTEDSDSGPLFAGGAQQKRENVNPRHPCLGPREKAGQTPQDSNVCSPGAPAAH
+PEGQPPPEPECPGPQLNTGTQLVLQHVQALLVKRFQHTIRSHKDFLAQIVLPATFVFLAL
+MLSIVIPPFGEYPALTLHPWIYGQQYTFFSMDEPGSEQFTVLADVLLNKPGFGNRCLKEG
+WLPEYPCGNSTPWKTPSVSPNITQLFQKQKWTQVNPSPSCRCSTREKLTMLPECPEGAGG
+LPPPQRTQRSTEILQDLTDRNISDFLVKTYPALIRSSLKSKFWVNEQRYGGISIGGKLPV
+VPITGEALVGFLSDLGRIMNVSGGPITREASKEIPDFLKHLETEDNIKVWFNNKGWHALV
+SFLNVAHNAILRASLPKDRSPEEYGITVISQPLNLTKEQLSEITVLTTSVDAVVAICVIF
+SMSFVPASFVLYLIQERVNKSKHLQFISGVSPTTYWVTNFLWDIMNYSVSAGLVVGIFIG
+FQKKAYTSPENLPALVALLLLYGWAVIPMMYPASFLFDVPSTAYVALSCANLFIGINSSA
+ITFILELFENNRTLLRFNAVLRKLLIVFPHFCLGRGLIDLALSQAVTDVYARFGEEHSAN
+PFHWDLIGKNLFAMVVEGVVYFLLTLLVQRHFFLSQWIAEPTKEPIVDEDDDVAEERQRI
+ITGGNKTDILRLHELTKIYPGTSSPAVDRLCVGVRPGECFGLLGVSGAGKTTTFKMLTGD
+TTVTSGDATVAGKSILTNISEVHQNMGYCPQFDAIDELLTGREHLYLYARLRGVPAEEIE
+KVANWSIKSLGLTVYADCLAGTYSGGNKRKLSTAIALIGCPPLVLLDEPTTGMDPQARRM
+LWNVIVSIIREGRAVVLTSHSMEECEALCTRLAIMVKGAFRCMGTIQHLKSKFGDGYIVT
+MKIKSPKDDLLPDLNPVEQFFQGNFPGSVQRERHYNMLQFQVSSSSLARIFQLLLSHKDS
+LLIEEYSVTQTTLDQVFVNFAKQQTESHDLPLHPRAAGASRQAQD
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

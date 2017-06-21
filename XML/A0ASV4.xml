@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2006-11-28" modified="2017-03-15" version="50">
+<accession>A0ASV4</accession>
+<name>A0ASV4_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="3">ATP-binding cassette subfamily B member 5</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">ABCB5</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="submission" date="2004-10" db="EMBL/GenBank/DDBJ databases">
+<title>A novel human ABCB5 variant.</title>
+<authorList>
+<person name="Puetz P."/>
+<person name="Frank N.Y."/>
+<person name="Frank M.H."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="3">Skin</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AY785909">
+<property type="protein sequence ID" value="AAX11382.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.404102"/>
+<dbReference type="ProteinModelPortal" id="A0ASV4"/>
+<dbReference type="STRING" id="9606.ENSP00000384881"/>
+<dbReference type="PaxDb" id="A0ASV4"/>
+<dbReference type="PeptideAtlas" id="A0ASV4"/>
+<dbReference type="eggNOG" id="KOG0055">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1132">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG079408"/>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042626">
+<property type="term" value="F:ATPase activity, coupled to transmembrane movement of substances"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011527">
+<property type="entry name" value="ABC1_TM_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00664">
+<property type="entry name" value="ABC_membrane"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF90123">
+<property type="entry name" value="SSF90123"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50929">
+<property type="entry name" value="ABC_TM1F"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="3">ATP-binding</keyword>
+<keyword id="KW-0472" evidence="1">Membrane</keyword>
+<keyword id="KW-0547" evidence="3">Nucleotide-binding</keyword>
+<keyword id="KW-0812" evidence="1">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="1">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="6"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="95"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transmembrane type-1" evidence="2">
+<location>
+<begin position="1"/>
+<end position="134"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50929"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAX11382.1"/>
+</source>
+</evidence>
+<sequence length="134" mass="15026" checksum="B84FB83C5BD1579A" modified="2006-11-28" version="1">
+MGLSVIISFIYGWEMTFLILSIAPVLAVTGMIETAAMTGFANKDKQELKHAGKIATEALE
+NIRTIVSLTREKAFEQMYEEMLQTQHRNTSKKAQIIGSCYAFSHAFIYFAYAAGFRFGAY
+LIQAGRMTPEGMFM
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

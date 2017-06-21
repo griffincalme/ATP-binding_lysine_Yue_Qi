@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2004-10-25" modified="2017-05-10" version="104">
+<accession>Q658V6</accession>
+<name>Q658V6_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Sodium/potassium-transporting ATPase subunit alpha</fullName>
+<ecNumber evidence="1">3.6.3.-</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="7">DKFZp666G172</name>
+</gene>
+<organism evidence="7">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7">
+<citation type="submission" date="2004-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="The German cDNA Consortium"/>
+<person name="Ansorge W."/>
+<person name="Krieger S."/>
+<person name="Regiert T."/>
+<person name="Rittmueller C."/>
+<person name="Schwager B."/>
+<person name="Mewes H.W."/>
+<person name="Weil B."/>
+<person name="Amid C."/>
+<person name="Osanger A."/>
+<person name="Fobo G."/>
+<person name="Han M."/>
+<person name="Wiemann S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="7">Stomach</tissue>
+</source>
+</reference>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Membrane</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type IIC subfamily.</text>
+</comment>
+<dbReference type="EC" id="3.6.3.-" evidence="1"/>
+<dbReference type="EMBL" id="AL832971">
+<property type="protein sequence ID" value="CAH56338.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000695.2">
+<property type="nucleotide sequence ID" value="NM_000704.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.36992"/>
+<dbReference type="ProteinModelPortal" id="Q658V6"/>
+<dbReference type="STRING" id="9606.ENSP00000262623"/>
+<dbReference type="PaxDb" id="Q658V6"/>
+<dbReference type="PeptideAtlas" id="Q658V6"/>
+<dbReference type="PRIDE" id="Q658V6"/>
+<dbReference type="DNASU" id="495"/>
+<dbReference type="GeneID" id="495"/>
+<dbReference type="KEGG" id="hsa:495"/>
+<dbReference type="CTD" id="495"/>
+<dbReference type="PharmGKB" id="PA25113"/>
+<dbReference type="eggNOG" id="KOG0203">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0474">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG004298"/>
+<dbReference type="KO" id="K01542"/>
+<dbReference type="GenomeRNAi" id="495"/>
+<dbReference type="Genevisible" id="Q658V6">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005391">
+<property type="term" value="F:sodium:potassium-exchanging ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.1110.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.70.150.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.1110.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006068">
+<property type="entry name" value="ATPase_P-typ_cation-transptr_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004014">
+<property type="entry name" value="ATPase_P-typ_cation-transptr_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023299">
+<property type="entry name" value="ATPase_P-typ_cyto_domN"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018303">
+<property type="entry name" value="ATPase_P-typ_P_site"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023298">
+<property type="entry name" value="ATPase_P-typ_TM_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008250">
+<property type="entry name" value="ATPase_P-typ_transduc_dom_A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023214">
+<property type="entry name" value="HAD-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005775">
+<property type="entry name" value="P-type_ATPase_IIC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001757">
+<property type="entry name" value="P_typ_ATPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00689">
+<property type="entry name" value="Cation_ATPase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00690">
+<property type="entry name" value="Cation_ATPase_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00122">
+<property type="entry name" value="E1-E2_ATPase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00831">
+<property type="entry name" value="Cation_ATPase_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56784">
+<property type="entry name" value="SSF56784"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF81660">
+<property type="entry name" value="SSF81660"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01106">
+<property type="entry name" value="ATPase-IIC_X-K"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01494">
+<property type="entry name" value="ATPase_P-type"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00154">
+<property type="entry name" value="ATPASE_E1_E2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1 4">ATP-binding</keyword>
+<keyword id="KW-0175" evidence="5">Coiled coil</keyword>
+<keyword id="KW-0378" evidence="1 2">Hydrolase</keyword>
+<keyword id="KW-0406" evidence="1">Ion transport</keyword>
+<keyword id="KW-0472" evidence="1 3">Membrane</keyword>
+<keyword id="KW-0479" evidence="1">Metal-binding</keyword>
+<keyword id="KW-0547" evidence="1 4">Nucleotide-binding</keyword>
+<keyword id="KW-0630" evidence="1">Potassium</keyword>
+<keyword id="KW-0633" evidence="1">Potassium transport</keyword>
+<keyword id="KW-0812" evidence="1 3">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="1 3">Transmembrane helix</keyword>
+<keyword id="KW-0813" evidence="1">Transport</keyword>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="76"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="110"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="271"/>
+<end position="297"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="303"/>
+<end position="324"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="770"/>
+<end position="790"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="893"/>
+<end position="915"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="935"/>
+<end position="954"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="966"/>
+<end position="982"/>
+</location>
+</feature>
+<feature type="domain" description="Cation_ATPase_N" evidence="6">
+<location>
+<begin position="22"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="12"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="7">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU362084"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00081498"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00092306"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00092325"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00831"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAH56338.1"/>
+</source>
+</evidence>
+<sequence length="1004" mass="110793" checksum="06661456B88C595F" modified="2004-10-25" version="1" fragment="single">
+AGGGGGKRKEKLENMKKEMEINDHQLSVAELEQKYQTSATKGLSASLAAELLLRDGPNAL
+RPPRGTPEYVKFARQLAGGLQCLMWVAAAICLIAFAIQASEGDLTTDDNLYLAIALIAVV
+VVTGCFGYYQEFKSTNIIASFKNLVPQQATVIRDGDKFQINADQLVVGDLVEMKGGDRVP
+ADIRILAAQGCKVDNSSLTGESEPQTRSPECTHESPLETRNIAFFSTMCLEGTAQGLVVN
+TGDRTIIGRIASLASGVENEKTPIAIEIEHFVDIIAGLAILFGATFFIVAMCIGYTFLRA
+MVFFMAIVVAYVPEGLLATVTVCLSLTAKRLASKNCVVKNLEAVETLGSTSVICSDKTGT
+LTQNRMTVSHLWFDNHIHTADTTEDQSGQTFDQSSETWRALCRVLTLCNRAAFKSGQDAV
+PVPKRIVIGDASETALLKFSELTLGNAMGYRDRFPKVCEIPFNSTNKFQLSIHTLEDPRD
+PRHLLVMKGAPERVLERCSSILIKGQELPLDEQWREAFQTAYLSLGGLGERVLGFCQLYL
+NEKDYPPGYAFDVEAMNFPSSGLCFAGLVSMIDPPRATVPDAVLKCRTAGIRVIMVTGDH
+PITAKAIAASVGIISEGSETVEDIAARLRVPVDQVNRKDARACVINGMQLKDMDPSELVE
+ALRTHPEMVFARTSPQQKLVIVESCQRLGAIVAVTGDGVNDSPALKKADIGVAMGIAGSD
+AAKNAADMILLDDNFASIVTGVEQGRLIFDNLKKSIAYTLTKNIPELTPYLIYITVSVPL
+PLGCITILFIELCTDIFPSVSLAYEKAESDIMHLRPRNPKRDRLVNEPLAAYSYFQIGAI
+QSFAGFTDYFTAMAQEGWFPLLCVGLRAQWEDHHLQDLQDSYGQEWTFGQRLYQQYTCYT
+VFFISIEVCQIADVLIRKTRRLSAFQQGFFRNKILVIAIVFQVCIGCFLCYCPGMPNIFN
+FMPIRFQWWLVPLPYGILIFVYDEIRKLGVRCCPGSWWDQELYY
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

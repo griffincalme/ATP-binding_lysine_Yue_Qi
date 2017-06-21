@@ -1,0 +1,681 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2015-05-27" modified="2017-05-10" version="20">
+<accession>A0A0D9SFK2</accession>
+<name>A0A0D9SFK2_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="22">Unconventional myosin-XVIIIa</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="22">MYO18A</name>
+</gene>
+<organism evidence="22 23">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="journal article" date="2006" name="Cell" volume="127" first="635" last="648">
+<title>Global, in vivo, and site-specific phosphorylation dynamics in signaling networks.</title>
+<authorList>
+<person name="Olsen J.V."/>
+<person name="Blagoev B."/>
+<person name="Gnad F."/>
+<person name="Macek B."/>
+<person name="Kumar C."/>
+<person name="Mortensen P."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="17081983"/>
+<dbReference type="DOI" id="10.1016/j.cell.2006.09.026"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="2" evidence="22 23">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="1045" last="1049">
+<title>DNA sequence of human chromosome 17 and analysis of rearrangement in the human lineage.</title>
+<authorList>
+<person name="Zody M.C."/>
+<person name="Garber M."/>
+<person name="Adams D.J."/>
+<person name="Sharpe T."/>
+<person name="Harrow J."/>
+<person name="Lupski J.R."/>
+<person name="Nicholson C."/>
+<person name="Searle S.M."/>
+<person name="Wilming L."/>
+<person name="Young S.K."/>
+<person name="Abouelleil A."/>
+<person name="Allen N.R."/>
+<person name="Bi W."/>
+<person name="Bloom T."/>
+<person name="Borowsky M.L."/>
+<person name="Bugalter B.E."/>
+<person name="Butler J."/>
+<person name="Chang J.L."/>
+<person name="Chen C.K."/>
+<person name="Cook A."/>
+<person name="Corum B."/>
+<person name="Cuomo C.A."/>
+<person name="de Jong P.J."/>
+<person name="DeCaprio D."/>
+<person name="Dewar K."/>
+<person name="FitzGerald M."/>
+<person name="Gilbert J."/>
+<person name="Gibson R."/>
+<person name="Gnerre S."/>
+<person name="Goldstein S."/>
+<person name="Grafham D.V."/>
+<person name="Grocock R."/>
+<person name="Hafez N."/>
+<person name="Hagopian D.S."/>
+<person name="Hart E."/>
+<person name="Norman C.H."/>
+<person name="Humphray S."/>
+<person name="Jaffe D.B."/>
+<person name="Jones M."/>
+<person name="Kamal M."/>
+<person name="Khodiyar V.K."/>
+<person name="LaButti K."/>
+<person name="Laird G."/>
+<person name="Lehoczky J."/>
+<person name="Liu X."/>
+<person name="Lokyitsang T."/>
+<person name="Loveland J."/>
+<person name="Lui A."/>
+<person name="Macdonald P."/>
+<person name="Major J.E."/>
+<person name="Matthews L."/>
+<person name="Mauceli E."/>
+<person name="McCarroll S.A."/>
+<person name="Mihalev A.H."/>
+<person name="Mudge J."/>
+<person name="Nguyen C."/>
+<person name="Nicol R."/>
+<person name="O'Leary S.B."/>
+<person name="Osoegawa K."/>
+<person name="Schwartz D.C."/>
+<person name="Shaw-Smith C."/>
+<person name="Stankiewicz P."/>
+<person name="Steward C."/>
+<person name="Swarbreck D."/>
+<person name="Venkataraman V."/>
+<person name="Whittaker C.A."/>
+<person name="Yang X."/>
+<person name="Zimmer A.R."/>
+<person name="Bradley A."/>
+<person name="Hubbard T."/>
+<person name="Birren B.W."/>
+<person name="Rogers J."/>
+<person name="Lander E.S."/>
+<person name="Nusbaum C."/>
+</authorList>
+<dbReference type="PubMed" id="16625196"/>
+<dbReference type="DOI" id="10.1038/nature04689"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3" evidence="5">
+<citation type="journal article" date="2008" name="J. Proteome Res." volume="7" first="526" last="534">
+<title>Phosphoproteome of resting human platelets.</title>
+<authorList>
+<person name="Zahedi R.P."/>
+<person name="Lewandrowski U."/>
+<person name="Wiesner J."/>
+<person name="Wortelkamp S."/>
+<person name="Moebius J."/>
+<person name="Schutz C."/>
+<person name="Walter U."/>
+<person name="Gambaryan S."/>
+<person name="Sickmann A."/>
+</authorList>
+<dbReference type="PubMed" id="18088087"/>
+<dbReference type="DOI" id="10.1021/pr0704130"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="4" evidence="6">
+<citation type="journal article" date="2008" name="J. Proteome Res." volume="7" first="1346" last="1351">
+<title>Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient phosphoproteomic analysis.</title>
+<authorList>
+<person name="Cantin G.T."/>
+<person name="Yi W."/>
+<person name="Lu B."/>
+<person name="Park S.K."/>
+<person name="Xu T."/>
+<person name="Lee J.D."/>
+<person name="Yates J.R."/>
+</authorList>
+<dbReference type="PubMed" id="18220336"/>
+<dbReference type="DOI" id="10.1021/pr0705441"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="5" evidence="7">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="10762" last="10767">
+<title>A quantitative atlas of mitotic phosphorylation.</title>
+<authorList>
+<person name="Dephoure N."/>
+<person name="Zhou C."/>
+<person name="Villen J."/>
+<person name="Beausoleil S.A."/>
+<person name="Bakalarski C.E."/>
+<person name="Elledge S.J."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="18669648"/>
+<dbReference type="DOI" id="10.1073/pnas.0805139105"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="6" evidence="8">
+<citation type="journal article" date="2009" name="Sci. Signal." volume="2" first="ra46" last="RA46">
+<title>Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions.</title>
+<authorList>
+<person name="Mayya V."/>
+<person name="Lundgren D.H."/>
+<person name="Hwang S.I."/>
+<person name="Rezaul K."/>
+<person name="Wu L."/>
+<person name="Eng J.K."/>
+<person name="Rodionov V."/>
+<person name="Han D.K."/>
+</authorList>
+<dbReference type="PubMed" id="19690332"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000007"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="7" evidence="9">
+<citation type="journal article" date="2010" name="Sci. Signal." volume="3" first="ra3" last="RA3">
+<title>Quantitative phosphoproteomics reveals widespread full phosphorylation site occupancy during mitosis.</title>
+<authorList>
+<person name="Olsen J.V."/>
+<person name="Vermeulen M."/>
+<person name="Santamaria A."/>
+<person name="Kumar C."/>
+<person name="Miller M.L."/>
+<person name="Jensen L.J."/>
+<person name="Gnad F."/>
+<person name="Cox J."/>
+<person name="Jensen T.S."/>
+<person name="Nigg E.A."/>
+<person name="Brunak S."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="20068231"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000475"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="8" evidence="10">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Burckstummer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="9" evidence="11">
+<citation type="journal article" date="2011" name="Sci. Signal." volume="4" first="rs3" last="RS3">
+<title>System-wide temporal characterization of the proteome and phosphoproteome of human embryonic stem cell differentiation.</title>
+<authorList>
+<person name="Rigbolt K.T."/>
+<person name="Prokhorova T.A."/>
+<person name="Akimov V."/>
+<person name="Henningsen J."/>
+<person name="Johansen P.T."/>
+<person name="Kratchmarova I."/>
+<person name="Kassem M."/>
+<person name="Mann M."/>
+<person name="Olsen J.V."/>
+<person name="Blagoev B."/>
+</authorList>
+<dbReference type="PubMed" id="21406692"/>
+<dbReference type="DOI" id="10.1126/scisignal.2001570"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="10" evidence="12">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="11" evidence="13">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="12" evidence="22">
+<citation type="submission" date="2015-04" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<comment type="similarity">
+<text evidence="17">Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family.</text>
+</comment>
+<comment type="caution">
+<text evidence="22">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EMBL" id="AC005412">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC024619">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="KF456261">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="ProteinModelPortal" id="A0A0D9SFK2"/>
+<dbReference type="Ensembl" id="ENST00000628822">
+<property type="protein sequence ID" value="ENSP00000486682"/>
+<property type="gene ID" value="ENSG00000196535"/>
+</dbReference>
+<dbReference type="HGNC" id="HGNC:31104">
+<property type="gene designation" value="MYO18A"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000196535"/>
+<dbReference type="GeneTree" id="ENSGT00870000136475"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 17"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="A0A0D9SFK2">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016459">
+<property type="term" value="C:myosin complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051015">
+<property type="term" value="F:actin filament binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008094">
+<property type="term" value="F:DNA-dependent ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003774">
+<property type="term" value="F:motor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006259">
+<property type="term" value="P:DNA metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000048">
+<property type="entry name" value="IQ_motif_EF-hand-BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR031244">
+<property type="entry name" value="MYO18A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001609">
+<property type="entry name" value="Myosin_head_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002928">
+<property type="entry name" value="Myosin_tail"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001478">
+<property type="entry name" value="PDZ"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020587">
+<property type="entry name" value="RecA_monomer-monomer_interface"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR13140:SF575">
+<property type="entry name" value="PTHR13140:SF575"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00063">
+<property type="entry name" value="Myosin_head"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01576">
+<property type="entry name" value="Myosin_tail_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00595">
+<property type="entry name" value="PDZ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00193">
+<property type="entry name" value="MYOSINHEAVY"/>
+</dbReference>
+<dbReference type="SMART" id="SM00015">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00242">
+<property type="entry name" value="MYSc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00228">
+<property type="entry name" value="PDZ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50156">
+<property type="entry name" value="SSF50156"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50096">
+<property type="entry name" value="IQ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51456">
+<property type="entry name" value="MYOSIN_MOTOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50106">
+<property type="entry name" value="PDZ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50163">
+<property type="entry name" value="RECA_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="16">ATP-binding</keyword>
+<keyword id="KW-0175" evidence="14 18">Coiled coil</keyword>
+<keyword id="KW-0181" evidence="23">Complete proteome</keyword>
+<keyword id="KW-0505" evidence="15">Motor protein</keyword>
+<keyword id="KW-0518" evidence="15">Myosin</keyword>
+<keyword id="KW-0547" evidence="16">Nucleotide-binding</keyword>
+<keyword id="KW-1267" evidence="1 2 3">Proteomics identification</keyword>
+<keyword id="KW-1185" evidence="23">Reference proteome</keyword>
+<feature type="domain" description="PDZ (DHR)" evidence="19">
+<location>
+<begin position="220"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="domain" description="Myosin motor" evidence="21">
+<location>
+<begin position="405"/>
+<end position="1184"/>
+</location>
+</feature>
+<feature type="domain" description="RECA_3" evidence="20">
+<location>
+<begin position="542"/>
+<end position="607"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="18">
+<location>
+<begin position="1248"/>
+<end position="1303"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="18">
+<location>
+<begin position="1311"/>
+<end position="1352"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="18">
+<location>
+<begin position="1389"/>
+<end position="1500"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="18">
+<location>
+<begin position="1508"/>
+<end position="1587"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="18">
+<location>
+<begin position="1593"/>
+<end position="1641"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="18">
+<location>
+<begin position="1712"/>
+<end position="1809"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="18">
+<location>
+<begin position="1816"/>
+<end position="1927"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000213">
+<source>
+<dbReference type="EPD" id="A0A0D9SFK2"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000213">
+<source>
+<dbReference type="MaxQB" id="A0A0D9SFK2"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000213">
+<source>
+<dbReference type="PeptideAtlas" id="A0A0D9SFK2"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="17081983"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="18088087"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="18220336"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="18669648"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="19690332"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="20068231"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="21269460"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="21406692"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="24275569"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00099041"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00117479"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00476620"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00813535"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50106"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50163"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51456"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000486682"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="2038" mass="231107" checksum="A20905A41E20386C" modified="2015-05-27" version="1">
+MFNLMKKDKDKDGGRKEKKEKKEKKERMSAAELRSLEEMSLRRGFFNLNRSSKRESKTRL
+EISNPIPIKVASGSDLHLTDIDSDSNRGSVILDSGHLSTASSSDDLKGEEGSFRGSVLQR
+AAKFGSLAKQNSQMIVKRFSFSQRSRDESASETSTPSEHSAAPSPQVEVRTLEGQLVQHP
+GPGIPRPGHRSRAPELVTKKFPVDLRLPPVVPLPPPTLRELELQRRPTGDFGFSLRRTTM
+LDRGPEGQACRRVVHFAEPGAGTKDLALGLVPGDRLVEINGHNVESKSRDEIVEMIRQSG
+DSVRLKVQPIPELSELSRSWLRSGEGPRREPSDAKTEEQIAAEEAWNETEKVWLVHRDGF
+SLASQLKSEELNLPEGKVRVKLDHDGAILDVDEDDVEKANAPSCDRLEDLASLVYLNESS
+VLHTLRQRYGASLLHTYAGPSLLVLGPRGAPAVYSEKVMHMFKGCRREDMAPHIYAVAQT
+AYRAMLMSRQDQSIILLGSSGSGKTTSCQHLVQYLATIAGISGNKVFSVEKWQALYTLLE
+AFGNSPTIINGNATRFSQILSLDFDQAGQVASASIQTMLLEKLRVARRPASEATFNVFYY
+LLACGDGTLRTELHLNHLAENNVFGIVPLAKPEEKQKAAQQFSKLQAAMKVLGISPDEQK
+ACWFILAAIYHLGAAGATKPAVAGRKQFARHEWAQKAAYLLGCSLEELSSAIFKHQHKGG
+TLQRSTSFRQGPEESGLGDGTGPKLSALECLEGMAAGLYSELFTLLVSLVNRALKSSQHS
+LCSMMIVDTPGFQNPEQGGSARGASFEELCHNYTQDRLQRLFHERTFVQELERYKEENIE
+LAFDDLEPPTDDSVAAVDQASHQSLVRSLARTDEARGLLWLLEEEALVPGASEDTLLERL
+FSYYGPQEGDKKGQSPLLHSSKPHHFLLGHSHGTNWVEYNVTGWLNYTKQNPATQNAPRL
+LQDSQKKIISNLFLGRAGSATVLSGSIAGLEGGSQLALRRATSMRKTFTTGMAAVKKKSL
+CIQMKLQVDALIDTIKKSKLHFVHCFLPVAEGWAGEPRSASSRRVSSSSELDLPSGDHCE
+AGLLQLDVPLLRTQLRGSRLLDAMRMYRQGYPDHMVFSEFRRRFDVLAPHLTKKHGRNYI
+VVDERRAVEELLECLDLEKSSCCMGLSRVFFRAGTLARLEEQRDEQTSRNLTLFQAACRG
+YLARQHFKKRKIQDLAIRCVQKNIKKNKGVKDWPWWKLFTTVRPLIEVQLSEEQIRNKDE
+EIQQLRSKLEKAEKERNELRLNSDRLESRISELTSELTDERNTGESASQLLDAETAERLR
+AEKEMKELQTQYDALKKQMEVMEMEVMEARLIRAAEINGEVDDDDAGGEWRLKYERAVRE
+VDFTKKRLQQEFEDKLEVEQQNKRQLERRLGDLQADSEESQRALQQLKKKCQRLTAELQD
+TKLHLEGQQVRNHELEKKQRRFDSELSQAHEEAQREKLQREKLQREKDMLLAEAFSLKQQ
+LEEKDMDIAGFTQKVVSLEAELQDISSQESKDEASLAKVKKQLRDLEAKVKDQEEELDEQ
+AGTIQMLEQAKLRLEMEMERMRQTHSKEMESRDEEVEEARQSCQKKLKQMEVQLEEEYED
+KQKVLREKRELEGKLATLSDQVNRRDFESEKRLRKDLKRTKALLADAQLMLDHLKNSAPS
+KREIAQLKNQLEESEFTCAAAVKARKAMEVEIEDLHLQIDDIAKAKTALEEQLSRLQREK
+NEIQNRLEEDQEDMNELMKKHKAAVAQASRDLAQINDLQAQLEEANKEKQELQEKLQALQ
+SQVEFLEQSMVDKSLVSRQEAKIRELETRLEFERTQVKRLESLASRLKENMEKLTEERDQ
+RIAAENREKEQNKRLQRQLRDTKEEMGELARKEAEASRKKHELEMDLESLEAANQSLQAD
+LKLAFKRIGDLQAAIEDEMESDENEDLINSEGDSDVDSELEDRVDGVKSWLSKNKGPSKA
+ASDDGSLKSSSPTSYWKSLAPDRSDDEHDPLDNTSRPRYSHSYLSDSDTEAKLTETNA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

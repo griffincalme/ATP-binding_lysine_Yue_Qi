@@ -1,0 +1,540 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2004-10-11" modified="2017-04-12" version="128">
+<accession>Q9BSD7</accession>
+<name>NTPCR_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Cancer-related nucleoside-triphosphatase</fullName>
+<shortName>NTPase</shortName>
+<ecNumber>3.6.1.15</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Nucleoside triphosphate phosphohydrolase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">NTPCR</name>
+<name type="synonym">C1orf57</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="2001-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Kang L."/>
+<person name="Zhang B."/>
+<person name="Zhou Y."/>
+<person name="Peng X."/>
+<person name="Yuan J."/>
+<person name="Qiang B."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Fetal brain</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Skin</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2009" name="Anal. Chem." volume="81" first="4493" last="4501">
+<title>Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach.</title>
+<authorList>
+<person name="Gauci S."/>
+<person name="Helbig A.O."/>
+<person name="Slijper M."/>
+<person name="Krijgsveld J."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="19413330"/>
+<dbReference type="DOI" id="10.1021/ac9004309"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT ALA-2</scope>
+<scope>CLEAVAGE OF INITIATOR METHIONINE [LARGE SCALE ANALYSIS]</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2009" name="Science" volume="325" first="834" last="840">
+<title>Lysine acetylation targets protein complexes and co-regulates major cellular functions.</title>
+<authorList>
+<person name="Choudhary C."/>
+<person name="Kumar C."/>
+<person name="Gnad F."/>
+<person name="Nielsen M.L."/>
+<person name="Rehman M."/>
+<person name="Walther T.C."/>
+<person name="Olsen J.V."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="19608861"/>
+<dbReference type="DOI" id="10.1126/science.1175371"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-165</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+<dbReference type="DOI" id="10.1002/pmic.201400617"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2007" name="J. Mol. Biol." volume="367" first="788" last="801">
+<title>NMR structure and functional characterization of a human cancer-related nucleoside triphosphatase.</title>
+<authorList>
+<person name="Placzek W.J."/>
+<person name="Almeida M.S."/>
+<person name="Wuethrich K."/>
+</authorList>
+<dbReference type="PubMed" id="17291528"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2007.01.001"/>
+</citation>
+<scope>STRUCTURE BY NMR IN COMPLEX WITH THE ATP ANALOG ADENOSINE 5'-O-(3-THIOTRIPHOSPHATE)</scope>
+<scope>FUNCTION</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>SUBUNIT</scope>
+<scope>MUTAGENESIS OF GLU-114 AND GLY-116</scope>
+</reference>
+<comment type="function">
+<text evidence="4">Has nucleotide phosphatase activity towards ATP, GTP, CTP, TTP and UTP. Hydrolyzes nucleoside diphosphates with lower efficiency.</text>
+</comment>
+<comment type="catalytic activity">
+<text>NTP + H(2)O = NDP + phosphate.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="4">5 uM for ATP</KM>
+<KM evidence="4">46 uM for ADP</KM>
+<KM evidence="4">4 uM for GTP</KM>
+<KM evidence="4">6 uM for CTP</KM>
+<KM evidence="4">7 uM for TTP</KM>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="4">Monomer.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the THEP1 NTPase family.</text>
+</comment>
+<dbReference type="EC" id="3.6.1.15"/>
+<dbReference type="EMBL" id="AF416713">
+<property type="protein sequence ID" value="AAL16807.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC005102">
+<property type="protein sequence ID" value="AAH05102.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS1597.1"/>
+<dbReference type="RefSeq" id="NP_001316382.1">
+<property type="nucleotide sequence ID" value="NM_001329453.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_115700.1">
+<property type="nucleotide sequence ID" value="NM_032324.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.642715"/>
+<dbReference type="PDB" id="2I3B">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=2-190"/>
+</dbReference>
+<dbReference type="PDBsum" id="2I3B"/>
+<dbReference type="ProteinModelPortal" id="Q9BSD7"/>
+<dbReference type="SMR" id="Q9BSD7"/>
+<dbReference type="BioGrid" id="124011">
+<property type="interactions" value="19"/>
+</dbReference>
+<dbReference type="IntAct" id="Q9BSD7">
+<property type="interactions" value="17"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000355587"/>
+<dbReference type="iPTMnet" id="Q9BSD7"/>
+<dbReference type="PhosphoSitePlus" id="Q9BSD7"/>
+<dbReference type="BioMuta" id="NTPCR"/>
+<dbReference type="DMDM" id="54036528"/>
+<dbReference type="EPD" id="Q9BSD7"/>
+<dbReference type="MaxQB" id="Q9BSD7"/>
+<dbReference type="PaxDb" id="Q9BSD7"/>
+<dbReference type="PeptideAtlas" id="Q9BSD7"/>
+<dbReference type="PRIDE" id="Q9BSD7"/>
+<dbReference type="DNASU" id="84284"/>
+<dbReference type="Ensembl" id="ENST00000366628">
+<property type="protein sequence ID" value="ENSP00000355587"/>
+<property type="gene ID" value="ENSG00000135778"/>
+</dbReference>
+<dbReference type="GeneID" id="84284"/>
+<dbReference type="KEGG" id="hsa:84284"/>
+<dbReference type="UCSC" id="uc001hvj.2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="84284"/>
+<dbReference type="DisGeNET" id="84284"/>
+<dbReference type="GeneCards" id="NTPCR"/>
+<dbReference type="HGNC" id="HGNC:28204">
+<property type="gene designation" value="NTPCR"/>
+</dbReference>
+<dbReference type="HPA" id="HPA028125"/>
+<dbReference type="HPA" id="HPA054304"/>
+<dbReference type="neXtProt" id="NX_Q9BSD7"/>
+<dbReference type="OpenTargets" id="ENSG00000135778"/>
+<dbReference type="PharmGKB" id="PA142672508"/>
+<dbReference type="eggNOG" id="ENOG410IXTM">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1618">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000018683"/>
+<dbReference type="HOVERGEN" id="HBG058637"/>
+<dbReference type="InParanoid" id="Q9BSD7"/>
+<dbReference type="KO" id="K06928"/>
+<dbReference type="OMA" id="VHKICSA"/>
+<dbReference type="PhylomeDB" id="Q9BSD7"/>
+<dbReference type="TreeFam" id="TF323592"/>
+<dbReference type="BioCyc" id="MetaCyc:HS06064-MONOMER"/>
+<dbReference type="SABIO-RK" id="Q9BSD7"/>
+<dbReference type="ChiTaRS" id="NTPCR">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="Q9BSD7"/>
+<dbReference type="GenomeRNAi" id="84284"/>
+<dbReference type="PRO" id="PR:Q9BSD7"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000135778"/>
+<dbReference type="CleanEx" id="HS_C1orf57"/>
+<dbReference type="ExpressionAtlas" id="Q9BSD7">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9BSD7">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017111">
+<property type="term" value="F:nucleoside-triphosphatase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098519">
+<property type="term" value="F:nucleotide phosphatase activity, acting on free nucleotides"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003723">
+<property type="term" value="F:RNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00796">
+<property type="entry name" value="NTPase_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004948">
+<property type="entry name" value="Nuc-triphosphatase_THEP1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03266">
+<property type="entry name" value="NTPase_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="initiator methionine" description="Removed" evidence="2">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Cancer-related nucleoside-triphosphatase" id="PRO_0000146711">
+<location>
+<begin position="2"/>
+<end position="190"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="5">
+<location>
+<begin position="9"/>
+<end position="16"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="5">
+<location>
+<begin position="109"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylalanine" evidence="2">
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="3">
+<location>
+<position position="165"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs12123482." id="VAR_053071">
+<original>G</original>
+<variation>E</variation>
+<location>
+<position position="106"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced activity, especially towards ATP, GTP and TTP." evidence="4">
+<original>E</original>
+<variation>T</variation>
+<location>
+<position position="114"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced activity, especially towards ATP, GTP and TTP." evidence="4">
+<original>G</original>
+<variation>H</variation>
+<location>
+<position position="116"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="5"/>
+<end position="9"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="15"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="34"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="40"/>
+<end position="42"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="45"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="59"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="71"/>
+<end position="73"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="76"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="85"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="90"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="110"/>
+<end position="112"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="117"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="124"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="140"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="155"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="164"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="171"/>
+<end position="173"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="174"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="177"/>
+<end position="185"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2I3B"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19413330"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19608861"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17291528"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="190" mass="20713" checksum="B4B753F95796A210" modified="2001-06-01" version="1">
+MARHVFLTGPPGVGKTTLIHKASEVLKSSGVPVDGFYTEEVRQGGRRIGFDVVTLSGTRG
+PLSRVGLEPPPGKRECRVGQYVVDLTSFEQLALPVLRNADCSSGPGQRVCVIDEIGKMEL
+FSQLFIQAVRQTLSTPGTIILGTIPVPKGKPLALVEEIRNRKDVKVFNVTKENRNHLLPD
+IVTCVQSSRK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

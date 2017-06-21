@@ -1,0 +1,1720 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1997-11-01" modified="2017-05-10" version="160">
+<accession>Q12756</accession>
+<accession>B0I1S5</accession>
+<accession>F5H045</accession>
+<accession>O95068</accession>
+<accession>Q13355</accession>
+<accession>Q14752</accession>
+<accession>Q2NKJ6</accession>
+<accession>Q4LE42</accession>
+<accession>Q53T78</accession>
+<accession>Q59GH1</accession>
+<accession>Q63Z40</accession>
+<accession>Q6P1R9</accession>
+<accession>Q7KZ57</accession>
+<name>KIF1A_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Kinesin-like protein KIF1A</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Axonal transporter of synaptic vesicles</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Microtubule-based motor KIF1A</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Unc-104- and KIF1A-related protein</fullName>
+<shortName>hUnc-104</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">KIF1A</name>
+<name type="synonym">ATSV</name>
+<name type="synonym">C2orf20</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1996" name="Genomics" volume="33" first="421" last="429">
+<title>Characterization of a kinesin-related gene ATSV, within the tuberous sclerosis locus (TSC1) candidate region on chromosome 9q34.</title>
+<authorList>
+<person name="Furlong R.A."/>
+<person name="Zhou C.Y."/>
+<person name="Ferguson-Smith M.A."/>
+<person name="Affara N.A."/>
+</authorList>
+<dbReference type="PubMed" id="8661001"/>
+<dbReference type="DOI" id="10.1006/geno.1996.0217"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="2007-01" db="EMBL/GenBank/DDBJ databases">
+<title>Multiplex amplification and cloning of 5'-ends of cDNA by ligase-free recombination: preparation of full-length cDNA clones encoding motor proteins.</title>
+<authorList>
+<person name="Yamakawa H."/>
+<person name="Kikuno R.F."/>
+<person name="Nagase T."/>
+<person name="Ohara O."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3)</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="724" last="731">
+<title>Generation and annotation of the DNA sequences of human chromosomes 2 and 4.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Graves T.A."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Pepin K.H."/>
+<person name="Minx P."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Kremitzki C."/>
+<person name="Oddy L."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Carter J."/>
+<person name="Cordes M."/>
+<person name="Harris A."/>
+<person name="Isak A."/>
+<person name="van Brunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Abbott S."/>
+<person name="Armstrong J."/>
+<person name="Belter E.A."/>
+<person name="Caruso L."/>
+<person name="Cedroni M."/>
+<person name="Cotton M."/>
+<person name="Davidson T."/>
+<person name="Desai A."/>
+<person name="Elliott G."/>
+<person name="Erb T."/>
+<person name="Fronick C."/>
+<person name="Gaige T."/>
+<person name="Haakenson W."/>
+<person name="Haglund K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Kim K."/>
+<person name="Kruchowski S.S."/>
+<person name="Strong C.M."/>
+<person name="Grewal N."/>
+<person name="Goyea E."/>
+<person name="Hou S."/>
+<person name="Levy A."/>
+<person name="Martinka S."/>
+<person name="Mead K."/>
+<person name="McLellan M.D."/>
+<person name="Meyer R."/>
+<person name="Randall-Maher J."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Shah N."/>
+<person name="Swearengen-Shahid S."/>
+<person name="Snider J."/>
+<person name="Strong J.T."/>
+<person name="Thompson J."/>
+<person name="Yoakum M."/>
+<person name="Leonard S."/>
+<person name="Pearman C."/>
+<person name="Trani L."/>
+<person name="Radionenko M."/>
+<person name="Waligorski J.E."/>
+<person name="Wang C."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Maupin R."/>
+<person name="Latreille P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Pohl C."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Berkowicz N."/>
+<person name="Nelson J.O."/>
+<person name="Osborne J."/>
+<person name="Ding L."/>
+<person name="Meyer R."/>
+<person name="Sabo A."/>
+<person name="Shotland Y."/>
+<person name="Sinha P."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Jones T.A."/>
+<person name="She X."/>
+<person name="Ciccarelli F.D."/>
+<person name="Izaurralde E."/>
+<person name="Taylor J."/>
+<person name="Schmutz J."/>
+<person name="Myers R.M."/>
+<person name="Cox D.R."/>
+<person name="Huang X."/>
+<person name="McPherson J.D."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Warren W.C."/>
+<person name="Chinwalla A.T."/>
+<person name="Eddy S.R."/>
+<person name="Marra M.A."/>
+<person name="Ovcharenko I."/>
+<person name="Furey T.S."/>
+<person name="Miller W."/>
+<person name="Eichler E.E."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Torrents D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="15815621"/>
+<dbReference type="DOI" id="10.1038/nature03466"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Pancreas</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="submission" date="2005-03" db="EMBL/GenBank/DDBJ databases">
+<title>Preparation of a set of expression-ready clones of mammalian long cDNAs encoding large proteins by the ORF trap cloning method.</title>
+<authorList>
+<person name="Nakajima D."/>
+<person name="Saito K."/>
+<person name="Yamakawa H."/>
+<person name="Kikuno R.F."/>
+<person name="Nakayama M."/>
+<person name="Ohara R."/>
+<person name="Okazaki N."/>
+<person name="Koga H."/>
+<person name="Nagase T."/>
+<person name="Ohara O."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1-1362 (ISOFORM 2)</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="submission" date="1997-05" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Bost-Usinger L."/>
+<person name="Hoang E.H."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 102-251</scope>
+<source>
+<tissue>Retina</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="submission" date="2005-03" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Takeda T."/>
+<person name="Sakaki Y."/>
+<person name="Tanaka A."/>
+<person name="Yokoyama S."/>
+<person name="Ohara O."/>
+<person name="Nagase T."/>
+<person name="Kikuno R.F."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 882-1690 (ISOFORM 1)</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="submission" date="1995-09" db="EMBL/GenBank/DDBJ databases">
+<title>A putative human kinesin family member with sequence similarity to unc-104 and KIF1A.</title>
+<authorList>
+<person name="Campagna S.E."/>
+<person name="Otsuka A.J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 1030-1690 (ISOFORM 1)</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="submission" date="1997-12" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Yu W."/>
+<person name="Sarginson J."/>
+<person name="Gibbs R.A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1275-1690 (ISOFORM 1)</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2007" name="BMC Genomics" volume="8" first="399" last="399">
+<title>The full-ORF clone resource of the German cDNA consortium.</title>
+<authorList>
+<person name="Bechtel S."/>
+<person name="Rosenfelder H."/>
+<person name="Duda A."/>
+<person name="Schmidt C.P."/>
+<person name="Ernst U."/>
+<person name="Wellenreuther R."/>
+<person name="Mehrle A."/>
+<person name="Schuster C."/>
+<person name="Bahr A."/>
+<person name="Bloecker H."/>
+<person name="Heubner D."/>
+<person name="Hoerlein A."/>
+<person name="Michel G."/>
+<person name="Wedler H."/>
+<person name="Koehrer K."/>
+<person name="Ottenwaelder B."/>
+<person name="Poustka A."/>
+<person name="Wiemann S."/>
+<person name="Schupp I."/>
+</authorList>
+<dbReference type="PubMed" id="17974005"/>
+<dbReference type="DOI" id="10.1186/1471-2164-8-399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1318-1690 (ISOFORM 1)</scope>
+<source>
+<tissue>Amygdala</tissue>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2011" name="Am. J. Hum. Genet." volume="89" first="219" last="230">
+<title>KIF1A, an axonal transporter of synaptic vesicles, is mutated in hereditary sensory and autonomic neuropathy type 2.</title>
+<authorList>
+<person name="Riviere J.B."/>
+<person name="Ramalingam S."/>
+<person name="Lavastre V."/>
+<person name="Shekarabi M."/>
+<person name="Holbert S."/>
+<person name="Lafontaine J."/>
+<person name="Srour M."/>
+<person name="Merner N."/>
+<person name="Rochefort D."/>
+<person name="Hince P."/>
+<person name="Gaudet R."/>
+<person name="Mes-Masson A.M."/>
+<person name="Baets J."/>
+<person name="Houlden H."/>
+<person name="Brais B."/>
+<person name="Nicholson G.A."/>
+<person name="Van Esch H."/>
+<person name="Nafissi S."/>
+<person name="De Jonghe P."/>
+<person name="Reilly M.M."/>
+<person name="Timmerman V."/>
+<person name="Dion P.A."/>
+<person name="Rouleau G.A."/>
+</authorList>
+<dbReference type="PubMed" id="21820098"/>
+<dbReference type="DOI" id="10.1016/j.ajhg.2011.06.013"/>
+</citation>
+<scope>INVOLVEMENT IN HSN2C</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2011" name="Am. J. Hum. Genet." volume="88" first="306" last="316">
+<title>Excess of de novo deleterious mutations in genes associated with glutamatergic systems in nonsyndromic intellectual disability.</title>
+<authorList>
+<person name="Hamdan F.F."/>
+<person name="Gauthier J."/>
+<person name="Araki Y."/>
+<person name="Lin D.T."/>
+<person name="Yoshizawa Y."/>
+<person name="Higashi K."/>
+<person name="Park A.R."/>
+<person name="Spiegelman D."/>
+<person name="Dobrzeniecka S."/>
+<person name="Piton A."/>
+<person name="Tomitori H."/>
+<person name="Daoud H."/>
+<person name="Massicotte C."/>
+<person name="Henrion E."/>
+<person name="Diallo O."/>
+<person name="Shekarabi M."/>
+<person name="Marineau C."/>
+<person name="Shevell M."/>
+<person name="Maranda B."/>
+<person name="Mitchell G."/>
+<person name="Nadeau A."/>
+<person name="D'Anjou G."/>
+<person name="Vanasse M."/>
+<person name="Srour M."/>
+<person name="Lafreniere R.G."/>
+<person name="Drapeau P."/>
+<person name="Lacaille J.C."/>
+<person name="Kim E."/>
+<person name="Lee J.R."/>
+<person name="Igarashi K."/>
+<person name="Huganir R.L."/>
+<person name="Rouleau G.A."/>
+<person name="Michaud J.L."/>
+</authorList>
+<dbReference type="PubMed" id="21376300"/>
+<dbReference type="DOI" id="10.1016/j.ajhg.2011.02.001"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>VARIANT MRD9 MET-99</scope>
+<scope>CHARACTERIZATION OF VARIANT MRD9 MET-99</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2011" name="Am. J. Hum. Genet." volume="88" first="516" last="516">
+<authorList>
+<person name="Hamdan F.F."/>
+<person name="Gauthier J."/>
+<person name="Araki Y."/>
+<person name="Lin D.T."/>
+<person name="Yoshizawa Y."/>
+<person name="Higashi K."/>
+<person name="Park A.R."/>
+<person name="Spiegelman D."/>
+<person name="Dobrzeniecka S."/>
+<person name="Piton A."/>
+<person name="Tomitori H."/>
+<person name="Daoud H."/>
+<person name="Massicotte C."/>
+<person name="Henrion E."/>
+<person name="Diallo O."/>
+<person name="Shekarabi M."/>
+<person name="Marineau C."/>
+<person name="Shevell M."/>
+<person name="Maranda B."/>
+<person name="Mitchell G."/>
+<person name="Nadeau A."/>
+<person name="D'Anjou G."/>
+<person name="Vanasse M."/>
+<person name="Srour M."/>
+<person name="Lafreniere R.G."/>
+<person name="Drapeau P."/>
+<person name="Lacaille J.C."/>
+<person name="Kim E."/>
+<person name="Lee J.R."/>
+<person name="Igarashi K."/>
+<person name="Huganir R.L."/>
+<person name="Rouleau G.A."/>
+<person name="Michaud J.L."/>
+</authorList>
+</citation>
+<scope>ERRATUM</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2011" name="Sci. Signal." volume="4" first="RS3" last="RS3">
+<title>System-wide temporal characterization of the proteome and phosphoproteome of human embryonic stem cell differentiation.</title>
+<authorList>
+<person name="Rigbolt K.T."/>
+<person name="Prokhorova T.A."/>
+<person name="Akimov V."/>
+<person name="Henningsen J."/>
+<person name="Johansen P.T."/>
+<person name="Kratchmarova I."/>
+<person name="Kassem M."/>
+<person name="Mann M."/>
+<person name="Olsen J.V."/>
+<person name="Blagoev B."/>
+</authorList>
+<dbReference type="PubMed" id="21406692"/>
+<dbReference type="DOI" id="10.1126/scisignal.2001570"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-416; SER-418; SER-419; SER-937; SER-1310 AND SER-1548</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2015" name="Eur. J. Hum. Genet." volume="23" first="1427" last="1430">
+<title>Dominant transmission of de novo KIF1A motor domain variant underlying pure spastic paraplegia.</title>
+<authorList>
+<person name="Ylikallio E."/>
+<person name="Kim D."/>
+<person name="Isohanni P."/>
+<person name="Auranen M."/>
+<person name="Kim E."/>
+<person name="Loennqvist T."/>
+<person name="Tyynismaa H."/>
+</authorList>
+<dbReference type="PubMed" id="25585697"/>
+<dbReference type="DOI" id="10.1038/ejhg.2014.297"/>
+</citation>
+<scope>INVOLVEMENT IN AUTOSOMAL DOMINANT SPASTIC PARAPLEGIA</scope>
+<scope>VARIANT LEU-69</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2015" name="J. Neurol." volume="262" first="2684" last="2690">
+<title>Variants in KIF1A gene in dominant and sporadic forms of hereditary spastic paraparesis.</title>
+<authorList>
+<person name="Citterio A."/>
+<person name="Arnoldi A."/>
+<person name="Panzeri E."/>
+<person name="Merlini L."/>
+<person name="D'Angelo M.G."/>
+<person name="Musumeci O."/>
+<person name="Toscano A."/>
+<person name="Bondi A."/>
+<person name="Martinuzzi A."/>
+<person name="Bresolin N."/>
+<person name="Bassi M.T."/>
+</authorList>
+<dbReference type="PubMed" id="26410750"/>
+<dbReference type="DOI" id="10.1007/s00415-015-7899-9"/>
+</citation>
+<scope>INVOLVEMENT IN AUTOSOMAL DOMINANT SPASTIC PARAPLEGIA</scope>
+<scope>VARIANTS LEU-69; SER-102 AND THR-1026</scope>
+<scope>VARIANT MRD9 CYS-167</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2011" name="Genome Res." volume="21" first="658" last="664">
+<title>Exome sequencing and disease-network analysis of a single family implicate a mutation in KIF1A in hereditary spastic paraparesis.</title>
+<authorList>
+<person name="Erlich Y."/>
+<person name="Edvardson S."/>
+<person name="Hodges E."/>
+<person name="Zenvirt S."/>
+<person name="Thekkat P."/>
+<person name="Shaag A."/>
+<person name="Dor T."/>
+<person name="Hannon G.J."/>
+<person name="Elpeleg O."/>
+</authorList>
+<dbReference type="PubMed" id="21487076"/>
+<dbReference type="DOI" id="10.1101/gr.117143.110"/>
+</citation>
+<scope>VARIANT SPG30 VAL-255</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2015" name="Ann. Clin. Transl. Neurol." volume="2" first="623" last="635">
+<title>De novo mutations in KIF1A cause progressive encephalopathy and brain atrophy.</title>
+<authorList>
+<person name="Esmaeeli Nieh S."/>
+<person name="Madou M.R."/>
+<person name="Sirajuddin M."/>
+<person name="Fregeau B."/>
+<person name="McKnight D."/>
+<person name="Lexa K."/>
+<person name="Strober J."/>
+<person name="Spaeth C."/>
+<person name="Hallinan B.E."/>
+<person name="Smaoui N."/>
+<person name="Pappas J.G."/>
+<person name="Burrow T.A."/>
+<person name="McDonald M.T."/>
+<person name="Latibashvili M."/>
+<person name="Leshinsky-Silver E."/>
+<person name="Lev D."/>
+<person name="Blumkin L."/>
+<person name="Vale R.D."/>
+<person name="Barkovich A.J."/>
+<person name="Sherr E.H."/>
+</authorList>
+<dbReference type="PubMed" id="26125038"/>
+<dbReference type="DOI" id="10.1002/acn3.198"/>
+</citation>
+<scope>VARIANTS MET-46; ASN-136; ILE-187; MET-205; ILE-220; ASP-233; VAL-336 AND HIS-355</scope>
+<scope>VARIANTS MRD9 MET-99; CYS-216; HIS-216; LYS-253 AND TRP-316</scope>
+<scope>CHARACTERIZATION OF VARIANTS MRD9 MET-99; CYS-216; LYS-253 AND VAL-255</scope>
+<scope>CHARACTERIZATION OF VARIANT ILE-220</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2015" name="Hum. Mutat." volume="36" first="69" last="78">
+<title>De novo mutations in the motor domain of KIF1A cause cognitive impairment, spastic paraparesis, axonal neuropathy, and cerebellar atrophy.</title>
+<authorList>
+<person name="Lee J.R."/>
+<person name="Srour M."/>
+<person name="Kim D."/>
+<person name="Hamdan F.F."/>
+<person name="Lim S.H."/>
+<person name="Brunel-Guitton C."/>
+<person name="Decarie J.C."/>
+<person name="Rossignol E."/>
+<person name="Mitchell G.A."/>
+<person name="Schreiber A."/>
+<person name="Moran R."/>
+<person name="Van Haren K."/>
+<person name="Richardson R."/>
+<person name="Nicolai J."/>
+<person name="Oberndorff K.M."/>
+<person name="Wagner J.D."/>
+<person name="Boycott K.M."/>
+<person name="Rahikkala E."/>
+<person name="Junna N."/>
+<person name="Tyynismaa H."/>
+<person name="Cuppen I."/>
+<person name="Verbeek N.E."/>
+<person name="Stumpel C.T."/>
+<person name="Willemsen M.A."/>
+<person name="de Munnik S.A."/>
+<person name="Rouleau G.A."/>
+<person name="Kim E."/>
+<person name="Kamsteeg E.J."/>
+<person name="Kleefstra T."/>
+<person name="Michaud J.L."/>
+</authorList>
+<dbReference type="PubMed" id="25265257"/>
+<dbReference type="DOI" id="10.1002/humu.22709"/>
+</citation>
+<scope>VARIANTS MRD9 LEU-58; MET-99; ASP-102; PHE-144; CYS-167; PRO-202; ARG-215; PRO-216; GLN-249; LYS-253; VAL-255; TRP-316 AND GLY-350</scope>
+<scope>CHARACTERIZATION OF VARIANTS MRD9 MET-99; PRO-202; ARG-215; PRO-216; LYS-253; VAL-255 AND GLY-350</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<comment type="function">
+<text evidence="4">Motor for anterograde axonal transport of synaptic vesicle precursors.</text>
+</comment>
+<comment type="subunit">
+<text evidence="4">Monomer. Interacts with PPFIA1 and PPFIA4 (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="10">Cytoplasm</location>
+<location evidence="10">Cytoskeleton</location>
+</subcellularLocation>
+<text evidence="13">Expressed in distal regions of neurites.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q12756-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q12756-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_021853 VSP_021854 VSP_021855"/>
+</isoform>
+<isoform>
+<id>Q12756-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_021853 VSP_021854"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="10">Expressed in neurons.</text>
+</comment>
+<comment type="disease" evidence="11">
+<disease id="DI-03243">
+<name>Spastic paraplegia 30, autosomal recessive</name>
+<acronym>SPG30</acronym>
+<description>A form of spastic paraplegia, a neurodegenerative disorder characterized by a slow, gradual, progressive weakness and spasticity of the lower limbs. Rate of progression and the severity of symptoms are quite variable. Initial symptoms may include difficulty with balance, weakness and stiffness in the legs, muscle spasms, and dragging the toes when walking. In some forms of the disorder, bladder symptoms (such as incontinence) may appear, or the weakness and stiffness may spread to other parts of the body. SPG30 is characterized by onset in the first or second decades of unsteady spastic gait and hyperreflexia of the lower limbs.</description>
+<dbReference type="MIM" id="610357"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="12">
+<disease id="DI-03263">
+<name>Neuropathy, hereditary sensory, 2C</name>
+<acronym>HSN2C</acronym>
+<description>A neurodegenerative disorder characterized by onset in the first decade of progressive distal sensory loss leading to ulceration and amputation of the fingers and toes. Affected individuals also develop distal muscle weakness, primarily affecting the lower limbs.</description>
+<dbReference type="MIM" id="614213"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="10 13 15 16">
+<disease id="DI-03252">
+<name>Mental retardation, autosomal dominant 9</name>
+<acronym>MRD9</acronym>
+<description>A disorder characterized by significantly below average general intellectual functioning associated with impairments in adaptive behavior and manifested during the developmental period.</description>
+<dbReference type="MIM" id="614255"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease">
+<text evidence="14 16">Defects in KIF1A are a cause autosomal dominant spastic paraplegia. Spastic paraplegia is a neurodegenerative disorder characterized by a slow, gradual, progressive weakness and spasticity of the lower limbs.</text>
+</comment>
+<comment type="similarity">
+<text evidence="9">Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family. Unc-104 subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="19">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAB97363" version="1"/>
+</conflict>
+<text>Translation N-terminally extended.</text>
+</comment>
+<comment type="sequence caution" evidence="19">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="BAE06111" version="1"/>
+</conflict>
+<text>Translation N-terminally shortened.</text>
+</comment>
+<comment type="sequence caution" evidence="19">
+<conflict type="miscellaneous discrepancy">
+<sequence resource="EMBL-CDS" id="BAE06111" version="1"/>
+</conflict>
+<text>Probable cloning artifact leading to C-terminal exon with non-canonical splice junction.</text>
+</comment>
+<dbReference type="EMBL" id="X90840">
+<property type="protein sequence ID" value="CAA62346.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB290172">
+<property type="protein sequence ID" value="BAG06726.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC011298">
+<property type="protein sequence ID" value="AAX93239.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC112784">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC064906">
+<property type="protein sequence ID" value="AAH64906.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC111780">
+<property type="protein sequence ID" value="AAI11781.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC111799">
+<property type="protein sequence ID" value="AAI11800.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB210029">
+<property type="protein sequence ID" value="BAE06111.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF004425">
+<property type="protein sequence ID" value="AAD02917.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB209138">
+<property type="protein sequence ID" value="BAD92375.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U37194">
+<property type="protein sequence ID" value="AAA80352.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L79946">
+<property type="protein sequence ID" value="AAB04640.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF038173">
+<property type="protein sequence ID" value="AAB97363.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BX537556">
+<property type="protein sequence ID" value="CAH56161.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS46561.1">
+<molecule id="Q12756-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS58757.1">
+<molecule id="Q12756-3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001230937.1">
+<molecule id="Q12756-3"/>
+<property type="nucleotide sequence ID" value="NM_001244008.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001307634.1">
+<property type="nucleotide sequence ID" value="NM_001320705.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_004312.2">
+<molecule id="Q12756-1"/>
+<property type="nucleotide sequence ID" value="NM_004321.7"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016859880.1">
+<molecule id="Q12756-2"/>
+<property type="nucleotide sequence ID" value="XM_017004391.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.516802"/>
+<dbReference type="PDB" id="4EGX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.51"/>
+<property type="chains" value="A/B/C/D=430-607"/>
+</dbReference>
+<dbReference type="PDB" id="4EJQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.89"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=458-607"/>
+</dbReference>
+<dbReference type="PDB" id="4UXO">
+<property type="method" value="EM"/>
+<property type="resolution" value="6.30"/>
+<property type="chains" value="C=1-361"/>
+</dbReference>
+<dbReference type="PDB" id="4UXP">
+<property type="method" value="EM"/>
+<property type="resolution" value="6.30"/>
+<property type="chains" value="C=1-361"/>
+</dbReference>
+<dbReference type="PDB" id="4UXR">
+<property type="method" value="EM"/>
+<property type="resolution" value="7.00"/>
+<property type="chains" value="C=1-361"/>
+</dbReference>
+<dbReference type="PDB" id="4UXS">
+<property type="method" value="EM"/>
+<property type="resolution" value="7.00"/>
+<property type="chains" value="C=1-361"/>
+</dbReference>
+<dbReference type="PDBsum" id="4EGX"/>
+<dbReference type="PDBsum" id="4EJQ"/>
+<dbReference type="PDBsum" id="4UXO"/>
+<dbReference type="PDBsum" id="4UXP"/>
+<dbReference type="PDBsum" id="4UXR"/>
+<dbReference type="PDBsum" id="4UXS"/>
+<dbReference type="ProteinModelPortal" id="Q12756"/>
+<dbReference type="SMR" id="Q12756"/>
+<dbReference type="BioGrid" id="107029">
+<property type="interactions" value="43"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-42405N"/>
+<dbReference type="IntAct" id="Q12756">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1173769"/>
+<dbReference type="STRING" id="9606.ENSP00000322791"/>
+<dbReference type="DrugBank" id="DB04395">
+<property type="generic name" value="Phosphoaminophosphonic Acid-Adenylate Ester"/>
+</dbReference>
+<dbReference type="iPTMnet" id="Q12756"/>
+<dbReference type="PhosphoSitePlus" id="Q12756"/>
+<dbReference type="BioMuta" id="KIF1A"/>
+<dbReference type="DMDM" id="119364606"/>
+<dbReference type="EPD" id="Q12756"/>
+<dbReference type="MaxQB" id="Q12756"/>
+<dbReference type="PaxDb" id="Q12756"/>
+<dbReference type="PeptideAtlas" id="Q12756"/>
+<dbReference type="PRIDE" id="Q12756"/>
+<dbReference type="Ensembl" id="ENST00000320389">
+<molecule id="Q12756-1"/>
+<property type="protein sequence ID" value="ENSP00000322791"/>
+<property type="gene ID" value="ENSG00000130294"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000498729">
+<molecule id="Q12756-3"/>
+<property type="protein sequence ID" value="ENSP00000438388"/>
+<property type="gene ID" value="ENSG00000130294"/>
+</dbReference>
+<dbReference type="GeneID" id="547"/>
+<dbReference type="KEGG" id="hsa:547"/>
+<dbReference type="UCSC" id="uc010fzk.3">
+<molecule id="Q12756-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="547"/>
+<dbReference type="DisGeNET" id="547"/>
+<dbReference type="GeneCards" id="KIF1A"/>
+<dbReference type="GeneReviews" id="KIF1A"/>
+<dbReference type="HGNC" id="HGNC:888">
+<property type="gene designation" value="KIF1A"/>
+</dbReference>
+<dbReference type="HPA" id="HPA005442"/>
+<dbReference type="MalaCards" id="KIF1A"/>
+<dbReference type="MIM" id="601255">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="610357">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="614213">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="614255">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q12756"/>
+<dbReference type="OpenTargets" id="ENSG00000130294"/>
+<dbReference type="Orphanet" id="178469">
+<property type="disease" value="Autosomal dominant non-syndromic intellectual disability"/>
+</dbReference>
+<dbReference type="Orphanet" id="101010">
+<property type="disease" value="Autosomal recessive spastic paraplegia type 30"/>
+</dbReference>
+<dbReference type="Orphanet" id="970">
+<property type="disease" value="Hereditary sensory and autonomic neuropathy type 2"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA25180"/>
+<dbReference type="eggNOG" id="KOG0245">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5059">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00870000136373"/>
+<dbReference type="HOGENOM" id="HOG000165968"/>
+<dbReference type="HOVERGEN" id="HBG052251"/>
+<dbReference type="InParanoid" id="Q12756"/>
+<dbReference type="KO" id="K10392"/>
+<dbReference type="OMA" id="VIRRRLC"/>
+<dbReference type="OrthoDB" id="EOG091G009V"/>
+<dbReference type="PhylomeDB" id="Q12756"/>
+<dbReference type="TreeFam" id="TF105221"/>
+<dbReference type="Reactome" id="R-HSA-6811434">
+<property type="pathway name" value="COPI-dependent Golgi-to-ER retrograde traffic"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-983189">
+<property type="pathway name" value="Kinesins"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="KIF1A">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="KIF1A"/>
+<dbReference type="GenomeRNAi" id="547"/>
+<dbReference type="PRO" id="PR:Q12756"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 2"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000130294"/>
+<dbReference type="ExpressionAtlas" id="Q12756">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q12756">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904115">
+<property type="term" value="C:axon cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005871">
+<property type="term" value="C:kinesin complex"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005874">
+<property type="term" value="C:microtubule"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008017">
+<property type="term" value="F:microtubule binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003777">
+<property type="term" value="F:microtubule motor activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003774">
+<property type="term" value="F:motor activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008089">
+<property type="term" value="P:anterograde axonal transport"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.30.29.30">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.850.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000253">
+<property type="entry name" value="FHA_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022164">
+<property type="entry name" value="Kinesin-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022140">
+<property type="entry name" value="Kinesin-like_KIF1-typ"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032405">
+<property type="entry name" value="Kinesin_assoc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019821">
+<property type="entry name" value="Kinesin_motor_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001752">
+<property type="entry name" value="Kinesin_motor_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011993">
+<property type="entry name" value="PH_dom-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001849">
+<property type="entry name" value="PH_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008984">
+<property type="entry name" value="SMAD_FHA_domain"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12473">
+<property type="entry name" value="DUF3694"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00498">
+<property type="entry name" value="FHA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12423">
+<property type="entry name" value="KIF1B"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00225">
+<property type="entry name" value="Kinesin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16183">
+<property type="entry name" value="Kinesin_assoc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00169">
+<property type="entry name" value="PH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00380">
+<property type="entry name" value="KINESINHEAVY"/>
+</dbReference>
+<dbReference type="SMART" id="SM00240">
+<property type="entry name" value="FHA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00129">
+<property type="entry name" value="KISc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00233">
+<property type="entry name" value="PH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF49879">
+<property type="entry name" value="SSF49879"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50729">
+<property type="entry name" value="SSF50729"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50006">
+<property type="entry name" value="FHA_DOMAIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00411">
+<property type="entry name" value="KINESIN_MOTOR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50067">
+<property type="entry name" value="KINESIN_MOTOR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50003">
+<property type="entry name" value="PH_DOMAIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0890">Hereditary spastic paraplegia</keyword>
+<keyword id="KW-0991">Mental retardation</keyword>
+<keyword id="KW-0493">Microtubule</keyword>
+<keyword id="KW-0505">Motor protein</keyword>
+<keyword id="KW-0523">Neurodegeneration</keyword>
+<keyword id="KW-0622">Neuropathy</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Kinesin-like protein KIF1A" id="PRO_0000125405">
+<location>
+<begin position="1"/>
+<end position="1690"/>
+</location>
+</feature>
+<feature type="domain" description="Kinesin motor" evidence="9">
+<location>
+<begin position="5"/>
+<end position="354"/>
+</location>
+</feature>
+<feature type="domain" description="FHA" evidence="7">
+<location>
+<begin position="516"/>
+<end position="572"/>
+</location>
+</feature>
+<feature type="domain" description="PH" evidence="8">
+<location>
+<begin position="1575"/>
+<end position="1673"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="9">
+<location>
+<begin position="97"/>
+<end position="104"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="6">
+<location>
+<begin position="366"/>
+<end position="383"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="6">
+<location>
+<begin position="429"/>
+<end position="462"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="6">
+<location>
+<begin position="622"/>
+<end position="681"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="6">
+<location>
+<begin position="801"/>
+<end position="822"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="416"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="418"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="419"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="5">
+<location>
+<position position="607"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="5">
+<location>
+<position position="612"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="5">
+<location>
+<position position="932"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="937"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1310"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="5">
+<location>
+<position position="1337"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="5">
+<location>
+<position position="1519"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="5">
+<location>
+<position position="1523"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="5">
+<location>
+<position position="1528"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="5">
+<location>
+<position position="1532"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="1548"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2 and isoform 3." id="VSP_021853" evidence="17 18">
+<original>M</original>
+<variation>TNTVPGGPKL</variation>
+<location>
+<position position="394"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2 and isoform 3." id="VSP_021854" evidence="17 18">
+<original>R</original>
+<variation>RLVGSSAISGCNSYPLLNTCMSERMAALTPSPTFSSPDSDATEPAEEQSVGEEEEEEEEEEDEEEEDLEDDVFPEHALCDGRDPFYDRPPLFS</variation>
+<location>
+<position position="848"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_021855" evidence="18">
+<original>D</original>
+<variation>DRVSLGNDT</variation>
+<location>
+<position position="1234"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs182395595." id="VAR_075471" evidence="15">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="46"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MRD9; dbSNP:rs672601362." id="VAR_075472" evidence="13">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="58"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Probable disease-associated mutation found in autosomal dominant spastic paraplegia; dbSNP:rs786200949." id="VAR_077467" evidence="14 16">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MRD9; affects the subcellular location of the protein; there is a reduced distal localization and increased accumulation throughout the cell body and proximal neurites in cells transfected with a mutant protein; disrupts microtubule motility; dbSNP:rs387906799." id="VAR_066649" evidence="10 13 15">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="99"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MRD9; dbSNP:rs672601363." id="VAR_075473" evidence="13">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="102"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Probable disease-associated mutation found in a sporadic case of spastic paraplegia; de novo mutation." id="VAR_077468" evidence="16">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="102"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs374178011." id="VAR_075474" evidence="15">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="136"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MRD9; dbSNP:rs672601364." id="VAR_075475" evidence="13">
+<original>V</original>
+<variation>F</variation>
+<location>
+<position position="144"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MRD9; also found in a sporadic case of spastic paraplegia; dbSNP:rs672601365." id="VAR_075476" evidence="13 16">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="167"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs370623844." id="VAR_075477" evidence="15">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="187"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MRD9; reduces accumulation in distal regions of the neurites; dbSNP:rs672601366." id="VAR_075478" evidence="13">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="202"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs371039513." id="VAR_075479" evidence="15">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="205"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MRD9; reduces accumulation in distal regions of the neurites; dbSNP:rs672601367." id="VAR_075480" evidence="13">
+<original>S</original>
+<variation>R</variation>
+<location>
+<position position="215"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MRD9; disrupts microtubule motility; dbSNP:rs797045164." id="VAR_075481" evidence="15">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="216"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MRD9; dbSNP:rs672601368." id="VAR_075482" evidence="15">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="216"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MRD9; reduces accumulation in distal regions of the neurites; dbSNP:rs672601368." id="VAR_075483" evidence="13">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="216"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Polymorphism; no effect on microtubule motility; dbSNP:rs201314877." id="VAR_075484" evidence="15">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="220"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs373882732." id="VAR_075485" evidence="15">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="233"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MRD9; dbSNP:rs672601371." id="VAR_075486" evidence="13">
+<original>L</original>
+<variation>Q</variation>
+<location>
+<position position="249"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MRD9; reduces accumulation in distal regions of the neurites; disrupts microtubule motility; dbSNP:rs672601369." id="VAR_075487" evidence="13 15">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="253"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In SPG30 and MRD9; unknown pathological significance; reduces accumulation in distal regions of the neurites; no effect on microtubule motility; dbSNP:rs387906798." id="VAR_066650" evidence="11 13 15">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="255"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MRD9; dbSNP:rs672601370." id="VAR_075488" evidence="13 15">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="316"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs375423065." id="VAR_075489" evidence="15">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="336"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MRD9; reduces accumulation in distal regions of the neurites; dbSNP:rs387907259." id="VAR_075490" evidence="13">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="350"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs373042822." id="VAR_075491" evidence="15">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="355"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a case of autosomal dominant spastic paraplegia; unknown pathological significance." id="VAR_077469" evidence="16">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="1026"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; AAD02917." ref="6" evidence="19">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="104"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA62346." ref="1" evidence="19">
+<original>N</original>
+<variation>T</variation>
+<location>
+<position position="595"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA62346." ref="1" evidence="19">
+<original>T</original>
+<variation>K</variation>
+<location>
+<position position="777"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 8; AAA80352." ref="8" evidence="19">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="1030"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 8; AAA80352." ref="8" evidence="19">
+<original>S</original>
+<variation>C</variation>
+<location>
+<position position="1034"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; BAG06726 and 7; BAD92375." ref="2 7" evidence="19">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="1108"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA62346." ref="1" evidence="19">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="1225"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA62346." ref="1" evidence="19">
+<original>Q</original>
+<variation>H</variation>
+<location>
+<position position="1232"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA62346." ref="1" evidence="19">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="1245"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA62346." ref="1" evidence="19">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="1257"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AAI11781." ref="4" evidence="19">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="1684"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="458"/>
+<end position="471"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="474"/>
+<end position="476"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="480"/>
+<end position="485"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="489"/>
+<end position="491"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="493"/>
+<end position="496"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="507"/>
+<end position="510"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="513"/>
+<end position="519"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="521"/>
+<end position="525"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="528"/>
+<end position="530"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="538"/>
+<end position="546"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="550"/>
+<end position="552"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="554"/>
+<end position="559"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="565"/>
+<end position="567"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="583"/>
+<end position="586"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="587"/>
+<end position="589"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="590"/>
+<end position="595"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="597"/>
+<end position="604"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4EGX"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4EJQ"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="21406692"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000250"/>
+<evidence key="5" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P33173"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000255"/>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00086"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00145"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00283"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21376300"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21487076"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21820098"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25265257"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25585697"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26125038"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26410750"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000303">
+<source ref="2"/>
+</evidence>
+<evidence key="18" type="ECO:0000303">
+<source ref="5"/>
+</evidence>
+<evidence key="19" type="ECO:0000305"/>
+<sequence length="1690" mass="191064" checksum="FB3CA33B7060AF60" modified="2006-12-12" version="2">
+MAGASVKVAVRVRPFNSREMSRDSKCIIQMSGSTTTIVNPKQPKETPKSFSFDYSYWSHT
+SPEDINYASQKQVYRDIGEEMLQHAFEGYNVCIFAYGQTGAGKSYTMMGKQEKDQQGIIP
+QLCEDLFSRINDTTNDNMSYSVEVSYMEIYCERVRDLLNPKNKGNLRVREHPLLGPYVED
+LSKLAVTSYNDIQDLMDSGNKARTVAATNMNETSSRSHAVFNIIFTQKRHDAETNITTEK
+VSKISLVDLAGSERADSTGAKGTRLKEGANINKSLTTLGKVISALAEMDSGPNKNKKKKK
+TDFIPYRDSVLTWLLRENLGGNSRTAMVAALSPADINYDETLSTLRYADRAKQIRCNAVI
+NEDPNNKLIRELKDEVTRLRDLLYAQGLGDITDMTNALVGMSPSSSLSALSSRAASVSSL
+HERILFAPGSEEAIERLKETEKIIAELNETWEEKLRRTEAIRMEREALLAEMGVAMREDG
+GTLGVFSPKKTPHLVNLNEDPLMSECLLYYIKDGITRVGREDGERRQDIVLSGHFIKEEH
+CVFRSDSRGGSEAVVTLEPCEGADTYVNGKKVTEPSILRSGNRIIMGKSHVFRFNHPEQA
+RQERERTPCAETPAEPVDWAFAQRELLEKQGIDMKQEMEQRLQELEDQYRREREEATYLL
+EQQRLDYESKLEALQKQMDSRYYPEVNEEEEEPEDEVQWTERECELALWAFRKWKWYQFT
+SLRDLLWGNAIFLKEANAISVELKKKVQFQFVLLTDTLYSPLPPDLLPPEAAKDRETRPF
+PRTIVAVEVQDQKNGATHYWTLEKLRQRLDLMREMYDRAAEVPSSVIEDCDNVVTGGDPF
+YDRFPWFRLVGRAFVYLSNLLYPVPLVHRVAIVSEKGEVKGFLRVAVQAISADEEAPDYG
+SGVRQSGTAKISFDDQHFEKFQSESCPVVGMSRSGTSQEELRIVEGQGQGADVGPSADEV
+NNNTCSAVPPEGLLLDSSEKAALDGPLDAALDHLRLGNTFTFRVTVLQASSISAEYADIF
+CQFNFIHRHDEAFSTEPLKNTGRGPPLGFYHVQNIAVEVTKSFIEYIKSQPIVFEVFGHY
+QQHPFPPLCKDVLSPLRPSRRHFPRVMPLSKPVPATKLSTLTRPCPGPCHCKYDLLVYFE
+ICELEANGDYIPAVVDHRGGMPCMGTFLLHQGIQRRITVTLLHETGSHIRWKEVRELVVG
+RIRNTPETDESLIDPNILSLNILSSGYIHPAQDDRTFYQFEAAWDSSMHNSLLLNRVTPY
+REKIYMTLSAYIEMENCTQPAVVTKDFCMVFYSRDAKLPASRSIRNLFGSGSLRASESNR
+VTGVYELSLCHVADAGSPGMQRRRRRVLDTSVAYVRGEENLAGWRPRSDSLILDHQWELE
+KLSLLQEVEKTRHYLLLREKLETAQRPVPEALSPAFSEDSESHGSSSASSPLSAEGRPSP
+LEAPNERQRELAVKCLRLLTHTFNREYTHSHVCVSASESKLSEMSVTLLRDPSMSPLGVA
+TLTPSSTCPSLVEGRYGATDLRTPQPCSRPASPEPELLPEADSKKLPSPARATETDKEPQ
+RLLVPDIQEIRVSPIVSKKGYLHFLEPHTSGWARRFVVVRRPYAYMYNSDKDTVERFVLN
+LATAQVEYSEDQQAMLKTPNTFAVCTEHRGILLQAASDKDMHDWLYAFNPLLAGTIRSKL
+SRRRSAQMRV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

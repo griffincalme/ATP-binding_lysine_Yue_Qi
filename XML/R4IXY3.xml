@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2013-07-24" modified="2017-05-10" version="31">
+<accession>R4IXY3</accession>
+<name>R4IXY3_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Regulator of telomere elongation helicase 1</fullName>
+<ecNumber evidence="1">3.6.4.12</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="1 6">RTEL1</name>
+</gene>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="submission" date="2012-05" db="EMBL/GenBank/DDBJ databases">
+<title>RTEL1 regulates RNA export.</title>
+<authorList>
+<person name="Schertzer M."/>
+<person name="Londono-Vallejo A."/>
+<person name="Kappei D."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="function">
+<text evidence="1">ATP-dependent DNA helicase implicated in telomere-length regulation, DNA repair and the maintenance of genomic stability. Acts as an anti-recombinase to counteract toxic recombination and limit crossover during meiosis. Regulates meiotic recombination and crossover homeostasis by physically dissociating strand invasion events and thereby promotes noncrossover repair by meiotic synthesis dependent strand annealing (SDSA) as well as disassembly of D loop recombination intermediates. Also disassembles T loops and prevents telomere fragility by counteracting telomeric G4-DNA structures, which together ensure the dynamics and stability of the telomere.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1 3">ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Interacts with TERF1. Interacts (via PIP-box) with PCNA; the interaction is direct and essential for suppressing telomere fragility. Interacts with MMS19; the interaction mediates the association of RTEL1 with the cytosolic iron-sulfur protein assembly (CIA) complex.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Nucleus</location>
+</subcellularLocation>
+<text evidence="1">Colocalizes with PCNA within the replication foci in S-phase cells.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the helicase family. RAD3/XPD subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="1">Lacks conserved residue(s) required for the propagation of feature annotation.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.12" evidence="1"/>
+<dbReference type="EMBL" id="JX119186">
+<property type="protein sequence ID" value="AGE89266.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001269938.1">
+<property type="nucleotide sequence ID" value="NM_001283009.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.745057"/>
+<dbReference type="STRING" id="9606.ENSP00000457868"/>
+<dbReference type="PaxDb" id="R4IXY3"/>
+<dbReference type="PeptideAtlas" id="R4IXY3"/>
+<dbReference type="GeneID" id="51750"/>
+<dbReference type="CTD" id="51750"/>
+<dbReference type="eggNOG" id="KOG1132">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1199">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="RTEL1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="51750"/>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051539">
+<property type="term" value="F:4 iron, 4 sulfur cluster binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004003">
+<property type="term" value="F:ATP-dependent DNA helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006310">
+<property type="term" value="P:DNA recombination"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006260">
+<property type="term" value="P:DNA replication"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010569">
+<property type="term" value="P:regulation of double-strand break repair via homologous recombination"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000723">
+<property type="term" value="P:telomere maintenance"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_03065">
+<property type="entry name" value="RTEL1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006555">
+<property type="entry name" value="ATP-dep_Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010614">
+<property type="entry name" value="DEAD_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013020">
+<property type="entry name" value="DNA_helicase_DNA-repair_Rad3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014013">
+<property type="entry name" value="Helic_SF1/SF2_ATP-bd_DinG/Rad3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006554">
+<property type="entry name" value="Helicase-like_DEXD_c2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030845">
+<property type="entry name" value="RTEL1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06733">
+<property type="entry name" value="DEAD_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13307">
+<property type="entry name" value="Helicase_C_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00488">
+<property type="entry name" value="DEXDc2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00491">
+<property type="entry name" value="HELICc2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="8"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00604">
+<property type="entry name" value="rad3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51193">
+<property type="entry name" value="HELICASE_ATP_BIND_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0004" evidence="1">4Fe-4S</keyword>
+<keyword id="KW-0067" evidence="1 4 6">ATP-binding</keyword>
+<keyword id="KW-0227" evidence="1">DNA damage</keyword>
+<keyword id="KW-0234" evidence="1">DNA repair</keyword>
+<keyword id="KW-0238" evidence="1">DNA-binding</keyword>
+<keyword id="KW-0347" evidence="1 4 6">Helicase</keyword>
+<keyword id="KW-0378" evidence="1 4 6">Hydrolase</keyword>
+<keyword id="KW-0408" evidence="1">Iron</keyword>
+<keyword id="KW-0411" evidence="1">Iron-sulfur</keyword>
+<keyword id="KW-0479" evidence="1">Metal-binding</keyword>
+<keyword id="KW-0547" evidence="1 4 6">Nucleotide-binding</keyword>
+<keyword id="KW-0539" evidence="1 2">Nucleus</keyword>
+<feature type="domain" description="Helicase ATP-binding" evidence="5">
+<location>
+<begin position="7"/>
+<end position="296"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Nuclear localization signal" evidence="1">
+<location>
+<begin position="151"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1">
+<location>
+<position position="145"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1">
+<location>
+<position position="163"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1">
+<location>
+<position position="172"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur (4Fe-4S)" evidence="1">
+<location>
+<position position="207"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_03065"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00046110"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00566177"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00566214"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51193"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AGE89266.1"/>
+</source>
+</evidence>
+<sequence length="1300" mass="142376" checksum="E2A1C8EB33211C74" modified="2013-07-24" version="1">
+MPKIVLNGVTVDFPFQPYKCQQEYMTKVLECLQQKVNGILESPTGTGKTLCLLCTTLAWR
+EHLRDGISARKIAERAQGELFPDRALSSWGNAAAAAGDPIACYTDIPKIIYASRTHSQLT
+QVINELRNTSYRPKVCVLGSREQLCIHPEVKKQESNHLQIHLCRKKVASRSCHFYNNVEE
+KSLEQELASPILDIEDLVKSGSKHRVCPYYLSRNLKQQADIIFMPYNYLLDAKSRRAHNI
+DLKGTVVIFDEAHNVEKMCEESASFDLTPHDLASGLDVIDQVLEEQTKAAQQGEPHPEFS
+ADSPSPGLNMELEDIAKLKMILLRLEGAIDAVELPGDDSGVTKPGSYIFELFAEAQITFQ
+TKGCILDSLDQIIQHLAGRAGVFTNTAGLQKLADIIQIVFSVDPSEGSPGSPAGLGALQS
+YKVHIHPDAGHRRTAQRSDAWSTTAARKRGKVLSYWCFSPGHSMHELVRQGVRSLILTSG
+TLAPVSSFALEMQIPFPVCLENPHIIDKHQIWVGVVPRGPDGAQLSSAFDRRFSEECLSS
+LGKALGNIARVVPYGLLIFFPSYPVMEKSLEFWRARDLARKMEALKPLFVEPRSKGSFSE
+TISAYYARVAAPGSTGATFLAVCRGKASEGLDFSDTNGRGVIVTGLPYPPRMDPRVVLKM
+QFLDEMKGQGGAGGQFLSGQEWYRQQASRAVNQAIGRVIRHRQDYGAVFLCDHRFAFADA
+RAQLPSWVRPHVRVYDNFGHVIRDVAQFFRVAERTMPAPAPRATAPSVRGEDAVSEAKSP
+GPFFSTRKAKSLDLHVPSLKQRSSGSPAAGDPESSLCVEYEQEPVPARQRPRGLLAALEH
+SEQRAGSPGEEQAHSCSTLSLLSEKRPAEEPRGGRKKIRLVSHPEEPVAGAQTDRAKLFM
+VAVKQELSQANFATFTQALQDYKGSDDFAALAACLGPLFAEDPKKHNLLQGFYQFVRPHH
+KQQFEEVCIQLTGRGCGYRPEHSIPRRQRAQPVLDPTGRTAPDPKLTVSTAAAQQLDPQE
+HLNQGRPHLSPRPPPTGDPGSHPQWGSGVPRAGKQGQHAVSAYLADARRALGSAGCSQLL
+AALTAYKQDDDLDKVLAVLAALTTAKPEDFPLLHRFSMFVRPHHKQRFSQTCTDLTGRPY
+PGMEPPGPQEERLAVPPVLTHRAPQPGPSRSEKTGKTQSKISSFLRQRPAGTVGAGGEDA
+GPSQSSGPPHGPAASEWGEPHGRDIAGQQATGAPGGPLSAGCVCQGCGAEDVVPFQCPAC
+DFQRCQACWQRHLQASRMCPACHTASRKQSVMQVFWPEPQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

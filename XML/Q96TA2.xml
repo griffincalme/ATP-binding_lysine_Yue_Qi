@@ -1,0 +1,1174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2004-04-13" modified="2017-05-10" version="150">
+<accession>Q96TA2</accession>
+<accession>B4DNM1</accession>
+<accession>D3DRV8</accession>
+<accession>D3DRV9</accession>
+<accession>Q5T8D9</accession>
+<accession>Q9H1Q0</accession>
+<accession>Q9UMR9</accession>
+<name>YMEL1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>ATP-dependent zinc metalloprotease YME1L1</fullName>
+<ecNumber>3.4.24.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>ATP-dependent metalloprotease FtsH1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Meg-4</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Presenilin-associated metalloprotease</fullName>
+<shortName>PAMP</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>YME1-like protein 1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">YME1L1</name>
+<name type="synonym">FTSH1</name>
+<name type="synonym">YME1L</name>
+<name type="ORF">UNQ1868/PRO4304</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1999-05" db="EMBL/GenBank/DDBJ databases">
+<title>Human ATP-dependent metalloprotease (FtsH1) homolog mRNA.</title>
+<authorList>
+<person name="Miyata T."/>
+<person name="Inagi R."/>
+<person name="Yasuda Y."/>
+<person name="Kurokawa K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2000" name="Genomics" volume="66" first="48" last="54">
+<title>Identification and characterization of YME1L1, a novel paraplegin-related gene.</title>
+<authorList>
+<person name="Coppola M."/>
+<person name="Pizzigoni A."/>
+<person name="Banfi S."/>
+<person name="Bassi M.T."/>
+<person name="Casari G."/>
+<person name="Incerti B."/>
+</authorList>
+<dbReference type="PubMed" id="10843804"/>
+<dbReference type="DOI" id="10.1006/geno.2000.6136"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2)</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<tissue>Fetal brain</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2003" name="Genome Res." volume="13" first="2265" last="2270">
+<title>The secreted protein discovery initiative (SPDI), a large-scale effort to identify novel human secreted and transmembrane proteins: a bioinformatics assessment.</title>
+<authorList>
+<person name="Clark H.F."/>
+<person name="Gurney A.L."/>
+<person name="Abaya E."/>
+<person name="Baker K."/>
+<person name="Baldwin D.T."/>
+<person name="Brush J."/>
+<person name="Chen J."/>
+<person name="Chow B."/>
+<person name="Chui C."/>
+<person name="Crowley C."/>
+<person name="Currell B."/>
+<person name="Deuel B."/>
+<person name="Dowd P."/>
+<person name="Eaton D."/>
+<person name="Foster J.S."/>
+<person name="Grimaldi C."/>
+<person name="Gu Q."/>
+<person name="Hass P.E."/>
+<person name="Heldens S."/>
+<person name="Huang A."/>
+<person name="Kim H.S."/>
+<person name="Klimowski L."/>
+<person name="Jin Y."/>
+<person name="Johnson S."/>
+<person name="Lee J."/>
+<person name="Lewis L."/>
+<person name="Liao D."/>
+<person name="Mark M.R."/>
+<person name="Robbie E."/>
+<person name="Sanchez C."/>
+<person name="Schoenfeld J."/>
+<person name="Seshagiri S."/>
+<person name="Simmons L."/>
+<person name="Singh J."/>
+<person name="Smith V."/>
+<person name="Stinson J."/>
+<person name="Vagts A."/>
+<person name="Vandlen R.L."/>
+<person name="Watanabe C."/>
+<person name="Wieand D."/>
+<person name="Woods K."/>
+<person name="Xie M.-H."/>
+<person name="Yansura D.G."/>
+<person name="Yi S."/>
+<person name="Yu G."/>
+<person name="Yuan J."/>
+<person name="Zhang M."/>
+<person name="Zhang Z."/>
+<person name="Goddard A.D."/>
+<person name="Wood W.I."/>
+<person name="Godowski P.J."/>
+<person name="Gray A.M."/>
+</authorList>
+<dbReference type="PubMed" id="12975309"/>
+<dbReference type="DOI" id="10.1101/gr.1293003"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3)</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Nature" volume="429" first="375" last="381">
+<title>The DNA sequence and comparative analysis of human chromosome 10.</title>
+<authorList>
+<person name="Deloukas P."/>
+<person name="Earthrowl M.E."/>
+<person name="Grafham D.V."/>
+<person name="Rubenfield M."/>
+<person name="French L."/>
+<person name="Steward C.A."/>
+<person name="Sims S.K."/>
+<person name="Jones M.C."/>
+<person name="Searle S."/>
+<person name="Scott C."/>
+<person name="Howe K."/>
+<person name="Hunt S.E."/>
+<person name="Andrews T.D."/>
+<person name="Gilbert J.G.R."/>
+<person name="Swarbreck D."/>
+<person name="Ashurst J.L."/>
+<person name="Taylor A."/>
+<person name="Battles J."/>
+<person name="Bird C.P."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ashwell R.I.S."/>
+<person name="Ambrose K.D."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Banerjee R."/>
+<person name="Bates K."/>
+<person name="Beasley H."/>
+<person name="Bray-Allen S."/>
+<person name="Brown A.J."/>
+<person name="Brown J.Y."/>
+<person name="Burford D.C."/>
+<person name="Burrill W."/>
+<person name="Burton J."/>
+<person name="Cahill P."/>
+<person name="Camire D."/>
+<person name="Carter N.P."/>
+<person name="Chapman J.C."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Corby N."/>
+<person name="Coulson A."/>
+<person name="Dhami P."/>
+<person name="Dutta I."/>
+<person name="Dunn M."/>
+<person name="Faulkner L."/>
+<person name="Frankish A."/>
+<person name="Frankland J.A."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Gribble S."/>
+<person name="Griffiths C."/>
+<person name="Grocock R."/>
+<person name="Gustafson E."/>
+<person name="Hammond S."/>
+<person name="Harley J.L."/>
+<person name="Hart E."/>
+<person name="Heath P.D."/>
+<person name="Ho T.P."/>
+<person name="Hopkins B."/>
+<person name="Horne J."/>
+<person name="Howden P.J."/>
+<person name="Huckle E."/>
+<person name="Hynds C."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Kana A."/>
+<person name="Kay M."/>
+<person name="Kimberley A.M."/>
+<person name="Kershaw J.K."/>
+<person name="Kokkinaki M."/>
+<person name="Laird G.K."/>
+<person name="Lawlor S."/>
+<person name="Lee H.M."/>
+<person name="Leongamornlert D.A."/>
+<person name="Laird G."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Loveland J."/>
+<person name="Lovell J."/>
+<person name="McLaren S."/>
+<person name="McLay K.E."/>
+<person name="McMurray A."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="Milne S."/>
+<person name="Nickerson T."/>
+<person name="Nguyen M."/>
+<person name="Overton-Larty E."/>
+<person name="Palmer S.A."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Pelan S."/>
+<person name="Phillimore B."/>
+<person name="Porter K."/>
+<person name="Rice C.M."/>
+<person name="Rogosin A."/>
+<person name="Ross M.T."/>
+<person name="Sarafidou T."/>
+<person name="Sehra H.K."/>
+<person name="Shownkeen R."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Standring L."/>
+<person name="Sycamore N."/>
+<person name="Tester J."/>
+<person name="Thorpe A."/>
+<person name="Torcasso W."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Tsolas J."/>
+<person name="Wall M."/>
+<person name="Walsh J."/>
+<person name="Wang H."/>
+<person name="Weinstock K."/>
+<person name="West A.P."/>
+<person name="Willey D.L."/>
+<person name="Whitehead S.L."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Young L."/>
+<person name="Chen Y."/>
+<person name="Lovering R.C."/>
+<person name="Moschonas N.K."/>
+<person name="Siebert R."/>
+<person name="Fechtel K."/>
+<person name="Bentley D."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Doucette-Stamm L."/>
+<person name="Beck S."/>
+<person name="Smith D.R."/>
+<person name="Rogers J."/>
+</authorList>
+<dbReference type="PubMed" id="15164054"/>
+<dbReference type="DOI" id="10.1038/nature02462"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+<source>
+<tissue>Muscle</tissue>
+<tissue>Placenta</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2008" name="Biol. Cell" volume="100" first="315" last="325">
+<title>Metalloprotease-mediated OPA1 processing is modulated by the mitochondrial membrane potential.</title>
+<authorList>
+<person name="Guillery O."/>
+<person name="Malka F."/>
+<person name="Landes T."/>
+<person name="Guillou E."/>
+<person name="Blackstone C."/>
+<person name="Lombes A."/>
+<person name="Belenguer P."/>
+<person name="Arnoult D."/>
+<person name="Rojo M."/>
+</authorList>
+<dbReference type="PubMed" id="18076378"/>
+<dbReference type="DOI" id="10.1042/BC20070110"/>
+</citation>
+<scope>FUNCTION IN PROCESSING OF OPA1</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2012" name="Mol. Biol. Cell" volume="23" first="1010" last="1023">
+<title>YME1L controls the accumulation of respiratory chain subunits and is required for apoptotic resistance, cristae morphogenesis and cell proliferation.</title>
+<authorList>
+<person name="Stiburek L."/>
+<person name="Cesnekova J."/>
+<person name="Kostkova O."/>
+<person name="Fornuskova D."/>
+<person name="Vinsova K."/>
+<person name="Wenchich L."/>
+<person name="Houstek J."/>
+<person name="Zeman J."/>
+</authorList>
+<dbReference type="PubMed" id="22262461"/>
+<dbReference type="DOI" id="10.1091/mbc.E11-08-0674"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>MUTAGENESIS (ISOFORM 2)</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+<dbReference type="DOI" id="10.1002/pmic.201400617"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2016" name="Elife" volume="5">
+<title>Homozygous YME1L1 mutation causes mitochondriopathy with optic atrophy and mitochondrial network fragmentation.</title>
+<authorList>
+<person name="Hartmann B."/>
+<person name="Wai T."/>
+<person name="Hu H."/>
+<person name="MacVicar T."/>
+<person name="Musante L."/>
+<person name="Fischer-Zirnsak B."/>
+<person name="Stenzel W."/>
+<person name="Graef R."/>
+<person name="van den Heuvel L."/>
+<person name="Ropers H.H."/>
+<person name="Wienker T.F."/>
+<person name="Huebner C."/>
+<person name="Langer T."/>
+<person name="Kaindl A.M."/>
+</authorList>
+<dbReference type="PubMed" id="27495975"/>
+<dbReference type="DOI" id="10.7554/eLife.16078"/>
+</citation>
+<scope>INVOLVEMENT IN OPA11</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>POST-TRANSLATIONAL PROCESSING</scope>
+<scope>INVOLVEMENT IN MITOCHONDRIAL DISORDER</scope>
+<scope>VARIANT OPA11 TRP-206</scope>
+<scope>CHARACTERIZATION OF VARIANT OPA11 TRP-206</scope>
+</reference>
+<comment type="function">
+<text evidence="4 5 6">Putative ATP-dependent protease. Plays a role in mitochondrial organization and mitochondrial protein metabolism, including degradation of PRELID1 and OPA1 (PubMed:18076378, PubMed:27495975). Ensures cell proliferation, maintains normal cristae morphology and complex I respiration activity, promotes antiapoptotic activity and protects mitochondria from the accumulation of oxidatively damaged membrane proteins. Required to control the accumulation of nonassembled respiratory chain subunits (NDUFB6, OX4 and ND1).</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="11">
+<name>Zn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29105"/>
+</cofactor>
+<text evidence="11">Binds 1 zinc ion per subunit.</text>
+</comment>
+<comment type="subunit">
+<text evidence="5">Exists in several complexes of 600-1100 kDa.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3 5">Mitochondrion inner membrane</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="6">Mitochondrion</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q96TA2-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q96TA2-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_010017"/>
+<text>Mutagenesis of Glu-543 to Gln does not complement excessive accumulation of subunits (NDUFB6, COX4,ND1) due to YME1 deletion mutant. Probably has no ATPase activity.</text>
+</isoform>
+<isoform>
+<id>Q96TA2-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_010017 VSP_045336"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="5">High expression in cardiac and skeletal muscle mitochondria.</text>
+</comment>
+<comment type="PTM">
+<text evidence="6">Proteolytically processed by mitochondrial processing peptidase (MPP) to generate the mature form.</text>
+</comment>
+<comment type="disease" evidence="6">
+<disease id="DI-04928">
+<name>Optic atrophy 11</name>
+<acronym>OPA11</acronym>
+<description>An autosomal recessive disease characterized by progressive visual loss in association with optic atrophy. Atrophy of the optic disk indicates a deficiency in the number of nerve fibers which arise in the retina and converge to form the optic disk, optic nerve, optic chiasm and optic tracts. OPA11 patients also manifest delayed psychomotor development, intellectual disability, ataxia, and leukoencephalopathy on brain imaging.</description>
+<dbReference type="MIM" id="617302"/>
+</disease>
+<text>The disease may be caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="11">In the N-terminal section; belongs to the AAA ATPase family.</text>
+</comment>
+<comment type="similarity">
+<text evidence="11">In the C-terminal section; belongs to the peptidase M41 family.</text>
+</comment>
+<dbReference type="EC" id="3.4.24.-"/>
+<dbReference type="EMBL" id="AF151782">
+<property type="protein sequence ID" value="AAK57555.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ132637">
+<property type="protein sequence ID" value="CAB51858.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY358484">
+<property type="protein sequence ID" value="AAQ88848.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK297973">
+<property type="protein sequence ID" value="BAG60283.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL162272">
+<property type="protein sequence ID" value="CAC19650.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL162272">
+<property type="protein sequence ID" value="CAI12217.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL160291">
+<property type="protein sequence ID" value="CAI12217.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL160291">
+<property type="protein sequence ID" value="CAI16906.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL162272">
+<property type="protein sequence ID" value="CAI16906.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL160291">
+<property type="protein sequence ID" value="CAI16907.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL162272">
+<property type="protein sequence ID" value="CAI16907.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471072">
+<property type="protein sequence ID" value="EAW86068.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471072">
+<property type="protein sequence ID" value="EAW86069.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471072">
+<property type="protein sequence ID" value="EAW86070.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471072">
+<property type="protein sequence ID" value="EAW86071.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471072">
+<property type="protein sequence ID" value="EAW86072.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC023507">
+<property type="protein sequence ID" value="AAH23507.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC024032">
+<property type="protein sequence ID" value="AAH24032.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS58072.1">
+<molecule id="Q96TA2-3"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS7151.1">
+<molecule id="Q96TA2-2"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS7152.1">
+<molecule id="Q96TA2-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001240795.1">
+<molecule id="Q96TA2-3"/>
+<property type="nucleotide sequence ID" value="NM_001253866.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_055078.1">
+<molecule id="Q96TA2-2"/>
+<property type="nucleotide sequence ID" value="NM_014263.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_647473.1">
+<molecule id="Q96TA2-1"/>
+<property type="nucleotide sequence ID" value="NM_139312.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.499145"/>
+<dbReference type="UniGene" id="Hs.74647"/>
+<dbReference type="ProteinModelPortal" id="Q96TA2"/>
+<dbReference type="SMR" id="Q96TA2"/>
+<dbReference type="BioGrid" id="115954">
+<property type="interactions" value="43"/>
+</dbReference>
+<dbReference type="IntAct" id="Q96TA2">
+<property type="interactions" value="43"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-3058738"/>
+<dbReference type="STRING" id="9606.ENSP00000318480"/>
+<dbReference type="MEROPS" id="M41.026"/>
+<dbReference type="iPTMnet" id="Q96TA2"/>
+<dbReference type="PhosphoSitePlus" id="Q96TA2"/>
+<dbReference type="BioMuta" id="YME1L1"/>
+<dbReference type="DMDM" id="46397258"/>
+<dbReference type="EPD" id="Q96TA2"/>
+<dbReference type="MaxQB" id="Q96TA2"/>
+<dbReference type="PaxDb" id="Q96TA2"/>
+<dbReference type="PeptideAtlas" id="Q96TA2"/>
+<dbReference type="PRIDE" id="Q96TA2"/>
+<dbReference type="Ensembl" id="ENST00000326799">
+<molecule id="Q96TA2-1"/>
+<property type="protein sequence ID" value="ENSP00000318480"/>
+<property type="gene ID" value="ENSG00000136758"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000376016">
+<molecule id="Q96TA2-2"/>
+<property type="protein sequence ID" value="ENSP00000365184"/>
+<property type="gene ID" value="ENSG00000136758"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000613434">
+<molecule id="Q96TA2-3"/>
+<property type="protein sequence ID" value="ENSP00000481724"/>
+<property type="gene ID" value="ENSG00000136758"/>
+</dbReference>
+<dbReference type="GeneID" id="10730"/>
+<dbReference type="KEGG" id="hsa:10730"/>
+<dbReference type="UCSC" id="uc001iti.4">
+<molecule id="Q96TA2-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="10730"/>
+<dbReference type="DisGeNET" id="10730"/>
+<dbReference type="GeneCards" id="YME1L1"/>
+<dbReference type="H-InvDB" id="HIX0127242"/>
+<dbReference type="HGNC" id="HGNC:12843">
+<property type="gene designation" value="YME1L1"/>
+</dbReference>
+<dbReference type="HPA" id="HPA066953"/>
+<dbReference type="MIM" id="607472">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="617302">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q96TA2"/>
+<dbReference type="OpenTargets" id="ENSG00000136758"/>
+<dbReference type="PharmGKB" id="PA37434"/>
+<dbReference type="eggNOG" id="KOG0734">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0465">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00550000074836"/>
+<dbReference type="HOGENOM" id="HOG000217276"/>
+<dbReference type="HOVERGEN" id="HBG057127"/>
+<dbReference type="InParanoid" id="Q96TA2"/>
+<dbReference type="KO" id="K08955"/>
+<dbReference type="OMA" id="CLYRQHS"/>
+<dbReference type="OrthoDB" id="EOG091G02Y9"/>
+<dbReference type="PhylomeDB" id="Q96TA2"/>
+<dbReference type="TreeFam" id="TF105005"/>
+<dbReference type="ChiTaRS" id="YME1L1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="YME1L1"/>
+<dbReference type="GenomeRNAi" id="10730"/>
+<dbReference type="PRO" id="PR:Q96TA2"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 10"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000136758"/>
+<dbReference type="CleanEx" id="HS_YME1L1"/>
+<dbReference type="ExpressionAtlas" id="Q96TA2">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q96TA2">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005743">
+<property type="term" value="C:mitochondrial inner membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016604">
+<property type="term" value="C:nuclear body"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004176">
+<property type="term" value="F:ATP-dependent peptidase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004222">
+<property type="term" value="F:metalloendopeptidase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008237">
+<property type="term" value="F:metallopeptidase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008283">
+<property type="term" value="P:cell proliferation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006515">
+<property type="term" value="P:misfolded or incompletely synthesized protein catabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035694">
+<property type="term" value="P:mitochondrial protein catabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007005">
+<property type="term" value="P:mitochondrion organization"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01458">
+<property type="entry name" value="FtsH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003959">
+<property type="entry name" value="ATPase_AAA_core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003960">
+<property type="entry name" value="ATPase_AAA_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005936">
+<property type="entry name" value="FtsH"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000642">
+<property type="entry name" value="Peptidase_M41"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00004">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01434">
+<property type="entry name" value="Peptidase_M41"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01241">
+<property type="entry name" value="FtsH_fam"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00674">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0482">Metalloprotease</keyword>
+<keyword id="KW-0496">Mitochondrion</keyword>
+<keyword id="KW-0999">Mitochondrion inner membrane</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="chain" description="ATP-dependent zinc metalloprotease YME1L1" id="PRO_0000084667">
+<location>
+<begin position="1"/>
+<end position="773"/>
+</location>
+</feature>
+<feature type="topological domain" description="Mitochondrial matrix" evidence="2">
+<location>
+<begin position="1"/>
+<end position="295"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="296"/>
+<end position="316"/>
+</location>
+</feature>
+<feature type="topological domain" description="Mitochondrial intermembrane" evidence="2">
+<location>
+<begin position="317"/>
+<end position="773"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="379"/>
+<end position="386"/>
+</location>
+</feature>
+<feature type="active site" evidence="1">
+<location>
+<position position="600"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc; catalytic" evidence="1">
+<location>
+<position position="599"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc; catalytic" evidence="1">
+<location>
+<position position="603"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc; catalytic" evidence="1">
+<location>
+<position position="677"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2 and isoform 3." id="VSP_010017" evidence="7 8 9 10">
+<location>
+<begin position="57"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_045336" evidence="9">
+<location>
+<begin position="168"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In OPA11; does not affect localization to mitochondria; abolishes processing to mature form by MPP; results in decreased mitochondrial protein catabolism; results in mitochondrial fragmentation." id="VAR_076869" evidence="6">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="206"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAK57555." ref="1" evidence="11">
+<original>V</original>
+<variation>F</variation>
+<location>
+<position position="12"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10843804"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18076378"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22262461"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27495975"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="10843804"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="12975309"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<sequence length="773" mass="86455" checksum="FB77990F4D7B3A58" modified="2004-04-13" version="2">
+MFSLSSTVQPQVTVPLSHLINAFHTPKNTSVSLSGVSVSQNQHRDVVPEHEAPSSECMFS
+DFLTKLNIVSIGKGKIFEGYRSMFMEPAKRMKKSLDTTDNWHIRPEPFSLSIPPSLNLRD
+LGLSELKIGQIDQLVENLLPGFCKGKNISSHWHTSHVSAQSFFENKYGNLDIFSTLRSSC
+LYRHHSRALQSICSDLQYWPVFIQSRGFKTLKSRTRRLQSTSERLAETQNIAPSFVKGFL
+LRDRGSDVESLDKLMKTKNIPEAHQDAFKTGFAEGFLKAQALTQKTNDSLRRTRLILFVL
+LLFGIYGLLKNPFLSVRFRTTTGLDSAVDPVQMKNVTFEHVKGVEEAKQELQEVVEFLKN
+PQKFTILGGKLPKGILLVGPPGTGKTLLARAVAGEADVPFYYASGSEFDEMFVGVGASRI
+RNLFREAKANAPCVIFIDELDSVGGKRIESPMHPYSRQTINQLLAEMDGFKPNEGVIIIG
+ATNFPEALDNALIRPGRFDMQVTVPRPDVKGRTEILKWYLNKIKFDQSVDPEIIARGTVG
+FSGAELENLVNQAALKAAVDGKEMVTMKELEFSKDKILMGPERRSVEIDNKNKTITAYHE
+SGHAIIAYYTKDAMPINKATIMPRGPTLGHVSLLPENDRWNETRAQLLAQMDVSMGGRVA
+EELIFGTDHITTGASSDFDNATKIAKRMVTKFGMSEKLGVMTYSDTGKLSPETQSAIEQE
+IRILLRDSYERAKHILKTHAKEHKNLAEALLTYETLDAKEIQIVLEGKKLEVR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

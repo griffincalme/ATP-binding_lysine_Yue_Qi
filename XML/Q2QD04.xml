@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2006-01-24" modified="2017-05-10" version="86">
+<accession>Q2QD04</accession>
+<name>Q2QD04_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="6">RcUBE2S</fullName>
+</submittedName>
+</protein>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="journal article" date="2005" name="PLoS Biol." volume="3" first="E357" last="E357">
+<title>Emergence of young human genes after a burst of retroposition in primates.</title>
+<authorList>
+<person name="Marques A.C."/>
+<person name="Dupanloup I."/>
+<person name="Vinckenbosch N."/>
+<person name="Reymond A."/>
+<person name="Kaessmann H."/>
+</authorList>
+<dbReference type="PubMed" id="16201836"/>
+<dbReference type="DOI" id="10.1371/journal.pbio.0030357"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="similarity">
+<text evidence="1 2 3">Belongs to the ubiquitin-conjugating enzyme family.</text>
+</comment>
+<dbReference type="EMBL" id="DQ120718">
+<property type="protein sequence ID" value="ABC40675.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.396393"/>
+<dbReference type="ProteinModelPortal" id="Q2QD04"/>
+<dbReference type="SMR" id="Q2QD04"/>
+<dbReference type="STRING" id="9606.ENSP00000264552"/>
+<dbReference type="PaxDb" id="Q2QD04"/>
+<dbReference type="PeptideAtlas" id="Q2QD04"/>
+<dbReference type="eggNOG" id="KOG0423">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5078">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG063308"/>
+<dbReference type="SignaLink" id="Q2QD04"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd00195">
+<property type="entry name" value="UBCc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.10.110.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000608">
+<property type="entry name" value="UBQ-conjugat_E2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023313">
+<property type="entry name" value="UBQ-conjugating_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016135">
+<property type="entry name" value="UBQ-conjugating_enzyme/RWD"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00179">
+<property type="entry name" value="UQ_con"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54495">
+<property type="entry name" value="SSF54495"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00183">
+<property type="entry name" value="UBIQUITIN_CONJUGAT_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50127">
+<property type="entry name" value="UBIQUITIN_CONJUGAT_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<keyword id="KW-0833" evidence="2 4">Ubl conjugation pathway</keyword>
+<feature type="domain" description="UBIQUITIN_CONJUGAT_2" evidence="5">
+<location>
+<begin position="14"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="active site" description="Glycyl thioester intermediate" evidence="1">
+<location>
+<position position="95"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="6">
+<location>
+<position position="222"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00388"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU362109"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00805669"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00805691"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50127"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ABC40675.1"/>
+</source>
+</evidence>
+<sequence length="222" mass="23769" checksum="4F17C9A629332712" modified="2006-01-24" version="1" fragment="single">
+MNSNVEKLPPHIIRLVYKEVTTLTADPPDGIKVFPNEEDLTDLQVTIEGPEGTPYAGGLF
+RMKLLLGKDFPASPPKGYFLTKIFHPNVGANGEICVNVLKRDWTAELGIRHVLLTIRCLL
+IHPNPESALNEEAGRLLLENSEEYAARARLLTEIHGGAGGPSGRAEAGRALASGTAASST
+DPGAPGGLGGAEGPMAKKHAGERDKKLAAKKKTDKKRALRRL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

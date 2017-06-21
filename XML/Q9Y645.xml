@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="1999-11-01" modified="2017-04-12" version="62">
+<accession>Q9Y645</accession>
+<name>Q9Y645_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">ATP-dependent DNA helicase</fullName>
+<ecNumber evidence="1">3.6.4.12</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">PIF1</name>
+</gene>
+<organism evidence="2">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="submission" date="1998-11" db="EMBL/GenBank/DDBJ databases">
+<title>The PIF1 DNA helicase is a member of a conserved sub-family of helicase homologs.</title>
+<authorList>
+<person name="Schulz V.P."/>
+<person name="Teng S.C."/>
+<person name="Monson E.K."/>
+<person name="Zakian V.A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="1">ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the helicase family.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.12" evidence="1"/>
+<dbReference type="EMBL" id="AF108138">
+<property type="protein sequence ID" value="AAD44047.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.112160"/>
+<dbReference type="STRING" id="9606.ENSP00000268043"/>
+<dbReference type="PaxDb" id="Q9Y645"/>
+<dbReference type="eggNOG" id="KOG0987">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0507">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG106706"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003678">
+<property type="term" value="F:DNA helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006310">
+<property type="term" value="P:DNA recombination"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000723">
+<property type="term" value="P:telomere maintenance"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003840">
+<property type="entry name" value="DNA_helicase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010285">
+<property type="entry name" value="DNA_helicase_pif1-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR23274">
+<property type="entry name" value="PTHR23274"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02689">
+<property type="entry name" value="Herpes_Helicase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05970">
+<property type="entry name" value="PIF1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1 2">ATP-binding</keyword>
+<keyword id="KW-0227" evidence="1">DNA damage</keyword>
+<keyword id="KW-0233" evidence="1">DNA recombination</keyword>
+<keyword id="KW-0234" evidence="1">DNA repair</keyword>
+<keyword id="KW-0347" evidence="1 2">Helicase</keyword>
+<keyword id="KW-0378" evidence="1 2">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="1 2">Nucleotide-binding</keyword>
+<feature type="non-terminal residue" evidence="2">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU363044"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAD44047.1"/>
+</source>
+</evidence>
+<sequence length="374" mass="41128" checksum="D83BC7AC7C08B60C" modified="1999-11-01" version="1" fragment="single">
+IVSLTGIGSGQAPLAQCVALAQRPGVRQGWLNCQRLVIDEISMVEADLFDKLEAVARAVR
+QQNKPFGGIQLIICGDFLQLPPVTKGSQPPRFCFQSKSWKRCVPVTLELTKVWRQADQTF
+ISLLQAVRLGRCSDEVTRQLQATASHKVGRDGIVATRLCTHQDDVALTNERRLQELPGKV
+HRFEAMDSNPELASTLDAQCPVSQLLQLKLGAQVMLVKNLSVSRGLVNGARGVVVGFEAE
+GRGLPQVRFLCGVTEVIHADRWTVQATGGQLLSRQQLPLQLAWAMSIHKSQGMTLDCVEI
+SLGRVFASGQAYVALSRARSLQGLRVLDFDPMAVRCDPRVLHFYATLRRGRSLSLESPDD
+DEAASDQENMDPNL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

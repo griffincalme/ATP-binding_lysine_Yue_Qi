@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2008-05-20" modified="2017-05-10" version="110">
+<accession>Q58FF7</accession>
+<name>H90B3_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Putative heat shock protein HSP 90-beta-3</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Heat shock protein 90-beta c</fullName>
+<shortName>Heat shock protein 90Bc</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">HSP90AB3P</name>
+<name type="synonym">HSP90BC</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2005" name="Genomics" volume="86" first="627" last="637">
+<title>The HSP90 family of genes in the human genome: insights into their divergence and evolution.</title>
+<authorList>
+<person name="Chen B."/>
+<person name="Piel W.H."/>
+<person name="Gui L."/>
+<person name="Bruford E."/>
+<person name="Monteiro A."/>
+</authorList>
+<dbReference type="PubMed" id="16269234"/>
+<dbReference type="DOI" id="10.1016/j.ygeno.2005.08.012"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Putative molecular chaperone that may promote the maturation, structural maintenance and proper regulation of specific target proteins.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Homodimer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text evidence="1">The TPR repeat-binding motif mediates interaction with TPR repeat-containing proteins.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the heat shock protein 90 family.</text>
+</comment>
+<comment type="caution">
+<text evidence="3">Could be the product of a pseudogene.</text>
+</comment>
+<dbReference type="EMBL" id="AY956764">
+<property type="protein sequence ID" value="AAX38251.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.744112"/>
+<dbReference type="ProteinModelPortal" id="Q58FF7"/>
+<dbReference type="SMR" id="Q58FF7"/>
+<dbReference type="IntAct" id="Q58FF7">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="iPTMnet" id="Q58FF7"/>
+<dbReference type="PhosphoSitePlus" id="Q58FF7"/>
+<dbReference type="SwissPalm" id="Q58FF7"/>
+<dbReference type="DMDM" id="74722492"/>
+<dbReference type="EPD" id="Q58FF7"/>
+<dbReference type="MaxQB" id="Q58FF7"/>
+<dbReference type="PeptideAtlas" id="Q58FF7"/>
+<dbReference type="PRIDE" id="Q58FF7"/>
+<dbReference type="TopDownProteomics" id="Q58FF7"/>
+<dbReference type="GeneCards" id="HSP90AB3P"/>
+<dbReference type="HGNC" id="HGNC:5259">
+<property type="gene designation" value="HSP90AB3P"/>
+</dbReference>
+<dbReference type="HPA" id="HPA055729"/>
+<dbReference type="neXtProt" id="NX_Q58FF7"/>
+<dbReference type="HOVERGEN" id="HBG007374"/>
+<dbReference type="InParanoid" id="Q58FF7"/>
+<dbReference type="PhylomeDB" id="Q58FF7"/>
+<dbReference type="PRO" id="PR:Q58FF7"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Unplaced"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051082">
+<property type="term" value="F:unfolded protein binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006457">
+<property type="term" value="P:protein folding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006950">
+<property type="term" value="P:response to stress"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.565.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003594">
+<property type="entry name" value="HATPase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001404">
+<property type="entry name" value="Hsp90_fam"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020575">
+<property type="entry name" value="Hsp90_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020568">
+<property type="entry name" value="Ribosomal_S5_D2-typ_fold"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11528">
+<property type="entry name" value="PTHR11528"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02518">
+<property type="entry name" value="HATPase_c"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00183">
+<property type="entry name" value="HSP90"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00775">
+<property type="entry name" value="HEATSHOCK90"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54211">
+<property type="entry name" value="SSF54211"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55874">
+<property type="entry name" value="SSF55874"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="uncertain"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0143">Chaperone</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<feature type="chain" description="Putative heat shock protein HSP 90-beta-3" id="PRO_0000336047">
+<location>
+<begin position="1"/>
+<end position="597"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="414"/>
+<end position="446"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="TPR repeat-binding">
+<location>
+<begin position="593"/>
+<end position="597"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Lys">
+<location>
+<begin position="289"/>
+<end position="292"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="46"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="88"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="107"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="334"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="597" mass="68325" checksum="9DA27E4F47CA6949" modified="2005-04-26" version="1">
+MPEEVHHGEEEVETFAFQAEIAQLISLIINTFYSNEEIFLQELISNASDALDKIRYESLT
+DPSKLDSGKELKIDIIPNPQERTLALVDTGIGMTKADLINNLRTIAKSGTKACMEALQAE
+KLVVITKHNDDEQYAWESSAGGSFTVHADHGEPIGRGTKVILHLKEDQTEYLEERRVKEV
+VKKHSQFIGYPITLYLEKEQDKEISDDEAEEEKGEKEEEDKDDEEKPKIKDVGSDEEDDS
+KEYGEFYKSLTSDWEDHLAVKHFSVEGQLEFRALLFSPRRAPFDLFENKKKKNNIKLYVR
+RVFIMDSCDELIPEYLNFIHGVVDSEDLPLNISREMLQQSKILKYVSHMKETQKSTYYIT
+GESKEQVANSAFVERVRKQGFEVVYMTEPIDEYCVQQLKEFDGKSLVSVTKEGLELPEDE
+EEKKKMEESKEKFENLCKLMKEILDKKVEKVTISNRLVSSPCCIVTSTYGWTANMEQIMK
+AQALRDNSTMGYMMAKKHLEINPDHPIMETLRQKAEADKNDKAVKDLVVLLFETALLSSG
+FSLEDPQTHSNHIYHMIKLGLGTDEDEVAAEEPSDAVPDEIPPLEGDEDASRMEEVD
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

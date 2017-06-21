@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2004-07-05" modified="2017-05-10" version="99">
+<accession>Q6ZNH1</accession>
+<name>Q6ZNH1_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="6">cDNA FLJ16103 fis, clone TESTI2016663, moderately similar to EPHRIN TYPE-A RECEPTOR 7 (EC 2.7.1.112)</fullName>
+</submittedName>
+</protein>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="submission" date="2004-03" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project.</title>
+<authorList>
+<person name="Suzuki O."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Shoji T."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Matsumoto K."/>
+<person name="Hirano M."/>
+<person name="Sano S."/>
+<person name="Nomura R."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsumura Y."/>
+<person name="Moriya S."/>
+<person name="Chiba E."/>
+<person name="Momiyama H."/>
+<person name="Onogawa S."/>
+<person name="Kaeriyama S."/>
+<person name="Satoh N."/>
+<person name="Matsunawa H."/>
+<person name="Takahashi E."/>
+<person name="Kataoka R."/>
+<person name="Kuga N."/>
+<person name="Kuroda A."/>
+<person name="Satoh I."/>
+<person name="Kamata K."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Watanabe M."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Otsuki T."/>
+<person name="Sato H."/>
+<person name="Wakamatsu A."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Isono Y."/>
+<person name="Kawai-Hio Y."/>
+<person name="Saito K."/>
+<person name="Nishikawa T."/>
+<person name="Kimura K."/>
+<person name="Yamashita H."/>
+<person name="Matsuo K."/>
+<person name="Nakamura Y."/>
+<person name="Sekine M."/>
+<person name="Kikuchi H."/>
+<person name="Kanda K."/>
+<person name="Wagatsuma M."/>
+<person name="Murakawa K."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Oshima A."/>
+<person name="Sugiyama A."/>
+<person name="Kawakami B."/>
+<person name="Suzuki Y."/>
+<person name="Sugano S."/>
+<person name="Nagahari K."/>
+<person name="Masuho Y."/>
+<person name="Nagai K."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="6">Testis</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AK131215">
+<property type="protein sequence ID" value="BAD18404.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.129435"/>
+<dbReference type="ProteinModelPortal" id="Q6ZNH1"/>
+<dbReference type="STRING" id="9606.ENSP00000362139"/>
+<dbReference type="PaxDb" id="Q6ZNH1"/>
+<dbReference type="PeptideAtlas" id="Q6ZNH1"/>
+<dbReference type="eggNOG" id="KOG0196">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0515">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000233856"/>
+<dbReference type="HOVERGEN" id="HBG062180"/>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004672">
+<property type="term" value="F:protein kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd00063">
+<property type="entry name" value="FN3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.40.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027936">
+<property type="entry name" value="Eph_TM"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003961">
+<property type="entry name" value="FN3_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013783">
+<property type="entry name" value="Ig-like_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001660">
+<property type="entry name" value="SAM"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013761">
+<property type="entry name" value="SAM/pointed"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001245">
+<property type="entry name" value="Ser-Thr/Tyr_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF14575">
+<property type="entry name" value="EphA2_TM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07714">
+<property type="entry name" value="Pkinase_Tyr"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00536">
+<property type="entry name" value="SAM_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00109">
+<property type="entry name" value="TYRKINASE"/>
+</dbReference>
+<dbReference type="SMART" id="SM00454">
+<property type="entry name" value="SAM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47769">
+<property type="entry name" value="SSF47769"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50853">
+<property type="entry name" value="FN3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50105">
+<property type="entry name" value="SAM_DOMAIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0472" evidence="2">Membrane</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0675" evidence="6">Receptor</keyword>
+<keyword id="KW-0812" evidence="2">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="2">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="60"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="domain" description="Fibronectin type-III" evidence="5">
+<location>
+<begin position="1"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase" evidence="3">
+<location>
+<begin position="140"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="domain" description="SAM (sterile alpha motif)" evidence="4">
+<location>
+<begin position="428"/>
+<end position="492"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00442036"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50105"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50853"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAD18404.1"/>
+</source>
+</evidence>
+<sequence length="543" mass="59086" checksum="84CBF1809F3ADAE1" modified="2004-07-05" version="1">
+MVKTGAPTVTVTNLKPATRYVFQIRAASPGPSWEAQSFNPSIEVQTLGEAASGSRDQSPA
+IVVTVVTISALLVLGSVMSVLAIWRRPCSYGKGGGDAHDEEELYFHFKVPTRRTFLDPQS
+CGDLLQAVHLFAKELDAKSVTLERSLGGGRFGELCCGCLQLPGRQELLVAVHMLRDSASD
+SQRLGFLAEALTLGQFDHSHIVRLEGVVTRGSTLMIVTEYMSHGALDGFLRRHEGQLVAG
+QLMGLLPGLASAMKYLSEMGYVHRGLAAHHVLVSSDLVCKISGFGRGPRDRSEAVYTTMS
+GRSPALWAAPETLQFGHFSSASDVWSFGIIMWEVMAFGERPYWDMSGQDVIKAVEDGFRL
+PPPRNCPNLLHRLMLDCWQKDPGERPRFSQIHSILSKMVQDPEPPKCALTTCPRPPTPLA
+DCAFSTFPSFGSVGAWLEALDLCRYKDSFAAAGYGSLEAVAEMTAQDLVSLGISLAEHRE
+ALLSGISALQARVLQLQGQGVQDNKNLSVIWCLFEWQLLDHCIAGVEGLLPPSSRTGVSR
+ICV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

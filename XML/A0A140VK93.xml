@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2016-06-08" modified="2017-05-10" version="9">
+<accession>A0A140VK93</accession>
+<name>A0A140VK93_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Adenylate kinase 2, mitochondrial</fullName>
+<shortName evidence="1">AK 2</shortName>
+<ecNumber evidence="1">2.7.4.3</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">ATP-AMP transphosphorylase 2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="1">ATP:AMP phosphotransferase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="1">Adenylate monophosphate kinase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">AK2</name>
+</gene>
+<organism evidence="11">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="11">
+<citation type="submission" date="2010-03" db="EMBL/GenBank/DDBJ databases">
+<title>Human testis protein.</title>
+<authorList>
+<person name="Li J.Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="function">
+<text evidence="7">Catalyzes the reversible transfer of the terminal phosphate group between ATP and AMP. Plays an important role in cellular energy homeostasis and in adenine nucleotide metabolism. Adenylate kinase activity is critical for regulation of the phosphate utilization and the AMP de novo biosynthesis pathways.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1 6">ATP + AMP = 2 ADP.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1 3">Monomer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="8">Mitochondrion intermembrane space</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text evidence="1">Consists of three domains, a large central CORE domain and two small peripheral domains, NMPbind and LID, which undergo movements during catalysis. The LID domain closes over the site of phosphoryl transfer upon ATP binding. Assembling and dissambling the active center during each catalytic cycle provides an effective means to prevent ATP hydrolysis.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the adenylate kinase family. AK2 subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="1">Lacks conserved residue(s) required for the propagation of feature annotation.</text>
+</comment>
+<dbReference type="EC" id="2.7.4.3" evidence="1"/>
+<dbReference type="EMBL" id="HM005633">
+<property type="protein sequence ID" value="AEE61230.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001616.1">
+<property type="nucleotide sequence ID" value="NM_001625.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.470907"/>
+<dbReference type="ProteinModelPortal" id="A0A140VK93"/>
+<dbReference type="SMR" id="A0A140VK93"/>
+<dbReference type="GeneID" id="204"/>
+<dbReference type="KEGG" id="hsa:204"/>
+<dbReference type="CTD" id="204"/>
+<dbReference type="KO" id="K00939"/>
+<dbReference type="PhylomeDB" id="A0A140VK93"/>
+<dbReference type="ExpressionAtlas" id="A0A140VK93">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005743">
+<property type="term" value="C:mitochondrial inner membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005758">
+<property type="term" value="C:mitochondrial intermembrane space"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097226">
+<property type="term" value="C:sperm mitochondrial sheath"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004017">
+<property type="term" value="F:adenylate kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006172">
+<property type="term" value="P:ADP biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046033">
+<property type="term" value="P:AMP metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046034">
+<property type="term" value="P:ATP metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="CDD" id="cd01428">
+<property type="entry name" value="ADK"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00235">
+<property type="entry name" value="Adenylate_kinase_Adk"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_03168">
+<property type="entry name" value="Adenylate_kinase_AK2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006259">
+<property type="entry name" value="Adenyl_kin_sub"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000850">
+<property type="entry name" value="Adenylat/UMP-CMP_kin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033690">
+<property type="entry name" value="Adenylat_kinase_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007862">
+<property type="entry name" value="Adenylate_kinase_lid-dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028587">
+<property type="entry name" value="AK2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR23359">
+<property type="entry name" value="PTHR23359"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05191">
+<property type="entry name" value="ADK_lid"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00094">
+<property type="entry name" value="ADENYLTKNASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01351">
+<property type="entry name" value="adk"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00113">
+<property type="entry name" value="ADENYLATE_KINASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1 5">ATP-binding</keyword>
+<keyword id="KW-1015" evidence="1">Disulfide bond</keyword>
+<keyword id="KW-0418" evidence="1 2 4">Kinase</keyword>
+<keyword id="KW-0496" evidence="1 9">Mitochondrion</keyword>
+<keyword id="KW-0547" evidence="1 5">Nucleotide-binding</keyword>
+<keyword id="KW-0808" evidence="1 2 4">Transferase</keyword>
+<feature type="initiator methionine" description="Removed" evidence="1">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="domain" description="ADK_lid" evidence="10">
+<location>
+<begin position="142"/>
+<end position="177"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="25"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="AMP" evidence="1">
+<location>
+<begin position="100"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="151"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="region of interest" description="NMPbind" evidence="1">
+<location>
+<begin position="45"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="region of interest" description="LID" evidence="1">
+<location>
+<begin position="141"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="binding site" description="AMP" evidence="1">
+<location>
+<position position="46"/>
+</location>
+</feature>
+<feature type="binding site" description="AMP" evidence="1">
+<location>
+<position position="51"/>
+</location>
+</feature>
+<feature type="binding site" description="AMP" evidence="1">
+<location>
+<position position="107"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="142"/>
+</location>
+</feature>
+<feature type="binding site" description="AMP" evidence="1">
+<location>
+<position position="175"/>
+</location>
+</feature>
+<feature type="binding site" description="AMP" evidence="1">
+<location>
+<position position="186"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP; via carbonyl oxygen" evidence="1">
+<location>
+<position position="214"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="42"/>
+<end position="92"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_03168"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU003330"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00720754"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00720760"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00720763"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00720764"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00720765"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00720769"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00720774"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF05191"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AEE61230.1"/>
+</source>
+</evidence>
+<sequence length="239" mass="26478" checksum="86FA94F9EE33629F" modified="2016-06-08" version="1">
+MAPSVPAAEPEYPKGIRAVLLGPPGAGKGTQAPRLAENFCVCHLATGDMLRAMVASGSEL
+GKKLKATMDAGKLVSDEMVVELIEKNLETPLCKNGFLLDGFPRTVRQAEMLDDLMEKRKE
+KLDSVIEFSIPDSLLIRRITGRLIHPKSGRSYHEEFNPPKEPMKDDITGEPLIRRSDDNE
+KALKIRLQAYHTQTTPLIEYYRKRGIHSAIDASQTPDVVFASILAAFSKATCKDLVMFI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

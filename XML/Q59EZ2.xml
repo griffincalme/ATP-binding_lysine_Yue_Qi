@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2005-04-26" modified="2017-05-10" version="90">
+<accession>Q59EZ2</accession>
+<name>Q59EZ2_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="5">Telomerase protein component 1 variant</fullName>
+</submittedName>
+</protein>
+<organism evidence="5">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="submission" date="2005-03" db="EMBL/GenBank/DDBJ databases">
+<title>Homo sapiens protein coding cDNA.</title>
+<authorList>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Takeda T."/>
+<person name="Sakaki Y."/>
+<person name="Tanaka A."/>
+<person name="Yokoyama S."/>
+<person name="Ohara O."/>
+<person name="Nagase T."/>
+<person name="Kikuno R.F."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="5">Brain</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AB209669">
+<property type="protein sequence ID" value="BAD92906.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.508835"/>
+<dbReference type="ProteinModelPortal" id="Q59EZ2"/>
+<dbReference type="MINT" id="MINT-2863505"/>
+<dbReference type="STRING" id="9606.ENSP00000262715"/>
+<dbReference type="PaxDb" id="Q59EZ2"/>
+<dbReference type="PeptideAtlas" id="Q59EZ2"/>
+<dbReference type="PRIDE" id="Q59EZ2"/>
+<dbReference type="eggNOG" id="KOG3602">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG4155">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XP3K">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG059633"/>
+<dbReference type="SignaLink" id="Q59EZ2"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.130.10.10">
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025139">
+<property type="entry name" value="DUF4062"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007111">
+<property type="entry name" value="NACHT_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015943">
+<property type="entry name" value="WD40/YVTN_repeat-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001680">
+<property type="entry name" value="WD40_repeat"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019775">
+<property type="entry name" value="WD40_repeat_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017986">
+<property type="entry name" value="WD40_repeat_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13271">
+<property type="entry name" value="DUF4062"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00400">
+<property type="entry name" value="WD40"/>
+<property type="match status" value="6"/>
+</dbReference>
+<dbReference type="SMART" id="SM00320">
+<property type="entry name" value="WD40"/>
+<property type="match status" value="17"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50978">
+<property type="entry name" value="SSF50978"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50837">
+<property type="entry name" value="NACHT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00678">
+<property type="entry name" value="WD_REPEATS_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50082">
+<property type="entry name" value="WD_REPEATS_2"/>
+<property type="match status" value="6"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50294">
+<property type="entry name" value="WD_REPEATS_REGION"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<keyword id="KW-0853" evidence="1">WD repeat</keyword>
+<feature type="domain" description="NACHT" evidence="4">
+<location>
+<begin position="511"/>
+<end position="772"/>
+</location>
+</feature>
+<feature type="domain" description="WD_REPEATS_REGION" evidence="3">
+<location>
+<begin position="1014"/>
+<end position="1659"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="1222"/>
+<end position="1254"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="1399"/>
+<end position="1440"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="1445"/>
+<end position="1485"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="1486"/>
+<end position="1516"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="1576"/>
+<end position="1609"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="1618"/>
+<end position="1650"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="5">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00221"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00074409"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50294"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50837"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAD92906.1"/>
+</source>
+</evidence>
+<sequence length="1903" mass="207787" checksum="AA48E60B3243DEEB" modified="2005-04-26" version="1" fragment="single">
+MLNRYRQALETAVNLSVKHSLPLLPGRTVLVYLTDANADRLCPKSNPQGPPLNYALLLIG
+MMITRAEQVDVVLCGGDTLKTAVLKAEEGILKTAIKLQAQVQEFDENDGWSLNTFGKYLL
+SLAGQRVPVDRVILLGQSMDDGMINVAKQLYWQRVNSKCLFVGILLRRVQYLSTDLNPND
+VTLSGCTDAILKFIAEHGASHLLEHVGQMDKIFKIPPPPGKTGVQSLRPLEEDTPSPLAP
+VSQQGWRSIRLFISSTFRDMHGERDLLRSVLPALQARAAPHRISLHGIDLRWGVTEEETR
+RNRQLEVCLGEVENAQLFVGILGSRYGYIPPSYNLPDHPHFHWAQQYPSGRSVTEMEVMQ
+FLNRNQRLQPSAQALIYFRDSSFLSSVPDAWKSDFVSESEEAACRISELKSYLSRQKGIT
+CRRYPCEWGGVAAGRPYVGGLEEFGQLVLQDVWNMIQKLYLQPGALLEQPVSIPDDDLVQ
+ATFQQLQKPPSPARPRLLQDTVQQLMLPHGRLSLVTGQSGQGKTAFLASLVSALQAPDGA
+KVAPLVFFHFSGARPDQGLALTLLRRLCTYLRGQLKEPGALPSTYRSLVWELQQRLLPKS
+AESLHPGQTQVLIIDGADRLVDQNGQLISDWIPKKLPRCVHLVLSVSSDAGLGETLEQSQ
+GAHVLALGPLEASARARLVREELALYGKRLEESPFNNQRESGRPLYLRLVTDHLRLFTLY
+EQVSERLRTLPATVPLLLQHILSTLEKEHGPDVLPQALTALEVTRSGLTVDQLHGVLSVW
+RTLPKGTKSWEEAVAAGNSGDPYPMGPFAYLVQSLRSLLGEGPLERPGARLCLPDGPLRT
+AAKRCYGKRPGLEDTAHILIAAQLWKTCDADASGTFRSCPPEALGDLPYHLLQSGNRGLL
+SKFLTNLHVVAAHLELGLVSRLLEAHALYASSVPKEEQKLPEADVAVFRTFLRQQASILS
+QYPRLLPQQAANQPLDSPLCHQASLLSRRWHLQHTLRWLNKPRTMKNQQSSSLSLAVSSS
+PTAVAFSTNGQRAAVGTANGTVYLLDLRTWQEEKSVVSGCDGISACLFLSDDTLFLTAFD
+GLLELWDLQHGCRVLQTKAHQYQITGCCLSPDCQLLATVCLGGCLKLWDTVRGQLAFQHT
+YPKSLNCVAFHPEGQVIATGSWAGSISFFQVDGLKVTKDLGAPGASIRTLAFNVPGGVVA
+VGRLDSMVELWAWREGARLAAFPAHHGFVAAALFLHAGCQLLTAGEDGKVQVWSGSLGRP
+RGHLGSLSLSPALSVALSPDGDRVAVGYRADGIRIYKISSGSQGAQGQALDVAVSALAWL
+SPKVLVSGAEDGSLQGWALKECSLQSLWLLSRFQKPVLGLATSQELLASASEDFTVQLWP
+RQLLTRPHKAEDFPCGTELRGHEGPVSCCSFSTDGGSLATGGRDRSLLCWDVRTPKTPVL
+IHSFPACHRDWVTGCAWTKDNLLISCSSDGSVGLWDPESGQRLGQFLGHQSAVSAVAAVE
+EHVVSVSRDGTLKVWDHQGVELTSIPAHSGPISHCAAAMEPRAAGQPGSELLVVTVGLDG
+ATRLWHPLLVCQTHTLLGHSGPVRAAAVSETSGLMLTASEDGSVRLWQVPKEADDTCIPR
+SSAAVTAVAWAPDGSMAVSGNQAGELILWQEAKAVATAQAPGHIGALIWSSAHTFFVLSA
+DEKISEWQVKLRKGSAPGNLSLHLNRILQEDLGVLTSLDWAPDGHFLILAKADLKLLCMK
+PGDAPSEIWSSYTENPMILSTHKEYGIFVLQPKDPGVLSFLRQKESGEFEERLNFDINLE
+NPSRTLISITQAKPESESSFLCASSDGILWNLAKCSPEGEWTTGNMWQKKANTPETQTPG
+TDPSTCRESDASMDSDASMDSEPTPHLKTRQRRKPSMCYLSCW
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

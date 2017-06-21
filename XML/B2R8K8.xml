@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-07-01" modified="2017-05-10" version="56">
+<accession>B2R8K8</accession>
+<name>B2R8K8_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="3">cDNA, FLJ93949, highly similar to Homo sapiens NIMA (never in mitosis gene a)-related kinase 7 (NEK7), mRNA</fullName>
+</submittedName>
+</protein>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="submission" date="2008-01" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO functional analysis of protein and research application project.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Iida Y."/>
+<person name="Takayama Y."/>
+<person name="Murakawa K."/>
+<person name="Kanehori K."/>
+<person name="Andoh T."/>
+<person name="Kagawa N."/>
+<person name="Sato R."/>
+<person name="Kawamura Y."/>
+<person name="Tanaka S."/>
+<person name="Kisu Y."/>
+<person name="Sugano S."/>
+<person name="Goshima N."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="3">Uterus</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the protein kinase superfamily.</text>
+</comment>
+<dbReference type="EMBL" id="AK313411">
+<property type="protein sequence ID" value="BAG36205.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_598001.1">
+<property type="nucleotide sequence ID" value="NM_133494.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.24119"/>
+<dbReference type="UniGene" id="Hs.745083"/>
+<dbReference type="ProteinModelPortal" id="B2R8K8"/>
+<dbReference type="STRING" id="9606.ENSP00000356355"/>
+<dbReference type="PaxDb" id="B2R8K8"/>
+<dbReference type="PeptideAtlas" id="B2R8K8"/>
+<dbReference type="PRIDE" id="B2R8K8"/>
+<dbReference type="DNASU" id="140609"/>
+<dbReference type="GeneID" id="140609"/>
+<dbReference type="KEGG" id="hsa:140609"/>
+<dbReference type="CTD" id="140609"/>
+<dbReference type="PharmGKB" id="PA31551"/>
+<dbReference type="eggNOG" id="KOG0591">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XNQP">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG105886"/>
+<dbReference type="KO" id="K20876"/>
+<dbReference type="SignaLink" id="B2R8K8"/>
+<dbReference type="GenomeRNAi" id="140609"/>
+<dbReference type="Genevisible" id="B2R8K8">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001245">
+<property type="entry name" value="Ser-Thr/Tyr_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00109">
+<property type="entry name" value="TYRKINASE"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="1">Kinase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0723" evidence="1">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808" evidence="1">Transferase</keyword>
+<feature type="domain" description="Protein kinase" evidence="2">
+<location>
+<begin position="34"/>
+<end position="299"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000304"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG36205.1"/>
+</source>
+</evidence>
+<sequence length="302" mass="34537" checksum="C1FC991F8B92AD4C" modified="2008-07-01" version="1">
+MDEQSQGMQGPPVPQFQPQKALRPDMGYNTLANFRIEKKIGRGQFSEVYRAACLLDGVPV
+ALKKVQIFDLMDAKARADCIKEIDLLKQLNHPNVIKYYASFIEDNELNIVLELADAGDLS
+RMIKHFKKQKRLIPERTVWKYFVQLCSALEHMHSRRVMHRDIKPANVFITATGVVKLGDL
+GLGRFFSSKTTAAHSLVGTPYYMSPERIHENGYNFKSDIWSLGCLLYEMAALQSPFYGDK
+MNLYSLCKKIEQCDYPPLPSDHYSEEVRQLVNMCINPDPEKRPDVTYVYDVAKRMHACTA
+SS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

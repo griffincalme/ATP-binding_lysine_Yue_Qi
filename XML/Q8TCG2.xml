@@ -1,0 +1,827 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2007-05-01" modified="2017-03-15" version="110">
+<accession>Q8TCG2</accession>
+<accession>Q9NUW2</accession>
+<name>P4K2B_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Phosphatidylinositol 4-kinase type 2-beta</fullName>
+<ecNumber>2.7.1.67</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Phosphatidylinositol 4-kinase type II-beta</fullName>
+<shortName>PI4KII-BETA</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">PI4K2B</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="20041" last="20050">
+<title>Characterization of type II phosphatidylinositol 4-kinase isoforms reveals association of the enzymes with endosomal vesicular compartments.</title>
+<authorList>
+<person name="Balla A."/>
+<person name="Tuymetova G."/>
+<person name="Barshishat M."/>
+<person name="Geiszt M."/>
+<person name="Balla T."/>
+</authorList>
+<dbReference type="PubMed" id="11923287"/>
+<dbReference type="DOI" id="10.1074/jbc.M111807200"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>VARIANT PRO-78</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="46586" last="46593">
+<title>Type II phosphatidylinositol 4-kinase beta is a cytosolic and peripheral membrane protein that is recruited to the plasma membrane and activated by Rac-GTP.</title>
+<authorList>
+<person name="Wei Y.J."/>
+<person name="Sun H.Q."/>
+<person name="Yamamoto M."/>
+<person name="Wlodarski P."/>
+<person name="Kunii K."/>
+<person name="Martinez M."/>
+<person name="Barylko B."/>
+<person name="Albanesi J.P."/>
+<person name="Yin H.L."/>
+</authorList>
+<dbReference type="PubMed" id="12324459"/>
+<dbReference type="DOI" id="10.1074/jbc.M206860200"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>ENZYME REGULATION</scope>
+<scope>VARIANT PRO-78</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="2001-08" db="EMBL/GenBank/DDBJ databases">
+<title>Beta isoform of human type II phosphatidylinositol 4-kinase (PI4KIIbeta).</title>
+<authorList>
+<person name="Hong W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<scope>VARIANT PRO-78</scope>
+<source>
+<tissue>Placenta</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<scope>VARIANT PRO-78</scope>
+<source>
+<tissue>Skin</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2009" name="Mol. Cell. Proteomics" volume="8" first="1751" last="1764">
+<title>Large-scale proteomics analysis of the human kinome.</title>
+<authorList>
+<person name="Oppermann F.S."/>
+<person name="Gnad F."/>
+<person name="Olsen J.V."/>
+<person name="Hornberger R."/>
+<person name="Greff Z."/>
+<person name="Keri G."/>
+<person name="Mann M."/>
+<person name="Daub H."/>
+</authorList>
+<dbReference type="PubMed" id="19369195"/>
+<dbReference type="DOI" id="10.1074/mcp.M800588-MCP200"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-12 AND SER-17</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-45</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2009" name="Sci. Signal." volume="2" first="RA46" last="RA46">
+<title>Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions.</title>
+<authorList>
+<person name="Mayya V."/>
+<person name="Lundgren D.H."/>
+<person name="Hwang S.-I."/>
+<person name="Rezaul K."/>
+<person name="Wu L."/>
+<person name="Eng J.K."/>
+<person name="Rodionov V."/>
+<person name="Han D.K."/>
+</authorList>
+<dbReference type="PubMed" id="19690332"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000007"/>
+</citation>
+<scope>VARIANT [LARGE SCALE ANALYSIS] PRO-78</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Leukemic T-cell</tissue>
+</source>
+</reference>
+<comment type="function">
+<text evidence="6">Together with PI4K2A and the type III PI4Ks (PIK4CA and PIK4CB) it contributes to the overall PI4-kinase activity of the cell. This contribution may be especially significant in plasma membrane, endosomal and Golgi compartments. The phosphorylation of phosphatidylinositol (PI) to PI4P is the first committed step in the generation of phosphatidylinositol 4,5-bisphosphate (PIP2), a precursor of the second messenger inositol 1,4,5-trisphosphate (InsP3). Contributes to the production of InsP3 in stimulated cells and is likely to be involved in the regulation of vesicular trafficking.</text>
+</comment>
+<comment type="catalytic activity">
+<text>ATP + 1-phosphatidyl-1D-myo-inositol = ADP + 1-phosphatidyl-1D-myo-inositol 4-phosphate.</text>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="7">Recruited and activated by membrane association. Binding to the microsomal membrane has been shown to enhance its activity.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Membrane</location>
+</subcellularLocation>
+<text>Mostly cytoplasmic but also found associated with the plasma membrane, the Golgi and endosomes. Compared to PI4K2A, a larger fraction of PI4K2B is cytosolic due to a smaller extent of palmitoylation. Translocates to membranes where it is recruited by PDGF stimulation by a Rac-GTP-dependent mechanism.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="6">Widely expressed.</text>
+</comment>
+<comment type="similarity">
+<text evidence="10">Belongs to the PI3/PI4-kinase family. Type II PI4K subfamily.</text>
+</comment>
+<dbReference type="EC" id="2.7.1.67"/>
+<dbReference type="EMBL" id="AY065990">
+<property type="protein sequence ID" value="AAL47580.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF411320">
+<property type="protein sequence ID" value="AAL04154.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY091514">
+<property type="protein sequence ID" value="AAM12049.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK001967">
+<property type="protein sequence ID" value="BAA92006.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC051749">
+<property type="protein sequence ID" value="AAH51749.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS3433.1"/>
+<dbReference type="RefSeq" id="NP_060793.2">
+<property type="nucleotide sequence ID" value="NM_018323.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.191701"/>
+<dbReference type="PDB" id="4WTV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=90-165, A/B=176-450"/>
+</dbReference>
+<dbReference type="PDBsum" id="4WTV"/>
+<dbReference type="ProteinModelPortal" id="Q8TCG2"/>
+<dbReference type="SMR" id="Q8TCG2"/>
+<dbReference type="BioGrid" id="120587">
+<property type="interactions" value="17"/>
+</dbReference>
+<dbReference type="IntAct" id="Q8TCG2">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000264864"/>
+<dbReference type="ChEMBL" id="CHEMBL2096619"/>
+<dbReference type="GuidetoPHARMACOLOGY" id="2499"/>
+<dbReference type="iPTMnet" id="Q8TCG2"/>
+<dbReference type="PhosphoSitePlus" id="Q8TCG2"/>
+<dbReference type="SwissPalm" id="Q8TCG2"/>
+<dbReference type="BioMuta" id="PI4K2B"/>
+<dbReference type="DMDM" id="74715788"/>
+<dbReference type="EPD" id="Q8TCG2"/>
+<dbReference type="MaxQB" id="Q8TCG2"/>
+<dbReference type="PaxDb" id="Q8TCG2"/>
+<dbReference type="PeptideAtlas" id="Q8TCG2"/>
+<dbReference type="PRIDE" id="Q8TCG2"/>
+<dbReference type="DNASU" id="55300"/>
+<dbReference type="Ensembl" id="ENST00000264864">
+<property type="protein sequence ID" value="ENSP00000264864"/>
+<property type="gene ID" value="ENSG00000038210"/>
+</dbReference>
+<dbReference type="GeneID" id="55300"/>
+<dbReference type="KEGG" id="hsa:55300"/>
+<dbReference type="UCSC" id="uc003grk.3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="55300"/>
+<dbReference type="DisGeNET" id="55300"/>
+<dbReference type="GeneCards" id="PI4K2B"/>
+<dbReference type="HGNC" id="HGNC:18215">
+<property type="gene designation" value="PI4K2B"/>
+</dbReference>
+<dbReference type="HPA" id="HPA004099"/>
+<dbReference type="MIM" id="612101">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q8TCG2"/>
+<dbReference type="OpenTargets" id="ENSG00000038210"/>
+<dbReference type="PharmGKB" id="PA142671173"/>
+<dbReference type="eggNOG" id="KOG2381">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XP06">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000010434"/>
+<dbReference type="HOGENOM" id="HOG000294076"/>
+<dbReference type="HOVERGEN" id="HBG059542"/>
+<dbReference type="InParanoid" id="Q8TCG2"/>
+<dbReference type="KO" id="K13711"/>
+<dbReference type="OMA" id="CEDLHEL"/>
+<dbReference type="OrthoDB" id="EOG091G09F3"/>
+<dbReference type="PhylomeDB" id="Q8TCG2"/>
+<dbReference type="TreeFam" id="TF314740"/>
+<dbReference type="BioCyc" id="MetaCyc:HS00529-MONOMER"/>
+<dbReference type="BRENDA" id="2.7.1.67">
+<property type="organism ID" value="2681"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1483248">
+<property type="pathway name" value="Synthesis of PIPs at the ER membrane"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1660499">
+<property type="pathway name" value="Synthesis of PIPs at the plasma membrane"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1660514">
+<property type="pathway name" value="Synthesis of PIPs at the Golgi membrane"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1660516">
+<property type="pathway name" value="Synthesis of PIPs at the early endosome membrane"/>
+</dbReference>
+<dbReference type="SignaLink" id="Q8TCG2"/>
+<dbReference type="ChiTaRS" id="PI4K2B">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="PI4K2B"/>
+<dbReference type="GenomeRNAi" id="55300"/>
+<dbReference type="PRO" id="PR:Q8TCG2"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 4"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000038210"/>
+<dbReference type="CleanEx" id="HS_PI4K2B"/>
+<dbReference type="Genevisible" id="Q8TCG2">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005768">
+<property type="term" value="C:endosome"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005802">
+<property type="term" value="C:trans-Golgi network"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004430">
+<property type="term" value="F:1-phosphatidylinositol 4-kinase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007032">
+<property type="term" value="P:endosome organization"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007030">
+<property type="term" value="P:Golgi organization"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006661">
+<property type="term" value="P:phosphatidylinositol biosynthetic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046854">
+<property type="term" value="P:phosphatidylinositol phosphorylation"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000403">
+<property type="entry name" value="PI3/4_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00454">
+<property type="entry name" value="PI3_PI4_kinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Phosphatidylinositol 4-kinase type 2-beta" id="PRO_0000285164">
+<location>
+<begin position="1"/>
+<end position="481"/>
+</location>
+</feature>
+<feature type="domain" description="PI3K/PI4K">
+<location>
+<begin position="129"/>
+<end position="436"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="5">
+<location>
+<begin position="127"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="5">
+<location>
+<begin position="257"/>
+<end position="260"/>
+</location>
+</feature>
+<feature type="region of interest" description="Important for substrate binding" evidence="5">
+<location>
+<begin position="153"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="region of interest" description="Important for interaction with membranes" evidence="5">
+<location>
+<begin position="161"/>
+<end position="174"/>
+</location>
+</feature>
+<feature type="region of interest" description="Important for interaction with membranes" evidence="5">
+<location>
+<begin position="264"/>
+<end position="272"/>
+</location>
+</feature>
+<feature type="region of interest" description="Important for interaction with membranes" evidence="5">
+<location>
+<begin position="357"/>
+<end position="366"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Glu">
+<location>
+<begin position="19"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="5">
+<location>
+<position position="148"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="5">
+<location>
+<position position="344"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="2">
+<location>
+<position position="12"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="2">
+<location>
+<position position="17"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="4">
+<location>
+<position position="45"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs313549." id="VAR_031974" evidence="3 6 7 8 9">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="78"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="104"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="124"/>
+<end position="130"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="134"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="143"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="185"/>
+<end position="199"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="207"/>
+<end position="212"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="252"/>
+<end position="258"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="266"/>
+<end position="272"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="273"/>
+<end position="275"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="280"/>
+<end position="299"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="307"/>
+<end position="314"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="337"/>
+<end position="342"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="356"/>
+<end position="358"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="363"/>
+<end position="366"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="368"/>
+<end position="371"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="376"/>
+<end position="386"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="389"/>
+<end position="403"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="411"/>
+<end position="433"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="438"/>
+<end position="441"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4WTV"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19369195"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19690332"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="24275569"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9BTU6"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11923287"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12324459"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000305"/>
+<sequence length="481" mass="54744" checksum="B4E16257E0AEC026" modified="2002-06-01" version="1">
+MEDPSEPDRLASADGGSPEEEEDGEREPLLPRIAWAHPRRGAPGSAVRLLDAAGEEGEAG
+DEELPLPPGDVGVSRSSSAELDRSRPAVSVTIGTSEMNAFLDDPEFADIMLRAEQAIEVG
+IFPERISQGSSGSYFVKDPKRKIIGVFKPKSEEPYGQLNPKWTKYVHKVCCPCCFGRGCL
+IPNQGYLSEAGAYLVDNKLHLSIVPKTKVVWLVSETFNYNAIDRAKSRGKKYALEKVPKV
+GRKFHRIGLPPKIGSFQLFVEGYKEAEYWLRKFEADPLPENIRKQFQSQFERLVILDYII
+RNTDRGNDNWLVRYEKQKCEKEIDHKESKWIDDEEFLIKIAAIDNGLAFPFKHPDEWRAY
+PFHWAWLPQAKVPFSEEIRNLILPYISDMNFVQDLCEDLYELFKTDKGFDKATFESQMSV
+MRGQILNLTQALRDGKSPFQLVQIPCVIVERSQGGSQGRIVHLSNSFTQTVNCRKPFFSS
+W
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

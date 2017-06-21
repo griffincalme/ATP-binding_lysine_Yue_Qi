@@ -1,0 +1,631 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2011-09-21" modified="2017-05-10" version="51">
+<accession>F8VQQ8</accession>
+<name>F8VQQ8_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="12">Ubiquitin-conjugating enzyme E2 N</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="12">UBE2N</name>
+</gene>
+<organism evidence="12 13">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="12">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="724" last="731">
+<title>Generation and annotation of the DNA sequences of human chromosomes 2 and 4.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Graves T.A."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Pepin K.H."/>
+<person name="Minx P."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Kremitzki C."/>
+<person name="Oddy L."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Carter J."/>
+<person name="Cordes M."/>
+<person name="Harris A."/>
+<person name="Isak A."/>
+<person name="van Brunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Abbott S."/>
+<person name="Armstrong J."/>
+<person name="Belter E.A."/>
+<person name="Caruso L."/>
+<person name="Cedroni M."/>
+<person name="Cotton M."/>
+<person name="Davidson T."/>
+<person name="Desai A."/>
+<person name="Elliott G."/>
+<person name="Erb T."/>
+<person name="Fronick C."/>
+<person name="Gaige T."/>
+<person name="Haakenson W."/>
+<person name="Haglund K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Kim K."/>
+<person name="Kruchowski S.S."/>
+<person name="Strong C.M."/>
+<person name="Grewal N."/>
+<person name="Goyea E."/>
+<person name="Hou S."/>
+<person name="Levy A."/>
+<person name="Martinka S."/>
+<person name="Mead K."/>
+<person name="McLellan M.D."/>
+<person name="Meyer R."/>
+<person name="Randall-Maher J."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Shah N."/>
+<person name="Swearengen-Shahid S."/>
+<person name="Snider J."/>
+<person name="Strong J.T."/>
+<person name="Thompson J."/>
+<person name="Yoakum M."/>
+<person name="Leonard S."/>
+<person name="Pearman C."/>
+<person name="Trani L."/>
+<person name="Radionenko M."/>
+<person name="Waligorski J.E."/>
+<person name="Wang C."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Maupin R."/>
+<person name="Latreille P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Pohl C."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Berkowicz N."/>
+<person name="Nelson J.O."/>
+<person name="Osborne J."/>
+<person name="Ding L."/>
+<person name="Meyer R."/>
+<person name="Sabo A."/>
+<person name="Shotland Y."/>
+<person name="Sinha P."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Jones T.A."/>
+<person name="She X."/>
+<person name="Ciccarelli F.D."/>
+<person name="Izaurralde E."/>
+<person name="Taylor J."/>
+<person name="Schmutz J."/>
+<person name="Myers R.M."/>
+<person name="Cox D.R."/>
+<person name="Huang X."/>
+<person name="McPherson J.D."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Warren W.C."/>
+<person name="Chinwalla A.T."/>
+<person name="Eddy S.R."/>
+<person name="Marra M.A."/>
+<person name="Ovcharenko I."/>
+<person name="Furey T.S."/>
+<person name="Miller W."/>
+<person name="Eichler E.E."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Torrents D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="15815621"/>
+<dbReference type="DOI" id="10.1038/nature03466"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="13">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="346" last="351">
+<title>The finished DNA sequence of human chromosome 12.</title>
+<authorList>
+<consortium name="Baylor College of Medicine Human Genome Sequencing Center Sequence Production Team"/>
+<person name="Scherer S.E."/>
+<person name="Muzny D.M."/>
+<person name="Buhay C.J."/>
+<person name="Chen R."/>
+<person name="Cree A."/>
+<person name="Ding Y."/>
+<person name="Dugan-Rocha S."/>
+<person name="Gill R."/>
+<person name="Gunaratne P."/>
+<person name="Harris R.A."/>
+<person name="Hawes A.C."/>
+<person name="Hernandez J."/>
+<person name="Hodgson A.V."/>
+<person name="Hume J."/>
+<person name="Jackson A."/>
+<person name="Khan Z.M."/>
+<person name="Kovar-Smith C."/>
+<person name="Lewis L.R."/>
+<person name="Lozado R.J."/>
+<person name="Metzker M.L."/>
+<person name="Milosavljevic A."/>
+<person name="Miner G.R."/>
+<person name="Montgomery K.T."/>
+<person name="Morgan M.B."/>
+<person name="Nazareth L.V."/>
+<person name="Scott G."/>
+<person name="Sodergren E."/>
+<person name="Song X.Z."/>
+<person name="Steffen D."/>
+<person name="Lovering R.C."/>
+<person name="Wheeler D.A."/>
+<person name="Worley K.C."/>
+<person name="Yuan Y."/>
+<person name="Zhang Z."/>
+<person name="Adams C.Q."/>
+<person name="Ansari-Lari M.A."/>
+<person name="Ayele M."/>
+<person name="Brown M.J."/>
+<person name="Chen G."/>
+<person name="Chen Z."/>
+<person name="Clerc-Blankenburg K.P."/>
+<person name="Davis C."/>
+<person name="Delgado O."/>
+<person name="Dinh H.H."/>
+<person name="Draper H."/>
+<person name="Gonzalez-Garay M.L."/>
+<person name="Havlak P."/>
+<person name="Jackson L.R."/>
+<person name="Jacob L.S."/>
+<person name="Kelly S.H."/>
+<person name="Li L."/>
+<person name="Li Z."/>
+<person name="Liu J."/>
+<person name="Liu W."/>
+<person name="Lu J."/>
+<person name="Maheshwari M."/>
+<person name="Nguyen B.V."/>
+<person name="Okwuonu G.O."/>
+<person name="Pasternak S."/>
+<person name="Perez L.M."/>
+<person name="Plopper F.J."/>
+<person name="Santibanez J."/>
+<person name="Shen H."/>
+<person name="Tabor P.E."/>
+<person name="Verduzco D."/>
+<person name="Waldron L."/>
+<person name="Wang Q."/>
+<person name="Williams G.A."/>
+<person name="Zhang J."/>
+<person name="Zhou J."/>
+<person name="Allen C.C."/>
+<person name="Amin A.G."/>
+<person name="Anyalebechi V."/>
+<person name="Bailey M."/>
+<person name="Barbaria J.A."/>
+<person name="Bimage K.E."/>
+<person name="Bryant N.P."/>
+<person name="Burch P.E."/>
+<person name="Burkett C.E."/>
+<person name="Burrell K.L."/>
+<person name="Calderon E."/>
+<person name="Cardenas V."/>
+<person name="Carter K."/>
+<person name="Casias K."/>
+<person name="Cavazos I."/>
+<person name="Cavazos S.R."/>
+<person name="Ceasar H."/>
+<person name="Chacko J."/>
+<person name="Chan S.N."/>
+<person name="Chavez D."/>
+<person name="Christopoulos C."/>
+<person name="Chu J."/>
+<person name="Cockrell R."/>
+<person name="Cox C.D."/>
+<person name="Dang M."/>
+<person name="Dathorne S.R."/>
+<person name="David R."/>
+<person name="Davis C.M."/>
+<person name="Davy-Carroll L."/>
+<person name="Deshazo D.R."/>
+<person name="Donlin J.E."/>
+<person name="D'Souza L."/>
+<person name="Eaves K.A."/>
+<person name="Egan A."/>
+<person name="Emery-Cohen A.J."/>
+<person name="Escotto M."/>
+<person name="Flagg N."/>
+<person name="Forbes L.D."/>
+<person name="Gabisi A.M."/>
+<person name="Garza M."/>
+<person name="Hamilton C."/>
+<person name="Henderson N."/>
+<person name="Hernandez O."/>
+<person name="Hines S."/>
+<person name="Hogues M.E."/>
+<person name="Huang M."/>
+<person name="Idlebird D.G."/>
+<person name="Johnson R."/>
+<person name="Jolivet A."/>
+<person name="Jones S."/>
+<person name="Kagan R."/>
+<person name="King L.M."/>
+<person name="Leal B."/>
+<person name="Lebow H."/>
+<person name="Lee S."/>
+<person name="LeVan J.M."/>
+<person name="Lewis L.C."/>
+<person name="London P."/>
+<person name="Lorensuhewa L.M."/>
+<person name="Loulseged H."/>
+<person name="Lovett D.A."/>
+<person name="Lucier A."/>
+<person name="Lucier R.L."/>
+<person name="Ma J."/>
+<person name="Madu R.C."/>
+<person name="Mapua P."/>
+<person name="Martindale A.D."/>
+<person name="Martinez E."/>
+<person name="Massey E."/>
+<person name="Mawhiney S."/>
+<person name="Meador M.G."/>
+<person name="Mendez S."/>
+<person name="Mercado C."/>
+<person name="Mercado I.C."/>
+<person name="Merritt C.E."/>
+<person name="Miner Z.L."/>
+<person name="Minja E."/>
+<person name="Mitchell T."/>
+<person name="Mohabbat F."/>
+<person name="Mohabbat K."/>
+<person name="Montgomery B."/>
+<person name="Moore N."/>
+<person name="Morris S."/>
+<person name="Munidasa M."/>
+<person name="Ngo R.N."/>
+<person name="Nguyen N.B."/>
+<person name="Nickerson E."/>
+<person name="Nwaokelemeh O.O."/>
+<person name="Nwokenkwo S."/>
+<person name="Obregon M."/>
+<person name="Oguh M."/>
+<person name="Oragunye N."/>
+<person name="Oviedo R.J."/>
+<person name="Parish B.J."/>
+<person name="Parker D.N."/>
+<person name="Parrish J."/>
+<person name="Parks K.L."/>
+<person name="Paul H.A."/>
+<person name="Payton B.A."/>
+<person name="Perez A."/>
+<person name="Perrin W."/>
+<person name="Pickens A."/>
+<person name="Primus E.L."/>
+<person name="Pu L.L."/>
+<person name="Puazo M."/>
+<person name="Quiles M.M."/>
+<person name="Quiroz J.B."/>
+<person name="Rabata D."/>
+<person name="Reeves K."/>
+<person name="Ruiz S.J."/>
+<person name="Shao H."/>
+<person name="Sisson I."/>
+<person name="Sonaike T."/>
+<person name="Sorelle R.P."/>
+<person name="Sutton A.E."/>
+<person name="Svatek A.F."/>
+<person name="Svetz L.A."/>
+<person name="Tamerisa K.S."/>
+<person name="Taylor T.R."/>
+<person name="Teague B."/>
+<person name="Thomas N."/>
+<person name="Thorn R.D."/>
+<person name="Trejos Z.Y."/>
+<person name="Trevino B.K."/>
+<person name="Ukegbu O.N."/>
+<person name="Urban J.B."/>
+<person name="Vasquez L.I."/>
+<person name="Vera V.A."/>
+<person name="Villasana D.M."/>
+<person name="Wang L."/>
+<person name="Ward-Moore S."/>
+<person name="Warren J.T."/>
+<person name="Wei X."/>
+<person name="White F."/>
+<person name="Williamson A.L."/>
+<person name="Wleczyk R."/>
+<person name="Wooden H.S."/>
+<person name="Wooden S.H."/>
+<person name="Yen J."/>
+<person name="Yoon L."/>
+<person name="Yoon V."/>
+<person name="Zorrilla S.E."/>
+<person name="Nelson D."/>
+<person name="Kucherlapati R."/>
+<person name="Weinstock G."/>
+<person name="Gibbs R.A."/>
+<person name="null."/>
+</authorList>
+<dbReference type="PubMed" id="16541075"/>
+<dbReference type="DOI" id="10.1038/nature04569"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3" evidence="4">
+<citation type="journal article" date="2009" name="Science" volume="325" first="834" last="840">
+<title>Lysine acetylation targets protein complexes and co-regulates major cellular functions.</title>
+<authorList>
+<person name="Choudhary C."/>
+<person name="Kumar C."/>
+<person name="Gnad F."/>
+<person name="Nielsen M.L."/>
+<person name="Rehman M."/>
+<person name="Walther T.C."/>
+<person name="Olsen J.V."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="19608861"/>
+<dbReference type="DOI" id="10.1126/science.1175371"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="4" evidence="5">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Burckstummer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="5" evidence="12">
+<citation type="submission" date="2011-07" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<reference key="6" evidence="6">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="similarity">
+<text evidence="7 8 9">Belongs to the ubiquitin-conjugating enzyme family.</text>
+</comment>
+<comment type="caution">
+<text evidence="12">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EMBL" id="AC025260">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="ProteinModelPortal" id="F8VQQ8"/>
+<dbReference type="STRING" id="9606.ENSP00000316176"/>
+<dbReference type="MaxQB" id="F8VQQ8"/>
+<dbReference type="PaxDb" id="F8VQQ8"/>
+<dbReference type="PeptideAtlas" id="F8VQQ8"/>
+<dbReference type="PRIDE" id="F8VQQ8"/>
+<dbReference type="Ensembl" id="ENST00000549833">
+<property type="protein sequence ID" value="ENSP00000450260"/>
+<property type="gene ID" value="ENSG00000177889"/>
+</dbReference>
+<dbReference type="UCSC" id="uc058rsv.1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="HGNC" id="HGNC:12492">
+<property type="gene designation" value="UBE2N"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000177889"/>
+<dbReference type="eggNOG" id="KOG0417">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5078">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00540000070023"/>
+<dbReference type="SignaLink" id="F8VQQ8"/>
+<dbReference type="ChiTaRS" id="UBE2N">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 12"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000177889"/>
+<dbReference type="ExpressionAtlas" id="F8VQQ8">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd00195">
+<property type="entry name" value="UBCc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.10.110.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000608">
+<property type="entry name" value="UBQ-conjugat_E2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023313">
+<property type="entry name" value="UBQ-conjugating_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016135">
+<property type="entry name" value="UBQ-conjugating_enzyme/RWD"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00179">
+<property type="entry name" value="UQ_con"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54495">
+<property type="entry name" value="SSF54495"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00183">
+<property type="entry name" value="UBIQUITIN_CONJUGAT_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50127">
+<property type="entry name" value="UBIQUITIN_CONJUGAT_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="8">ATP-binding</keyword>
+<keyword id="KW-0181" evidence="13">Complete proteome</keyword>
+<keyword id="KW-0547" evidence="8">Nucleotide-binding</keyword>
+<keyword id="KW-1267" evidence="1 2 3">Proteomics identification</keyword>
+<keyword id="KW-1185" evidence="13">Reference proteome</keyword>
+<keyword id="KW-0833" evidence="8 10">Ubl conjugation pathway</keyword>
+<feature type="domain" description="UBIQUITIN_CONJUGAT_2" evidence="11">
+<location>
+<begin position="1"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="active site" description="Glycyl thioester intermediate" evidence="7">
+<location>
+<position position="24"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000213">
+<source>
+<dbReference type="EPD" id="F8VQQ8"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000213">
+<source>
+<dbReference type="MaxQB" id="F8VQQ8"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000213">
+<source>
+<dbReference type="PeptideAtlas" id="F8VQQ8"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="19608861"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="21269460"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="25944712"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00388"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU362109"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00805669"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00805691"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50127"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000450260"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="89" mass="10089" checksum="15E27309270156C9" modified="2011-09-21" version="1">
+MAAPKVRFMTKIYHPNVDKLGRICLDILKDKWSPALQIRTVLLSIQALLSAPNPDDPLAN
+DVAEQWKTNEAQAIETARAWTRLYAMNNI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

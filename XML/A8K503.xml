@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2007-12-04" modified="2017-05-10" version="66">
+<accession>A8K503</accession>
+<name>A8K503_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">SUMO-conjugating enzyme</fullName>
+<ecNumber evidence="2">2.3.2.-</ecNumber>
+</recommendedName>
+</protein>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="2">SUMOyl-[E2 SUMO-conjugating enzyme]-L-cysteine + [acceptor-protein]-L-lysine = [E2 SUMO-conjugating enzyme]-L-cysteine + N(6)-SUMOyl-[acceptor protein]-L-lysine.</text>
+</comment>
+<comment type="pathway" evidence="2">
+<text>Protein modification; protein sumoylation.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1 2 3">Belongs to the ubiquitin-conjugating enzyme family.</text>
+</comment>
+<dbReference type="EC" id="2.3.2.-" evidence="2"/>
+<dbReference type="EMBL" id="AK291118">
+<property type="protein sequence ID" value="BAF83807.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_003336.1">
+<property type="nucleotide sequence ID" value="NM_003345.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_919235.1">
+<property type="nucleotide sequence ID" value="NM_194259.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.302903"/>
+<dbReference type="ProteinModelPortal" id="A8K503"/>
+<dbReference type="SMR" id="A8K503"/>
+<dbReference type="STRING" id="9606.ENSP00000324897"/>
+<dbReference type="PaxDb" id="A8K503"/>
+<dbReference type="PeptideAtlas" id="A8K503"/>
+<dbReference type="PRIDE" id="A8K503"/>
+<dbReference type="DNASU" id="7329"/>
+<dbReference type="GeneID" id="7329"/>
+<dbReference type="KEGG" id="hsa:7329"/>
+<dbReference type="CTD" id="7329"/>
+<dbReference type="eggNOG" id="KOG0424">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5078">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG063308"/>
+<dbReference type="KO" id="K10577"/>
+<dbReference type="SignaLink" id="A8K503"/>
+<dbReference type="UniPathway" id="UPA00886"/>
+<dbReference type="GenomeRNAi" id="7329"/>
+<dbReference type="Genevisible" id="A8K503">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019789">
+<property type="term" value="F:SUMO transferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd00195">
+<property type="entry name" value="UBCc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.10.110.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027230">
+<property type="entry name" value="Ubc9"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000608">
+<property type="entry name" value="UBQ-conjugat_E2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023313">
+<property type="entry name" value="UBQ-conjugating_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016135">
+<property type="entry name" value="UBQ-conjugating_enzyme/RWD"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24067:SF164">
+<property type="entry name" value="PTHR24067:SF164"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00179">
+<property type="entry name" value="UQ_con"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54495">
+<property type="entry name" value="SSF54495"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00183">
+<property type="entry name" value="UBIQUITIN_CONJUGAT_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50127">
+<property type="entry name" value="UBIQUITIN_CONJUGAT_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<keyword id="KW-0833" evidence="2 4">Ubl conjugation pathway</keyword>
+<feature type="domain" description="UBIQUITIN_CONJUGAT_2" evidence="5">
+<location>
+<begin position="7"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="active site" description="Glycyl thioester intermediate" evidence="1">
+<location>
+<position position="93"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00388"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU362109"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00805669"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00805691"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50127"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAF83807.1"/>
+</source>
+</evidence>
+<sequence length="158" mass="18035" checksum="E2C826EBA540683D" modified="2007-12-04" version="1">
+MSGIALSRLAQERKAWRKDHPFGFVAVPTKNPDGTMNLMNWECAIPGKKGTPWEGGLFKL
+RMLFKDDYPSSPPKCKFEPPLFHPNVYPSGTVCLSILEEDKDWRPAITIKQILLGIQELL
+NEPNIQDPAQAEAYTIYCRNRVEYEKRVRAQAKKFAPS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,966 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2000-05-30" modified="2017-04-12" version="153">
+<accession>Q9Y2G3</accession>
+<accession>Q96FN1</accession>
+<accession>Q9UKK7</accession>
+<name>AT11B_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Probable phospholipid-transporting ATPase IF</fullName>
+<ecNumber>3.6.3.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>ATPase IR</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>ATPase class VI type 11B</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>P4-ATPase flippase complex alpha subunit ATP11B</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ATP11B</name>
+<name type="synonym">ATPIF</name>
+<name type="synonym">ATPIR</name>
+<name type="synonym">KIAA0956</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1999" name="Physiol. Genomics" volume="1" first="139" last="150">
+<title>Differential expression of putative transbilayer amphipath transporters.</title>
+<authorList>
+<person name="Halleck M.S."/>
+<person name="Lawler J.F. Jr."/>
+<person name="Blackshaw S."/>
+<person name="Gao L."/>
+<person name="Nagarajan P."/>
+<person name="Hacker C."/>
+<person name="Pyle S."/>
+<person name="Newman J.T."/>
+<person name="Nakanishi Y."/>
+<person name="Ando H."/>
+<person name="Weinstock D."/>
+<person name="Williamson P.L."/>
+<person name="Schlegel R.A."/>
+</authorList>
+<dbReference type="PubMed" id="11015572"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 1-248</scope>
+<source>
+<tissue>Colon</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="1194" last="1198">
+<title>The DNA sequence, annotation and analysis of human chromosome 3.</title>
+<authorList>
+<person name="Muzny D.M."/>
+<person name="Scherer S.E."/>
+<person name="Kaul R."/>
+<person name="Wang J."/>
+<person name="Yu J."/>
+<person name="Sudbrak R."/>
+<person name="Buhay C.J."/>
+<person name="Chen R."/>
+<person name="Cree A."/>
+<person name="Ding Y."/>
+<person name="Dugan-Rocha S."/>
+<person name="Gill R."/>
+<person name="Gunaratne P."/>
+<person name="Harris R.A."/>
+<person name="Hawes A.C."/>
+<person name="Hernandez J."/>
+<person name="Hodgson A.V."/>
+<person name="Hume J."/>
+<person name="Jackson A."/>
+<person name="Khan Z.M."/>
+<person name="Kovar-Smith C."/>
+<person name="Lewis L.R."/>
+<person name="Lozado R.J."/>
+<person name="Metzker M.L."/>
+<person name="Milosavljevic A."/>
+<person name="Miner G.R."/>
+<person name="Morgan M.B."/>
+<person name="Nazareth L.V."/>
+<person name="Scott G."/>
+<person name="Sodergren E."/>
+<person name="Song X.-Z."/>
+<person name="Steffen D."/>
+<person name="Wei S."/>
+<person name="Wheeler D.A."/>
+<person name="Wright M.W."/>
+<person name="Worley K.C."/>
+<person name="Yuan Y."/>
+<person name="Zhang Z."/>
+<person name="Adams C.Q."/>
+<person name="Ansari-Lari M.A."/>
+<person name="Ayele M."/>
+<person name="Brown M.J."/>
+<person name="Chen G."/>
+<person name="Chen Z."/>
+<person name="Clendenning J."/>
+<person name="Clerc-Blankenburg K.P."/>
+<person name="Chen R."/>
+<person name="Chen Z."/>
+<person name="Davis C."/>
+<person name="Delgado O."/>
+<person name="Dinh H.H."/>
+<person name="Dong W."/>
+<person name="Draper H."/>
+<person name="Ernst S."/>
+<person name="Fu G."/>
+<person name="Gonzalez-Garay M.L."/>
+<person name="Garcia D.K."/>
+<person name="Gillett W."/>
+<person name="Gu J."/>
+<person name="Hao B."/>
+<person name="Haugen E."/>
+<person name="Havlak P."/>
+<person name="He X."/>
+<person name="Hennig S."/>
+<person name="Hu S."/>
+<person name="Huang W."/>
+<person name="Jackson L.R."/>
+<person name="Jacob L.S."/>
+<person name="Kelly S.H."/>
+<person name="Kube M."/>
+<person name="Levy R."/>
+<person name="Li Z."/>
+<person name="Liu B."/>
+<person name="Liu J."/>
+<person name="Liu W."/>
+<person name="Lu J."/>
+<person name="Maheshwari M."/>
+<person name="Nguyen B.-V."/>
+<person name="Okwuonu G.O."/>
+<person name="Palmeiri A."/>
+<person name="Pasternak S."/>
+<person name="Perez L.M."/>
+<person name="Phelps K.A."/>
+<person name="Plopper F.J."/>
+<person name="Qiang B."/>
+<person name="Raymond C."/>
+<person name="Rodriguez R."/>
+<person name="Saenphimmachak C."/>
+<person name="Santibanez J."/>
+<person name="Shen H."/>
+<person name="Shen Y."/>
+<person name="Subramanian S."/>
+<person name="Tabor P.E."/>
+<person name="Verduzco D."/>
+<person name="Waldron L."/>
+<person name="Wang J."/>
+<person name="Wang J."/>
+<person name="Wang Q."/>
+<person name="Williams G.A."/>
+<person name="Wong G.K.-S."/>
+<person name="Yao Z."/>
+<person name="Zhang J."/>
+<person name="Zhang X."/>
+<person name="Zhao G."/>
+<person name="Zhou J."/>
+<person name="Zhou Y."/>
+<person name="Nelson D."/>
+<person name="Lehrach H."/>
+<person name="Reinhardt R."/>
+<person name="Naylor S.L."/>
+<person name="Yang H."/>
+<person name="Olson M."/>
+<person name="Weinstock G."/>
+<person name="Gibbs R.A."/>
+</authorList>
+<dbReference type="PubMed" id="16641997"/>
+<dbReference type="DOI" id="10.1038/nature04728"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1-195 AND 540-1177</scope>
+<source>
+<tissue>Colon</tissue>
+<tissue>Mammary gland</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="9736" last="9740">
+<title>Reanalysis of ATP11B, a Type IV P-type ATPase.</title>
+<authorList>
+<person name="Halleck M.S."/>
+<person name="Schlegel R.A."/>
+<person name="Williamson P.L."/>
+</authorList>
+<dbReference type="PubMed" id="11790799"/>
+<dbReference type="DOI" id="10.1074/jbc.M200240200"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 111-450</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1999" name="DNA Res." volume="6" first="63" last="70">
+<title>Prediction of the coding sequences of unidentified human genes. XIII. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro.</title>
+<authorList>
+<person name="Nagase T."/>
+<person name="Ishikawa K."/>
+<person name="Suyama M."/>
+<person name="Kikuno R."/>
+<person name="Hirosawa M."/>
+<person name="Miyajima N."/>
+<person name="Tanaka A."/>
+<person name="Kotani H."/>
+<person name="Nomura N."/>
+<person name="Ohara O."/>
+</authorList>
+<dbReference type="PubMed" id="10231032"/>
+<dbReference type="DOI" id="10.1093/dnares/6.1.63"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 440-1111</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2007" name="BMC Genomics" volume="8" first="399" last="399">
+<title>The full-ORF clone resource of the German cDNA consortium.</title>
+<authorList>
+<person name="Bechtel S."/>
+<person name="Rosenfelder H."/>
+<person name="Duda A."/>
+<person name="Schmidt C.P."/>
+<person name="Ernst U."/>
+<person name="Wellenreuther R."/>
+<person name="Mehrle A."/>
+<person name="Schuster C."/>
+<person name="Bahr A."/>
+<person name="Bloecker H."/>
+<person name="Heubner D."/>
+<person name="Hoerlein A."/>
+<person name="Michel G."/>
+<person name="Wedler H."/>
+<person name="Koehrer K."/>
+<person name="Ottenwaelder B."/>
+<person name="Poustka A."/>
+<person name="Wiemann S."/>
+<person name="Schupp I."/>
+</authorList>
+<dbReference type="PubMed" id="17974005"/>
+<dbReference type="DOI" id="10.1186/1471-2164-8-399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 688-1111</scope>
+<source>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2009" name="Sci. Signal." volume="2" first="RA46" last="RA46">
+<title>Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions.</title>
+<authorList>
+<person name="Mayya V."/>
+<person name="Lundgren D.H."/>
+<person name="Hwang S.-I."/>
+<person name="Rezaul K."/>
+<person name="Wu L."/>
+<person name="Eng J.K."/>
+<person name="Rodionov V."/>
+<person name="Han D.K."/>
+</authorList>
+<dbReference type="PubMed" id="19690332"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000007"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1154</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Leukemic T-cell</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2011" name="J. Biol. Chem." volume="286" first="38159" last="38167">
+<title>ATP9B, a P4-ATPase (a putative aminophospholipid translocase), localizes to the trans-Golgi network in a CDC50 protein-independent manner.</title>
+<authorList>
+<person name="Takatsu H."/>
+<person name="Baba K."/>
+<person name="Shima T."/>
+<person name="Umino H."/>
+<person name="Kato U."/>
+<person name="Umeda M."/>
+<person name="Nakayama K."/>
+<person name="Shin H.W."/>
+</authorList>
+<dbReference type="PubMed" id="21914794"/>
+<dbReference type="DOI" id="10.1074/jbc.M111.281006"/>
+</citation>
+<scope>INTERACTION WITH TMEM30A</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2013" name="J. Clin. Invest." volume="123" first="2119" last="2130">
+<title>ATP11B mediates platinum resistance in ovarian cancer.</title>
+<authorList>
+<person name="Moreno-Smith M."/>
+<person name="Halder J.B."/>
+<person name="Meltzer P.S."/>
+<person name="Gonda T.A."/>
+<person name="Mangala L.S."/>
+<person name="Rupaimoole R."/>
+<person name="Lu C."/>
+<person name="Nagaraja A.S."/>
+<person name="Gharpure K.M."/>
+<person name="Kang Y."/>
+<person name="Rodriguez-Aguayo C."/>
+<person name="Vivas-Mejia P.E."/>
+<person name="Zand B."/>
+<person name="Schmandt R."/>
+<person name="Wang H."/>
+<person name="Langley R.R."/>
+<person name="Jennings N.B."/>
+<person name="Ivan C."/>
+<person name="Coffin J.E."/>
+<person name="Armaiz G.N."/>
+<person name="Bottsford-Miller J."/>
+<person name="Kim S.B."/>
+<person name="Halleck M.S."/>
+<person name="Hendrix M.J."/>
+<person name="Bornman W."/>
+<person name="Bar-Eli M."/>
+<person name="Lee J.S."/>
+<person name="Siddik Z.H."/>
+<person name="Lopez-Berestein G."/>
+<person name="Sood A.K."/>
+</authorList>
+<dbReference type="PubMed" id="23585472"/>
+<dbReference type="DOI" id="10.1172/JCI65425"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1154</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1154</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<comment type="function">
+<text evidence="7 8">Catalytic component of a P4-ATPase flippase complex which catalyzes the hydrolysis of ATP coupled to the transport of aminophospholipids from the outer to the inner leaflet of various membranes and ensures the maintenance of asymmetric distribution of phospholipids. Phospholipid translocation seems also to be implicated in vesicle formation and in uptake of lipid signaling molecules (Probable). Involved in regulation of sensitivity to cisplatin; may contribute to secretory vesicle transport of cisplatin from Golgi to plasma membrane.</text>
+</comment>
+<comment type="catalytic activity">
+<text>ATP + H(2)O + phospholipid(Side 1) = ADP + phosphate + phospholipid(Side 2).</text>
+</comment>
+<comment type="subunit">
+<text evidence="6 8">Component of a P4-ATPase flippase complex which consists of a catalytic alpha subunit and an accessory beta subunit (Probable). Interacts with beta subunit TMEM30A.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="6">Recycling endosome membrane</location>
+<topology>Multi-pass membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="7">Early endosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="6">Endoplasmic reticulum</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="7">Golgi apparatus</location>
+<location evidence="7">trans-Golgi network</location>
+</subcellularLocation>
+<text evidence="6">Exit from the endoplasmic reticulum requires the presence of TMEM30A, but not TMEM30B (PubMed:21914794). In the presence of TMEM30A, mainly located in recycling endosomes (PubMed:21914794).</text>
+</comment>
+<comment type="miscellaneous">
+<text>Depletion of ATP11B by RNAi restores sensitivity of ovarian cancer cells to cisplatin.</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type IV subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="8">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="AAH10630" version="1"/>
+</conflict>
+<location>
+<position position="884"/>
+</location>
+</comment>
+<comment type="sequence caution" evidence="8">
+<conflict type="miscellaneous discrepancy">
+<sequence resource="EMBL-CDS" id="AAH42180" version="1"/>
+</conflict>
+<text>Intron retention.</text>
+</comment>
+<dbReference type="EC" id="3.6.3.1"/>
+<dbReference type="EMBL" id="AF156548">
+<property type="protein sequence ID" value="AAF09446.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC069431">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC042180">
+<property type="protein sequence ID" value="AAH42180.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC010630">
+<property type="protein sequence ID" value="AAH10630.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB023173">
+<property type="protein sequence ID" value="BAA76800.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL133061">
+<property type="protein sequence ID" value="CAB61385.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS33896.1"/>
+<dbReference type="PIR" id="T42662">
+<property type="entry name" value="T42662"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_055431.1">
+<property type="nucleotide sequence ID" value="NM_014616.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.478429"/>
+<dbReference type="ProteinModelPortal" id="Q9Y2G3"/>
+<dbReference type="BioGrid" id="116809">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000321195"/>
+<dbReference type="TCDB" id="3.A.3.8.12">
+<property type="family name" value="the p-type atpase (p-atpase) superfamily"/>
+</dbReference>
+<dbReference type="iPTMnet" id="Q9Y2G3"/>
+<dbReference type="PhosphoSitePlus" id="Q9Y2G3"/>
+<dbReference type="SwissPalm" id="Q9Y2G3"/>
+<dbReference type="BioMuta" id="ATP11B"/>
+<dbReference type="DMDM" id="30316395"/>
+<dbReference type="EPD" id="Q9Y2G3"/>
+<dbReference type="MaxQB" id="Q9Y2G3"/>
+<dbReference type="PaxDb" id="Q9Y2G3"/>
+<dbReference type="PeptideAtlas" id="Q9Y2G3"/>
+<dbReference type="PRIDE" id="Q9Y2G3"/>
+<dbReference type="DNASU" id="23200"/>
+<dbReference type="Ensembl" id="ENST00000323116">
+<property type="protein sequence ID" value="ENSP00000321195"/>
+<property type="gene ID" value="ENSG00000058063"/>
+</dbReference>
+<dbReference type="GeneID" id="23200"/>
+<dbReference type="KEGG" id="hsa:23200"/>
+<dbReference type="UCSC" id="uc003fla.3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="23200"/>
+<dbReference type="DisGeNET" id="23200"/>
+<dbReference type="GeneCards" id="ATP11B"/>
+<dbReference type="HGNC" id="HGNC:13553">
+<property type="gene designation" value="ATP11B"/>
+</dbReference>
+<dbReference type="HPA" id="HPA036237"/>
+<dbReference type="HPA" id="HPA036238"/>
+<dbReference type="MIM" id="605869">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9Y2G3"/>
+<dbReference type="OpenTargets" id="ENSG00000058063"/>
+<dbReference type="PharmGKB" id="PA25102"/>
+<dbReference type="eggNOG" id="KOG0206">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0474">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00870000136387"/>
+<dbReference type="HOGENOM" id="HOG000202528"/>
+<dbReference type="HOVERGEN" id="HBG050601"/>
+<dbReference type="InParanoid" id="Q9Y2G3"/>
+<dbReference type="KO" id="K01530"/>
+<dbReference type="OMA" id="TNTEKAQ"/>
+<dbReference type="OrthoDB" id="EOG091G03B1"/>
+<dbReference type="PhylomeDB" id="Q9Y2G3"/>
+<dbReference type="TreeFam" id="TF326897"/>
+<dbReference type="Reactome" id="R-HSA-6798695">
+<property type="pathway name" value="Neutrophil degranulation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-936837">
+<property type="pathway name" value="Ion transport by P-type ATPases"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="ATP11B">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="ATP11B"/>
+<dbReference type="GenomeRNAi" id="23200"/>
+<dbReference type="PRO" id="PR:Q9Y2G3"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 3"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000058063"/>
+<dbReference type="CleanEx" id="HS_ATP11B"/>
+<dbReference type="ExpressionAtlas" id="Q9Y2G3">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9Y2G3">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035577">
+<property type="term" value="C:azurophil granule membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005769">
+<property type="term" value="C:early endosome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005783">
+<property type="term" value="C:endoplasmic reticulum"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005794">
+<property type="term" value="C:Golgi apparatus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005637">
+<property type="term" value="C:nuclear inner membrane"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055037">
+<property type="term" value="C:recycling endosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055038">
+<property type="term" value="C:recycling endosome membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015075">
+<property type="term" value="F:ion transmembrane transporter activity"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004012">
+<property type="term" value="F:phospholipid-translocating ATPase activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015917">
+<property type="term" value="P:aminophospholipid transport"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034220">
+<property type="term" value="P:ion transmembrane transport"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006811">
+<property type="term" value="P:ion transport"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043312">
+<property type="term" value="P:neutrophil degranulation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045332">
+<property type="term" value="P:phospholipid translocation"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.70.150.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.1110.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.1000">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030362">
+<property type="entry name" value="ATP11B"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023299">
+<property type="entry name" value="ATPase_P-typ_cyto_domN"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018303">
+<property type="entry name" value="ATPase_P-typ_P_site"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008250">
+<property type="entry name" value="ATPase_P-typ_transduc_dom_A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023214">
+<property type="entry name" value="HAD-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006539">
+<property type="entry name" value="P-type_ATPase_IV"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032631">
+<property type="entry name" value="P-type_ATPase_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001757">
+<property type="entry name" value="P_typ_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032630">
+<property type="entry name" value="P_typ_ATPase_c"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24092">
+<property type="entry name" value="PTHR24092"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24092:SF105">
+<property type="entry name" value="PTHR24092:SF105"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00122">
+<property type="entry name" value="E1-E2_ATPase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16212">
+<property type="entry name" value="PhoLip_ATPase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16209">
+<property type="entry name" value="PhoLip_ATPase_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56784">
+<property type="entry name" value="SSF56784"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF81660">
+<property type="entry name" value="SSF81660"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01652">
+<property type="entry name" value="ATPase-Plipid"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01494">
+<property type="entry name" value="ATPase_P-type"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00154">
+<property type="entry name" value="ATPASE_E1_E2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0256">Endoplasmic reticulum</keyword>
+<keyword id="KW-0967">Endosome</keyword>
+<keyword id="KW-0333">Golgi apparatus</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0445">Lipid transport</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="Probable phospholipid-transporting ATPase IF" id="PRO_0000046371">
+<location>
+<begin position="1"/>
+<end position="1177"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="5">
+<location>
+<begin position="1"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="56"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="5">
+<location>
+<begin position="78"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="83"/>
+<end position="104"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="5">
+<location>
+<begin position="105"/>
+<end position="289"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="290"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="5">
+<location>
+<begin position="312"/>
+<end position="341"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="342"/>
+<end position="359"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="5">
+<location>
+<begin position="360"/>
+<end position="876"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="877"/>
+<end position="898"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="5">
+<location>
+<begin position="899"/>
+<end position="910"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="911"/>
+<end position="930"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="5">
+<location>
+<begin position="931"/>
+<end position="960"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="961"/>
+<end position="982"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="5">
+<location>
+<begin position="983"/>
+<end position="997"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="998"/>
+<end position="1020"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="5">
+<location>
+<begin position="1021"/>
+<end position="1025"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="1026"/>
+<end position="1047"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="5">
+<location>
+<begin position="1048"/>
+<end position="1065"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="1066"/>
+<end position="1090"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="5">
+<location>
+<begin position="1091"/>
+<end position="1177"/>
+</location>
+</feature>
+<feature type="active site" description="4-aspartylphosphate intermediate" evidence="4">
+<location>
+<position position="407"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="4">
+<location>
+<position position="821"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="4">
+<location>
+<position position="825"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1 2 3">
+<location>
+<position position="1154"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19690332"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="24275569"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000250"/>
+<evidence key="5" type="ECO:0000255"/>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21914794"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23585472"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<sequence length="1177" mass="134190" checksum="665110145457B220" modified="2003-04-30" version="2">
+MWRWIRQQLGFDPPHQSDTRTIYVANRFPQNGLYTPQKFIDNRIISSKYTVWNFVPKNLF
+EQFRRVANFYFLIIFLVQLMIDTPTSPVTSGLPLFFVITVTAIKQGYEDWLRHNSDNEVN
+GAPVYVVRSGGLVKTRSKNIRVGDIVRIAKDEIFPADLVLLSSDRLDGSCHVTTASLDGE
+TNLKTHVAVPETALLQTVANLDTLVAVIECQQPEADLYRFMGRMIITQQMEEIVRPLGPE
+SLLLRGARLKNTKEIFGVAVYTGMETKMALNYKSKSQKRSAVEKSMNTFLIIYLVILISE
+AVISTILKYTWQAEEKWDEPWYNQKTEHQRNSSKILRFISDFLAFLVLYNFIIPISLYVT
+VEMQKFLGSFFIGWDLDLYHEESDQKAQVNTSDLNEELGQVEYVFTDKTGTLTENEMQFR
+ECSINGMKYQEINGRLVPEGPTPDSSEGNLSYLSSLSHLNNLSHLTTSSSFRTSPENETE
+LIKEHDLFFKAVSLCHTVQISNVQTDCTGDGPWQSNLAPSQLEYYASSPDEKALVEAAAR
+IGIVFIGNSEETMEVKTLGKLERYKLLHILEFDSDRRRMSVIVQAPSGEKLLFAKGAESS
+ILPKCIGGEIEKTRIHVDEFALKGLRTLCIAYRKFTSKEYEEIDKRIFEARTALQQREEK
+LAAVFQFIEKDLILLGATAVEDRLQDKVRETIEALRMAGIKVWVLTGDKHETAVSVSLSC
+GHFHRTMNILELINQKSDSECAEQLRQLARRITEDHVIQHGLVVDGTSLSLALREHEKLF
+MEVCRNCSAVLCCRMAPLQKAKVIRLIKISPEKPITLAVGDGANDVSMIQEAHVGIGIMG
+KEGRQAARNSDYAIARFKFLSKLLFVHGHFYYIRIATLVQYFFYKNVCFITPQFLYQFYC
+LFSQQTLYDSVYLTLYNICFTSLPILIYSLLEQHVDPHVLQNKPTLYRDISKNRLLSIKT
+FLYWTILGFSHAFIFFFGSYLLIGKDTSLLGNGQMFGNWTFGTLVFTVMVITVTVKMALE
+THFWTWINHLVTWGSIIFYFVFSLFYGGILWPFLGSQNMYFVFIQLLSSGSAWFAIILMV
+VTCLFLDIIKKVFDRHLHPTSTEKAQLTETNAGIKCLDSMCCFPEGEAACASVGRMLERV
+IGRCSPTHISRSWSASDPFYTNDRSILTLSTMDSSTC
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

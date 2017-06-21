@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2005-04-26" modified="2017-05-10" version="98">
+<accession>Q59HH3</accession>
+<name>Q59HH3_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">Trifunctional purine biosynthetic protein adenosine-3</fullName>
+</recommendedName>
+<domain>
+<recommendedName>
+<fullName evidence="2">Phosphoribosylamine--glycine ligase</fullName>
+<ecNumber evidence="2">6.3.4.13</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="2">Glycinamide ribonucleotide synthetase</fullName>
+<shortName evidence="2">GARS</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="2">Phosphoribosylglycinamide synthetase</fullName>
+</alternativeName>
+</domain>
+<domain>
+<recommendedName>
+<fullName evidence="2">Phosphoribosylformylglycinamidine cyclo-ligase</fullName>
+<ecNumber evidence="2">6.3.3.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="2">AIR synthase</fullName>
+<shortName evidence="2">AIRS</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="2">Phosphoribosyl-aminoimidazole synthetase</fullName>
+</alternativeName>
+</domain>
+<domain>
+<recommendedName>
+<fullName evidence="2">Phosphoribosylglycinamide formyltransferase</fullName>
+<ecNumber evidence="2">2.1.2.2</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="2">5'-phosphoribosylglycinamide transformylase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="2">GAR transformylase</fullName>
+<shortName evidence="2">GART</shortName>
+</alternativeName>
+</domain>
+</protein>
+<organism evidence="5">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="submission" date="2005-03" db="EMBL/GenBank/DDBJ databases">
+<title>Homo sapiens protein coding cDNA.</title>
+<authorList>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Takeda T."/>
+<person name="Sakaki Y."/>
+<person name="Tanaka A."/>
+<person name="Yokoyama S."/>
+<person name="Ohara O."/>
+<person name="Nagase T."/>
+<person name="Kikuno R.F."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="5">Brain</tissue>
+</source>
+</reference>
+<comment type="catalytic activity">
+<text evidence="2">10-formyltetrahydrofolate + N(1)-(5-phospho-D-ribosyl)glycinamide = tetrahydrofolate + N(2)-formyl-N(1)-(5-phospho-D-ribosyl)glycinamide.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="2">ATP + 2-(formamido)-N(1)-(5-phospho-D-ribosyl)acetamidine = ADP + phosphate + 5-amino-1-(5-phospho-D-ribosyl)imidazole.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="2">ATP + 5-phospho-D-ribosylamine + glycine = ADP + phosphate + N(1)-(5-phospho-D-ribosyl)glycinamide.</text>
+</comment>
+<comment type="pathway" evidence="2">
+<text>Purine metabolism; IMP biosynthesis via de novo pathway; 5-amino-1-(5-phospho-D-ribosyl)imidazole from N(2)-formyl-N(1)-(5-phospho-D-ribosyl)glycinamide: step 2/2.</text>
+</comment>
+<comment type="pathway" evidence="2">
+<text>Purine metabolism; IMP biosynthesis via de novo pathway; N(1)-(5-phospho-D-ribosyl)glycinamide from 5-phospho-alpha-D-ribose 1-diphosphate: step 2/2.</text>
+</comment>
+<comment type="pathway" evidence="2">
+<text>Purine metabolism; IMP biosynthesis via de novo pathway; N(2)-formyl-N(1)-(5-phospho-D-ribosyl)glycinamide from N(1)-(5-phospho-D-ribosyl)glycinamide (10-formyl THF route): step 1/1.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">In the C-terminal section; belongs to the GART family.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">In the N-terminal section; belongs to the GARS family.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">In the central section; belongs to the AIR synthase family.</text>
+</comment>
+<dbReference type="EC" id="6.3.4.13" evidence="2"/>
+<dbReference type="EC" id="6.3.3.1" evidence="2"/>
+<dbReference type="EC" id="2.1.2.2" evidence="2"/>
+<dbReference type="EMBL" id="AB208785">
+<property type="protein sequence ID" value="BAD92022.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001129478.1">
+<property type="nucleotide sequence ID" value="NM_001136006.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.473648"/>
+<dbReference type="ProteinModelPortal" id="Q59HH3"/>
+<dbReference type="MINT" id="MINT-5004954"/>
+<dbReference type="STRING" id="9606.ENSP00000371236"/>
+<dbReference type="PaxDb" id="Q59HH3"/>
+<dbReference type="PeptideAtlas" id="Q59HH3"/>
+<dbReference type="PRIDE" id="Q59HH3"/>
+<dbReference type="GeneID" id="2618"/>
+<dbReference type="CTD" id="2618"/>
+<dbReference type="PharmGKB" id="PA28576"/>
+<dbReference type="eggNOG" id="KOG0237">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG3076">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0150">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0151">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0299">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000030315"/>
+<dbReference type="HOVERGEN" id="HBG008333"/>
+<dbReference type="UniPathway" id="UPA00074">
+<property type="reaction ID" value="UER00125"/>
+</dbReference>
+<dbReference type="UniPathway" id="UPA00074">
+<property type="reaction ID" value="UER00126"/>
+</dbReference>
+<dbReference type="UniPathway" id="UPA00074">
+<property type="reaction ID" value="UER00129"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="2618"/>
+<dbReference type="Genevisible" id="Q59HH3">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004637">
+<property type="term" value="F:phosphoribosylamine-glycine ligase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004641">
+<property type="term" value="F:phosphoribosylformylglycinamidine cyclo-ligase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004644">
+<property type="term" value="F:phosphoribosylglycinamide formyltransferase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006189">
+<property type="term" value="P:'de novo' IMP biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009113">
+<property type="term" value="P:purine nucleobase biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd08645">
+<property type="entry name" value="FMT_core_GART"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd02196">
+<property type="entry name" value="PurM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1330.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1490.20">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.170">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.600.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.650.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00741">
+<property type="entry name" value="AIRS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00138">
+<property type="entry name" value="GARS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_01930">
+<property type="entry name" value="PurN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010918">
+<property type="entry name" value="AIR_synth_C_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011761">
+<property type="entry name" value="ATP-grasp"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013815">
+<property type="entry name" value="ATP_grasp_subdomain_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002376">
+<property type="entry name" value="Formyl_transf_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004607">
+<property type="entry name" value="GART"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001555">
+<property type="entry name" value="GART_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016185">
+<property type="entry name" value="PreATP-grasp_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020561">
+<property type="entry name" value="PRibGlycinamid_synth_ATP-grasp"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000115">
+<property type="entry name" value="PRibGlycinamide_synth"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020560">
+<property type="entry name" value="PRibGlycinamide_synth_C-dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020559">
+<property type="entry name" value="PRibGlycinamide_synth_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020562">
+<property type="entry name" value="PRibGlycinamide_synth_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016188">
+<property type="entry name" value="PurM-like_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004733">
+<property type="entry name" value="PurM_cligase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011054">
+<property type="entry name" value="Rudment_hybrid_motif"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10520:SF42">
+<property type="entry name" value="PTHR10520:SF42"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00586">
+<property type="entry name" value="AIRS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02769">
+<property type="entry name" value="AIRS_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00551">
+<property type="entry name" value="Formyl_trans_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01071">
+<property type="entry name" value="GARS_A"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02843">
+<property type="entry name" value="GARS_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02844">
+<property type="entry name" value="GARS_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01210">
+<property type="entry name" value="GARS_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51246">
+<property type="entry name" value="SSF51246"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52440">
+<property type="entry name" value="SSF52440"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53328">
+<property type="entry name" value="SSF53328"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55326">
+<property type="entry name" value="SSF55326"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56042">
+<property type="entry name" value="SSF56042"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00877">
+<property type="entry name" value="purD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00878">
+<property type="entry name" value="purM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00639">
+<property type="entry name" value="PurN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50975">
+<property type="entry name" value="ATP_GRASP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00184">
+<property type="entry name" value="GARS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00373">
+<property type="entry name" value="GART"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1 2">ATP-binding</keyword>
+<keyword id="KW-0436" evidence="2">Ligase</keyword>
+<keyword id="KW-0464" evidence="2">Manganese</keyword>
+<keyword id="KW-0472" evidence="3">Membrane</keyword>
+<keyword id="KW-0479" evidence="2">Metal-binding</keyword>
+<keyword id="KW-0511" evidence="2">Multifunctional enzyme</keyword>
+<keyword id="KW-0547" evidence="1 2">Nucleotide-binding</keyword>
+<keyword id="KW-0658" evidence="2">Purine biosynthesis</keyword>
+<keyword id="KW-0808" evidence="5">Transferase</keyword>
+<keyword id="KW-0812" evidence="3">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="3">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="12"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="domain" description="ATP-grasp" evidence="4">
+<location>
+<begin position="147"/>
+<end position="354"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="5">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00409"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU363089"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50975"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAD92022.1"/>
+</source>
+</evidence>
+<sequence length="1046" mass="112138" checksum="DF03CB4B83AE9EEA" modified="2005-04-26" version="1" fragment="single">
+RRRGRRARRATRCLTHGFQALSGFIFLWNFCFTDRTMAARVLIIGSGGREHTLAWKLAQS
+HHVKQVLVAPGNAGTACSEKISNTAISISDHTALAQFCKEKKIEFVVVGPEAPLAAGIVG
+NLRSAGVQCFGPTAEAAQLESSKRFAKEFMDRHGIPTAQWKAFTKPEEACSFILSADFPA
+LVVKASGLAAGKGVIVAKSKEEACKAVQEIMQEKAFGAAGETIVIEELLDGEEVSCLCFT
+DGKTVAPMPPAQDHKRLLEGDGGPNTGGMGAYCPAPQVSNDLLLKIKDTVLQRTVDGMQQ
+EGTPYTGILYAGIMLTKNGPKVLEFNCRFGDPECQVILPLLKSDLYEVIQSTLDGLLCTS
+LPVWLENHTALTVVMASKGYPGDYTKGVEITGFPEAQALGLEVFHAGTALKNGKVVTHGG
+RVLAVTAIRENLISALEEAKKGLAAIKFEGAIYRKDIGFRAIAFLQQPRSLTYKESGVDI
+AAGNMLVKKIQPLAKATSRSGCKVDLGGFAGLFDLKAAGFKDPLLASGTDGVGTKLKIAQ
+LCNKHDTIGQDLVAMCVNDILAQGAEPLFFLDYFSCGKLDLSVTEAVVAGIAKACGKAGC
+ALLGGETAEMPDMYPPGEYDLAGFAVGAMERDQKLPHLERITEGDVVVGIASSGLHSNGF
+SLVRKIVAKSSLQYSSPAPDGCGDQTLGDLLLTPTRIYSHSLLPVLRSGHVKAFAHITGG
+GLLENIPRVLPEKLGVDLDAQTWRIPRVFSWLQQEGHLSEEEMARTFNCGVGAVLVVSKE
+QTEQILRDIQQHKEEAWVIGSVVARAEGSPRVKVKNLIESMQINGSVLKNGSLTNHFSFE
+KKKARVAVLISGTGSNLQALIDSTREPNSSAQIDIVISNKAAVAGLDKAERAGIPTRVIN
+HKLYKNRVEFDSAIDLVLEEFSIDIVCLAGFMRILSGPFVQKWNGKMLNIHPSLLPSFKG
+SNAHEQALETGVTVTGCTVHFVAEDVDAGQIILQEAVPVKRGDTVATLSERVKLAEHKIF
+PAALQLVASGTVQLGENGKICWVKEE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

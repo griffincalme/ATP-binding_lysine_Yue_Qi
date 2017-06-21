@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-07-01" modified="2017-05-10" version="61">
+<accession>B2R858</accession>
+<name>B2R858_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="6">cDNA, FLJ93750, Homo sapiens DEAD (Asp-Glu-Ala-Asp) box polypeptide 6 (DDX6), mRNA</fullName>
+</submittedName>
+</protein>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="submission" date="2008-01" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO functional analysis of protein and research application project.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Iida Y."/>
+<person name="Takayama Y."/>
+<person name="Murakawa K."/>
+<person name="Kanehori K."/>
+<person name="Andoh T."/>
+<person name="Kagawa N."/>
+<person name="Sato R."/>
+<person name="Kawamura Y."/>
+<person name="Tanaka S."/>
+<person name="Kisu Y."/>
+<person name="Sugano S."/>
+<person name="Goshima N."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="6">Brain</tissue>
+</source>
+</reference>
+<comment type="similarity">
+<text evidence="2">Belongs to the DEAD box helicase family.</text>
+</comment>
+<dbReference type="EMBL" id="AK313244">
+<property type="protein sequence ID" value="BAG36055.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001244120.1">
+<property type="nucleotide sequence ID" value="NM_001257191.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.408461"/>
+<dbReference type="ProteinModelPortal" id="B2R858"/>
+<dbReference type="STRING" id="9606.ENSP00000264018"/>
+<dbReference type="PaxDb" id="B2R858"/>
+<dbReference type="PeptideAtlas" id="B2R858"/>
+<dbReference type="PRIDE" id="B2R858"/>
+<dbReference type="GeneID" id="1656"/>
+<dbReference type="KEGG" id="hsa:1656"/>
+<dbReference type="CTD" id="1656"/>
+<dbReference type="eggNOG" id="KOG0326">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XRAZ">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG106685"/>
+<dbReference type="KO" id="K12614"/>
+<dbReference type="GenomeRNAi" id="1656"/>
+<dbReference type="Bgee" id="ENSG00000110367"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003676">
+<property type="term" value="F:nucleic acid binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011545">
+<property type="entry name" value="DEAD/DEAH_box_helicase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000629">
+<property type="entry name" value="RNA-helicase_DEAD-box_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014014">
+<property type="entry name" value="RNA_helicase_DEAD_Q_motif"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00270">
+<property type="entry name" value="DEAD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00490">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00039">
+<property type="entry name" value="DEAD_ATP_HELICASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51195">
+<property type="entry name" value="Q_MOTIF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0347" evidence="2">Helicase</keyword>
+<keyword id="KW-0378" evidence="2">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<feature type="domain" description="Q_MOTIF" evidence="5">
+<location>
+<begin position="85"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase ATP-binding" evidence="3">
+<location>
+<begin position="116"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase C-terminal" evidence="4">
+<location>
+<begin position="297"/>
+<end position="457"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Q motif" evidence="1">
+<location>
+<begin position="85"/>
+<end position="113"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00552"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000492"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51192"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51194"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51195"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG36055.1"/>
+</source>
+</evidence>
+<sequence length="472" mass="53216" checksum="83AC5228E102ED04" modified="2008-07-01" version="1">
+MGLSSQNGQLRGPVKPTGGPGGGGTQTQQQMNQLKNTNTINNGTQQQAQSMTTTIKPGDD
+WKKTLKLPPKDLRIKTSDVTSTKGNEFEDYCLKRELLMGIFEMGWEKPSPIQEESIPIAL
+SGRDILARAKNGTGKSGAYLIPLLERLDLKKDNIQAMVIVPTRELALQVSQICIQVSKHM
+GGAKVMATTGGTNLRDDIMRLDDTVHVVIATPGRILDLIKKGVAKVDHVQMIVLDEADKL
+LSQDFVQIMEDIILTLPKNRQILLYSATFPLSVQKFMNSHLQKPYEINLMEELTLKGVTQ
+YYAYVTERQKVHCLNTLFSRLQINQSIIFCNSSQRVELLAKKISQLGYSCFYIHAKMRQE
+HRNRVFHDFRNGLCRNLVCTDLFTRGIDIQAVNVVINFDFPKLAETYLHRIGRSGRFGHL
+GLAINLITYDDRFNLKSIEEQLGTEIKPIPSNIDKSLYVAEYHSEPVEDEKP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

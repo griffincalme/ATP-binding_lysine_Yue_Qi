@@ -1,0 +1,360 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2012-07-11" modified="2017-05-10" version="34">
+<accession>I3L112</accession>
+<name>I3L112_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="4">Diacylglycerol kinase</fullName>
+<shortName evidence="4">DAG kinase</shortName>
+<ecNumber evidence="4">2.7.1.107</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="7">DGKE</name>
+</gene>
+<organism evidence="7 8">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7 8">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="1045" last="1049">
+<title>DNA sequence of human chromosome 17 and analysis of rearrangement in the human lineage.</title>
+<authorList>
+<person name="Zody M.C."/>
+<person name="Garber M."/>
+<person name="Adams D.J."/>
+<person name="Sharpe T."/>
+<person name="Harrow J."/>
+<person name="Lupski J.R."/>
+<person name="Nicholson C."/>
+<person name="Searle S.M."/>
+<person name="Wilming L."/>
+<person name="Young S.K."/>
+<person name="Abouelleil A."/>
+<person name="Allen N.R."/>
+<person name="Bi W."/>
+<person name="Bloom T."/>
+<person name="Borowsky M.L."/>
+<person name="Bugalter B.E."/>
+<person name="Butler J."/>
+<person name="Chang J.L."/>
+<person name="Chen C.K."/>
+<person name="Cook A."/>
+<person name="Corum B."/>
+<person name="Cuomo C.A."/>
+<person name="de Jong P.J."/>
+<person name="DeCaprio D."/>
+<person name="Dewar K."/>
+<person name="FitzGerald M."/>
+<person name="Gilbert J."/>
+<person name="Gibson R."/>
+<person name="Gnerre S."/>
+<person name="Goldstein S."/>
+<person name="Grafham D.V."/>
+<person name="Grocock R."/>
+<person name="Hafez N."/>
+<person name="Hagopian D.S."/>
+<person name="Hart E."/>
+<person name="Norman C.H."/>
+<person name="Humphray S."/>
+<person name="Jaffe D.B."/>
+<person name="Jones M."/>
+<person name="Kamal M."/>
+<person name="Khodiyar V.K."/>
+<person name="LaButti K."/>
+<person name="Laird G."/>
+<person name="Lehoczky J."/>
+<person name="Liu X."/>
+<person name="Lokyitsang T."/>
+<person name="Loveland J."/>
+<person name="Lui A."/>
+<person name="Macdonald P."/>
+<person name="Major J.E."/>
+<person name="Matthews L."/>
+<person name="Mauceli E."/>
+<person name="McCarroll S.A."/>
+<person name="Mihalev A.H."/>
+<person name="Mudge J."/>
+<person name="Nguyen C."/>
+<person name="Nicol R."/>
+<person name="O'Leary S.B."/>
+<person name="Osoegawa K."/>
+<person name="Schwartz D.C."/>
+<person name="Shaw-Smith C."/>
+<person name="Stankiewicz P."/>
+<person name="Steward C."/>
+<person name="Swarbreck D."/>
+<person name="Venkataraman V."/>
+<person name="Whittaker C.A."/>
+<person name="Yang X."/>
+<person name="Zimmer A.R."/>
+<person name="Bradley A."/>
+<person name="Hubbard T."/>
+<person name="Birren B.W."/>
+<person name="Rogers J."/>
+<person name="Lander E.S."/>
+<person name="Nusbaum C."/>
+</authorList>
+<dbReference type="PubMed" id="16625196"/>
+<dbReference type="DOI" id="10.1038/nature04689"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="7">
+<citation type="submission" date="2012-05" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="4">ATP + 1,2-diacyl-sn-glycerol = ADP + 1,2-diacyl-sn-glycerol 3-phosphate.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the eukaryotic diacylglycerol kinase family.</text>
+</comment>
+<comment type="caution">
+<text evidence="7">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EC" id="2.7.1.107" evidence="4"/>
+<dbReference type="EMBL" id="AC015912">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC106858">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="ProteinModelPortal" id="I3L112"/>
+<dbReference type="STRING" id="9606.ENSP00000284061"/>
+<dbReference type="MaxQB" id="I3L112"/>
+<dbReference type="PaxDb" id="I3L112"/>
+<dbReference type="PeptideAtlas" id="I3L112"/>
+<dbReference type="PRIDE" id="I3L112"/>
+<dbReference type="Ensembl" id="ENST00000572944">
+<property type="protein sequence ID" value="ENSP00000458493"/>
+<property type="gene ID" value="ENSG00000153933"/>
+</dbReference>
+<dbReference type="UCSC" id="uc060hso.1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="HGNC" id="HGNC:2852">
+<property type="gene designation" value="DGKE"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000153933"/>
+<dbReference type="eggNOG" id="KOG1169">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XQVB">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00760000119050"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 17"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="I3L112">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004143">
+<property type="term" value="F:diacylglycerol kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003951">
+<property type="term" value="F:NAD+ kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035556">
+<property type="term" value="P:intracellular signal transduction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007205">
+<property type="term" value="P:protein kinase C-activating G-protein coupled receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd00029">
+<property type="entry name" value="C1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.10330">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017438">
+<property type="entry name" value="ATP-NAD_kinase_dom_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000756">
+<property type="entry name" value="Diacylglycerol_kin_accessory"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001206">
+<property type="entry name" value="Diacylglycerol_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016064">
+<property type="entry name" value="NAD/diacylglycerol_kinase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002219">
+<property type="entry name" value="PE/DAG-bd"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00130">
+<property type="entry name" value="C1_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00609">
+<property type="entry name" value="DAGK_acc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00781">
+<property type="entry name" value="DAGK_cat"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00109">
+<property type="entry name" value="C1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00045">
+<property type="entry name" value="DAGKa"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00046">
+<property type="entry name" value="DAGKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF111331">
+<property type="entry name" value="SSF111331"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50146">
+<property type="entry name" value="DAGK"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00479">
+<property type="entry name" value="ZF_DAG_PE_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50081">
+<property type="entry name" value="ZF_DAG_PE_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="4">ATP-binding</keyword>
+<keyword id="KW-0181" evidence="8">Complete proteome</keyword>
+<keyword id="KW-0418" evidence="4">Kinase</keyword>
+<keyword id="KW-0547" evidence="4">Nucleotide-binding</keyword>
+<keyword id="KW-1267" evidence="1 2 3">Proteomics identification</keyword>
+<keyword id="KW-1185" evidence="8">Reference proteome</keyword>
+<keyword id="KW-0808" evidence="4">Transferase</keyword>
+<feature type="domain" description="Phorbol-ester/DAG-type" evidence="5">
+<location>
+<begin position="3"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="domain" description="Phorbol-ester/DAG-type" evidence="5">
+<location>
+<begin position="68"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="domain" description="DAGKc" evidence="6">
+<location>
+<begin position="159"/>
+<end position="300"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="7">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000213">
+<source>
+<dbReference type="EPD" id="I3L112"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000213">
+<source>
+<dbReference type="MaxQB" id="I3L112"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000213">
+<source>
+<dbReference type="PeptideAtlas" id="I3L112"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU361128"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50081"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50146"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000458493"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="456" mass="51213" checksum="A01ABDD219F069DB" modified="2012-07-11" version="1" fragment="single">
+XSKHGWRDTDLFSQPTYCCVCAQHILQGAFCDCCGLRVDEGCLRKADKRFQCKEIMLKND
+TKVLDAMPHHWIRGNVPLCSYCMVCKQQCGCQPKLCDYRCIWCQKTVHDECMKNSLKNEK
+CDFGEFKNLIIPPSYLTSINQMRKDKKTDYEVLASKLGKQWTPLIILANSRSGTNMGEGL
+LGEFRILLNPVQVFDVTKTPPIKALQLCTLLPYYSARVLVCGGDGTVGWVLDAVDDMKIK
+GQEKYIPQVAVLPLGTGNDLSNTLGWGTGYAGEIPVAQVLRNVMEADGIKLDRWKVQVTN
+KGYYNLRKPKEFTMNNYFSVGPDALMALNFHAHREKAPSLFSSRILNKAVYLFYGTKDCL
+VQECKDLNKKVELELDGERVALPSLEGIIVLNIGYWGGGCRLWEGMGDETYPLARHDDGL
+LEVVGVYGSFHCAQIQVKLANPFRIGQAHTVRVGEI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

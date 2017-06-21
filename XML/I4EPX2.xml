@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2012-09-05" modified="2017-04-12" version="17">
+<accession>I4EPX2</accession>
+<name>I4EPX2_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="1">ATP-binding cassette, sub-family G (WHITE), member 2</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">ABCG2</name>
+</gene>
+<organism evidence="1">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="1">
+<citation type="submission" date="2012-05" db="EMBL/GenBank/DDBJ databases">
+<title>Nucleotide substitutions in the gene of the human ATP-Binding Cassette Transporter G2 and blood group antigen Junior(a) encoding an amino acid substitution in exon 2 (c.34G>A; p.Val12Met) and a premature stop codon in exon 4 (c.337 C>T; p.(Arg113*) causing a null phenotype.</title>
+<authorList>
+<person name="Weinstock C."/>
+<person name="Lotsch M."/>
+<person name="Anliker M."/>
+<person name="Schrezenmeier H."/>
+<person name="von Zabern I."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="1">Blood</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="HE819179">
+<property type="protein sequence ID" value="CCH64483.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000237612"/>
+<dbReference type="PaxDb" id="I4EPX2"/>
+<dbReference type="PeptideAtlas" id="I4EPX2"/>
+<dbReference type="eggNOG" id="ENOG410IN8P">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0842">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="ABCG2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042626">
+<property type="term" value="F:ATPase activity, coupled to transmembrane movement of substances"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030256">
+<property type="entry name" value="ABCG2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR19241:SF422">
+<property type="entry name" value="PTHR19241:SF422"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CCH64483.1"/>
+</source>
+</evidence>
+<sequence length="112" mass="11660" checksum="C5733E28B3D8C2E2" modified="2012-09-05" version="1">
+MSSSNVEVFIPMSQGNTNGFPATASNDLKAFTEGAVLSFHNICYRVKLKSGFLPCRKPVE
+KEILSNINGIMKPGLNAILGPTGGGKSSLLDVLAARKDPSGLSGDVLINGAP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,731 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2008-02-05" modified="2017-03-15" version="127">
+<accession>Q9BVA6</accession>
+<accession>O75406</accession>
+<name>FICD_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Adenosine monophosphate-protein transferase FICD</fullName>
+<ecNumber>2.7.7.n1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>AMPylator FICD</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>FIC domain-containing protein</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Huntingtin yeast partner E</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Huntingtin-interacting protein 13</fullName>
+<shortName>HIP-13</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Huntingtin-interacting protein E</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">FICD</name>
+<name type="synonym">HIP13</name>
+<name type="synonym">HYPE</name>
+<name type="ORF">UNQ3041/PRO9857</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2003" name="Genome Res." volume="13" first="2265" last="2270">
+<title>The secreted protein discovery initiative (SPDI), a large-scale effort to identify novel human secreted and transmembrane proteins: a bioinformatics assessment.</title>
+<authorList>
+<person name="Clark H.F."/>
+<person name="Gurney A.L."/>
+<person name="Abaya E."/>
+<person name="Baker K."/>
+<person name="Baldwin D.T."/>
+<person name="Brush J."/>
+<person name="Chen J."/>
+<person name="Chow B."/>
+<person name="Chui C."/>
+<person name="Crowley C."/>
+<person name="Currell B."/>
+<person name="Deuel B."/>
+<person name="Dowd P."/>
+<person name="Eaton D."/>
+<person name="Foster J.S."/>
+<person name="Grimaldi C."/>
+<person name="Gu Q."/>
+<person name="Hass P.E."/>
+<person name="Heldens S."/>
+<person name="Huang A."/>
+<person name="Kim H.S."/>
+<person name="Klimowski L."/>
+<person name="Jin Y."/>
+<person name="Johnson S."/>
+<person name="Lee J."/>
+<person name="Lewis L."/>
+<person name="Liao D."/>
+<person name="Mark M.R."/>
+<person name="Robbie E."/>
+<person name="Sanchez C."/>
+<person name="Schoenfeld J."/>
+<person name="Seshagiri S."/>
+<person name="Simmons L."/>
+<person name="Singh J."/>
+<person name="Smith V."/>
+<person name="Stinson J."/>
+<person name="Vagts A."/>
+<person name="Vandlen R.L."/>
+<person name="Watanabe C."/>
+<person name="Wieand D."/>
+<person name="Woods K."/>
+<person name="Xie M.-H."/>
+<person name="Yansura D.G."/>
+<person name="Yi S."/>
+<person name="Yu G."/>
+<person name="Yuan J."/>
+<person name="Zhang M."/>
+<person name="Zhang Z."/>
+<person name="Goddard A.D."/>
+<person name="Wood W.I."/>
+<person name="Godowski P.J."/>
+<person name="Gray A.M."/>
+</authorList>
+<dbReference type="PubMed" id="12975309"/>
+<dbReference type="DOI" id="10.1101/gr.1293003"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Cervix</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1998" name="Hum. Mol. Genet." volume="7" first="1463" last="1474">
+<title>Huntingtin interacts with a family of WW domain proteins.</title>
+<authorList>
+<person name="Faber P.W."/>
+<person name="Barnes G.T."/>
+<person name="Srinidhi J."/>
+<person name="Chen J."/>
+<person name="Gusella J.F."/>
+<person name="MacDonald M.E."/>
+</authorList>
+<dbReference type="PubMed" id="9700202"/>
+<dbReference type="DOI" id="10.1093/hmg/7.9.1463"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 275-458</scope>
+<scope>INTERACTION WITH HD</scope>
+<source>
+<tissue>Frontal cortex</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2009" name="Mol. Cell" volume="34" first="93" last="103">
+<title>The fic domain: regulation of cell signaling by adenylylation.</title>
+<authorList>
+<person name="Worby C.A."/>
+<person name="Mattoo S."/>
+<person name="Kruger R.P."/>
+<person name="Corbeil L.B."/>
+<person name="Koller A."/>
+<person name="Mendez J.C."/>
+<person name="Zekarias B."/>
+<person name="Lazar C."/>
+<person name="Dixon J.E."/>
+</authorList>
+<dbReference type="PubMed" id="19362538"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2009.03.008"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>MUTAGENESIS OF HIS-363</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2012" name="Nature" volume="482" first="107" last="110">
+<title>Adenylylation control by intra- or intermolecular active-site obstruction in Fic proteins.</title>
+<authorList>
+<person name="Engel P."/>
+<person name="Goepfert A."/>
+<person name="Stanger F.V."/>
+<person name="Harms A."/>
+<person name="Schmidt A."/>
+<person name="Schirmer T."/>
+<person name="Dehio C."/>
+</authorList>
+<dbReference type="PubMed" id="22266942"/>
+<dbReference type="DOI" id="10.1038/nature10729"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ENZYME REGULATION</scope>
+<scope>MUTAGENESIS OF GLU-234</scope>
+</reference>
+<comment type="function">
+<text evidence="7 8">Adenylyltransferase that mediates the addition of adenosine 5'-monophosphate (AMP) to specific residues of target proteins. Able to inactivate Rho GTPases in vitro by adding AMP to RhoA, Rac and Cdc42. It is however unclear whether it inactivates GTPases in vivo and physiological substrates probably remain to be identified.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="7">ATP + [protein] = diphosphate + [protein]-AMP.</text>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="8">Adenylyltransferase activity is inhibited by the inhibitory helix present at the N-terminus: Glu-234 binds ATP and competes with ATP-binding at Arg-374, thereby preventing adenylyltransferase activity. Activation dissociates ATP-binding from Glu-234, allowing ordered binding of the entire ATP moiety with the alpha-phosphate in an orientation that is productive for accepting an incoming target hydroxyl side chain.</text>
+</comment>
+<comment type="subunit">
+<text evidence="9">Interacts with HD.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="10">Membrane</location>
+<topology evidence="10">Single-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="7">Ubiquitous.</text>
+</comment>
+<comment type="domain">
+<text>The fido domain mediates the adenylyltransferase activity.</text>
+</comment>
+<comment type="similarity">
+<text evidence="10">Belongs to the fic family.</text>
+</comment>
+<dbReference type="EC" id="2.7.7.n1"/>
+<dbReference type="EMBL" id="AY358992">
+<property type="protein sequence ID" value="AAQ89351.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471054">
+<property type="protein sequence ID" value="EAW97813.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC001342">
+<property type="protein sequence ID" value="AAH01342.2"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF049611">
+<property type="protein sequence ID" value="AAC26847.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS9116.1"/>
+<dbReference type="RefSeq" id="NP_009007.2">
+<property type="nucleotide sequence ID" value="NM_007076.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.661891"/>
+<dbReference type="PDB" id="4U04">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.48"/>
+<property type="chains" value="A/B=102-445"/>
+</dbReference>
+<dbReference type="PDB" id="4U07">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.64"/>
+<property type="chains" value="A/B=102-445"/>
+</dbReference>
+<dbReference type="PDB" id="4U0S">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.49"/>
+<property type="chains" value="A/B=102-445"/>
+</dbReference>
+<dbReference type="PDB" id="4U0U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.98"/>
+<property type="chains" value="A/B=102-445"/>
+</dbReference>
+<dbReference type="PDB" id="4U0Z">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.95"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=102-445"/>
+</dbReference>
+<dbReference type="PDBsum" id="4U04"/>
+<dbReference type="PDBsum" id="4U07"/>
+<dbReference type="PDBsum" id="4U0S"/>
+<dbReference type="PDBsum" id="4U0U"/>
+<dbReference type="PDBsum" id="4U0Z"/>
+<dbReference type="ProteinModelPortal" id="Q9BVA6"/>
+<dbReference type="SMR" id="Q9BVA6"/>
+<dbReference type="BioGrid" id="116324">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-44884N"/>
+<dbReference type="IntAct" id="Q9BVA6">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1537734"/>
+<dbReference type="STRING" id="9606.ENSP00000446479"/>
+<dbReference type="iPTMnet" id="Q9BVA6"/>
+<dbReference type="PhosphoSitePlus" id="Q9BVA6"/>
+<dbReference type="BioMuta" id="FICD"/>
+<dbReference type="DMDM" id="74761284"/>
+<dbReference type="PaxDb" id="Q9BVA6"/>
+<dbReference type="PeptideAtlas" id="Q9BVA6"/>
+<dbReference type="PRIDE" id="Q9BVA6"/>
+<dbReference type="DNASU" id="11153"/>
+<dbReference type="Ensembl" id="ENST00000552695">
+<property type="protein sequence ID" value="ENSP00000446479"/>
+<property type="gene ID" value="ENSG00000198855"/>
+</dbReference>
+<dbReference type="GeneID" id="11153"/>
+<dbReference type="KEGG" id="hsa:11153"/>
+<dbReference type="UCSC" id="uc001tmx.2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="11153"/>
+<dbReference type="GeneCards" id="FICD"/>
+<dbReference type="H-InvDB" id="HIX0010965"/>
+<dbReference type="HGNC" id="HGNC:18416">
+<property type="gene designation" value="FICD"/>
+</dbReference>
+<dbReference type="HPA" id="HPA021390"/>
+<dbReference type="HPA" id="HPA071134"/>
+<dbReference type="neXtProt" id="NX_Q9BVA6"/>
+<dbReference type="OpenTargets" id="ENSG00000198855"/>
+<dbReference type="PharmGKB" id="PA162388517"/>
+<dbReference type="eggNOG" id="KOG3824">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG3177">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000008873"/>
+<dbReference type="HOGENOM" id="HOG000008059"/>
+<dbReference type="HOVERGEN" id="HBG095654"/>
+<dbReference type="InParanoid" id="Q9BVA6"/>
+<dbReference type="OMA" id="NYAALAH"/>
+<dbReference type="OrthoDB" id="EOG091G0GN7"/>
+<dbReference type="PhylomeDB" id="Q9BVA6"/>
+<dbReference type="TreeFam" id="TF314692"/>
+<dbReference type="GenomeRNAi" id="11153"/>
+<dbReference type="PRO" id="PR:Q9BVA6"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 12"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000198855"/>
+<dbReference type="CleanEx" id="HS_FICD"/>
+<dbReference type="ExpressionAtlas" id="Q9BVA6">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9BVA6">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070733">
+<property type="term" value="F:protein adenylyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034260">
+<property type="term" value="P:negative regulation of GTPase activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018117">
+<property type="term" value="P:protein adenylylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.3290.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.25.40.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003812">
+<property type="entry name" value="Fido"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013026">
+<property type="entry name" value="TPR-contain_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011990">
+<property type="entry name" value="TPR-like_helical_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019734">
+<property type="entry name" value="TPR_repeat"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02661">
+<property type="entry name" value="Fic"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF140931">
+<property type="entry name" value="SSF140931"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48452">
+<property type="entry name" value="SSF48452"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51459">
+<property type="entry name" value="FIDO"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50005">
+<property type="entry name" value="TPR"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50293">
+<property type="entry name" value="TPR_REGION"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0548">Nucleotidyltransferase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0802">TPR repeat</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Adenosine monophosphate-protein transferase FICD" id="PRO_0000317301">
+<location>
+<begin position="1"/>
+<end position="458"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="24"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 1">
+<location>
+<begin position="106"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 2">
+<location>
+<begin position="140"/>
+<end position="173"/>
+</location>
+</feature>
+<feature type="domain" description="Fido" evidence="6">
+<location>
+<begin position="285"/>
+<end position="420"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="4">
+<location>
+<begin position="260"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="4">
+<location>
+<begin position="368"/>
+<end position="370"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Inhibitory (S/T)XXXE(G/N) motif">
+<location>
+<begin position="230"/>
+<end position="235"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="10">
+<location>
+<position position="234"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="4">
+<location>
+<position position="374"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Promotes adenylyltransferase activity." evidence="8">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="234"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes adenylyltransferase." evidence="7">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="363"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="108"/>
+<end position="119"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="122"/>
+<end position="135"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="140"/>
+<end position="151"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="152"/>
+<end position="154"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="156"/>
+<end position="169"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="174"/>
+<end position="207"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="215"/>
+<end position="220"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="222"/>
+<end position="232"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="233"/>
+<end position="235"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="240"/>
+<end position="249"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="258"/>
+<end position="277"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="278"/>
+<end position="280"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="287"/>
+<end position="297"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="299"/>
+<end position="301"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="303"/>
+<end position="307"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="324"/>
+<end position="339"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="341"/>
+<end position="345"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="348"/>
+<end position="362"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="365"/>
+<end position="367"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="369"/>
+<end position="383"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="393"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="396"/>
+<end position="408"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="412"/>
+<end position="429"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="430"/>
+<end position="432"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4U04"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4U07"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4U0S"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000250"/>
+<evidence key="5" type="ECO:0000255"/>
+<evidence key="6" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00791"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19362538"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22266942"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9700202"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000305"/>
+<sequence length="458" mass="51778" checksum="8393EAA46D61C48E" modified="2004-07-05" version="2">
+MMLIPMASVMAVTEPKWVSVWSRFLWVTLLSMVLGSLLALLLPLGAVEEQCLAVLKGLYL
+LRSKPDRAQHAATKCTSPSTELSITSRGATLLVAKTKASPAGKLEARAALNQALEMKRQG
+KREKAQKLFMHALKMDPDFVDALTEFGIFSEEDKDIIQADYLYTRALTISPYHEKALVNR
+DRTLPLVEEIDQRYFSIIDSKVKKVMSIPKGNSALRRVMEETYYHHIYHTVAIEGNTLTL
+SEIRHILETRYAVPGKSLEEQNEVIGMHAAMKYINTTLVSRIGSVTISDVLEIHRRVLGY
+VDPVEAGRFRTTQVLVGHHIPPHPQDVEKQMQEFVQWLNSEEAMNLHPVEFAALAHYKLV
+YIHPFIDGNGRTSRLLMNLILMQAGYPPITIRKEQRSDYYHVLEAANEGDVRPFIRFIAK
+CTETTLDTLLFATTEYSVALPEAQPNHSGFKETLPVKP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

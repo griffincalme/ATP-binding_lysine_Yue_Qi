@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-09-23" modified="2017-05-10" version="46">
+<accession>B4DYW1</accession>
+<name>B4DYW1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Diacylglycerol kinase</fullName>
+<shortName evidence="1">DAG kinase</shortName>
+<ecNumber evidence="1">2.7.1.107</ecNumber>
+</recommendedName>
+</protein>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project focused on splicing variants.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="3">Testis</tissue>
+</source>
+</reference>
+<comment type="catalytic activity">
+<text evidence="1">ATP + 1,2-diacyl-sn-glycerol = ADP + 1,2-diacyl-sn-glycerol 3-phosphate.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the eukaryotic diacylglycerol kinase family.</text>
+</comment>
+<dbReference type="EC" id="2.7.1.107" evidence="1"/>
+<dbReference type="EMBL" id="AK302631">
+<property type="protein sequence ID" value="BAG63873.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001284358.1">
+<property type="nucleotide sequence ID" value="NM_001297429.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_690874.2">
+<property type="nucleotide sequence ID" value="NM_152910.5"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.630380"/>
+<dbReference type="UniGene" id="Hs.659437"/>
+<dbReference type="UniGene" id="Hs.733239"/>
+<dbReference type="STRING" id="9606.ENSP00000337572"/>
+<dbReference type="PaxDb" id="B4DYW1"/>
+<dbReference type="PeptideAtlas" id="B4DYW1"/>
+<dbReference type="PRIDE" id="B4DYW1"/>
+<dbReference type="DNASU" id="160851"/>
+<dbReference type="GeneID" id="160851"/>
+<dbReference type="CTD" id="160851"/>
+<dbReference type="eggNOG" id="KOG1170">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XSJR">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG051346"/>
+<dbReference type="GenomeRNAi" id="160851"/>
+<dbReference type="Genevisible" id="B4DYW1">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004143">
+<property type="term" value="F:diacylglycerol kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003951">
+<property type="term" value="F:NAD+ kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007205">
+<property type="term" value="P:protein kinase C-activating G-protein coupled receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.10330">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017438">
+<property type="entry name" value="ATP-NAD_kinase_dom_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000756">
+<property type="entry name" value="Diacylglycerol_kin_accessory"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001206">
+<property type="entry name" value="Diacylglycerol_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016064">
+<property type="entry name" value="NAD/diacylglycerol_kinase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00609">
+<property type="entry name" value="DAGK_acc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00781">
+<property type="entry name" value="DAGK_cat"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00045">
+<property type="entry name" value="DAGKa"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00046">
+<property type="entry name" value="DAGKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF111331">
+<property type="entry name" value="SSF111331"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50146">
+<property type="entry name" value="DAGK"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="1 3">Kinase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0808" evidence="1 3">Transferase</keyword>
+<feature type="domain" description="DAGKc" evidence="2">
+<location>
+<begin position="83"/>
+<end position="218"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU361128"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50146"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG63873.1"/>
+</source>
+</evidence>
+<sequence length="919" mass="101033" checksum="6D0A68BEF96E7134" modified="2008-09-23" version="1">
+MWNISQGCTTGTPAPTPDPPSVTCAERVFLESPPMACPAKVHTACKDLYHPICPLGQCKV
+SIIPPIALNSTDSDGFCRATFSFCVSPLLVFVSSKSGDNQGVKFLRRFKQLLNPAQVFDL
+MNGGPHLGLRLFQKFDNFRILVCGGDGSVGWVLSEIDKLNLNKQCQLGVLPLGTGNDLAR
+VLGWGGSYDDDTQLPQILEKLERASTKMLDRWSIMTYELKLPPKASLLPGPPEASEEFYM
+TIYEDSVATHLTKILNSDEHAVVISSAKTLCETVKDFVAKVEKTYDKTLENAVVADAVAS
+KCSVLNEKLEQLLQALHTDSQAAPVLPGLSPLIVEEDAVESSSEESLGESKEQLGDDVTK
+PSSQKAVKPREIMLRANSLKKAVRQVIEEAGKVMDDPTVHPCEPANQSSDYDSTETDESK
+EEAKDDGAKESITVKTAPRSPDARASYGHSQTDSVPGPAVAASKENLPVLNTRIICPGLR
+AGLAASIAGSSIINKMLLANIDPFGATPFIDPDLDSVDGYSEKCVMNNYFGIGLDAKISL
+EFNNKREEHPEKCRSRTKNLMWYGVLGTRELLQRSYKNLEQRVQLECDGQYIPLPSLQGI
+AVLNIPSYAGGTNFWGGTKEDDIFAAPSFDDKILEVVAIFDSMQMAVSRVIKLQHHRIAQ
+CRTVKITIFGDEGVPVQVDGEAWVQPPGIIKIVHKNRAQMLTRDRAFESTLKSWEDKQKC
+DSGKPVLRTHLYIHHAIDLATEEVSQMQLCSQAAEELITRICDAATIHCLLEQELAHAVN
+ACSHALNKANPRCPESLTRDTATEIAINVKALYNETESLLVGRVPLQLESPHEERVSNAL
+HSVEVELRKLTEIPWLYYILHPNEDEEPPMDCTKRNNRSTVFRIVPKFKKEKVQKQKTSS
+QPGSGDTESGSCEANSPGN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

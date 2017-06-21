@@ -1,0 +1,522 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2015-01-07" modified="2017-05-10" version="25">
+<accession>A0A0A0MSP0</accession>
+<name>A0A0A0MSP0_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="3">Calcium-transporting ATPase</fullName>
+<ecNumber evidence="3">3.6.3.8</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="8">ATP2C2</name>
+</gene>
+<organism evidence="8 9">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="8 9">
+<citation type="journal article" date="2004" name="Nature" volume="432" first="988" last="994">
+<title>The sequence and analysis of duplication-rich human chromosome 16.</title>
+<authorList>
+<person name="Martin J."/>
+<person name="Han C."/>
+<person name="Gordon L.A."/>
+<person name="Terry A."/>
+<person name="Prabhakar S."/>
+<person name="She X."/>
+<person name="Xie G."/>
+<person name="Hellsten U."/>
+<person name="Chan Y.M."/>
+<person name="Altherr M."/>
+<person name="Couronne O."/>
+<person name="Aerts A."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Blumer H."/>
+<person name="Branscomb E."/>
+<person name="Brown N.C."/>
+<person name="Bruno W.J."/>
+<person name="Buckingham J.M."/>
+<person name="Callen D.F."/>
+<person name="Campbell C.S."/>
+<person name="Campbell M.L."/>
+<person name="Campbell E.W."/>
+<person name="Caoile C."/>
+<person name="Challacombe J.F."/>
+<person name="Chasteen L.A."/>
+<person name="Chertkov O."/>
+<person name="Chi H.C."/>
+<person name="Christensen M."/>
+<person name="Clark L.M."/>
+<person name="Cohn J.D."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Dickson M."/>
+<person name="Dimitrijevic-Bussod M."/>
+<person name="Escobar J."/>
+<person name="Fawcett J.J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Goodstein D."/>
+<person name="Goodwin L.A."/>
+<person name="Grady D.L."/>
+<person name="Grigoriev I."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Hildebrand C.E."/>
+<person name="Huang W."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Jewett P.B."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Krawczyk M.-C."/>
+<person name="Leyba T."/>
+<person name="Longmire J.L."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Lowry S."/>
+<person name="Ludeman T."/>
+<person name="Manohar C.F."/>
+<person name="Mark G.A."/>
+<person name="McMurray K.L."/>
+<person name="Meincke L.J."/>
+<person name="Morgan J."/>
+<person name="Moyzis R.K."/>
+<person name="Mundt M.O."/>
+<person name="Munk A.C."/>
+<person name="Nandkeshwar R.D."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Predki P."/>
+<person name="Parson-Quintana B."/>
+<person name="Ramirez L."/>
+<person name="Rash S."/>
+<person name="Retterer J."/>
+<person name="Ricke D.O."/>
+<person name="Robinson D.L."/>
+<person name="Rodriguez A."/>
+<person name="Salamov A."/>
+<person name="Saunders E.H."/>
+<person name="Scott D."/>
+<person name="Shough T."/>
+<person name="Stallings R.L."/>
+<person name="Stalvey M."/>
+<person name="Sutherland R.D."/>
+<person name="Tapia R."/>
+<person name="Tesmer J.G."/>
+<person name="Thayer N."/>
+<person name="Thompson L.S."/>
+<person name="Tice H."/>
+<person name="Torney D.C."/>
+<person name="Tran-Gyamfi M."/>
+<person name="Tsai M."/>
+<person name="Ulanovsky L.E."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="White P.S."/>
+<person name="Williams A.L."/>
+<person name="Wills P.L."/>
+<person name="Wu J.-R."/>
+<person name="Wu K."/>
+<person name="Yang J."/>
+<person name="DeJong P."/>
+<person name="Bruce D."/>
+<person name="Doggett N.A."/>
+<person name="Deaven L."/>
+<person name="Schmutz J."/>
+<person name="Grimwood J."/>
+<person name="Richardson P."/>
+<person name="Rokhsar D.S."/>
+<person name="Eichler E.E."/>
+<person name="Gilna P."/>
+<person name="Lucas S.M."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+<person name="Pennacchio L.A."/>
+</authorList>
+<dbReference type="PubMed" id="15616553"/>
+<dbReference type="DOI" id="10.1038/nature03187"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="2">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="10762" last="10767">
+<title>A quantitative atlas of mitotic phosphorylation.</title>
+<authorList>
+<person name="Dephoure N."/>
+<person name="Zhou C."/>
+<person name="Villen J."/>
+<person name="Beausoleil S.A."/>
+<person name="Bakalarski C.E."/>
+<person name="Elledge S.J."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="18669648"/>
+<dbReference type="DOI" id="10.1073/pnas.0805139105"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="3" evidence="8">
+<citation type="submission" date="2014-11" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<comment type="function">
+<text evidence="3">This magnesium-dependent enzyme catalyzes the hydrolysis of ATP coupled with the transport of calcium.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="3">ATP + H(2)O + Ca(2+)(Side 1) = ADP + phosphate + Ca(2+)(Side 2).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Membrane</location>
+<topology evidence="3">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type IIA subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="3">Lacks conserved residue(s) required for the propagation of feature annotation.</text>
+</comment>
+<comment type="caution">
+<text evidence="8">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EC" id="3.6.3.8" evidence="3"/>
+<dbReference type="EMBL" id="AC010551">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC022165">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="KF456217">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001273456.2">
+<property type="nucleotide sequence ID" value="NM_001286527.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.6168"/>
+<dbReference type="ProteinModelPortal" id="A0A0A0MSP0"/>
+<dbReference type="STRING" id="9606.ENSP00000262429"/>
+<dbReference type="PaxDb" id="A0A0A0MSP0"/>
+<dbReference type="PeptideAtlas" id="A0A0A0MSP0"/>
+<dbReference type="PRIDE" id="A0A0A0MSP0"/>
+<dbReference type="Ensembl" id="ENST00000416219">
+<property type="protein sequence ID" value="ENSP00000397925"/>
+<property type="gene ID" value="ENSG00000064270"/>
+</dbReference>
+<dbReference type="GeneID" id="9914"/>
+<dbReference type="UCSC" id="uc010chj.3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="9914"/>
+<dbReference type="HGNC" id="HGNC:29103">
+<property type="gene designation" value="ATP2C2"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000064270"/>
+<dbReference type="eggNOG" id="KOG0202">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0474">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00850000132256"/>
+<dbReference type="OMA" id="QQRSFCL"/>
+<dbReference type="OrthoDB" id="EOG091G0NXU"/>
+<dbReference type="GenomeRNAi" id="9914"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 16"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="A0A0A0MSP0">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009898">
+<property type="term" value="C:cytoplasmic side of plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031410">
+<property type="term" value="C:cytoplasmic vesicle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048471">
+<property type="term" value="C:perinuclear region of cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005388">
+<property type="term" value="F:calcium-transporting ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061180">
+<property type="term" value="P:mammary gland epithelium development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090280">
+<property type="term" value="P:positive regulation of calcium ion import"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072661">
+<property type="term" value="P:protein targeting to plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.1110.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.70.150.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.1110.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030334">
+<property type="entry name" value="ATP2C2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006068">
+<property type="entry name" value="ATPase_P-typ_cation-transptr_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004014">
+<property type="entry name" value="ATPase_P-typ_cation-transptr_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023299">
+<property type="entry name" value="ATPase_P-typ_cyto_domN"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018303">
+<property type="entry name" value="ATPase_P-typ_P_site"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023298">
+<property type="entry name" value="ATPase_P-typ_TM_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008250">
+<property type="entry name" value="ATPase_P-typ_transduc_dom_A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023214">
+<property type="entry name" value="HAD-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006413">
+<property type="entry name" value="P-type_ATPase_IIA_PMR1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001757">
+<property type="entry name" value="P_typ_ATPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR42861:SF5">
+<property type="entry name" value="PTHR42861:SF5"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00689">
+<property type="entry name" value="Cation_ATPase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00690">
+<property type="entry name" value="Cation_ATPase_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00122">
+<property type="entry name" value="E1-E2_ATPase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00120">
+<property type="entry name" value="HATPASE"/>
+</dbReference>
+<dbReference type="SMART" id="SM00831">
+<property type="entry name" value="Cation_ATPase_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56784">
+<property type="entry name" value="SSF56784"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF81660">
+<property type="entry name" value="SSF81660"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01522">
+<property type="entry name" value="ATPase-IIA2_Ca"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01494">
+<property type="entry name" value="ATPase_P-type"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00154">
+<property type="entry name" value="ATPASE_E1_E2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="3 6">ATP-binding</keyword>
+<keyword id="KW-0106" evidence="3">Calcium</keyword>
+<keyword id="KW-0109" evidence="3">Calcium transport</keyword>
+<keyword id="KW-0181" evidence="9">Complete proteome</keyword>
+<keyword id="KW-0378" evidence="3 4">Hydrolase</keyword>
+<keyword id="KW-0406" evidence="3">Ion transport</keyword>
+<keyword id="KW-0472" evidence="3 5">Membrane</keyword>
+<keyword id="KW-0547" evidence="3 6">Nucleotide-binding</keyword>
+<keyword id="KW-1267" evidence="1">Proteomics identification</keyword>
+<keyword id="KW-1185" evidence="9">Reference proteome</keyword>
+<keyword id="KW-0812" evidence="3 5">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="3 5">Transmembrane helix</keyword>
+<keyword id="KW-0813" evidence="3">Transport</keyword>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="298"/>
+<end position="317"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="323"/>
+<end position="352"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="834"/>
+<end position="854"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="866"/>
+<end position="884"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="904"/>
+<end position="921"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="933"/>
+<end position="951"/>
+</location>
+</feature>
+<feature type="domain" description="Cation_ATPase_N" evidence="7">
+<location>
+<begin position="48"/>
+<end position="130"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000213">
+<source>
+<dbReference type="PeptideAtlas" id="A0A0A0MSP0"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="18669648"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU361146"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00081498"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00092306"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00092325"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00831"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000397925"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="975" mass="106217" checksum="6E1DBC61CC542971" modified="2015-01-07" version="1">
+MVEGRVSEFLKKLGFSGGGRQYQALEKDEEEALIDEQSELKAIEKEKKVTALPPKEACKC
+QKEDLARAFCVDLHTGLSEFSVTQRRLAHGWNEFVADNSEPVWKKYLDQFKNPLILLLLG
+SALVSVLTKEYEDAVSIATAVLVVVTVAFIQEYRSEKSLEELTKLVPPECNCLREGKLQH
+LLARELVPGDVVSLSIGDRIPADIRLTEVTDLLVDESSFTGEAEPCSKTDSPLTGGGDLT
+TLSNIVFMGTLVQYGRGQGVVIGTGESSQFGEVFKMMQAEETPKTPLQKSMDRLGKQLTL
+FSFGIIGLIMLIGWSQGKQLLSMFTIGVSLAVAAIPEGLPIVVMVTLVLGVLRMAKKRVI
+VKKLPIVETLGCCSVLCSDKTGTLTANEMTVTQLVTSDGLRAEVSGVGYDGQGTVCLLPS
+KEVIKEFSNVSVGKLVEAGCVANNAVIRKNAVMGQPTEGALMALAMKMDLSDIKNSYIRK
+KEIPFSSEQKWMAVKCSLKTEDQEDIYFMKGALEEVIRYCTMYNNGGIPLPLTPQQRSFC
+LQEEKRMGSLGLRVLALASGPELGRLTFLGLVGIIDPPRVGVKEAVQVLSESGVSVKMIT
+GDALETALAIGRNIGLCNGKLQAMSGEEVDSVEKGELADRVGKVSVFFRTSPKHKLKIIK
+ALQESGAIVAMTGDGVNDAVALKSADIGIAMGQTGTDVSKEAANMILVDDDFSAIMNAVE
+EGKGIFYNIKNFVRFQLSTSISALSLITLSTVFNLPSPLNAMQILWINIIMDGPPAQRSS
+QKTEVCCTAVRLGVEGRGESTWAGRAGLGVEPVDKDAFRQPPRSVRDTILSRALILKILM
+SAAIIISGTLFIFWKEMPEDRASTPRTTTMTFTCFVFFDLFNALTCRSQTKLIFEIGFLR
+NHMFLYSVLGSILGQLAVIYIPPLQRVFQTENLGALDLLFLTGLASSVFILSELLKLCEK
+YCCSPKRVQMHPEDV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

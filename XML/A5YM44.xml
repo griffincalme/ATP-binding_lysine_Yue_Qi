@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2007-07-10" modified="2017-05-10" version="73">
+<accession>A5YM44</accession>
+<name>A5YM44_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="4">APAF1 protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="4">APAF1</name>
+</gene>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="submission" date="2007-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Schupp I."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="4">Retina</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="EF560718">
+<property type="protein sequence ID" value="ABQ59028.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.552567"/>
+<dbReference type="ProteinModelPortal" id="A5YM44"/>
+<dbReference type="STRING" id="9606.ENSP00000448165"/>
+<dbReference type="PaxDb" id="A5YM44"/>
+<dbReference type="PeptideAtlas" id="A5YM44"/>
+<dbReference type="PRIDE" id="A5YM44"/>
+<dbReference type="eggNOG" id="KOG4155">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG4658">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XP3K">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000290173"/>
+<dbReference type="HOVERGEN" id="HBG018730"/>
+<dbReference type="SignaLink" id="A5YM44"/>
+<dbReference type="GO" id="GO:0043531">
+<property type="term" value="F:ADP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042981">
+<property type="term" value="P:regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.130.10.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001315">
+<property type="entry name" value="CARD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011029">
+<property type="entry name" value="DEATH-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020472">
+<property type="entry name" value="G-protein_beta_WD-40_rep"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002182">
+<property type="entry name" value="NB-ARC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015943">
+<property type="entry name" value="WD40/YVTN_repeat-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001680">
+<property type="entry name" value="WD40_repeat"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019775">
+<property type="entry name" value="WD40_repeat_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017986">
+<property type="entry name" value="WD40_repeat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011991">
+<property type="entry name" value="WHTH_DNA-bd_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00619">
+<property type="entry name" value="CARD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00931">
+<property type="entry name" value="NB-ARC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00400">
+<property type="entry name" value="WD40"/>
+<property type="match status" value="8"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00320">
+<property type="entry name" value="GPROTEINBRPT"/>
+</dbReference>
+<dbReference type="SMART" id="SM00320">
+<property type="entry name" value="WD40"/>
+<property type="match status" value="12"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47986">
+<property type="entry name" value="SSF47986"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50978">
+<property type="entry name" value="SSF50978"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50209">
+<property type="entry name" value="CARD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00678">
+<property type="entry name" value="WD_REPEATS_1"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50082">
+<property type="entry name" value="WD_REPEATS_2"/>
+<property type="match status" value="9"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50294">
+<property type="entry name" value="WD_REPEATS_REGION"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0853" evidence="1">WD repeat</keyword>
+<feature type="domain" description="CARD" evidence="2">
+<location>
+<begin position="1"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="domain" description="WD_REPEATS_REGION" evidence="3">
+<location>
+<begin position="611"/>
+<end position="1169"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="611"/>
+<end position="652"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="653"/>
+<end position="694"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="695"/>
+<end position="738"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="739"/>
+<end position="780"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="835"/>
+<end position="867"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="956"/>
+<end position="988"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="997"/>
+<end position="1037"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="1038"/>
+<end position="1072"/>
+</location>
+</feature>
+<feature type="repeat" description="WD" evidence="1">
+<location>
+<begin position="1080"/>
+<end position="1121"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00221"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50209"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50294"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ABQ59028.1"/>
+</source>
+</evidence>
+<sequence length="1205" mass="137062" checksum="FE6768D190B51122" modified="2007-07-10" version="1">
+MDAKARNCLLQHREALEKDIKTSYIMDHMISDGFLTISEEEKVRNEPTQQQRAAMLIKMI
+LKKDNDSYVSFYNALLHEGYKDLAALLHDGIPVVSSSSGKDSVSGITSYVRTVLCEGGVP
+QRPVVFVTRKKLVNAIQQKLSKLKGEPGWVTIHGMAGCGKSVLAAEAVRDHSLLEGCFPG
+GVHWVSVGKQDKSGLLMKLQNLCTRLDQDESFSQRLPLNIEEAKDRLRILMLRKHPRSLL
+ILDDVWDSWVLKAFDSQCQILLTTRDKSVTDSVMGPKYVVPVESSLGKEKGLEILSLFVN
+MKKADLPEQAHSIIKECKGSPLVVSLIGALLRDFPNRWEYYLKQLQNKQFKRIRKSSSYD
+YEALDEAMSISVEMLREDIKDYYTDLSILQKDVKVPTKVLCILWDMETEEVEDILQEFVN
+KSLLFCDRNGKSFRYYLHDLQVDFLTEKNCSQLQDLHKKIITQFQRYHQPHTLSPDQEDC
+MYWYNFLAYHMASAKMHKELCALMFSLDWIKAKTELVGPAHLIHEFVEYRHILDEKDCAV
+SENFQEFLSLNGHLLGRQPFPNIVQLGLCEPETSEVYQQAKLQAKQEVDNGMLYLEWINK
+KNITNLSRLVVRPHTDAVYHACFSEDDQRIASCGADKTLQVFKAETGGKLLEIKAHEDEV
+LCCAFSTDDRFIATCSVDKKVKIWNSMTGELVHTYDEHSEQVNCCHFTNSSHHLLLATGS
+SDCFLKLWDLNQKECRNTMFGHTNSVNHCRFSPDDKLLASCSADGTLKLWDATSANERKS
+INVKQFFLNLEDPQEDMEVIVKCCSWSADGARIMVAAKNKIFLWNTDSRSKVADCRGHLS
+WVHGVMFSPDGSSFLTSSDDQTIRLWETKKVCKNSAVMLKQEVDVVFQENEVMVLAVDHI
+RRLQLINGRTGQIDYLTEAQVSCCCLSPHLQYIAFGDENGAIEILELVNNRIFQSRFQHK
+KTVWHIQFTADEKTLISSSDDAEIQVWNWQLDKCIFLRGHQETVKDFRLLKNSRLLSWSF
+DGTVKVWNIITGNKEKDFVCHQGTVLSCDISHDATKFSSTSADKTAKIWSFDLLLPLHEL
+RGHNGCVRCSAFSVDSTLLATGDDNGEIRIWNVSNGELLHLCAPLSEEGAATHGGWVTDL
+CFSPDGKMLISAGGYIKWWNVVTGESSQTFYTNGTNLKKIHVSPDFKTYVTVDNLGILYI
+LQTLE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

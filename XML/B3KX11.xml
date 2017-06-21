@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-09-02" modified="2017-05-10" version="59">
+<accession>B3KX11</accession>
+<name>B3KX11_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">T-complex protein 1 subunit gamma</fullName>
+</recommendedName>
+</protein>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="submission" date="2003-07" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project.</title>
+<authorList>
+<person name="Ninomiya K."/>
+<person name="Wagatsuma M."/>
+<person name="Kanda K."/>
+<person name="Kondo H."/>
+<person name="Yokoi T."/>
+<person name="Kodaira H."/>
+<person name="Furuya T."/>
+<person name="Takahashi M."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Otsuki T."/>
+<person name="Sato H."/>
+<person name="Wakamatsu A."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Isono Y."/>
+<person name="Kawai-Hio Y."/>
+<person name="Saito K."/>
+<person name="Nishikawa T."/>
+<person name="Kimura K."/>
+<person name="Yamashita H."/>
+<person name="Matsuo K."/>
+<person name="Nakamura Y."/>
+<person name="Sekine M."/>
+<person name="Kikuchi H."/>
+<person name="Murakawa K."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Oshima A."/>
+<person name="Sugiyama A."/>
+<person name="Kawakami B."/>
+<person name="Suzuki Y."/>
+<person name="Sugano S."/>
+<person name="Nagahari K."/>
+<person name="Masuho Y."/>
+<person name="Nagai K."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="6">Uterus</tissue>
+</source>
+</reference>
+<comment type="function">
+<text evidence="4">Molecular chaperone; assists the folding of proteins upon ATP hydrolysis.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="5">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the TCP-1 chaperonin family.</text>
+</comment>
+<dbReference type="EMBL" id="AK126400">
+<property type="protein sequence ID" value="BAG54323.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001008800.1">
+<property type="nucleotide sequence ID" value="NM_001008800.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_005989.3">
+<property type="nucleotide sequence ID" value="NM_005998.4"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.491494"/>
+<dbReference type="STRING" id="9606.ENSP00000295688"/>
+<dbReference type="PaxDb" id="B3KX11"/>
+<dbReference type="PeptideAtlas" id="B3KX11"/>
+<dbReference type="PRIDE" id="B3KX11"/>
+<dbReference type="DNASU" id="7203"/>
+<dbReference type="GeneID" id="7203"/>
+<dbReference type="KEGG" id="hsa:7203"/>
+<dbReference type="CTD" id="7203"/>
+<dbReference type="PharmGKB" id="PA26180"/>
+<dbReference type="eggNOG" id="KOG0364">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0459">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000226732"/>
+<dbReference type="HOVERGEN" id="HBG104982"/>
+<dbReference type="KO" id="K09495"/>
+<dbReference type="GenomeRNAi" id="7203"/>
+<dbReference type="Genevisible" id="B3KX11">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051082">
+<property type="term" value="F:unfolded protein binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006457">
+<property type="term" value="P:protein folding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd03337">
+<property type="entry name" value="TCP1_gamma"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.560.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.50.7.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012719">
+<property type="entry name" value="Chap_CCT_gamma"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017998">
+<property type="entry name" value="Chaperone_TCP-1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002194">
+<property type="entry name" value="Chaperonin_TCP-1_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002423">
+<property type="entry name" value="Cpn60/TCP-1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027409">
+<property type="entry name" value="GroEL-like_apical_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027413">
+<property type="entry name" value="GROEL-like_equatorial"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11353:SF142">
+<property type="entry name" value="PTHR11353:SF142"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00118">
+<property type="entry name" value="Cpn60_TCP1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00304">
+<property type="entry name" value="TCOMPLEXTCP1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52029">
+<property type="entry name" value="SSF52029"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02344">
+<property type="entry name" value="chap_CCT_gamma"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00750">
+<property type="entry name" value="TCP1_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00751">
+<property type="entry name" value="TCP1_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00995">
+<property type="entry name" value="TCP1_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0143" evidence="1">Chaperone</keyword>
+<keyword id="KW-0963" evidence="3">Cytoplasm</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU004187"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU004191"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00432420"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00547830"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00547836"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG54323.1"/>
+</source>
+</evidence>
+<sequence length="522" mass="57946" checksum="BC05982B7448414B" modified="2008-09-02" version="1">
+MMGHRPVLVLSQNTKRESGRKVQSGNINAAKTIADIIRTCLGPKSMMKMLLDPMGGIVMT
+NDGNAILREIQVQHPAAKSMIEISRTQDEEVGDGTTTVVISAYRKALDDMISTLKKISIP
+VDISDSDMMLNIINSSITTKAISRWSSLACNIALDAVKMVQFEENGRKEIDIKKYARVEK
+IPGGIIEDSCVLRGVMINKDVTHPRMRRHIKNPRIVLLDSSLEYKKGESQTDIEITREED
+FTRILQMEEEYIQQLCEDIIQLKPDVVITEKGISDLAQHYLMRANITAIRRVRKTDNNRI
+ARACGARIVSRPEELREDDVGTGAGLLEIKKIGDEYFTFITDCKDPKACTILLRGASKEI
+LSEVERNLQDAMQVCRNVLLDPQLVPGGGASEMAVAHALTEKSKAMTGVEQWPYRAVAQA
+LEVIPRTLIQNCGASTIRLLTSLRAKHTQENCETWGVNGETGTLVDMKELGIWEPLAVKL
+QTYKTAVETAVLLLRIDDIVSGHKKKGDDQSRQGGAPDAGQE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

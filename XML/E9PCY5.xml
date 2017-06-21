@@ -1,0 +1,644 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2011-04-05" modified="2017-05-10" version="55">
+<accession>E9PCY5</accession>
+<name>E9PCY5_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="7">DNA topoisomerase 2</fullName>
+<ecNumber evidence="7">5.99.1.3</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="9">TOP2B</name>
+</gene>
+<organism evidence="9 10">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="9">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="724" last="731">
+<title>Generation and annotation of the DNA sequences of human chromosomes 2 and 4.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Graves T.A."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Pepin K.H."/>
+<person name="Minx P."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Kremitzki C."/>
+<person name="Oddy L."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Carter J."/>
+<person name="Cordes M."/>
+<person name="Harris A."/>
+<person name="Isak A."/>
+<person name="van Brunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Abbott S."/>
+<person name="Armstrong J."/>
+<person name="Belter E.A."/>
+<person name="Caruso L."/>
+<person name="Cedroni M."/>
+<person name="Cotton M."/>
+<person name="Davidson T."/>
+<person name="Desai A."/>
+<person name="Elliott G."/>
+<person name="Erb T."/>
+<person name="Fronick C."/>
+<person name="Gaige T."/>
+<person name="Haakenson W."/>
+<person name="Haglund K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Kim K."/>
+<person name="Kruchowski S.S."/>
+<person name="Strong C.M."/>
+<person name="Grewal N."/>
+<person name="Goyea E."/>
+<person name="Hou S."/>
+<person name="Levy A."/>
+<person name="Martinka S."/>
+<person name="Mead K."/>
+<person name="McLellan M.D."/>
+<person name="Meyer R."/>
+<person name="Randall-Maher J."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Shah N."/>
+<person name="Swearengen-Shahid S."/>
+<person name="Snider J."/>
+<person name="Strong J.T."/>
+<person name="Thompson J."/>
+<person name="Yoakum M."/>
+<person name="Leonard S."/>
+<person name="Pearman C."/>
+<person name="Trani L."/>
+<person name="Radionenko M."/>
+<person name="Waligorski J.E."/>
+<person name="Wang C."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Maupin R."/>
+<person name="Latreille P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Pohl C."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Berkowicz N."/>
+<person name="Nelson J.O."/>
+<person name="Osborne J."/>
+<person name="Ding L."/>
+<person name="Meyer R."/>
+<person name="Sabo A."/>
+<person name="Shotland Y."/>
+<person name="Sinha P."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Jones T.A."/>
+<person name="She X."/>
+<person name="Ciccarelli F.D."/>
+<person name="Izaurralde E."/>
+<person name="Taylor J."/>
+<person name="Schmutz J."/>
+<person name="Myers R.M."/>
+<person name="Cox D.R."/>
+<person name="Huang X."/>
+<person name="McPherson J.D."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Warren W.C."/>
+<person name="Chinwalla A.T."/>
+<person name="Eddy S.R."/>
+<person name="Marra M.A."/>
+<person name="Ovcharenko I."/>
+<person name="Furey T.S."/>
+<person name="Miller W."/>
+<person name="Eichler E.E."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Torrents D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="15815621"/>
+<dbReference type="DOI" id="10.1038/nature03466"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="10">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="1194" last="1198">
+<title>The DNA sequence, annotation and analysis of human chromosome 3.</title>
+<authorList>
+<person name="Muzny D.M."/>
+<person name="Scherer S.E."/>
+<person name="Kaul R."/>
+<person name="Wang J."/>
+<person name="Yu J."/>
+<person name="Sudbrak R."/>
+<person name="Buhay C.J."/>
+<person name="Chen R."/>
+<person name="Cree A."/>
+<person name="Ding Y."/>
+<person name="Dugan-Rocha S."/>
+<person name="Gill R."/>
+<person name="Gunaratne P."/>
+<person name="Harris R.A."/>
+<person name="Hawes A.C."/>
+<person name="Hernandez J."/>
+<person name="Hodgson A.V."/>
+<person name="Hume J."/>
+<person name="Jackson A."/>
+<person name="Khan Z.M."/>
+<person name="Kovar-Smith C."/>
+<person name="Lewis L.R."/>
+<person name="Lozado R.J."/>
+<person name="Metzker M.L."/>
+<person name="Milosavljevic A."/>
+<person name="Miner G.R."/>
+<person name="Morgan M.B."/>
+<person name="Nazareth L.V."/>
+<person name="Scott G."/>
+<person name="Sodergren E."/>
+<person name="Song X.Z."/>
+<person name="Steffen D."/>
+<person name="Wei S."/>
+<person name="Wheeler D.A."/>
+<person name="Wright M.W."/>
+<person name="Worley K.C."/>
+<person name="Yuan Y."/>
+<person name="Zhang Z."/>
+<person name="Adams C.Q."/>
+<person name="Ansari-Lari M.A."/>
+<person name="Ayele M."/>
+<person name="Brown M.J."/>
+<person name="Chen G."/>
+<person name="Chen Z."/>
+<person name="Clendenning J."/>
+<person name="Clerc-Blankenburg K.P."/>
+<person name="Chen R."/>
+<person name="Chen Z."/>
+<person name="Davis C."/>
+<person name="Delgado O."/>
+<person name="Dinh H.H."/>
+<person name="Dong W."/>
+<person name="Draper H."/>
+<person name="Ernst S."/>
+<person name="Fu G."/>
+<person name="Gonzalez-Garay M.L."/>
+<person name="Garcia D.K."/>
+<person name="Gillett W."/>
+<person name="Gu J."/>
+<person name="Hao B."/>
+<person name="Haugen E."/>
+<person name="Havlak P."/>
+<person name="He X."/>
+<person name="Hennig S."/>
+<person name="Hu S."/>
+<person name="Huang W."/>
+<person name="Jackson L.R."/>
+<person name="Jacob L.S."/>
+<person name="Kelly S.H."/>
+<person name="Kube M."/>
+<person name="Levy R."/>
+<person name="Li Z."/>
+<person name="Liu B."/>
+<person name="Liu J."/>
+<person name="Liu W."/>
+<person name="Lu J."/>
+<person name="Maheshwari M."/>
+<person name="Nguyen B.V."/>
+<person name="Okwuonu G.O."/>
+<person name="Palmeiri A."/>
+<person name="Pasternak S."/>
+<person name="Perez L.M."/>
+<person name="Phelps K.A."/>
+<person name="Plopper F.J."/>
+<person name="Qiang B."/>
+<person name="Raymond C."/>
+<person name="Rodriguez R."/>
+<person name="Saenphimmachak C."/>
+<person name="Santibanez J."/>
+<person name="Shen H."/>
+<person name="Shen Y."/>
+<person name="Subramanian S."/>
+<person name="Tabor P.E."/>
+<person name="Verduzco D."/>
+<person name="Waldron L."/>
+<person name="Wang J."/>
+<person name="Wang J."/>
+<person name="Wang Q."/>
+<person name="Williams G.A."/>
+<person name="Wong G.K."/>
+<person name="Yao Z."/>
+<person name="Zhang J."/>
+<person name="Zhang X."/>
+<person name="Zhao G."/>
+<person name="Zhou J."/>
+<person name="Zhou Y."/>
+<person name="Nelson D."/>
+<person name="Lehrach H."/>
+<person name="Reinhardt R."/>
+<person name="Naylor S.L."/>
+<person name="Yang H."/>
+<person name="Olson M."/>
+<person name="Weinstock G."/>
+<person name="Gibbs R.A."/>
+</authorList>
+<dbReference type="PubMed" id="16641997"/>
+<dbReference type="DOI" id="10.1038/nature04728"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3" evidence="4">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Burckstummer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="4" evidence="9">
+<citation type="submission" date="2011-07" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<reference key="5" evidence="5">
+<citation type="journal article" date="2014" name="Nat. Struct. Mol. Biol." volume="21" first="927" last="936">
+<title>Uncovering global SUMOylation signaling networks in a site-specific manner.</title>
+<authorList>
+<person name="Hendriks I.A."/>
+<person name="D'Souza R.C."/>
+<person name="Yang B."/>
+<person name="Verlaan-de Vries M."/>
+<person name="Mann M."/>
+<person name="Vertegaal A.C."/>
+</authorList>
+<dbReference type="PubMed" id="25218447"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="6" evidence="6">
+<citation type="journal article" date="2015" name="Cell Rep." volume="10" first="1778" last="1791">
+<title>SUMO-2 Orchestrates Chromatin Modifiers in Response to DNA Damage.</title>
+<authorList>
+<person name="Hendriks I.A."/>
+<person name="Treffers L.W."/>
+<person name="Verlaan-de Vries M."/>
+<person name="Olsen J.V."/>
+<person name="Vertegaal A.C."/>
+</authorList>
+<dbReference type="PubMed" id="25772364"/>
+<dbReference type="DOI" id="10.1016/j.celrep.2015.02.033"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="function">
+<text evidence="7">Control of topological states of DNA by transient breakage and subsequent rejoining of DNA strands. Topoisomerase II makes double-strand breaks.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="7">ATP-dependent breakage, passage and rejoining of double-stranded DNA.</text>
+</comment>
+<comment type="subunit">
+<text evidence="7">Homodimer.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Belongs to the type II topoisomerase family.</text>
+</comment>
+<comment type="caution">
+<text evidence="9">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EC" id="5.99.1.3" evidence="7"/>
+<dbReference type="EMBL" id="AC093416">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="ProteinModelPortal" id="E9PCY5"/>
+<dbReference type="STRING" id="9606.ENSP00000396704"/>
+<dbReference type="MaxQB" id="E9PCY5"/>
+<dbReference type="PaxDb" id="E9PCY5"/>
+<dbReference type="PeptideAtlas" id="E9PCY5"/>
+<dbReference type="PRIDE" id="E9PCY5"/>
+<dbReference type="Ensembl" id="ENST00000424225">
+<property type="protein sequence ID" value="ENSP00000391112"/>
+<property type="gene ID" value="ENSG00000077097"/>
+</dbReference>
+<dbReference type="UCSC" id="uc062hox.1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="HGNC" id="HGNC:11990">
+<property type="gene designation" value="TOP2B"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000077097"/>
+<dbReference type="eggNOG" id="KOG0355">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0187">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0188">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000016222"/>
+<dbReference type="ChiTaRS" id="TOP2B">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 3"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000077097"/>
+<dbReference type="ExpressionAtlas" id="E9PCY5">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003918">
+<property type="term" value="F:DNA topoisomerase type II (ATP-hydrolyzing) activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006265">
+<property type="term" value="P:DNA topological change"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="CDD" id="cd03365">
+<property type="entry name" value="TOPRIM_TopoIIA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.268.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1360.40">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.230.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.565.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.670">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.199.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024946">
+<property type="entry name" value="Arg_repress_C-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003594">
+<property type="entry name" value="HATPase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020568">
+<property type="entry name" value="Ribosomal_S5_D2-typ_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014721">
+<property type="entry name" value="Ribosomal_S5_D2-typ_fold_subgr"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001241">
+<property type="entry name" value="Topo_IIA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013760">
+<property type="entry name" value="Topo_IIA-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002205">
+<property type="entry name" value="Topo_IIA_A/C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013758">
+<property type="entry name" value="Topo_IIA_A/C_ab"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013757">
+<property type="entry name" value="Topo_IIA_A_a"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013506">
+<property type="entry name" value="Topo_IIA_bsu_dom2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013759">
+<property type="entry name" value="Topo_IIA_cen_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018522">
+<property type="entry name" value="TopoIIA_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR031660">
+<property type="entry name" value="TOPRIM_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006171">
+<property type="entry name" value="TOPRIM_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR034157">
+<property type="entry name" value="TOPRIM_TopoII"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10169">
+<property type="entry name" value="PTHR10169"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00204">
+<property type="entry name" value="DNA_gyraseB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00521">
+<property type="entry name" value="DNA_topoisoIV"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02518">
+<property type="entry name" value="HATPase_c"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01751">
+<property type="entry name" value="Toprim"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16898">
+<property type="entry name" value="TOPRIM_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00418">
+<property type="entry name" value="TPI2FAMILY"/>
+</dbReference>
+<dbReference type="SMART" id="SM00433">
+<property type="entry name" value="TOP2c"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00434">
+<property type="entry name" value="TOP4c"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54211">
+<property type="entry name" value="SSF54211"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55874">
+<property type="entry name" value="SSF55874"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56719">
+<property type="entry name" value="SSF56719"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00177">
+<property type="entry name" value="TOPOISOMERASE_II"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50880">
+<property type="entry name" value="TOPRIM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="7">ATP-binding</keyword>
+<keyword id="KW-0181" evidence="10">Complete proteome</keyword>
+<keyword id="KW-0238" evidence="7">DNA-binding</keyword>
+<keyword id="KW-0413" evidence="7">Isomerase</keyword>
+<keyword id="KW-0547" evidence="7">Nucleotide-binding</keyword>
+<keyword id="KW-1267" evidence="1 2 3">Proteomics identification</keyword>
+<keyword id="KW-1185" evidence="10">Reference proteome</keyword>
+<keyword id="KW-0799" evidence="7">Topoisomerase</keyword>
+<feature type="domain" description="Toprim" evidence="8">
+<location>
+<begin position="471"/>
+<end position="588"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="9">
+<location>
+<position position="1150"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000213">
+<source>
+<dbReference type="EPD" id="E9PCY5"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000213">
+<source>
+<dbReference type="MaxQB" id="E9PCY5"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000213">
+<source>
+<dbReference type="PeptideAtlas" id="E9PCY5"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="21269460"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="25218447"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="25772364"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU362094"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50880"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000391112"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="1150" mass="130481" checksum="CA1A6A65BDCD4A83" modified="2011-04-05" version="1" fragment="single">
+MAKSGGCGAGAGVGGGNGALTWVNNAAKKEESETANKNDSSKKLSVERVYQKKTQLEHIL
+LRPDTYIGSVEPLTQFMWVYDEDVGMNCREVTFVPGLYKIFDEILVNAADNKQRDKNMTC
+IKVSIDPESNIISIWNNGKGIPVVEHKVEKVYVPALIFGQLLTSSNYDDDEKKVTGGRNG
+YGAKLCNIFSTKFTVETACKEYKHSFKQTWMNNMMKTSEAKIKHFDGEDYTCITFQPDLS
+KFKMEKLDKDIVALMTRRAYDLAGSCRGVKVMFNGKKLPVNGFRSYVDLYVKDKLDETGV
+ALKVIHELANERWDVCLTLSEKGFQQISFVNSIATTKGGRHVDYVVDQVVGKLIEVVKKK
+NKAGVSVKPFQVKNHIWVFINCLIENPTFDSQTKENMTLQPKSFGSKCQLSEKFFKAASN
+CGIVESILNWVKFKAQTQLNKKCSSVKYSKIKGIPKLDDANDAGGKHSLECTLILTEGDS
+AKSLAVSGLGVIGRDRYGVFPLRGKILNVREASHKQIMENAEINNIIKIVGLQYKKSYDD
+AESLKTLRYGKIMIMTDQDQDGSHIKGLLINFIHHNWPSLLKHGFLEEFITPIVKASKNK
+QELSFYSIPEFDEWKKHIENQKAWKIKYYKGLGTSTAKEAKEYFADMERHRILFRYAGPE
+DDAAITLAFSKKKIDDRKEWLTNFMEDRRQRRLHGLPEQFLYGTATKHLTYNDFINKELI
+LFSNSDNERSIPSLVDGFKPGQRKVLFTCFKRNDKREVKVAQLAGSVAEMSAYHHGEQAL
+MMTIVNLAQNFVGSNNINLLQPIGQFGTRLHGGKDAASPRYIFTMLSTLARLLFPAVDDN
+LLKFLYDDNQRVEPEWYIPIIPMVLINGAEGIGTGWACKLPNYDAREIVNNVRRMLDGLD
+PHPMLPNYKNFKGTIQELGQNQYAVSGEIFVVDRNTVEITELPVRTWTQVYKEQVLEPML
+NGTDKTPALISDYKEYHTDTTVKFVVKMTEEKLAQAEAAGLHKVFKLQTTLTCNSMVLFD
+HMGCLKKYETVQDILKEFFDLRLSYYGLRKEWLVGMLGAESTKLNNQARFILEKIQGKIT
+IENRSKKDLIQMLVQRGYESDPVKAWKEAQEKAAEEDETQNQHDDSSSDSGTPSGPDFNY
+ILNMSLWSLT
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

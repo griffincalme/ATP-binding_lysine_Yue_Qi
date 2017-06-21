@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2016-02-17" modified="2017-05-10" version="12">
+<accession>A0A0S2Z310</accession>
+<name>A0A0S2Z310_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Serine/threonine-protein kinase receptor</fullName>
+<ecNumber evidence="1">2.7.11.30</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="11">ACVRL1</name>
+</gene>
+<organism evidence="11">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="11">
+<citation type="journal article" date="2016" name="Cell" volume="164" first="805" last="817">
+<title>Widespread Expansion of Protein Interaction Capabilities by Alternative Splicing.</title>
+<authorList>
+<person name="Yang X."/>
+<person name="Coulombe-Huntington J."/>
+<person name="Kang S."/>
+<person name="Sheynkman G.M."/>
+<person name="Hao T."/>
+<person name="Richardson A."/>
+<person name="Sun S."/>
+<person name="Yang F."/>
+<person name="Shen Y.A."/>
+<person name="Murray R."/>
+<person name="Spirohn K."/>
+<person name="Begg B.E."/>
+<person name="Duran-Frigola M."/>
+<person name="MacWilliams A."/>
+<person name="Pevzner S.J."/>
+<person name="Zhong Q."/>
+<person name="Trigg S.A."/>
+<person name="Tam S."/>
+<person name="Ghamsari L."/>
+<person name="Sahni N."/>
+<person name="Yi S."/>
+<person name="Rodriguez M.D."/>
+<person name="Balcha D."/>
+<person name="Tan G."/>
+<person name="Costanzo M."/>
+<person name="Andrews B."/>
+<person name="Boone C."/>
+<person name="Zhou X.J."/>
+<person name="Salehi-Ashtiani K."/>
+<person name="Charloteaux B."/>
+<person name="Chen A."/>
+<person name="Calderwood M.A."/>
+<person name="Aloy P."/>
+<person name="Roth F.P."/>
+<person name="Hill D.E."/>
+<person name="Iakoucheva L.M."/>
+<person name="Xia Y."/>
+<person name="Vidal M."/>
+</authorList>
+<dbReference type="PubMed" id="26871637"/>
+<dbReference type="DOI" id="10.1016/j.cell.2016.01.029"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="1 3">ATP + [receptor-protein] = ADP + [receptor-protein] phosphate.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<cofactor evidence="1">
+<name>Mn(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29035"/>
+</cofactor>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Membrane</location>
+<topology evidence="1">Single-pass type I membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1 7">Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. TGFB receptor subfamily.</text>
+</comment>
+<dbReference type="EC" id="2.7.11.30" evidence="1"/>
+<dbReference type="EMBL" id="KU177888">
+<property type="protein sequence ID" value="ALQ33346.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000011.2">
+<property type="nucleotide sequence ID" value="NM_000020.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001070869.1">
+<property type="nucleotide sequence ID" value="NM_001077401.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_005269292.1">
+<property type="nucleotide sequence ID" value="XM_005269235.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.591026"/>
+<dbReference type="ProteinModelPortal" id="A0A0S2Z310"/>
+<dbReference type="SMR" id="A0A0S2Z310"/>
+<dbReference type="GeneID" id="94"/>
+<dbReference type="KEGG" id="hsa:94"/>
+<dbReference type="CTD" id="94"/>
+<dbReference type="KO" id="K13594"/>
+<dbReference type="PhylomeDB" id="A0A0S2Z310"/>
+<dbReference type="ExpressionAtlas" id="A0A0S2Z310">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030425">
+<property type="term" value="C:dendrite"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043025">
+<property type="term" value="C:neuronal cell body"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004702">
+<property type="term" value="F:signal transducer, downstream of receptor, with serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046332">
+<property type="term" value="F:SMAD binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005025">
+<property type="term" value="F:transforming growth factor beta receptor activity, type I"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001525">
+<property type="term" value="P:angiogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001974">
+<property type="term" value="P:blood vessel remodeling"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030509">
+<property type="term" value="P:BMP signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035912">
+<property type="term" value="P:dorsal aorta morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003203">
+<property type="term" value="P:endocardial cushion morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001701">
+<property type="term" value="P:in utero embryonic development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001946">
+<property type="term" value="P:lymphangiogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060836">
+<property type="term" value="P:lymphatic endothelial cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045602">
+<property type="term" value="P:negative regulation of endothelial cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001937">
+<property type="term" value="P:negative regulation of endothelial cell proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010629">
+<property type="term" value="P:negative regulation of gene expression"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045766">
+<property type="term" value="P:positive regulation of angiogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030513">
+<property type="term" value="P:positive regulation of BMP signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045603">
+<property type="term" value="P:positive regulation of endothelial cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001938">
+<property type="term" value="P:positive regulation of endothelial cell proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription from RNA polymerase II promoter"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051291">
+<property type="term" value="P:protein heterooligomerization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001666">
+<property type="term" value="P:response to hypoxia"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061298">
+<property type="term" value="P:retina vasculature development in camera-type eye"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007179">
+<property type="term" value="P:transforming growth factor beta receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060841">
+<property type="term" value="P:venous blood vessel development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003605">
+<property type="entry name" value="GS_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001245">
+<property type="entry name" value="Ser-Thr/Tyr_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000333">
+<property type="entry name" value="TGFB_receptor"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR23255">
+<property type="entry name" value="PTHR23255"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07714">
+<property type="entry name" value="Pkinase_Tyr"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08515">
+<property type="entry name" value="TGF_beta_GS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00653">
+<property type="entry name" value="ACTIVIN2R"/>
+</dbReference>
+<dbReference type="SMART" id="SM00467">
+<property type="entry name" value="GS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51256">
+<property type="entry name" value="GS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1 4">ATP-binding</keyword>
+<keyword id="KW-0418" evidence="1 5">Kinase</keyword>
+<keyword id="KW-0460" evidence="1">Magnesium</keyword>
+<keyword id="KW-0464" evidence="1">Manganese</keyword>
+<keyword id="KW-0472" evidence="1 2">Membrane</keyword>
+<keyword id="KW-0479" evidence="1">Metal-binding</keyword>
+<keyword id="KW-0547" evidence="1 4">Nucleotide-binding</keyword>
+<keyword id="KW-0675" evidence="1 6 11">Receptor</keyword>
+<keyword id="KW-0723" evidence="1 5">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0732" evidence="8">Signal</keyword>
+<keyword id="KW-0808" evidence="1 5">Transferase</keyword>
+<keyword id="KW-0812" evidence="1 2">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="1 2">Transmembrane helix</keyword>
+<feature type="signal peptide" evidence="8">
+<location>
+<begin position="1"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="chain" description="Serine/threonine-protein kinase receptor" id="PRO_5006608194" evidence="8">
+<location>
+<begin position="22"/>
+<end position="503"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="119"/>
+<end position="141"/>
+</location>
+</feature>
+<feature type="domain" description="GS" evidence="10">
+<location>
+<begin position="172"/>
+<end position="201"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase" evidence="9">
+<location>
+<begin position="202"/>
+<end position="492"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="11">
+<location>
+<position position="503"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU361271"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00138163"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00410096"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00488784"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00488798"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00488829"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00595019"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="SignalP"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51256"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ALQ33346.1"/>
+</source>
+</evidence>
+<sequence length="503" mass="56124" checksum="074522AA802325DD" modified="2016-02-17" version="1" fragment="single">
+MTLGSPRKGLLMLLMALVTQGDPVKPSRGPLVTCTCESPHCKGPTCRGAWCTVVLVREEG
+RHPQEHRGCGNLHRELCRGRPTEFVNHYCCDSHLCNHNVSLVLEATQPPSEQPGTDGQLA
+LILGPVLALLALVALGVLGLWHVRRRQEKQRGLHSELGESSLILKASEQGDSMLGDLLDS
+DCTTGSGSGLPFLVQRTVARQVALVECVGKGRYGEVWRGLWHGESVAVKIFSSRDEQSWF
+RETEIYNTVLLRHDNILGFIASDMTSRNSSTQLWLITHYHEHGSLYDFLQRQTLEPHLAL
+RLAVSAACGLAHLHVEIFGTQGKPAIAHRDFKSRNVLVKSNLQCCIADLGLAVMHSQGSD
+YLDIGNNPRVGTKRYMAPEVLDEQIRTDCFESYKWTDIWAFGLVLWEIARRTIVNGIVED
+YRPPFYDVVPNDPSFEDMKKVVCVDQQTPTIPNRLAADPVLSGLAQMMRECWYPNPSARL
+TALRIKKTLQKISNSPEKPKVIQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

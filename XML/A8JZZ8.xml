@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2007-12-04" modified="2017-05-10" version="62">
+<accession>A8JZZ8</accession>
+<name>A8JZZ8_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="4">cDNA FLJ77826, highly similar to Homo sapiens BCS1-like (yeast), mRNA</fullName>
+</submittedName>
+</protein>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the AAA ATPase family.</text>
+</comment>
+<dbReference type="EMBL" id="AK289363">
+<property type="protein sequence ID" value="BAF82052.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001244271.1">
+<property type="nucleotide sequence ID" value="NM_001257342.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.471401"/>
+<dbReference type="STRING" id="9606.ENSP00000352219"/>
+<dbReference type="PaxDb" id="A8JZZ8"/>
+<dbReference type="PeptideAtlas" id="A8JZZ8"/>
+<dbReference type="GeneID" id="617"/>
+<dbReference type="CTD" id="617"/>
+<dbReference type="eggNOG" id="KOG0743">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0465">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG048759"/>
+<dbReference type="GenomeRNAi" id="617"/>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034551">
+<property type="term" value="P:mitochondrial respiratory chain complex III assembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003959">
+<property type="entry name" value="ATPase_AAA_core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003960">
+<property type="entry name" value="ATPase_AAA_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027243">
+<property type="entry name" value="BCS1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014851">
+<property type="entry name" value="BCS1_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR23070:SF69">
+<property type="entry name" value="PTHR23070:SF69"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00004">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08740">
+<property type="entry name" value="BCS1_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01024">
+<property type="entry name" value="BCS1_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00674">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="domain" description="BCS1_N" evidence="3">
+<location>
+<begin position="23"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="domain" description="AAA" evidence="2">
+<location>
+<begin position="222"/>
+<end position="357"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU003651"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00382"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM01024"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAF82052.1"/>
+</source>
+</evidence>
+<sequence length="419" mass="47550" checksum="2E4BD69C0EF9EBFF" modified="2007-12-04" version="1">
+MPLSDFILALKDNPYFGAGFGLVGVGTALALARKGVQLGLVAFRRHYMITLEVPARDRSY
+AWLLSWLTRHSTRTQHLSVETSYLQHESGRISTKFEFVPSLGNHFIWYRGKWIRVERSRE
+MQMIDLQTGTPWESVTFTALGTDRKVFFNILEEARELALQQEEGKTVMYTAVGSEWRPFG
+YPRRRRPLNSVVLQQGLADRIVRDVQEFIDNPKWYTDRGIPYRRGYLLYGPPGCGKSSFI
+TALAGELEHSICLLSLTDSSLSDDRLNHLLSVAPQQSLVLLEDVDAAFLSRDLAVENPVK
+YQGLGRLTFSGLLNALDGVASTEARIVFMTTNHVDRLDPALIRPGRVDLKEYVGYCSHWQ
+LTQMFQRFYPGQAPSLAENFAEHVLRATNQISPAQVQGYFMLYKNDPVGAIHNAESLRR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

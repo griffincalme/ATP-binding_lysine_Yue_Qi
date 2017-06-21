@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2010-07-13" modified="2017-04-12" version="55">
+<accession>D6REA0</accession>
+<name>D6REA0_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="5">Glutamyl-tRNA(Gln) amidotransferase subunit B, mitochondrial</fullName>
+<shortName evidence="5">Glu-AdT subunit B</shortName>
+<ecNumber evidence="5">6.3.5.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="5">Cytochrome oxidase assembly factor PET112 homolog</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="5">PET112-like</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="5 7">GATB</name>
+<name type="synonym" evidence="5">PET112</name>
+<name type="synonym" evidence="5">PET112L</name>
+</gene>
+<organism evidence="7 8">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7 8">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="724" last="731">
+<title>Generation and annotation of the DNA sequences of human chromosomes 2 and 4.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Graves T.A."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Pepin K.H."/>
+<person name="Minx P."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Kremitzki C."/>
+<person name="Oddy L."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Carter J."/>
+<person name="Cordes M."/>
+<person name="Harris A."/>
+<person name="Isak A."/>
+<person name="van Brunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Abbott S."/>
+<person name="Armstrong J."/>
+<person name="Belter E.A."/>
+<person name="Caruso L."/>
+<person name="Cedroni M."/>
+<person name="Cotton M."/>
+<person name="Davidson T."/>
+<person name="Desai A."/>
+<person name="Elliott G."/>
+<person name="Erb T."/>
+<person name="Fronick C."/>
+<person name="Gaige T."/>
+<person name="Haakenson W."/>
+<person name="Haglund K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Kim K."/>
+<person name="Kruchowski S.S."/>
+<person name="Strong C.M."/>
+<person name="Grewal N."/>
+<person name="Goyea E."/>
+<person name="Hou S."/>
+<person name="Levy A."/>
+<person name="Martinka S."/>
+<person name="Mead K."/>
+<person name="McLellan M.D."/>
+<person name="Meyer R."/>
+<person name="Randall-Maher J."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Shah N."/>
+<person name="Swearengen-Shahid S."/>
+<person name="Snider J."/>
+<person name="Strong J.T."/>
+<person name="Thompson J."/>
+<person name="Yoakum M."/>
+<person name="Leonard S."/>
+<person name="Pearman C."/>
+<person name="Trani L."/>
+<person name="Radionenko M."/>
+<person name="Waligorski J.E."/>
+<person name="Wang C."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Maupin R."/>
+<person name="Latreille P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Pohl C."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Berkowicz N."/>
+<person name="Nelson J.O."/>
+<person name="Osborne J."/>
+<person name="Ding L."/>
+<person name="Meyer R."/>
+<person name="Sabo A."/>
+<person name="Shotland Y."/>
+<person name="Sinha P."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Jones T.A."/>
+<person name="She X."/>
+<person name="Ciccarelli F.D."/>
+<person name="Izaurralde E."/>
+<person name="Taylor J."/>
+<person name="Schmutz J."/>
+<person name="Myers R.M."/>
+<person name="Cox D.R."/>
+<person name="Huang X."/>
+<person name="McPherson J.D."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Warren W.C."/>
+<person name="Chinwalla A.T."/>
+<person name="Eddy S.R."/>
+<person name="Marra M.A."/>
+<person name="Ovcharenko I."/>
+<person name="Furey T.S."/>
+<person name="Miller W."/>
+<person name="Eichler E.E."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Torrents D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="15815621"/>
+<dbReference type="DOI" id="10.1038/nature03466"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="7">
+<citation type="submission" date="2011-07" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<reference key="3" evidence="4">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="function">
+<text evidence="5">Allows the formation of correctly charged Gln-tRNA(Gln) through the transamidation of misacylated Glu-tRNA(Gln) in the mitochondria. The reaction takes place in the presence of glutamine and ATP through an activated gamma-phospho-Glu-tRNA(Gln).</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="5">ATP + L-glutamyl-tRNA(Gln) + L-glutamine = ADP + phosphate + L-glutaminyl-tRNA(Gln) + L-glutamate.</text>
+</comment>
+<comment type="subunit">
+<text evidence="5">Subunit of the heterotrimeric GatCAB amidotransferase (AdT) complex, composed of A (QRSL1), B (GATB) and C (GATC) subunits.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="5">Mitochondrion</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the GatB/GatE family. GatB subfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="7">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EC" id="6.3.5.-" evidence="5"/>
+<dbReference type="EMBL" id="AC092611">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="ProteinModelPortal" id="D6REA0"/>
+<dbReference type="EPD" id="D6REA0"/>
+<dbReference type="MaxQB" id="D6REA0"/>
+<dbReference type="PeptideAtlas" id="D6REA0"/>
+<dbReference type="PRIDE" id="D6REA0"/>
+<dbReference type="Ensembl" id="ENST00000515812">
+<property type="protein sequence ID" value="ENSP00000426859"/>
+<property type="gene ID" value="ENSG00000059691"/>
+</dbReference>
+<dbReference type="UCSC" id="uc063afn.1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="HGNC" id="HGNC:8849">
+<property type="gene designation" value="GATB"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000059691"/>
+<dbReference type="GeneTree" id="ENSGT00390000016644"/>
+<dbReference type="HOGENOM" id="HOG000223743"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 4"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000059691"/>
+<dbReference type="ExpressionAtlas" id="D6REA0">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030956">
+<property type="term" value="C:glutamyl-tRNA(Gln) amidotransferase complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050567">
+<property type="term" value="F:glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070681">
+<property type="term" value="P:glutaminyl-tRNAGln biosynthesis via transamidation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032543">
+<property type="term" value="P:mitochondrial translation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.410">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00121">
+<property type="entry name" value="GatB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004413">
+<property type="entry name" value="Apn/Gln-ADT_bsu"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017959">
+<property type="entry name" value="Asn/Gln-tRNA_amidoTrfase_suB/E"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006075">
+<property type="entry name" value="Asn/Gln-tRNA_Trfase_suB/E_cat"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018027">
+<property type="entry name" value="Asn/Gln_amidotransferase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003789">
+<property type="entry name" value="Asn/Gln_tRNA_amidoTrfrase-rel"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023168">
+<property type="entry name" value="GatB_Yqey_C"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11659">
+<property type="entry name" value="PTHR11659"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02934">
+<property type="entry name" value="GatB_N"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02637">
+<property type="entry name" value="GatB_Yqey"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00845">
+<property type="entry name" value="GatB_Yqey"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF89095">
+<property type="entry name" value="SSF89095"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="5">ATP-binding</keyword>
+<keyword id="KW-0181" evidence="8">Complete proteome</keyword>
+<keyword id="KW-0436" evidence="5">Ligase</keyword>
+<keyword id="KW-0496" evidence="5">Mitochondrion</keyword>
+<keyword id="KW-0547" evidence="5">Nucleotide-binding</keyword>
+<keyword id="KW-0648" evidence="5">Protein biosynthesis</keyword>
+<keyword id="KW-1267" evidence="1 2 3">Proteomics identification</keyword>
+<keyword id="KW-1185" evidence="8">Reference proteome</keyword>
+<keyword id="KW-0809" evidence="5">Transit peptide</keyword>
+<feature type="domain" description="GatB_Yqey" evidence="6">
+<location>
+<begin position="365"/>
+<end position="514"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000213">
+<source>
+<dbReference type="EPD" id="D6REA0"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000213">
+<source>
+<dbReference type="MaxQB" id="D6REA0"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000213">
+<source>
+<dbReference type="PeptideAtlas" id="D6REA0"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="25944712"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_03147"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00845"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000426859"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="516" mass="57653" checksum="E39A6AFA34DC7C65" modified="2010-07-13" version="1">
+MAAPMLRWGCRGRRWAFARVDGGSCHRRGAPTGSTSNQIRGESSVAQQPLHTAQKTRKGE
+HKWAAVVGLEIHAQISSNSKLFSGSQVRFSAPPNSLVSFFDASLPGTLPVLNRRCVEAAV
+MTGLALNCHINKKSLFDRKHYFYADLPAGYQITQQRLPIAVNGSLIYGVCAGKKQSQVIP
+KTVRIKQIQLEQDSGKSLHDNLRSQTLIDLNRAEGQLRVDANISVHHPGEPLGVRTEVKN
+LNSIRFLAKAIDYEIQRQINELENGGEILNETRSFHHKLGCTMSMRDKEGKQDYRFMPEP
+NLPPLVLYDATSLPAGADPQQVINIDQIRETLPELPSVTREKLVQQYGMLLEHSFTLLNE
+VGLLEFFQNVIKETRAEPKKVTSWVLNTFLGYLKQQNLAVSESPVTPSALAELLDLLDSR
+TISSSAAKQVFEELWKREGKTPGQIVSEKQLELMQDQGALEQLCHSVMEAHPQVVMDVKN
+RNPRAINKLIGLVRKATQSRADPVMIKEILEKKLSL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

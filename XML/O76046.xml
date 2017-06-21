@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="1998-11-01" modified="2017-04-12" version="100">
+<accession>O76046</accession>
+<name>O76046_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="3">Putative RNA helicase Ski2w</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">SKI2W</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="journal article" date="1995" name="Nucleic Acids Res." volume="23" first="2120" last="2126">
+<title>Human helicase gene SKI2W in the HLA class III region exhibits striking structural similarities to the yeast antiviral gene SKI2 and to the human gene KIAA0052: emergence of a new gene family.</title>
+<authorList>
+<person name="Dangel A.W."/>
+<person name="Shen L."/>
+<person name="Mendoza A.R."/>
+<person name="Wu L.-C."/>
+<person name="Yu C.Y."/>
+</authorList>
+<dbReference type="PubMed" id="7610041"/>
+<dbReference type="DOI" id="10.1093/nar/23.12.2120"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="2" evidence="3">
+<citation type="journal article" date="1998" name="Genomics" volume="53" first="338" last="347">
+<title>Four ubiquitously expressed genes, RD (D6S45)-SKI2W (SKIV2L)-DOM3Z-RP1 (D6S60E), are present between complement component genes factor B and C4 in the class III region of the HLA.</title>
+<authorList>
+<person name="Yang Z."/>
+<person name="Shen L."/>
+<person name="Dangel A.W."/>
+<person name="Wu L.-C."/>
+<person name="Yu C.Y."/>
+</authorList>
+<dbReference type="PubMed" id="9799600"/>
+<dbReference type="DOI" id="10.1006/geno.1998.5499"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<dbReference type="EMBL" id="AF059675">
+<property type="protein sequence ID" value="AAC78607.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.89864"/>
+<dbReference type="ProteinModelPortal" id="O76046"/>
+<dbReference type="STRING" id="9606.ENSP00000364543"/>
+<dbReference type="PaxDb" id="O76046"/>
+<dbReference type="PeptideAtlas" id="O76046"/>
+<dbReference type="PRIDE" id="O76046"/>
+<dbReference type="eggNOG" id="KOG0948">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG4581">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG060025"/>
+<dbReference type="ChiTaRS" id="SKIV2L">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003723">
+<property type="term" value="F:RNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003724">
+<property type="term" value="F:RNA helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006401">
+<property type="term" value="P:RNA catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011545">
+<property type="entry name" value="DEAD/DEAH_box_helicase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025696">
+<property type="entry name" value="rRNA_proc-arch_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016438">
+<property type="entry name" value="Ski2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012961">
+<property type="entry name" value="Ski2_C"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00270">
+<property type="entry name" value="DEAD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08148">
+<property type="entry name" value="DSHCT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13234">
+<property type="entry name" value="rRNA_proc-arch"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF005198">
+<property type="entry name" value="Antiviral_helicase_SKI2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01142">
+<property type="entry name" value="DSHCT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00490">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0067" evidence="3">ATP-binding</keyword>
+<keyword id="KW-0347" evidence="3">Helicase</keyword>
+<keyword id="KW-0378" evidence="3">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="3">Nucleotide-binding</keyword>
+<feature type="domain" description="Helicase ATP-binding" evidence="1">
+<location>
+<begin position="319"/>
+<end position="475"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase C-terminal" evidence="2">
+<location>
+<begin position="585"/>
+<end position="755"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51192"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51194"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAC78607.1"/>
+</source>
+</evidence>
+<sequence length="1246" mass="137794" checksum="FCDE30D09D6B0FF8" modified="1998-11-01" version="1">
+MMETERLVLPPPDPLDLPLRAVELGCTGHWELLNLPGAPESSLPHGLPPCAPDLQQEAEQ
+LFLSSPAWLPLHGVEHSARKWQRKTDPWSLLAVLGAPVPSDLQAQRHPTTGQILGYKEVL
+LENTNLSATTSLSLRRPPGPASQSLWGNPTQYPFWPGGMDEPTITDLNTREEAEEEIDFE
+KDLLTIPPGFKKGMDFAPKDCPTPAPGLLSLSCLLEPLDLGGGDEDENEAVGQPGGPRGD
+TVSASPCSAPLARASSLEDLVLKEASTAVSTPEAPEPPSQEQWAIPVDATSPVGDFYRLI
+PQPAFQWAFEPDVFQKQAILHLERHDSVFVAAHTSAGKTVVAEYAIALAQKHMTRTIYTS
+PIKALSNQKFRDFRNTFGDVGLLTGDVQLHPEASCLIMTTEILRSMLYSGSDVIRDLEWV
+IFDEVHYINDVERGVVWEEVLIMLPDHVSIILLSATVPNALEFADWIGRLKRRQIYVIST
+VTRPVPLEHYLFTGNSSKTQGELFLLLDSRGAFHTKGYYAAVEAKKERMSKHAQTFGAKQ
+PTHQGGPAQDRGVYLSLLASLRTRAQLPVVVFTFSRGRCDEQASGLTSLDLTTSSEKSEI
+HLFLQRCLARLRGSDRQLPQVLHMSELLNRGLGVHHSGILPILKEIVEMLFSRGLVKVLF
+ATETFAMGVNMPARTVVFDSMRKHDGSTFRDLLPGEYVQMAGRAGRRGLDPTGTVILLCK
+GRVPEMADLHRMMMGKPSQLQSQFRLTYTMILNLLRVDALRVEDMMKRSFSEFPSRKDSK
+AHEQALAELTKRLGALEEPDMTGQLVDLPEYYSWGEELTETQHMIQRRIMESVNGLKSLS
+AGRVVVVKNQEHHNALGVILQVSSNSTSRVFTTLVLCDKPLSQDPQDRGPATAEVPYPDD
+LVGFKLFLPEGPCDHTVVKLQPGDMAAITTKVLRVNGEKILEDFSKRQQPKFKKDPPLAA
+VTTAVQELLRLAQAHPAGPPTLDPVNDLQLKDMSVVEGGLRARKLEELIQGAQCVHSPRF
+PAQYLKLRERMQIQKEMERLRFLLSDQSLLLLPEYHQRVEVLRTLGYVDEAGTVKLAGRV
+ACAMSSHELLLTELMFDNALSTLRPEEIAALLSGLVCQSPGDAGDQLPNTLKQGIERVRA
+VAKRIGEVQVACRLNQTVEEFVGELNFGLVEVVYEWARGMPFSELAGLSGTPEGLVVRCI
+QRLAEMCRSLRGAARLVGEPVLGAKMETAATLLRRDIGFAASLYTQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

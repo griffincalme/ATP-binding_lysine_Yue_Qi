@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2005-04-26" modified="2017-05-10" version="72">
+<accession>Q59ET9</accession>
+<name>Q59ET9_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Mevalonate kinase</fullName>
+<shortName evidence="1">MK</shortName>
+<ecNumber evidence="1">2.7.1.36</ecNumber>
+</recommendedName>
+</protein>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="submission" date="2005-03" db="EMBL/GenBank/DDBJ databases">
+<title>Homo sapiens protein coding cDNA.</title>
+<authorList>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Takeda T."/>
+<person name="Sakaki Y."/>
+<person name="Tanaka A."/>
+<person name="Yokoyama S."/>
+<person name="Ohara O."/>
+<person name="Nagase T."/>
+<person name="Kikuno R.F."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="4">Brain</tissue>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">May be a regulatory site in cholesterol biosynthetic pathway.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1">ATP + (R)-mevalonate = ADP + (R)-5-phosphomevalonate.</text>
+</comment>
+<comment type="pathway" evidence="1">
+<text>Isoprenoid biosynthesis; isopentenyl diphosphate biosynthesis via mevalonate pathway; isopentenyl diphosphate from (R)-mevalonate: step 1/3.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the GHMP kinase family. Mevalonate kinase subfamily.</text>
+</comment>
+<dbReference type="EC" id="2.7.1.36" evidence="1"/>
+<dbReference type="EMBL" id="AB209722">
+<property type="protein sequence ID" value="BAD92959.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.130607"/>
+<dbReference type="ProteinModelPortal" id="Q59ET9"/>
+<dbReference type="STRING" id="9606.ENSP00000228510"/>
+<dbReference type="PaxDb" id="Q59ET9"/>
+<dbReference type="PeptideAtlas" id="Q59ET9"/>
+<dbReference type="PRIDE" id="Q59ET9"/>
+<dbReference type="eggNOG" id="KOG1511">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1577">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOGENOM" id="HOG000188934"/>
+<dbReference type="HOVERGEN" id="HBG000402"/>
+<dbReference type="UniPathway" id="UPA00057">
+<property type="reaction ID" value="UER00098"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004496">
+<property type="term" value="F:mevalonate kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006695">
+<property type="term" value="P:cholesterol biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019287">
+<property type="term" value="P:isopentenyl diphosphate biosynthetic process, mevalonate pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.230.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.70.890">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013750">
+<property type="entry name" value="GHMP_kinase_C_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006204">
+<property type="entry name" value="GHMP_kinase_N_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006203">
+<property type="entry name" value="GHMP_knse_ATP-bd_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006205">
+<property type="entry name" value="Mev_gal_kin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006206">
+<property type="entry name" value="Mevalonate/galactokinase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020568">
+<property type="entry name" value="Ribosomal_S5_D2-typ_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014721">
+<property type="entry name" value="Ribosomal_S5_D2-typ_fold_subgr"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08544">
+<property type="entry name" value="GHMP_kinases_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00288">
+<property type="entry name" value="GHMP_kinases_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00959">
+<property type="entry name" value="MEVGALKINASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54211">
+<property type="entry name" value="SSF54211"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55060">
+<property type="entry name" value="SSF55060"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00549">
+<property type="entry name" value="mevalon_kin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00627">
+<property type="entry name" value="GHMP_KINASES_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0152" evidence="1">Cholesterol biosynthesis</keyword>
+<keyword id="KW-0153" evidence="1">Cholesterol metabolism</keyword>
+<keyword id="KW-0963" evidence="1">Cytoplasm</keyword>
+<keyword id="KW-0418" evidence="1 4">Kinase</keyword>
+<keyword id="KW-0444" evidence="1">Lipid biosynthesis</keyword>
+<keyword id="KW-0443" evidence="1">Lipid metabolism</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0752" evidence="1">Steroid biosynthesis</keyword>
+<keyword id="KW-0753" evidence="1">Steroid metabolism</keyword>
+<keyword id="KW-0756" evidence="1">Sterol biosynthesis</keyword>
+<keyword id="KW-1207" evidence="1">Sterol metabolism</keyword>
+<keyword id="KW-0808" evidence="1 4">Transferase</keyword>
+<feature type="domain" description="GHMP_kinases_N" evidence="2">
+<location>
+<begin position="155"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="domain" description="GHMP_kinases_C" evidence="3">
+<location>
+<begin position="319"/>
+<end position="378"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="4">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU363087"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF00288"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF08544"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAD92959.1"/>
+</source>
+</evidence>
+<sequence length="421" mass="44771" checksum="8BBF93C9D53D9E9B" modified="2005-04-26" version="1" fragment="single">
+GELLRLRRGGAAAGEAAAAAGFPGAMLSEVLLVSAPGKVILHGEHAVVHGKVALAVSLNL
+RTFLRLQPHSNGKVDLNLPNIGIKRAWDVARLQSLDTSFLEQGDVTTPTSEQVEKLKEVA
+GLPDDCAVTERLAVLAFLYLYLSICRKQRALPSLDIVVWSELPPGAGLGSSAAYSVCLAA
+ALLTVCEEIPNPLKDGDCVNRWTKEDLELINKWAFQGERMIHGNPSGVDNAVSTWGGALR
+YHQGKISSLKRSPALQILLTNTKVPRNTRALVAGVRNRLLKFPEIVAPLLTSIDAISLEC
+ERVLGEMGEAPAPEQYLVLEELIDMNQHHLNALGVGHASLDQLCQVTRARGLHSKLTGAG
+GGGCGITLLKPGLEQPEVEATKQALTSCGFDCLETSIGAPGVSIHSATSLDSRVQQALDG
+L
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

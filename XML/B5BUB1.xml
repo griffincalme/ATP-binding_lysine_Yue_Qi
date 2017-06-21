@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-10-14" modified="2017-04-12" version="49">
+<accession>B5BUB1</accession>
+<name>B5BUB1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">RuvB-like helicase</fullName>
+<ecNumber evidence="1">3.6.4.12</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="8">RUVBL1</name>
+</gene>
+<organism evidence="8">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="8">
+<citation type="submission" date="2008-07" db="EMBL/GenBank/DDBJ databases">
+<title>Human Protein Factory: an infrastructure to convert the human transcriptome into the in vitro-expressed human proteome of versatile utility.</title>
+<authorList>
+<person name="Goshima N."/>
+<person name="Kawamura Y."/>
+<person name="Fukumoto A."/>
+<person name="Miura A."/>
+<person name="Honma R."/>
+<person name="Satoh R."/>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J.-I."/>
+<person name="Kimura K."/>
+<person name="Nishikawa T."/>
+<person name="Andoh T."/>
+<person name="Iida Y."/>
+<person name="Ishikawa K."/>
+<person name="Ito E."/>
+<person name="Kagawa N."/>
+<person name="Kaminaga C."/>
+<person name="Kanehori K."/>
+<person name="Kawakami B."/>
+<person name="Kenmochi K.-I."/>
+<person name="Kimura R."/>
+<person name="Kobayashi M."/>
+<person name="Kuroita T."/>
+<person name="Kuwayama H."/>
+<person name="Maruyama Y."/>
+<person name="Matsuo K."/>
+<person name="Minami K."/>
+<person name="Mitsubori M."/>
+<person name="Mori M."/>
+<person name="Morishita R."/>
+<person name="Murase A."/>
+<person name="Nishikawa A."/>
+<person name="Nishikawa S."/>
+<person name="Okamoto T."/>
+<person name="Sakagami N."/>
+<person name="Sakamoto Y."/>
+<person name="Sasaki Y."/>
+<person name="Seki T."/>
+<person name="Sono S."/>
+<person name="Sugiyama A."/>
+<person name="Sumiya T."/>
+<person name="Takayama T."/>
+<person name="Takayama Y."/>
+<person name="Takeda H."/>
+<person name="Togashi T."/>
+<person name="Yahata K."/>
+<person name="Yamada H."/>
+<person name="Yanagisawa Y."/>
+<person name="Endo Y."/>
+<person name="Imamoto F."/>
+<person name="Kisu Y."/>
+<person name="Tanaka S."/>
+<person name="Isogai T."/>
+<person name="Imai J.-I."/>
+<person name="Watanabe S."/>
+<person name="Nomura N."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Proposed core component of the chromatin remodeling INO80 complex which is involved in transcriptional regulation, DNA replication and probably DNA repair.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1 3">ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1 2">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1 6">Belongs to the RuvB family.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.12" evidence="1"/>
+<dbReference type="EMBL" id="AB451347">
+<property type="protein sequence ID" value="BAG70161.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.272822"/>
+<dbReference type="UniGene" id="Hs.710868"/>
+<dbReference type="IntAct" id="B5BUB1">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000318297"/>
+<dbReference type="PaxDb" id="B5BUB1"/>
+<dbReference type="PeptideAtlas" id="B5BUB1"/>
+<dbReference type="PRIDE" id="B5BUB1"/>
+<dbReference type="eggNOG" id="KOG1942">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1224">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG054186"/>
+<dbReference type="ChiTaRS" id="RUVBL1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043141">
+<property type="term" value="F:ATP-dependent 5'-3' DNA helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006310">
+<property type="term" value="P:DNA recombination"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006281">
+<property type="term" value="P:DNA repair"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006355">
+<property type="term" value="P:regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006351">
+<property type="term" value="P:transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027238">
+<property type="entry name" value="RuvB-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010339">
+<property type="entry name" value="TIP49_C"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11093">
+<property type="entry name" value="PTHR11093"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06068">
+<property type="entry name" value="TIP49"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1 5">ATP-binding</keyword>
+<keyword id="KW-0227" evidence="1">DNA damage</keyword>
+<keyword id="KW-0233" evidence="1">DNA recombination</keyword>
+<keyword id="KW-0234" evidence="1">DNA repair</keyword>
+<keyword id="KW-0347" evidence="1 5">Helicase</keyword>
+<keyword id="KW-0378" evidence="1 5">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="1 5">Nucleotide-binding</keyword>
+<keyword id="KW-0539" evidence="1 4">Nucleus</keyword>
+<keyword id="KW-0804" evidence="1">Transcription</keyword>
+<keyword id="KW-0805" evidence="1">Transcription regulation</keyword>
+<feature type="domain" description="AAA" evidence="7">
+<location>
+<begin position="62"/>
+<end position="365"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="8">
+<location>
+<position position="456"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU363048"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00005491"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00005495"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00418356"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00418363"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00536598"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00382"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG70161.1"/>
+</source>
+</evidence>
+<sequence length="456" mass="50216" checksum="706B4D089C51B6DB" modified="2008-10-14" version="1" fragment="single">
+MKIEEVKSTTKTQRIASHSHVKGLGLDESGLAKQAASGLVGQENAREACGVIVELIKSKK
+MAGRAVLLAGPPGTGKTALALAIAQELGSKVPFCPMVGSEVYSTEIKKTEVLMENFRRAI
+GLRIKETKEVYEGEVTELTPCETENPMGGYGKTISHVIIGLKTAKGTKQLKLDPSIFESL
+QKERVEAGDVIYIEANSGAVKRQGRCDTYATEFDLEAEEYVPLPKGDVHKKKEIIQDVTL
+HDLDVANARPQGGQDILSMMGQLMKPKKTEITDKLRGEINKVVNKYIDQGIAELVPGVLF
+VDEVHMLDIECFTYLHRALESSIAPIVIFASNRGNCVIRGTEDITSPHGIPLDLLDRVMT
+IRTMLYTPQEMKQIIKIRAQTEGINISEEALNHLGEIGTKTTLRYSVQLLTPANLLAKIN
+GKDSIEKEHVEEISELFYDAKSSAKILADQQDKYMK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

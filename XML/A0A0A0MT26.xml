@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2015-01-07" modified="2017-04-12" version="22">
+<accession>A0A0A0MT26</accession>
+<name>A0A0A0MT26_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="11">Sodium/potassium-transporting ATPase subunit alpha-3</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="11">ATP1A3</name>
+</gene>
+<organism evidence="11 12">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="11 12">
+<citation type="journal article" date="2004" name="Nature" volume="428" first="529" last="535">
+<title>The DNA sequence and biology of human chromosome 19.</title>
+<authorList>
+<person name="Grimwood J."/>
+<person name="Gordon L.A."/>
+<person name="Olsen A.S."/>
+<person name="Terry A."/>
+<person name="Schmutz J."/>
+<person name="Lamerdin J.E."/>
+<person name="Hellsten U."/>
+<person name="Goodstein D."/>
+<person name="Couronne O."/>
+<person name="Tran-Gyamfi M."/>
+<person name="Aerts A."/>
+<person name="Altherr M."/>
+<person name="Ashworth L."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Branscomb E."/>
+<person name="Caenepeel S."/>
+<person name="Carrano A.V."/>
+<person name="Caoile C."/>
+<person name="Chan Y.M."/>
+<person name="Christensen M."/>
+<person name="Cleland C.A."/>
+<person name="Copeland A."/>
+<person name="Dalin E."/>
+<person name="Dehal P."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Escobar J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Garcia C."/>
+<person name="Georgescu A.M."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Ho I."/>
+<person name="Huang W."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Larionov V."/>
+<person name="Leem S.-H."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Lowry S."/>
+<person name="Malfatti S."/>
+<person name="Martinez D."/>
+<person name="McCready P.M."/>
+<person name="Medina C."/>
+<person name="Morgan J."/>
+<person name="Nelson K."/>
+<person name="Nolan M."/>
+<person name="Ovcharenko I."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Popkie A.P."/>
+<person name="Predki P."/>
+<person name="Quan G."/>
+<person name="Ramirez L."/>
+<person name="Rash S."/>
+<person name="Retterer J."/>
+<person name="Rodriguez A."/>
+<person name="Rogers S."/>
+<person name="Salamov A."/>
+<person name="Salazar A."/>
+<person name="She X."/>
+<person name="Smith D."/>
+<person name="Slezak T."/>
+<person name="Solovyev V."/>
+<person name="Thayer N."/>
+<person name="Tice H."/>
+<person name="Tsai M."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="Wagner M."/>
+<person name="Wheeler J."/>
+<person name="Wu K."/>
+<person name="Xie G."/>
+<person name="Yang J."/>
+<person name="Dubchak I."/>
+<person name="Furey T.S."/>
+<person name="DeJong P."/>
+<person name="Dickson M."/>
+<person name="Gordon D."/>
+<person name="Eichler E.E."/>
+<person name="Pennacchio L.A."/>
+<person name="Richardson P."/>
+<person name="Stubbs L."/>
+<person name="Rokhsar D.S."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+<person name="Lucas S.M."/>
+</authorList>
+<dbReference type="PubMed" id="15057824"/>
+<dbReference type="DOI" id="10.1038/nature02399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="4">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Burckstummer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="3" evidence="11">
+<citation type="submission" date="2014-11" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<comment type="similarity">
+<text evidence="8">Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family.</text>
+</comment>
+<comment type="caution">
+<text evidence="11">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EMBL" id="AC010616">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="ProteinModelPortal" id="A0A0A0MT26"/>
+<dbReference type="STRING" id="9606.ENSP00000302397"/>
+<dbReference type="PaxDb" id="A0A0A0MT26"/>
+<dbReference type="PeptideAtlas" id="A0A0A0MT26"/>
+<dbReference type="Ensembl" id="ENST00000441343">
+<property type="protein sequence ID" value="ENSP00000411503"/>
+<property type="gene ID" value="ENSG00000105409"/>
+</dbReference>
+<dbReference type="UCSC" id="uc060zel.1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="HGNC" id="HGNC:801">
+<property type="gene designation" value="ATP1A3"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000105409"/>
+<dbReference type="eggNOG" id="KOG0203">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0474">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00850000132256"/>
+<dbReference type="OMA" id="LGFCDFM"/>
+<dbReference type="PhylomeDB" id="A0A0A0MT26"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 19"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="A0A0A0MT26">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005391">
+<property type="term" value="F:sodium:potassium-exchanging ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.1110.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.70.150.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.1110.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006068">
+<property type="entry name" value="ATPase_P-typ_cation-transptr_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004014">
+<property type="entry name" value="ATPase_P-typ_cation-transptr_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023299">
+<property type="entry name" value="ATPase_P-typ_cyto_domN"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018303">
+<property type="entry name" value="ATPase_P-typ_P_site"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023298">
+<property type="entry name" value="ATPase_P-typ_TM_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008250">
+<property type="entry name" value="ATPase_P-typ_transduc_dom_A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023214">
+<property type="entry name" value="HAD-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005775">
+<property type="entry name" value="P-type_ATPase_IIC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001757">
+<property type="entry name" value="P_typ_ATPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00689">
+<property type="entry name" value="Cation_ATPase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00690">
+<property type="entry name" value="Cation_ATPase_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00122">
+<property type="entry name" value="E1-E2_ATPase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00831">
+<property type="entry name" value="Cation_ATPase_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56784">
+<property type="entry name" value="SSF56784"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF81660">
+<property type="entry name" value="SSF81660"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01106">
+<property type="entry name" value="ATPase-IIC_X-K"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01494">
+<property type="entry name" value="ATPase_P-type"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00154">
+<property type="entry name" value="ATPASE_E1_E2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="7">ATP-binding</keyword>
+<keyword id="KW-0181" evidence="12">Complete proteome</keyword>
+<keyword id="KW-0378" evidence="5">Hydrolase</keyword>
+<keyword id="KW-0472" evidence="6 9">Membrane</keyword>
+<keyword id="KW-0547" evidence="7">Nucleotide-binding</keyword>
+<keyword id="KW-1267" evidence="1 2 3">Proteomics identification</keyword>
+<keyword id="KW-1185" evidence="12">Reference proteome</keyword>
+<keyword id="KW-0812" evidence="6 9">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="6 9">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="9">
+<location>
+<begin position="86"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="9">
+<location>
+<begin position="120"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="9">
+<location>
+<begin position="281"/>
+<end position="305"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="9">
+<location>
+<begin position="311"/>
+<end position="334"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="9">
+<location>
+<begin position="839"/>
+<end position="862"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="9">
+<location>
+<begin position="903"/>
+<end position="922"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="9">
+<location>
+<begin position="943"/>
+<end position="960"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="9">
+<location>
+<begin position="975"/>
+<end position="991"/>
+</location>
+</feature>
+<feature type="domain" description="Cation_ATPase_N" evidence="10">
+<location>
+<begin position="32"/>
+<end position="106"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000213">
+<source>
+<dbReference type="EPD" id="A0A0A0MT26"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000213">
+<source>
+<dbReference type="MaxQB" id="A0A0A0MT26"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000213">
+<source>
+<dbReference type="PeptideAtlas" id="A0A0A0MT26"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="21269460"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00081498"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00092306"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00092325"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00573123"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00831"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000411503"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="1226" mass="133317" checksum="C5F125AA28041ECE" modified="2015-01-07" version="1">
+MGDKKDDKDSPKKNKGKERRDLDDLKKEVAMTEHKMSVEEVCRKYNTDCVQGLTHSKAQE
+ILARDGPNALTPPPTTPEWVKFCRQLFGGFSILLWIGAILCFLAYGIQAGTEDDPSGDNL
+YLGIVLAAVVIITGCFSYYQEAKSSKIMESFKNMVPQQALVIREGEKMQVNAEEVVVGDL
+VEIKGGDRVPADLRIISAHGCKVDNSSLTGESEPQTRSPDCTHDNPLETRNITFFSTNCV
+EGTARGVVVATGDRTVMGRIATLASGLEVGKTPIAIEIEHFIQLITGVAVFLGVSFFILS
+LILGYTWLEAVIFLIGIIVANVPEGLLATVTVCLTLTAKRMARKNCLVKNLEAVETLGST
+STICSDKTGTLTQNRMTVAHMWFDNQIHEADTTEDQSGTSFDKSSHTWVALSHIAGLCNR
+AVFKGGQDNIPVLKRDVAGDASESALLKCIELSSGSVKLMRERNKKVAEIPFNSTNKYQL
+SIHETEDPNDNRYLLVMKGAPERILDRCSTILLQGKEQPLDEEMKEAFQNAYLELGGLGE
+RVLGFCHYYLPEEQFPKGFAFDCDDVNFTTDNLCFVGLMSMIDPPRAAVPDAVGKCRSAG
+IKVIMVTGDHPITAKAIAKGVGIISEGNETVEDIAARLNIPVSQVNPRDAKACVIHGTDL
+KDFTSEQIDEILQNHTEIVFARTSPQQKLIIVEGCQRQGAIVAVTGDGVNDSPALKKADI
+GVAMGIAGSDVSKQAADMILLDDNFASIVTGVEEGRLIFDNLKKSIAYTLTSNIPEITPF
+LLFIMANIPLPLGTITILCIDLGTDMVPAISLAYEAAESDIMKRQPRNPRTDKLVNERLI
+SMAYGQIGMIQALGGFFSYFVILAENGFLPGNLVGIRLNWDDRTVNDLEDSYGQQWTYEQ
+RKVVEFTCHTAFFVSIVVVQWADLIICKTRRNSVFQQGMKNKILIFGLFEETALAAFLSY
+CPGMDVALRMYPLKPSWWFCAFPYSFLIFVYDEIRKLILRRNPGGEGARQGSRGGRGAAG
+SQAAGPRLPSPCWMALPPGSHSSLSSHLSGHPLCLLTGLCLCGFLVSLPLCPSLCWAARL
+ACLSPSLTLSLSFLLCLSRLGGEGNLLLTSAPPHRPSLPRPPGPGPPLSVPPILYSGGRS
+PLFLWPHLGPHPLHYLLPPPLWLASLPCPKPLSSLFSVSVSLPLLTPLSIPPAPATSLGS
+FLLPFSPPADAISGSGQLSNISVGRE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

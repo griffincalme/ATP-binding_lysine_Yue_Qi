@@ -1,0 +1,710 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2003-11-14" modified="2017-05-10" version="126">
+<accession>Q86W24</accession>
+<accession>Q7RTR6</accession>
+<name>NAL14_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>NACHT, LRR and PYD domains-containing protein 14</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Nucleotide-binding oligomerization domain protein 5</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">NLRP14</name>
+<name type="synonym">NALP14</name>
+<name type="synonym">NOD5</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2003" name="Nat. Rev. Mol. Cell Biol." volume="4" first="95" last="104">
+<title>NALPs: a novel protein family involved in inflammation.</title>
+<authorList>
+<person name="Tschopp J."/>
+<person name="Martinon F."/>
+<person name="Burns K."/>
+</authorList>
+<dbReference type="PubMed" id="12563287"/>
+<dbReference type="DOI" id="10.1038/nrm1019"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2003" name="Nat. Rev. Immunol." volume="3" first="371" last="382">
+<title>NODs: intracellular proteins involved in inflammation and apoptosis.</title>
+<authorList>
+<person name="Inohara N."/>
+<person name="Nunez G."/>
+</authorList>
+<dbReference type="PubMed" id="12766759"/>
+<dbReference type="DOI" id="10.1038/nri1086"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Hum. Reprod." volume="21" first="3178" last="3184">
+<title>Mutations in the testis-specific NALP14 gene in men suffering from spermatogenic failure.</title>
+<authorList>
+<person name="Westerveld G.H."/>
+<person name="Korver C.M."/>
+<person name="van Pelt A.M.M."/>
+<person name="Leschot N.J."/>
+<person name="van der Veen F."/>
+<person name="Repping S."/>
+<person name="Lombardi M.P."/>
+</authorList>
+<dbReference type="PubMed" id="16931801"/>
+<dbReference type="DOI" id="10.1093/humrep/del293"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>DEVELOPMENTAL STAGE</scope>
+<scope>VARIANTS THR-48; GLN-55; VAL-86; ARG-92; LEU-98; THR-375; ILE-397; MET-441; GLY-522; LYS-808; THR-951; SER-954; PHE-1010 AND ILE-1019</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Science" volume="314" first="268" last="274">
+<title>The consensus coding sequences of human breast and colorectal cancers.</title>
+<authorList>
+<person name="Sjoeblom T."/>
+<person name="Jones S."/>
+<person name="Wood L.D."/>
+<person name="Parsons D.W."/>
+<person name="Lin J."/>
+<person name="Barber T.D."/>
+<person name="Mandelker D."/>
+<person name="Leary R.J."/>
+<person name="Ptak J."/>
+<person name="Silliman N."/>
+<person name="Szabo S."/>
+<person name="Buckhaults P."/>
+<person name="Farrell C."/>
+<person name="Meeh P."/>
+<person name="Markowitz S.D."/>
+<person name="Willis J."/>
+<person name="Dawson D."/>
+<person name="Willson J.K.V."/>
+<person name="Gazdar A.F."/>
+<person name="Hartigan J."/>
+<person name="Wu L."/>
+<person name="Liu C."/>
+<person name="Parmigiani G."/>
+<person name="Park B.H."/>
+<person name="Bachman K.E."/>
+<person name="Papadopoulos N."/>
+<person name="Vogelstein B."/>
+<person name="Kinzler K.W."/>
+<person name="Velculescu V.E."/>
+</authorList>
+<dbReference type="PubMed" id="16959974"/>
+<dbReference type="DOI" id="10.1126/science.1133427"/>
+</citation>
+<scope>VARIANT [LARGE SCALE ANALYSIS] CYS-779</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2016" name="Nature" volume="536" first="285" last="291">
+<title>Analysis of protein-coding genetic variation in 60,706 humans.</title>
+<authorList>
+<consortium name="Exome Aggregation Consortium"/>
+<person name="Lek M."/>
+<person name="Karczewski K.J."/>
+<person name="Minikel E.V."/>
+<person name="Samocha K.E."/>
+<person name="Banks E."/>
+<person name="Fennell T."/>
+<person name="O'Donnell-Luria A.H."/>
+<person name="Ware J.S."/>
+<person name="Hill A.J."/>
+<person name="Cummings B.B."/>
+<person name="Tukiainen T."/>
+<person name="Birnbaum D.P."/>
+<person name="Kosmicki J.A."/>
+<person name="Duncan L.E."/>
+<person name="Estrada K."/>
+<person name="Zhao F."/>
+<person name="Zou J."/>
+<person name="Pierce-Hoffman E."/>
+<person name="Berghout J."/>
+<person name="Cooper D.N."/>
+<person name="Deflaux N."/>
+<person name="DePristo M."/>
+<person name="Do R."/>
+<person name="Flannick J."/>
+<person name="Fromer M."/>
+<person name="Gauthier L."/>
+<person name="Goldstein J."/>
+<person name="Gupta N."/>
+<person name="Howrigan D."/>
+<person name="Kiezun A."/>
+<person name="Kurki M.I."/>
+<person name="Moonshine A.L."/>
+<person name="Natarajan P."/>
+<person name="Orozco L."/>
+<person name="Peloso G.M."/>
+<person name="Poplin R."/>
+<person name="Rivas M.A."/>
+<person name="Ruano-Rubio V."/>
+<person name="Rose S.A."/>
+<person name="Ruderfer D.M."/>
+<person name="Shakir K."/>
+<person name="Stenson P.D."/>
+<person name="Stevens C."/>
+<person name="Thomas B.P."/>
+<person name="Tiao G."/>
+<person name="Tusie-Luna M.T."/>
+<person name="Weisburd B."/>
+<person name="Won H.H."/>
+<person name="Yu D."/>
+<person name="Altshuler D.M."/>
+<person name="Ardissino D."/>
+<person name="Boehnke M."/>
+<person name="Danesh J."/>
+<person name="Donnelly S."/>
+<person name="Elosua R."/>
+<person name="Florez J.C."/>
+<person name="Gabriel S.B."/>
+<person name="Getz G."/>
+<person name="Glatt S.J."/>
+<person name="Hultman C.M."/>
+<person name="Kathiresan S."/>
+<person name="Laakso M."/>
+<person name="McCarroll S."/>
+<person name="McCarthy M.I."/>
+<person name="McGovern D."/>
+<person name="McPherson R."/>
+<person name="Neale B.M."/>
+<person name="Palotie A."/>
+<person name="Purcell S.M."/>
+<person name="Saleheen D."/>
+<person name="Scharf J.M."/>
+<person name="Sklar P."/>
+<person name="Sullivan P.F."/>
+<person name="Tuomilehto J."/>
+<person name="Tsuang M.T."/>
+<person name="Watkins H.C."/>
+<person name="Wilson J.G."/>
+<person name="Daly M.J."/>
+<person name="MacArthur D.G."/>
+</authorList>
+<dbReference type="PubMed" id="27535533"/>
+<dbReference type="DOI" id="10.1038/nature19057"/>
+</citation>
+<scope>VARIANT VAL-86</scope>
+</reference>
+<comment type="function">
+<text>May be involved in inflammation and spermatogenesis.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="4">Testis-specific.</text>
+</comment>
+<comment type="developmental stage">
+<text evidence="4">In the testis, expressed mainly in A dark spermatogonia, mid and late spermatocytes and spermatids but not in mitotically active A pale and B spermatogonia.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Belongs to the NLRP family.</text>
+</comment>
+<dbReference type="EMBL" id="AY154469">
+<property type="protein sequence ID" value="AAO18165.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BK001107">
+<property type="protein sequence ID" value="DAA01240.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS7776.1"/>
+<dbReference type="RefSeq" id="NP_789792.1">
+<property type="nucleotide sequence ID" value="NM_176822.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.449637"/>
+<dbReference type="PDB" id="4N1J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/B/C/D=1-100"/>
+</dbReference>
+<dbReference type="PDB" id="4N1K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B/C/D=1-100"/>
+</dbReference>
+<dbReference type="PDB" id="4N1L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.99"/>
+<property type="chains" value="A=1-100"/>
+</dbReference>
+<dbReference type="PDBsum" id="4N1J"/>
+<dbReference type="PDBsum" id="4N1K"/>
+<dbReference type="PDBsum" id="4N1L"/>
+<dbReference type="ProteinModelPortal" id="Q86W24"/>
+<dbReference type="SMR" id="Q86W24"/>
+<dbReference type="BioGrid" id="130710">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000299481"/>
+<dbReference type="iPTMnet" id="Q86W24"/>
+<dbReference type="PhosphoSitePlus" id="Q86W24"/>
+<dbReference type="BioMuta" id="NLRP14"/>
+<dbReference type="DMDM" id="38372322"/>
+<dbReference type="PaxDb" id="Q86W24"/>
+<dbReference type="PeptideAtlas" id="Q86W24"/>
+<dbReference type="PRIDE" id="Q86W24"/>
+<dbReference type="DNASU" id="338323"/>
+<dbReference type="Ensembl" id="ENST00000299481">
+<property type="protein sequence ID" value="ENSP00000299481"/>
+<property type="gene ID" value="ENSG00000158077"/>
+</dbReference>
+<dbReference type="GeneID" id="338323"/>
+<dbReference type="KEGG" id="hsa:338323"/>
+<dbReference type="UCSC" id="uc001mfb.2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="338323"/>
+<dbReference type="DisGeNET" id="338323"/>
+<dbReference type="GeneCards" id="NLRP14"/>
+<dbReference type="HGNC" id="HGNC:22939">
+<property type="gene designation" value="NLRP14"/>
+</dbReference>
+<dbReference type="HPA" id="HPA039477"/>
+<dbReference type="MIM" id="609665">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q86W24"/>
+<dbReference type="OpenTargets" id="ENSG00000158077"/>
+<dbReference type="PharmGKB" id="PA162397917"/>
+<dbReference type="eggNOG" id="KOG4308">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410ZBX3">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00860000133669"/>
+<dbReference type="HOGENOM" id="HOG000294064"/>
+<dbReference type="HOVERGEN" id="HBG063656"/>
+<dbReference type="InParanoid" id="Q86W24"/>
+<dbReference type="OMA" id="WLWECNL"/>
+<dbReference type="OrthoDB" id="EOG091G01CG"/>
+<dbReference type="PhylomeDB" id="Q86W24"/>
+<dbReference type="TreeFam" id="TF340267"/>
+<dbReference type="ChiTaRS" id="NLRP14">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="NLRP14"/>
+<dbReference type="GenomeRNAi" id="338323"/>
+<dbReference type="PRO" id="PR:Q86W24"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 11"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000158077"/>
+<dbReference type="CleanEx" id="HS_NLRP14"/>
+<dbReference type="Genevisible" id="Q86W24">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030154">
+<property type="term" value="P:cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007275">
+<property type="term" value="P:multicellular organism development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007283">
+<property type="term" value="P:spermatogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004020">
+<property type="entry name" value="DAPIN"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011029">
+<property type="entry name" value="DEATH-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001611">
+<property type="entry name" value="Leu-rich_rpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007111">
+<property type="entry name" value="NACHT_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13516">
+<property type="entry name" value="LRR_6"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02758">
+<property type="entry name" value="PYRIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01289">
+<property type="entry name" value="PYRIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47986">
+<property type="entry name" value="SSF47986"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50824">
+<property type="entry name" value="DAPIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50837">
+<property type="entry name" value="NACHT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0217">Developmental protein</keyword>
+<keyword id="KW-0221">Differentiation</keyword>
+<keyword id="KW-0433">Leucine-rich repeat</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0744">Spermatogenesis</keyword>
+<feature type="chain" description="NACHT, LRR and PYD domains-containing protein 14" id="PRO_0000080901">
+<location>
+<begin position="1"/>
+<end position="1093"/>
+</location>
+</feature>
+<feature type="domain" description="Pyrin" evidence="2">
+<location>
+<begin position="1"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="domain" description="NACHT" evidence="3">
+<location>
+<begin position="177"/>
+<end position="499"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 1">
+<location>
+<begin position="730"/>
+<end position="750"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 2">
+<location>
+<begin position="759"/>
+<end position="780"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 3">
+<location>
+<begin position="787"/>
+<end position="807"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 4">
+<location>
+<begin position="816"/>
+<end position="836"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 5">
+<location>
+<begin position="844"/>
+<end position="864"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 6">
+<location>
+<begin position="873"/>
+<end position="894"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 7">
+<location>
+<begin position="901"/>
+<end position="921"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 8">
+<location>
+<begin position="930"/>
+<end position="951"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 9">
+<location>
+<begin position="958"/>
+<end position="978"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 10">
+<location>
+<begin position="987"/>
+<end position="1008"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 11">
+<location>
+<begin position="1015"/>
+<end position="1035"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="3">
+<location>
+<begin position="183"/>
+<end position="190"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11041150." id="VAR_053622">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="21"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs12801277." id="VAR_031932" evidence="4">
+<original>N</original>
+<variation>T</variation>
+<location>
+<position position="48"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs61063081." id="VAR_031933" evidence="4">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="55"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs199735773." id="VAR_031934" evidence="4 6">
+<original>D</original>
+<variation>V</variation>
+<location>
+<position position="86"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs16921697." id="VAR_031935" evidence="4">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="92"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs117823353." id="VAR_031936" evidence="4">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="98"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs368562565." id="VAR_031937" evidence="4">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="375"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs76670455." id="VAR_031938" evidence="4">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="397"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs147389856." id="VAR_031939" evidence="4">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="441"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11041151." id="VAR_053623">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="511"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_031940" evidence="4">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="522"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a breast cancer sample; somatic mutation." id="VAR_036387" evidence="5">
+<original>S</original>
+<variation>C</variation>
+<location>
+<position position="779"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs10839708." id="VAR_024180" evidence="4">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="808"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs117124176." id="VAR_031941" evidence="4">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="951"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs117583918." id="VAR_031942" evidence="4">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="954"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs17280682." id="VAR_031943" evidence="4">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="1010"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs115776642." id="VAR_031944" evidence="4">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="1019"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="9"/>
+<end position="12"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="14"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="24"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="39"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="45"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="55"/>
+<end position="65"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="69"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="85"/>
+<end position="100"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4N1L"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00061"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00136"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16931801"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16959974"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27535533"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<sequence length="1093" mass="124733" checksum="124EEACE22A11D6F" modified="2003-06-01" version="1">
+MADSSSSSFFPDFGLLLYLEELNKEELNTFKLFLKETMEPEHGLTPWNEVKKARREDLAN
+LMKKYYPGEKAWSVSLKIFGKMNLKDLCERAKEEINWSAQTIGPDDAKAGETQEDQEAVL
+GDGTEYRNRIKEKFCITWDKKSLAGKPEDFHHGIAEKDRKLLEHLFDVDVKTGAQPQIVV
+LQGAAGVGKTTLVRKAMLDWAEGSLYQQRFKYVFYLNGREINQLKERSFAQLISKDWPST
+EGPIEEIMYQPSSLLFIIDSFDELNFAFEEPEFALCEDWTQEHPVSFLMSSLLRKVMLPE
+ASLLVTTRLTTSKRLKQLLKNHHYVELLGMSEDAREEYIYQFFEDKRWAMKVFSSLKSNE
+MLFSMCQVPLVCWAACTCLKQQMEKGGDVTLTCQTTTALFTCYISSLFTPVDGGSPSLPN
+QAQLRRLCQVAAKGIWTMTYVFYRENLRRLGLTQSDVSSFMDSNIIQKDAEYENCYVFTH
+LHVQEFFAAMFYMLKGSWEAGNPSCQPFEDLKSLLQSTSYKDPHLTQMKCFLFGLLNEDR
+VKQLERTFNCKMSLKIKSKLLQCMEVLGNSDYSPSQLGFLELFHCLYETQDKAFISQAMR
+CFPKVAINICEKIHLLVSSFCLKHCRCLRTIRLSVTVVFEKKILKTSLPTNTWDGDRITH
+CWQDLCSVLHTNEHLRELDLYHSNLDKSAMNILHHELRHPNCKLQKLLLKFITFPDGCQD
+ISTSLIHNKNLMHLDLKGSDIGDNGVKSLCEALKHPECKLQTLRLESCNLTVFCCLNISN
+ALIRSQSLIFLNLSTNNLLDDGVQLLCEALRHPKCYLERLSLESCGLTEAGCEYLSLALI
+SNKRLTHLCLADNVLGDGGVKLMSDALQHAQCTLKSLVLRRCHFTSLSSEYLSTSLLHNK
+SLTHLDLGSNWLQDNGVKLLCDVFRHPSCNLQDLELMGCVLTNACCLDLASVILNNPNLR
+SLDLGNNDLQDDGVKILCDALRYPNCNIQRLGLEYCGLTSLCCQDLSSALICNKRLIKMN
+LTQNTLGYEGIVKLYKVLKSPKCKLQVLGLCKEAFDEEAQKLLEAVGVSNPHLIIKPDCN
+YHNEEDVSWWWCF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,2005 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2017-03-15" version="144">
+<accession>P68133</accession>
+<accession>P02568</accession>
+<accession>P99020</accession>
+<accession>Q5T8M9</accession>
+<name>ACTS_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Actin, alpha skeletal muscle</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Alpha-actin-1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ACTA1</name>
+<name type="synonym">ACTA</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1983" name="Nucleic Acids Res." volume="11" first="3503" last="3516">
+<title>Isolation and characterization of cDNA clones for human skeletal muscle alpha actin.</title>
+<authorList>
+<person name="Hanauer A."/>
+<person name="Levin M."/>
+<person name="Heilig R."/>
+<person name="Daegelen D."/>
+<person name="Kahn A."/>
+<person name="Mandel J.-L."/>
+</authorList>
+<dbReference type="PubMed" id="6190133"/>
+<dbReference type="DOI" id="10.1093/nar/11.11.3503"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Skeletal muscle</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1988" name="Genomics" volume="3" first="323" last="336">
+<title>Nucleotide sequence and expression of the human skeletal alpha-actin gene: evolution of functional regulatory domains.</title>
+<authorList>
+<person name="Taylor A."/>
+<person name="Erba H.P."/>
+<person name="Muscat G.E.O."/>
+<person name="Kedes L."/>
+</authorList>
+<dbReference type="PubMed" id="2907503"/>
+<dbReference type="DOI" id="10.1016/0888-7543(88)90123-1"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1999" name="Nat. Genet." volume="23" first="208" last="212">
+<title>Mutations in the skeletal muscle alpha-actin gene in patients with actin myopathy and nemaline myopathy.</title>
+<authorList>
+<person name="Nowak K.J."/>
+<person name="Wattanasirichaigoon D."/>
+<person name="Goebel H.H."/>
+<person name="Wilce M."/>
+<person name="Pelin K."/>
+<person name="Donner K."/>
+<person name="Jacob R.L."/>
+<person name="Hubner C."/>
+<person name="Oexle K."/>
+<person name="Anderson J.R."/>
+<person name="Verity C.M."/>
+<person name="North K.N."/>
+</authorList>
+<dbReference type="PubMed" id="10508519"/>
+<dbReference type="DOI" id="10.1038/13837"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>VARIANTS NEM3 TYR-42; PRO-96; SER-117; VAL-134; ASP-184; CYS-185; HIS-258; VAL-261; LEU-265; LYS-282; GLY-288 AND PHE-372</scope>
+<scope>VARIANTS MPCETM ARG-17 AND LEU-165</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2004-06" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full open reading frames in Gateway(TM) system entry vector (pDONR201).</title>
+<authorList>
+<person name="Ebert L."/>
+<person name="Schick M."/>
+<person name="Neubert P."/>
+<person name="Schatten R."/>
+<person name="Henze S."/>
+<person name="Korn B."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Nature" volume="441" first="315" last="321">
+<title>The DNA sequence and biological annotation of human chromosome 1.</title>
+<authorList>
+<person name="Gregory S.G."/>
+<person name="Barlow K.F."/>
+<person name="McLay K.E."/>
+<person name="Kaul R."/>
+<person name="Swarbreck D."/>
+<person name="Dunham A."/>
+<person name="Scott C.E."/>
+<person name="Howe K.L."/>
+<person name="Woodfine K."/>
+<person name="Spencer C.C.A."/>
+<person name="Jones M.C."/>
+<person name="Gillson C."/>
+<person name="Searle S."/>
+<person name="Zhou Y."/>
+<person name="Kokocinski F."/>
+<person name="McDonald L."/>
+<person name="Evans R."/>
+<person name="Phillips K."/>
+<person name="Atkinson A."/>
+<person name="Cooper R."/>
+<person name="Jones C."/>
+<person name="Hall R.E."/>
+<person name="Andrews T.D."/>
+<person name="Lloyd C."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ambrose K.D."/>
+<person name="Anderson F."/>
+<person name="Andrew R.W."/>
+<person name="Ashwell R.I.S."/>
+<person name="Aubin K."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Beasley H."/>
+<person name="Bethel G."/>
+<person name="Bird C.P."/>
+<person name="Bray-Allen S."/>
+<person name="Brown J.Y."/>
+<person name="Brown A.J."/>
+<person name="Buckley D."/>
+<person name="Burton J."/>
+<person name="Bye J."/>
+<person name="Carder C."/>
+<person name="Chapman J.C."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C."/>
+<person name="Cobley V."/>
+<person name="Collier R.E."/>
+<person name="Corby N."/>
+<person name="Coville G.J."/>
+<person name="Davies J."/>
+<person name="Deadman R."/>
+<person name="Dunn M."/>
+<person name="Earthrowl M."/>
+<person name="Ellington A.G."/>
+<person name="Errington H."/>
+<person name="Frankish A."/>
+<person name="Frankland J."/>
+<person name="French L."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Gay L."/>
+<person name="Ghori M.R.J."/>
+<person name="Gibson R."/>
+<person name="Gilby L.M."/>
+<person name="Gillett W."/>
+<person name="Glithero R.J."/>
+<person name="Grafham D.V."/>
+<person name="Griffiths C."/>
+<person name="Griffiths-Jones S."/>
+<person name="Grocock R."/>
+<person name="Hammond S."/>
+<person name="Harrison E.S.I."/>
+<person name="Hart E."/>
+<person name="Haugen E."/>
+<person name="Heath P.D."/>
+<person name="Holmes S."/>
+<person name="Holt K."/>
+<person name="Howden P.J."/>
+<person name="Hunt A.R."/>
+<person name="Hunt S.E."/>
+<person name="Hunter G."/>
+<person name="Isherwood J."/>
+<person name="James R."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Joy A."/>
+<person name="Kay M."/>
+<person name="Kershaw J.K."/>
+<person name="Kibukawa M."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Knights A.J."/>
+<person name="Lad H."/>
+<person name="Laird G."/>
+<person name="Lawlor S."/>
+<person name="Leongamornlert D.A."/>
+<person name="Lloyd D.M."/>
+<person name="Loveland J."/>
+<person name="Lovell J."/>
+<person name="Lush M.J."/>
+<person name="Lyne R."/>
+<person name="Martin S."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="Matthews N.S.W."/>
+<person name="McLaren S."/>
+<person name="Milne S."/>
+<person name="Mistry S."/>
+<person name="Moore M.J.F."/>
+<person name="Nickerson T."/>
+<person name="O'Dell C.N."/>
+<person name="Oliver K."/>
+<person name="Palmeiri A."/>
+<person name="Palmer S.A."/>
+<person name="Parker A."/>
+<person name="Patel D."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Pelan S."/>
+<person name="Phelps K."/>
+<person name="Phillimore B.J."/>
+<person name="Plumb R."/>
+<person name="Rajan J."/>
+<person name="Raymond C."/>
+<person name="Rouse G."/>
+<person name="Saenphimmachak C."/>
+<person name="Sehra H.K."/>
+<person name="Sheridan E."/>
+<person name="Shownkeen R."/>
+<person name="Sims S."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Steward C."/>
+<person name="Subramanian S."/>
+<person name="Sycamore N."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Van Helmond Z."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="White S."/>
+<person name="Whitehead S.L."/>
+<person name="Wilkinson J.E."/>
+<person name="Willey D.L."/>
+<person name="Williams H."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Wu Z."/>
+<person name="Coulson A."/>
+<person name="Vaudin M."/>
+<person name="Sulston J.E."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Wooster R."/>
+<person name="Dunham I."/>
+<person name="Carter N.P."/>
+<person name="McVean G."/>
+<person name="Ross M.T."/>
+<person name="Harrow J."/>
+<person name="Olson M.V."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Bentley D.R."/>
+</authorList>
+<dbReference type="PubMed" id="16710414"/>
+<dbReference type="DOI" id="10.1038/nature04727"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Skeletal muscle</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2000" name="Hum. Mol. Genet." volume="9" first="2141" last="2147">
+<title>Myotilin is mutated in limb girdle muscular dystrophy 1A.</title>
+<authorList>
+<person name="Hauser M.A."/>
+<person name="Horrigan S.K."/>
+<person name="Salmikangas P."/>
+<person name="Torian U.M."/>
+<person name="Viles K.D."/>
+<person name="Dancel R."/>
+<person name="Tim R.W."/>
+<person name="Taivainen A."/>
+<person name="Bartoloni L."/>
+<person name="Gilchrist J.M."/>
+<person name="Stajich J.M."/>
+<person name="Gaskell P.C."/>
+<person name="Gilbert J.R."/>
+<person name="Vance J.M."/>
+<person name="Pericak-Vance M.A."/>
+<person name="Carpen O."/>
+<person name="Westbrook C.A."/>
+<person name="Speer M.C."/>
+</authorList>
+<dbReference type="PubMed" id="10958653"/>
+<dbReference type="DOI" id="10.1093/hmg/9.14.2141"/>
+</citation>
+<scope>INTERACTION WITH TTID</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2006" name="Cell. Mol. Life Sci." volume="63" first="723" last="734">
+<title>The ubiquitin-specific protease USP25 interacts with three sarcomeric proteins.</title>
+<authorList>
+<person name="Bosch-Comas A."/>
+<person name="Lindsten K."/>
+<person name="Gonzalez-Duarte R."/>
+<person name="Masucci M.G."/>
+<person name="Marfany G."/>
+</authorList>
+<dbReference type="PubMed" id="16501887"/>
+<dbReference type="DOI" id="10.1007/s00018-005-5533-1"/>
+</citation>
+<scope>INTERACTION WITH USP25</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="18537" last="18542">
+<title>Connecting actin monomers by iso-peptide bond is a toxicity mechanism of the Vibrio cholerae MARTX toxin.</title>
+<authorList>
+<person name="Kudryashov D.S."/>
+<person name="Durer Z.A."/>
+<person name="Ytterberg A.J."/>
+<person name="Sawaya M.R."/>
+<person name="Pashkov I."/>
+<person name="Prochazkova K."/>
+<person name="Yeates T.O."/>
+<person name="Loo R.R."/>
+<person name="Loo J.A."/>
+<person name="Satchell K.J."/>
+<person name="Reisler E."/>
+</authorList>
+<dbReference type="PubMed" id="19015515"/>
+<dbReference type="DOI" id="10.1073/pnas.0808082105"/>
+</citation>
+<scope>CROSS-LINK BY V.CHOLERAE TOXIN RTXA (MICROBIAL INFECTION)</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2011" name="Mol. Cell. Proteomics" volume="10" first="M111.012658.01" last="M111.012658.12">
+<title>The first identification of lysine malonylation substrates and its regulatory enzyme.</title>
+<authorList>
+<person name="Peng C."/>
+<person name="Lu Z."/>
+<person name="Xie Z."/>
+<person name="Cheng Z."/>
+<person name="Chen Y."/>
+<person name="Tan M."/>
+<person name="Luo H."/>
+<person name="Zhang Y."/>
+<person name="He W."/>
+<person name="Yang K."/>
+<person name="Zwaans B.M."/>
+<person name="Tishkoff D."/>
+<person name="Ho L."/>
+<person name="Lombard D."/>
+<person name="He T.C."/>
+<person name="Dai J."/>
+<person name="Verdin E."/>
+<person name="Ye Y."/>
+<person name="Zhao Y."/>
+</authorList>
+<dbReference type="PubMed" id="21908771"/>
+<dbReference type="DOI" id="10.1074/mcp.M111.012658"/>
+</citation>
+<scope>MALONYLATION AT LYS-63</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2013" name="Nat. Commun." volume="4" first="1832" last="1832">
+<title>ALKBH4-dependent demethylation of actin regulates actomyosin dynamics.</title>
+<authorList>
+<person name="Li M.M."/>
+<person name="Nilsen A."/>
+<person name="Shi Y."/>
+<person name="Fusser M."/>
+<person name="Ding Y.H."/>
+<person name="Fu Y."/>
+<person name="Liu B."/>
+<person name="Niu Y."/>
+<person name="Wu Y.S."/>
+<person name="Huang C.M."/>
+<person name="Olofsson M."/>
+<person name="Jin K.X."/>
+<person name="Lv Y."/>
+<person name="Xu X.Z."/>
+<person name="He C."/>
+<person name="Dong M.Q."/>
+<person name="Rendtlew Danielsen J.M."/>
+<person name="Klungland A."/>
+<person name="Yang Y.G."/>
+</authorList>
+<dbReference type="PubMed" id="23673617"/>
+<dbReference type="DOI" id="10.1038/ncomms2863"/>
+</citation>
+<scope>METHYLATION AT LYS-86</scope>
+<scope>DEMETHYLATION BY ALKBH4</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2015" name="Science" volume="349" first="535" last="539">
+<title>ACD toxin-produced actin oligomers poison formin-controlled actin polymerization.</title>
+<authorList>
+<person name="Heisler D.B."/>
+<person name="Kudryashova E."/>
+<person name="Grinevich D.O."/>
+<person name="Suarez C."/>
+<person name="Winkelman J.D."/>
+<person name="Birukov K.G."/>
+<person name="Kotha S.R."/>
+<person name="Parinandi N.L."/>
+<person name="Vavylonis D."/>
+<person name="Kovar D.R."/>
+<person name="Kudryashov D.S."/>
+</authorList>
+<dbReference type="PubMed" id="26228148"/>
+<dbReference type="DOI" id="10.1126/science.aab4090"/>
+</citation>
+<scope>CROSS-LINK BY V.CHOLERAE TOXIN RTXA (MICROBIAL INFECTION)</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2001" name="Am. J. Hum. Genet." volume="68" first="1333" last="1343">
+<title>Nemaline myopathy caused by mutations in the muscle alpha-skeletal-actin gene.</title>
+<authorList>
+<person name="Ilkovski B."/>
+<person name="Cooper S.T."/>
+<person name="Nowak K."/>
+<person name="Ryan M.M."/>
+<person name="Yang N."/>
+<person name="Schnell C."/>
+<person name="Durling H.J."/>
+<person name="Roddick L.G."/>
+<person name="Wilkinson I."/>
+<person name="Kornberg A.J."/>
+<person name="Collins K.J."/>
+<person name="Wallace G."/>
+<person name="Gunning P."/>
+<person name="Hardeman E.C."/>
+<person name="Laing N.G."/>
+<person name="North K.N."/>
+</authorList>
+<dbReference type="PubMed" id="11333380"/>
+<dbReference type="DOI" id="10.1086/320605"/>
+</citation>
+<scope>VARIANTS NEM3 SER-117; MET-138; GLY-185; CYS-270 AND LEU-359</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2003" name="Neuromuscul. Disord." volume="13" first="519" last="531">
+<title>Muscle disease caused by mutations in the skeletal muscle alpha-actin gene (ACTA1).</title>
+<authorList>
+<person name="Sparrow J.C."/>
+<person name="Nowak K.J."/>
+<person name="Durling H.J."/>
+<person name="Beggs A.H."/>
+<person name="Wallgren-Pettersson C."/>
+<person name="Romero N."/>
+<person name="Nonaka I."/>
+<person name="Laing N.G."/>
+</authorList>
+<dbReference type="PubMed" id="12921789"/>
+<dbReference type="DOI" id="10.1016/S0960-8966(03)00101-9"/>
+</citation>
+<scope>REVIEW ON VARIANTS</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2001" name="Neuromuscul. Disord." volume="11" first="35" last="40">
+<title>Mild phenotype of nemaline myopathy with sleep hypoventilation due to a mutation in the skeletal muscle alpha-actin (ACTA1) gene.</title>
+<authorList>
+<person name="Jungbluth H."/>
+<person name="Sewry C.A."/>
+<person name="Brown S.C."/>
+<person name="Nowak K.J."/>
+<person name="Laing N.G."/>
+<person name="Wallgren-Pettersson C."/>
+<person name="Pelin K."/>
+<person name="Manzur A.Y."/>
+<person name="Mercuri E."/>
+<person name="Dubowitz V."/>
+<person name="Muntoni F."/>
+</authorList>
+<dbReference type="PubMed" id="11166164"/>
+<dbReference type="DOI" id="10.1016/S0960-8966(00)00167-X"/>
+</citation>
+<scope>VARIANTS NEM3 VAL-134 AND ARG-271</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2004" name="Ann. Neurol." volume="56" first="86" last="96">
+<title>Heterogeneity of nemaline myopathy cases with skeletal muscle alpha-actin gene mutations.</title>
+<authorList>
+<person name="Agrawal P.B."/>
+<person name="Strickland C.D."/>
+<person name="Midgett C."/>
+<person name="Morales A."/>
+<person name="Newburger D.E."/>
+<person name="Poulos M.A."/>
+<person name="Tomczak K.K."/>
+<person name="Ryan M.M."/>
+<person name="Iannaccone S.T."/>
+<person name="Crawford T.O."/>
+<person name="Laing N.G."/>
+<person name="Beggs A.H."/>
+</authorList>
+<dbReference type="PubMed" id="15236405"/>
+<dbReference type="DOI" id="10.1002/ana.20157"/>
+</citation>
+<scope>VARIANTS NEM3 LEU-37; LEU-40; TYR-42; ARG-43; ASN-66; LEU-75; ARG-75; LEU-77; ALA-79; LYS-85; ALA-136; ASP-148; GLY-181; ASP-184; GLY-185; SER-199; GLY-226; VAL-229; ILE-229; ARG-248; ASP-253; CYS-270; HIS-281; LYS-282; GLY-288 AND GLN-375</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2004" name="Ann. Neurol." volume="56" first="689" last="694">
+<title>Actin mutations are one cause of congenital fibre type disproportion.</title>
+<authorList>
+<person name="Laing N.G."/>
+<person name="Clarke N.F."/>
+<person name="Dye D.E."/>
+<person name="Liyanage K."/>
+<person name="Walker K.R."/>
+<person name="Kobayashi Y."/>
+<person name="Shimakawa S."/>
+<person name="Hagiwara T."/>
+<person name="Ouvrier R."/>
+<person name="Sparrow J.C."/>
+<person name="Nishino I."/>
+<person name="North K.N."/>
+<person name="Nonaka I."/>
+</authorList>
+<dbReference type="PubMed" id="15468086"/>
+<dbReference type="DOI" id="10.1002/ana.20260"/>
+</citation>
+<scope>VARIANTS CFTD PRO-223; VAL-294 AND SER-334</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2004" name="Hum. Mol. Genet." volume="13" first="1727" last="1743">
+<title>Evidence for a dominant-negative effect in ACTA1 nemaline myopathy caused by abnormal folding, aggregation and altered polymerization of mutant actin isoforms.</title>
+<authorList>
+<person name="Ilkovski B."/>
+<person name="Nowak K.J."/>
+<person name="Domazetovska A."/>
+<person name="Maxwell A.L."/>
+<person name="Clement S."/>
+<person name="Davies K.E."/>
+<person name="Laing N.G."/>
+<person name="North K.N."/>
+<person name="Cooper S.T."/>
+</authorList>
+<dbReference type="PubMed" id="15198992"/>
+<dbReference type="DOI" id="10.1093/hmg/ddh185"/>
+</citation>
+<scope>VARIANTS NEM3 ILE-68; LYS-74; SER-117; MET-138; LEU-165; MET-165; GLY-185; CYS-270 AND LEU-359</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2004" name="J. Med. Genet." volume="41" first="842" last="848">
+<title>Missense mutations of ACTA1 cause dominant congenital myopathy with cores.</title>
+<authorList>
+<person name="Kaindl A.M."/>
+<person name="Rueschendorf F."/>
+<person name="Krause S."/>
+<person name="Goebel H.-H."/>
+<person name="Koehler K."/>
+<person name="Becker C."/>
+<person name="Pongratz D."/>
+<person name="Mueller-Hoecker J."/>
+<person name="Nuernberg P."/>
+<person name="Stoltenburg-Didinger G."/>
+<person name="Lochmueller H."/>
+<person name="Huebner A."/>
+</authorList>
+<dbReference type="PubMed" id="15520409"/>
+<dbReference type="DOI" id="10.1136/jmg.2004.020271"/>
+</citation>
+<scope>VARIANTS NEM3 TYR-3 AND ALA-336</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2004" name="Neuromuscul. Disord." volume="14" first="471" last="475">
+<title>Follow-up of nemaline myopathy in two patients with novel mutations in the skeletal muscle alpha-actin gene (ACTA1).</title>
+<authorList>
+<person name="Ohlsson M."/>
+<person name="Tajsharghi H."/>
+<person name="Darin N."/>
+<person name="Kyllerman M."/>
+<person name="Oldfors A."/>
+</authorList>
+<dbReference type="PubMed" id="15336687"/>
+<dbReference type="DOI" id="10.1016/j.nmd.2004.05.016"/>
+</citation>
+<scope>VARIANTS NEM3 ASP-270 AND GLU-375</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2006" name="Neuromuscul. Disord." volume="16" first="113" last="121">
+<title>Autosomal dominant nemaline myopathy with intranuclear rods due to mutation of the skeletal muscle ACTA1 gene: clinical and pathological variability within a kindred.</title>
+<authorList>
+<person name="Hutchinson D.O."/>
+<person name="Charlton A."/>
+<person name="Laing N.G."/>
+<person name="Ilkovski B."/>
+<person name="North K.N."/>
+</authorList>
+<dbReference type="PubMed" id="16427282"/>
+<dbReference type="DOI" id="10.1016/j.nmd.2005.11.004"/>
+</citation>
+<scope>VARIANT NEM3 MET-165</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2006" name="Neuromuscul. Disord." volume="16" first="548" last="552">
+<title>Fatal hypertrophic cardiomyopathy and nemaline myopathy associated with ACTA1 K336E mutation.</title>
+<authorList>
+<person name="D'Amico A."/>
+<person name="Graziano C."/>
+<person name="Pacileo G."/>
+<person name="Petrini S."/>
+<person name="Nowak K.J."/>
+<person name="Boldrini R."/>
+<person name="Jacques A."/>
+<person name="Feng J.-J."/>
+<person name="Porfirio B."/>
+<person name="Sewry C.A."/>
+<person name="Santorelli F.M."/>
+<person name="Limongelli G."/>
+<person name="Bertini E."/>
+<person name="Laing N."/>
+<person name="Marston S.B."/>
+</authorList>
+<dbReference type="PubMed" id="16945537"/>
+<dbReference type="DOI" id="10.1016/j.nmd.2006.07.005"/>
+</citation>
+<scope>VARIANT NEM3 GLU-338</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2007" name="Ann. Neurol." volume="61" first="552" last="561">
+<title>The pathogenesis of ACTA1-related congenital fiber type disproportion.</title>
+<authorList>
+<person name="Clarke N.F."/>
+<person name="Ilkovski B."/>
+<person name="Cooper S."/>
+<person name="Valova V.A."/>
+<person name="Robinson P.J."/>
+<person name="Nonaka I."/>
+<person name="Feng J.-J."/>
+<person name="Marston S."/>
+<person name="North K."/>
+</authorList>
+<dbReference type="PubMed" id="17387733"/>
+<dbReference type="DOI" id="10.1002/ana.21112"/>
+</citation>
+<scope>CHARACTERIZATION OF VARIANT CFTD VAL-294</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2007" name="Ann. Neurol." volume="62" first="597" last="608">
+<title>Intranuclear rod myopathy: molecular pathogenesis and mechanisms of weakness.</title>
+<authorList>
+<person name="Domazetovska A."/>
+<person name="Ilkovski B."/>
+<person name="Kumar V."/>
+<person name="Valova V.A."/>
+<person name="Vandebrouck A."/>
+<person name="Hutchinson D.O."/>
+<person name="Robinson P.J."/>
+<person name="Cooper S.T."/>
+<person name="Sparrow J.C."/>
+<person name="Peckham M."/>
+<person name="North K.N."/>
+</authorList>
+<dbReference type="PubMed" id="17705262"/>
+<dbReference type="DOI" id="10.1002/ana.21200"/>
+</citation>
+<scope>CHARACTERIZATION OF VARIANT NEM3 MET-165</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2012" name="Neurology" volume="78" first="1100" last="1103">
+<title>Nemaline myopathy with stiffness and hypertonia associated with an ACTA1 mutation.</title>
+<authorList>
+<person name="Jain R.K."/>
+<person name="Jayawant S."/>
+<person name="Squier W."/>
+<person name="Muntoni F."/>
+<person name="Sewry C.A."/>
+<person name="Manzur A."/>
+<person name="Quinlivan R."/>
+<person name="Lillis S."/>
+<person name="Jungbluth H."/>
+<person name="Sparrow J.C."/>
+<person name="Ravenscroft G."/>
+<person name="Nowak K.J."/>
+<person name="Memo M."/>
+<person name="Marston S.B."/>
+<person name="Laing N.G."/>
+</authorList>
+<dbReference type="PubMed" id="22442437"/>
+<dbReference type="DOI" id="10.1212/WNL.0b013e31824e8ebe"/>
+</citation>
+<scope>VARIANT NEM3 ASN-328</scope>
+<scope>CHARACTERIZATION OF VARIANT NEM3 ASN-328</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2013" name="Pediatrics" volume="131" first="E1986" last="E1990">
+<title>Nemaline myopathy with dilated cardiomyopathy in childhood.</title>
+<authorList>
+<person name="Gatayama R."/>
+<person name="Ueno K."/>
+<person name="Nakamura H."/>
+<person name="Yanagi S."/>
+<person name="Ueda H."/>
+<person name="Yamagishi H."/>
+<person name="Yasui S."/>
+</authorList>
+<dbReference type="PubMed" id="23650303"/>
+<dbReference type="DOI" id="10.1542/peds.2012-1139"/>
+</citation>
+<scope>VARIANT NEM3 CYS-358</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2015" name="JAMA Neurol." volume="72" first="689" last="698">
+<title>Association of a Novel ACTA1 Mutation With a Dominant Progressive Scapuloperoneal Myopathy in an Extended Family.</title>
+<authorList>
+<person name="Zukosky K."/>
+<person name="Meilleur K."/>
+<person name="Traynor B.J."/>
+<person name="Dastgir J."/>
+<person name="Medne L."/>
+<person name="Devoto M."/>
+<person name="Collins J."/>
+<person name="Rooney J."/>
+<person name="Zou Y."/>
+<person name="Yang M.L."/>
+<person name="Gibbs J.R."/>
+<person name="Meier M."/>
+<person name="Stetefeld J."/>
+<person name="Finkel R.S."/>
+<person name="Schessl J."/>
+<person name="Elman L."/>
+<person name="Felice K."/>
+<person name="Ferguson T.A."/>
+<person name="Ceyhan-Birsoy O."/>
+<person name="Beggs A.H."/>
+<person name="Tennekoon G."/>
+<person name="Johnson J.O."/>
+<person name="Boennemann C.G."/>
+</authorList>
+<dbReference type="PubMed" id="25938801"/>
+<dbReference type="DOI" id="10.1001/jamaneurol.2015.37"/>
+</citation>
+<scope>INVOLVEMENT IN SHPM</scope>
+<scope>VARIANT SHPM ASP-197</scope>
+<scope>CHARACTERIZATION OF VARIANT SHPM ASP-197</scope>
+<scope>CHARACTERIZATION OF VARIANT NEM3 GLY-288</scope>
+</reference>
+<comment type="function">
+<text>Actins are highly conserved proteins that are involved in various types of cell motility and are ubiquitously expressed in all eukaryotic cells.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1 5 14">Polymerization of globular actin (G-actin) leads to a structural filament (F-actin) in the form of a two-stranded helix. Each actin can bind to 4 others. Identified in a complex composed of ACTA1, COBL, GSN AND TMSB4X (By similarity). Interacts with TTID. Interacts (via its C-terminus) with USP25; the interaction occurs for all USP25 isoforms but is strongest for isoform USP25m in muscle differentiating cells.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Cytoskeleton</location>
+</subcellularLocation>
+</comment>
+<comment type="PTM">
+<text evidence="1">Oxidation of Met-46 and Met-49 by MICALs (MICAL1, MICAL2 or MICAL3) to form methionine sulfoxide promotes actin filament depolymerization. MICAL1 and MICAL2 produce the (R)-S-oxide form. The (R)-S-oxide form is reverted by MSRB1 and MSRB2, which promote actin repolymerization (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="21">Monomethylation at Lys-86 (K84me1) regulates actin-myosin interaction and actomyosin-dependent processes. Demethylation by ALKBH4 is required for maintaining actomyosin dynamics supporting normal cleavage furrow ingression during cytokinesis and cell migration.</text>
+</comment>
+<comment type="PTM">
+<text evidence="24 25">(Microbial infection) Monomeric actin is cross-linked by V.cholerae toxins RtxA and VgrG1 in case of infection: bacterial toxins mediate the cross-link between Lys-52 of one monomer and Glu-272 of another actin monomer, resulting in formation of highly toxic actin oligomers that cause cell rounding (PubMed:19015515). The toxin can be highly efficient at very low concentrations by acting on formin homology family proteins: toxic actin oligomers bind with high affinity to formins and adversely affect both nucleation and elongation abilities of formins, causing their potent inhibition in both profilin-dependent and independent manners (PubMed:26228148).</text>
+</comment>
+<comment type="disease" evidence="4 6 7 8 9 10 12 13 15 17 19 20 22">
+<disease id="DI-02034">
+<name>Nemaline myopathy 3</name>
+<acronym>NEM3</acronym>
+<description>A form of nemaline myopathy. Nemaline myopathies are muscular disorders characterized by muscle weakness of varying severity and onset, and abnormal thread-like or rod-shaped structures in muscle fibers on histologic examination.</description>
+<dbReference type="MIM" id="161800"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="4">
+<disease id="DI-01412">
+<name>Myopathy, actin, congenital, with excess of thin myofilaments</name>
+<acronym>MPCETM</acronym>
+<description>A congenital muscular disorder characterized at histological level by areas of sarcoplasm devoid of normal myofibrils and mitochondria, and replaced with dense masses of thin filaments. Central cores, rods, ragged red fibers, and necrosis are absent.</description>
+<dbReference type="MIM" id="161800"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="11 16">
+<disease id="DI-01413">
+<name>Myopathy, congenital, with fiber-type disproportion</name>
+<acronym>CFTD</acronym>
+<description>A genetically heterogeneous disorder in which there is relative hypotrophy of type 1 muscle fibers compared to type 2 fibers on skeletal muscle biopsy. However, these findings are not specific and can be found in many different myopathic and neuropathic conditions.</description>
+<dbReference type="MIM" id="255310"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="22">
+<disease id="DI-04672">
+<name>Myopathy, scapulohumeroperoneal</name>
+<acronym>SHPM</acronym>
+<description>An autosomal dominant muscular disorder characterized by progressive muscle weakness with initial scapulo-humeral-peroneal and distal distribution. Over time, muscle weakness progresses to proximal muscle groups. Clinical characteristics include scapular winging, mild lower facial weakness, foot drop due to foot eversion and dorsiflexion weakness, and selective muscle atrophy. Age at onset and disease progression are variable.</description>
+<dbReference type="MIM" id="616852"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="miscellaneous">
+<text>In vertebrates 3 main groups of actin isoforms, alpha, beta and gamma have been identified. The alpha actins are found in muscle tissues and are a major constituent of the contractile apparatus. The beta and gamma actins coexist in most cell types as components of the cytoskeleton and as mediators of internal cell motility.</text>
+</comment>
+<comment type="similarity">
+<text evidence="23">Belongs to the actin family.</text>
+</comment>
+<dbReference type="EMBL" id="J00068">
+<property type="protein sequence ID" value="AAB59376.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M20543">
+<property type="protein sequence ID" value="AAA60296.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF182035">
+<property type="protein sequence ID" value="AAF02694.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CR536516">
+<property type="protein sequence ID" value="CAG38754.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CR541796">
+<property type="protein sequence ID" value="CAG46595.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL160004">
+<property type="protein sequence ID" value="CAI19050.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471098">
+<property type="protein sequence ID" value="EAW69898.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC012597">
+<property type="protein sequence ID" value="AAH12597.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS1578.1"/>
+<dbReference type="PIR" id="A31251">
+<property type="entry name" value="ATHU"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001091.1">
+<property type="nucleotide sequence ID" value="NM_001100.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.1288"/>
+<dbReference type="ProteinModelPortal" id="P68133"/>
+<dbReference type="SMR" id="P68133"/>
+<dbReference type="BioGrid" id="106573">
+<property type="interactions" value="127"/>
+</dbReference>
+<dbReference type="IntAct" id="P68133">
+<property type="interactions" value="16"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-135471"/>
+<dbReference type="STRING" id="9606.ENSP00000355645"/>
+<dbReference type="DrugBank" id="DB04151">
+<property type="generic name" value="4-Methyl-Histidine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04629">
+<property type="generic name" value="Aplyronine A"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB03850">
+<property type="generic name" value="Jaspisamide A"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB03616">
+<property type="generic name" value="Kabiramide C"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02621">
+<property type="generic name" value="Latrunculin A"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB08080">
+<property type="generic name" value="LATRUNCULIN B"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04395">
+<property type="generic name" value="Phosphoaminophosphonic Acid-Adenylate Ester"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04774">
+<property type="generic name" value="Reidispongiolide A"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04775">
+<property type="generic name" value="Reidispongiolide C"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04783">
+<property type="generic name" value="Sphinxolide B"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02772">
+<property type="generic name" value="Sucrose"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB03903">
+<property type="generic name" value="Tmr"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB03021">
+<property type="generic name" value="Ulapualide A"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P68133"/>
+<dbReference type="PhosphoSitePlus" id="P68133"/>
+<dbReference type="SwissPalm" id="P68133"/>
+<dbReference type="BioMuta" id="ACTA1"/>
+<dbReference type="DMDM" id="61218043"/>
+<dbReference type="EPD" id="P68133"/>
+<dbReference type="MaxQB" id="P68133"/>
+<dbReference type="PaxDb" id="P68133"/>
+<dbReference type="PeptideAtlas" id="P68133"/>
+<dbReference type="PRIDE" id="P68133"/>
+<dbReference type="DNASU" id="58"/>
+<dbReference type="Ensembl" id="ENST00000366684">
+<property type="protein sequence ID" value="ENSP00000355645"/>
+<property type="gene ID" value="ENSG00000143632"/>
+</dbReference>
+<dbReference type="GeneID" id="58"/>
+<dbReference type="KEGG" id="hsa:58"/>
+<dbReference type="UCSC" id="uc001htm.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="58"/>
+<dbReference type="DisGeNET" id="58"/>
+<dbReference type="GeneCards" id="ACTA1"/>
+<dbReference type="GeneReviews" id="ACTA1"/>
+<dbReference type="HGNC" id="HGNC:129">
+<property type="gene designation" value="ACTA1"/>
+</dbReference>
+<dbReference type="HPA" id="CAB000045"/>
+<dbReference type="HPA" id="HPA041264"/>
+<dbReference type="HPA" id="HPA041271"/>
+<dbReference type="MalaCards" id="ACTA1"/>
+<dbReference type="MIM" id="102610">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="161800">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="255310">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="616852">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P68133"/>
+<dbReference type="OpenTargets" id="ENSG00000143632"/>
+<dbReference type="Orphanet" id="171439">
+<property type="disease" value="Childhood-onset nemaline myopathy"/>
+</dbReference>
+<dbReference type="Orphanet" id="2020">
+<property type="disease" value="Congenital fiber-type disproportion myopathy"/>
+</dbReference>
+<dbReference type="Orphanet" id="98904">
+<property type="disease" value="Congenital myopathy with excess of thin filaments"/>
+</dbReference>
+<dbReference type="Orphanet" id="171433">
+<property type="disease" value="Intermediate nemaline myopathy"/>
+</dbReference>
+<dbReference type="Orphanet" id="171430">
+<property type="disease" value="Severe congenital nemaline myopathy"/>
+</dbReference>
+<dbReference type="Orphanet" id="171436">
+<property type="disease" value="Typical nemaline myopathy"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA24455"/>
+<dbReference type="eggNOG" id="KOG0676">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5277">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00760000118957"/>
+<dbReference type="HOGENOM" id="HOG000233340"/>
+<dbReference type="HOVERGEN" id="HBG003771"/>
+<dbReference type="InParanoid" id="P68133"/>
+<dbReference type="KO" id="K10354"/>
+<dbReference type="OMA" id="IXMESAG"/>
+<dbReference type="OrthoDB" id="EOG091G08LD"/>
+<dbReference type="PhylomeDB" id="P68133"/>
+<dbReference type="TreeFam" id="TF354237"/>
+<dbReference type="Reactome" id="R-HSA-390522">
+<property type="pathway name" value="Striated Muscle Contraction"/>
+</dbReference>
+<dbReference type="SignaLink" id="P68133"/>
+<dbReference type="SIGNOR" id="P68133"/>
+<dbReference type="ChiTaRS" id="ACTA1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P68133"/>
+<dbReference type="GeneWiki" id="Actin,_alpha_1"/>
+<dbReference type="GenomeRNAi" id="58"/>
+<dbReference type="PRO" id="PR:P68133"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000143632"/>
+<dbReference type="CleanEx" id="HS_ACTA1"/>
+<dbReference type="ExpressionAtlas" id="P68133">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P68133">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015629">
+<property type="term" value="C:actin cytoskeleton"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005884">
+<property type="term" value="C:actin filament"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072562">
+<property type="term" value="C:blood microparticle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044297">
+<property type="term" value="C:cell body"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005615">
+<property type="term" value="C:extracellular space"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030175">
+<property type="term" value="C:filopodium"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030027">
+<property type="term" value="C:lamellipodium"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030017">
+<property type="term" value="C:sarcomere"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001725">
+<property type="term" value="C:stress fiber"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005865">
+<property type="term" value="C:striated muscle thin filament"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043531">
+<property type="term" value="F:ADP binding"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017022">
+<property type="term" value="F:myosin binding"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005200">
+<property type="term" value="F:structural constituent of cytoskeleton"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016049">
+<property type="term" value="P:cell growth"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090131">
+<property type="term" value="P:mesenchyme migration"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006936">
+<property type="term" value="P:muscle contraction"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030049">
+<property type="term" value="P:muscle filament sliding"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010628">
+<property type="term" value="P:positive regulation of gene expression"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009991">
+<property type="term" value="P:response to extracellular stimulus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010226">
+<property type="term" value="P:response to lithium ion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009612">
+<property type="term" value="P:response to mechanical stimulus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048545">
+<property type="term" value="P:response to steroid hormone"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043503">
+<property type="term" value="P:skeletal muscle fiber adaptation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048741">
+<property type="term" value="P:skeletal muscle fiber development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030240">
+<property type="term" value="P:skeletal muscle thin filament assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004000">
+<property type="entry name" value="Actin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020902">
+<property type="entry name" value="Actin/actin-like_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004001">
+<property type="entry name" value="Actin_CS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11937">
+<property type="entry name" value="PTHR11937"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00022">
+<property type="entry name" value="Actin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00190">
+<property type="entry name" value="ACTIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00268">
+<property type="entry name" value="ACTIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00406">
+<property type="entry name" value="ACTINS_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00432">
+<property type="entry name" value="ACTINS_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01132">
+<property type="entry name" value="ACTINS_ACT_LIKE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0488">Methylation</keyword>
+<keyword id="KW-0514">Muscle protein</keyword>
+<keyword id="KW-1057">Nemaline myopathy</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0558">Oxidation</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="propeptide" description="Removed in mature form" id="PRO_0000000844" evidence="1">
+<location>
+<begin position="1"/>
+<end position="2"/>
+</location>
+</feature>
+<feature type="chain" description="Actin, alpha skeletal muscle" id="PRO_0000000845">
+<location>
+<begin position="3"/>
+<end position="377"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylaspartate" evidence="3">
+<location>
+<position position="3"/>
+</location>
+</feature>
+<feature type="modified residue" description="Methionine (R)-sulfoxide" evidence="1">
+<location>
+<position position="46"/>
+</location>
+</feature>
+<feature type="modified residue" description="Methionine (R)-sulfoxide" evidence="1">
+<location>
+<position position="49"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-malonyllysine" evidence="18">
+<location>
+<position position="63"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-methyllysine" evidence="21">
+<location>
+<position position="86"/>
+</location>
+</feature>
+<feature type="cross-link" description="Isoglutamyl lysine isopeptide (Lys-Glu) (interchain with E-272); by Vibrio toxins RtxA and VgrG1" evidence="2">
+<location>
+<position position="52"/>
+</location>
+</feature>
+<feature type="cross-link" description="Isoglutamyl lysine isopeptide (Glu-Lys) (interchain with K-52); by Vibrio toxins RtxA and VgrG1" evidence="2">
+<location>
+<position position="272"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; some patients have core lesions on muscle biopsy; dbSNP:rs121909527." id="VAR_062424" evidence="12">
+<original>D</original>
+<variation>Y</variation>
+<location>
+<position position="3"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MPCETM; dbSNP:rs121909521." id="VAR_011680" evidence="4">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="17"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062425">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="27"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062426" evidence="9">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="37"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062427" evidence="9">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="40"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; severe." id="VAR_015579" evidence="4 9">
+<original>H</original>
+<variation>Y</variation>
+<location>
+<position position="42"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062428" evidence="9">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="43"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062429">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="44"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; dbSNP:rs398123562." id="VAR_062430">
+<original>V</original>
+<variation>F</variation>
+<location>
+<position position="45"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062431" evidence="9">
+<original>I</original>
+<variation>N</variation>
+<location>
+<position position="66"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062432" evidence="8">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="68"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062433" evidence="8">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="74"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062434" evidence="9">
+<original>H</original>
+<variation>L</variation>
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062435" evidence="9">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062436" evidence="9">
+<original>I</original>
+<variation>L</variation>
+<location>
+<position position="77"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062437" evidence="9">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="79"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062438" evidence="9">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="85"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; autosomal recessive; dbSNP:rs121909519." id="VAR_011681" evidence="4">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="96"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062439">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="116"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; autosomal dominant; dbSNP:rs121909520." id="VAR_011682" evidence="4 7 8">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062440">
+<original>N</original>
+<variation>T</variation>
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062441">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="118"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; autosomal dominant." id="VAR_013470" evidence="4 6">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062442" evidence="9">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="136"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; autosomal recessive; dbSNP:rs121909526." id="VAR_011683" evidence="7 8">
+<original>I</original>
+<variation>M</variation>
+<location>
+<position position="138"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062443">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="140"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062444">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="142"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062445" evidence="9">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="148"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062446">
+<original>T</original>
+<variation>N</variation>
+<location>
+<position position="150"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062447">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="156"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In MPCETM; dbSNP:rs121909522." id="VAR_011684" evidence="4 8">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="165"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; results in sequestration of sarcomeric and Z line proteins into intranuclear aggregates; there is some evidence of muscle regeneration suggesting a compensatory effect; dbSNP:rs121909522." id="VAR_062448" evidence="8 13 17">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="165"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062449">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="172"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062450" evidence="9">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="181"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062451">
+<original>D</original>
+<variation>H</variation>
+<location>
+<position position="181"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062452">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="181"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; mild." id="VAR_015580" evidence="4 9">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="184"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; severe." id="VAR_015582" evidence="4">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="185"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; requires 2 nucleotide substitutions." id="VAR_062453">
+<original>R</original>
+<variation>D</variation>
+<location>
+<position position="185"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; autosomal dominant; severe." id="VAR_015581" evidence="7 8 9">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="185"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062454">
+<original>R</original>
+<variation>S</variation>
+<location>
+<position position="185"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In SHPM; no effect on cytoskeleton structure." id="VAR_076426" evidence="22">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="197"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062455">
+<original>R</original>
+<variation>L</variation>
+<location>
+<position position="198"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062456" evidence="9">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="199"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CFTD; dbSNP:rs121909530." id="VAR_032917" evidence="11">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="223"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062457" evidence="9">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="226"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062458">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="226"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; requires 2 nucleotide substitutions." id="VAR_062459">
+<original>N</original>
+<variation>V</variation>
+<location>
+<position position="227"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062460" evidence="9">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="229"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062461">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="229"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; dbSNP:rs794727714." id="VAR_062462" evidence="9">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="229"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; dbSNP:rs367543051." id="VAR_062463">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="243"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062464">
+<original>Q</original>
+<variation>K</variation>
+<location>
+<position position="248"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062465" evidence="9">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="248"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062466" evidence="9">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="253"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; severe." id="VAR_015583" evidence="4">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="258"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062467">
+<original>R</original>
+<variation>L</variation>
+<location>
+<position position="258"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; autosomal recessive; dbSNP:rs121909523." id="VAR_011685" evidence="4">
+<original>E</original>
+<variation>V</variation>
+<location>
+<position position="261"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; severe." id="VAR_015584" evidence="4">
+<original>Q</original>
+<variation>L</variation>
+<location>
+<position position="265"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; autosomal dominant; dbSNP:rs121909525." id="VAR_011686" evidence="7 8 9">
+<original>G</original>
+<variation>C</variation>
+<location>
+<position position="270"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062468" evidence="10">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="270"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062469">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="270"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; autosomal dominant." id="VAR_013471" evidence="6">
+<original>M</original>
+<variation>R</variation>
+<location>
+<position position="271"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062470">
+<original>A</original>
+<variation>E</variation>
+<location>
+<position position="274"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062471" evidence="9">
+<original>Y</original>
+<variation>H</variation>
+<location>
+<position position="281"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; severe." id="VAR_015585" evidence="4 9">
+<original>N</original>
+<variation>K</variation>
+<location>
+<position position="282"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062472">
+<original>M</original>
+<variation>K</variation>
+<location>
+<position position="285"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; severe; formation of rod-like structure." id="VAR_015586" evidence="4 9 22">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="288"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CFTD; results in decreased motility due to abnormal interactions between actin and tropomyosin with tropomyosin stabilized in the 'off' position; the mutant protein incorporates into actin filaments and does not result in increased actin aggregation or disruption of the sarcomere; dbSNP:rs121909529." id="VAR_032918" evidence="11 16">
+<original>D</original>
+<variation>V</variation>
+<location>
+<position position="294"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; no effect on actin structure; higher sensitivty to calcium; dbSNP:rs398122936." id="VAR_076427" evidence="19">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="328"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CFTD; dbSNP:rs121909531." id="VAR_032919" evidence="11">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="334"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; dbSNP:rs121909528." id="VAR_062473" evidence="12">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="336"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062474" evidence="15">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="338"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062475">
+<original>K</original>
+<variation>I</variation>
+<location>
+<position position="338"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062476">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="350"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; found in a patient with a rare combination of NEM3 and dilated cardiomyopathy; dbSNP:rs587777354." id="VAR_076428" evidence="20">
+<original>W</original>
+<variation>C</variation>
+<location>
+<position position="358"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; autosomal dominant; severe; dbSNP:rs121909524." id="VAR_015587" evidence="7 8">
+<original>I</original>
+<variation>L</variation>
+<location>
+<position position="359"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3; severe." id="VAR_011687" evidence="4">
+<original>V</original>
+<variation>F</variation>
+<location>
+<position position="372"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062477">
+<original>R</original>
+<variation>S</variation>
+<location>
+<position position="374"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062478" evidence="10">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="375"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In NEM3." id="VAR_062479" evidence="9">
+<original>K</original>
+<variation>Q</variation>
+<location>
+<position position="375"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P60709"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P68135"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10508519"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10958653"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11166164"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11333380"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15198992"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15236405"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15336687"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15468086"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15520409"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16427282"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16501887"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16945537"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17387733"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17705262"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21908771"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22442437"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23650303"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23673617"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25938801"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000305"/>
+<evidence key="24" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="19015515"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="26228148"/>
+</source>
+</evidence>
+<sequence length="377" mass="42051" checksum="DF2A3A046346A179" modified="1986-07-21" version="1" precursor="true">
+MCDEDETTALVCDNGSGLVKAGFAGDDAPRAVFPSIVGRPRHQGVMVGMGQKDSYVGDEA
+QSKRGILTLKYPIEHGIITNWDDMEKIWHHTFYNELRVAPEEHPTLLTEAPLNPKANREK
+MTQIMFETFNVPAMYVAIQAVLSLYASGRTTGIVLDSGDGVTHNVPIYEGYALPHAIMRL
+DLAGRDLTDYLMKILTERGYSFVTTAEREIVRDIKEKLCYVALDFENEMATAASSSSLEK
+SYELPDGQVITIGNERFRCPETLFQPSFIGMESAGIHETTYNSIMKCDIDIRKDLYANNV
+MSGGTTMYPGIADRMQKEITALAPSTMKIKIIAPPERKYSVWIGGSILASLSTFQQMWIT
+KQEYDEAGPSIVHRKCF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

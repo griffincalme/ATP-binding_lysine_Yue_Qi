@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2005-07-05" modified="2017-04-12" version="58">
+<accession>Q4W5G3</accession>
+<name>Q4W5G3_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="3">Putative uncharacterized protein SMARCA5</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">SMARCA5</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="submission" date="2001-12" db="EMBL/GenBank/DDBJ databases">
+<title>The sequence of Homo sapiens BAC clone RP11-58H15.</title>
+<authorList>
+<person name="Cotton M."/>
+<person name="Abbott S."/>
+<person name="Creason K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="2" evidence="3">
+<citation type="submission" date="2001-12" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Waterston R.H."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="3" evidence="3">
+<citation type="submission" date="2002-11" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Waterston R."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="4" evidence="3">
+<citation type="submission" date="2005-05" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Wilson R.K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the SNF2/RAD54 helicase family. ISWI subfamily.</text>
+</comment>
+<dbReference type="EMBL" id="AC104685">
+<property type="protein sequence ID" value="AAY40965.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.558422"/>
+<dbReference type="SMR" id="Q4W5G3"/>
+<dbReference type="STRING" id="9606.ENSP00000283131"/>
+<dbReference type="PaxDb" id="Q4W5G3"/>
+<dbReference type="PeptideAtlas" id="Q4W5G3"/>
+<dbReference type="PRIDE" id="Q4W5G3"/>
+<dbReference type="eggNOG" id="KOG0385">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0553">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="SMARCA5">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000153147"/>
+<dbReference type="GO" id="GO:0016589">
+<property type="term" value="C:NURF complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016887">
+<property type="term" value="F:ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043044">
+<property type="term" value="P:ATP-dependent chromatin remodeling"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016569">
+<property type="term" value="P:covalent chromatin modification"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020838">
+<property type="entry name" value="DBINO"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029915">
+<property type="entry name" value="ISWI"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10799:SF812">
+<property type="entry name" value="PTHR10799:SF812"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13892">
+<property type="entry name" value="DBINO"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0156" evidence="1">Chromatin regulator</keyword>
+<keyword id="KW-0347" evidence="1">Helicase</keyword>
+<keyword id="KW-0378" evidence="1">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0539" evidence="1">Nucleus</keyword>
+<feature type="domain" description="DBINO" evidence="2">
+<location>
+<begin position="70"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="3">
+<location>
+<position position="207"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU363119"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF13892"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAY40965.1"/>
+</source>
+</evidence>
+<sequence length="207" mass="22707" checksum="6F7846CD6A3E98D2" modified="2005-07-05" version="1" fragment="single">
+MSSAAEPPPPPPPESAPSKPAASIASGGSNSSNKGGPEGVAAQAVASAASAGPADAEMEE
+IFDDASPGKQKEIQEPDPTYEEKMQTDRANRFEYLLKQTELFAHFIQPAAQKTPTSPLKM
+KPGRPRIKKDEKQNLLSVGDYRHRRTEQEEDEELLTESSKATNVCTRFEDSPSYVKWGKL
+RDYQVRGLNWLISLYENGINGILADEM
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

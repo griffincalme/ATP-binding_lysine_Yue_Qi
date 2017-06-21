@@ -1,0 +1,825 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2002-10-19" modified="2017-05-10" version="137">
+<accession>P59044</accession>
+<accession>A8K9F3</accession>
+<accession>E9PJZ8</accession>
+<name>NLRP6_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>NACHT, LRR and PYD domains-containing protein 6</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Angiotensin II/vasopressin receptor</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>PYRIN-containing APAF1-like protein 5</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">NLRP6</name>
+<name type="synonym">NALP6</name>
+<name type="synonym">PYPAF5</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="29874" last="29880">
+<title>PYPAF7, a novel PYRIN-containing Apaf1-like protein that regulates activation of NF-kappa B and caspase-1-dependent cytokine processing.</title>
+<authorList>
+<person name="Wang L."/>
+<person name="Manji G.A."/>
+<person name="Grenier J.M."/>
+<person name="Al-Garawi A."/>
+<person name="Merriam S."/>
+<person name="Lora J.M."/>
+<person name="Geddes B.J."/>
+<person name="Briskin M."/>
+<person name="DiStefano P.S."/>
+<person name="Bertin J."/>
+</authorList>
+<dbReference type="PubMed" id="12019269"/>
+<dbReference type="DOI" id="10.1074/jbc.M203915200"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>VARIANTS LEU-163 AND PHE-361</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2003" name="Nat. Rev. Mol. Cell Biol." volume="4" first="95" last="104">
+<title>NALPs: a novel protein family involved in inflammation.</title>
+<authorList>
+<person name="Tschopp J."/>
+<person name="Martinon F."/>
+<person name="Burns K."/>
+</authorList>
+<dbReference type="PubMed" id="12563287"/>
+<dbReference type="DOI" id="10.1038/nrm1019"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>VARIANTS LEU-163 AND PHE-361</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+<scope>VARIANTS LEU-163 AND PHE-361</scope>
+<source>
+<tissue>Thymus</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="497" last="500">
+<title>Human chromosome 11 DNA sequence and analysis including novel gene identification.</title>
+<authorList>
+<person name="Taylor T.D."/>
+<person name="Noguchi H."/>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Kuroki Y."/>
+<person name="Dewar K."/>
+<person name="Lloyd C."/>
+<person name="Itoh T."/>
+<person name="Takeda T."/>
+<person name="Kim D.-W."/>
+<person name="She X."/>
+<person name="Barlow K.F."/>
+<person name="Bloom T."/>
+<person name="Bruford E."/>
+<person name="Chang J.L."/>
+<person name="Cuomo C.A."/>
+<person name="Eichler E."/>
+<person name="FitzGerald M.G."/>
+<person name="Jaffe D.B."/>
+<person name="LaButti K."/>
+<person name="Nicol R."/>
+<person name="Park H.-S."/>
+<person name="Seaman C."/>
+<person name="Sougnez C."/>
+<person name="Yang X."/>
+<person name="Zimmer A.R."/>
+<person name="Zody M.C."/>
+<person name="Birren B.W."/>
+<person name="Nusbaum C."/>
+<person name="Fujiyama A."/>
+<person name="Hattori M."/>
+<person name="Rogers J."/>
+<person name="Lander E.S."/>
+<person name="Sakaki Y."/>
+</authorList>
+<dbReference type="PubMed" id="16554811"/>
+<dbReference type="DOI" id="10.1038/nature04632"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2002" name="FEBS Lett." volume="530" first="73" last="78">
+<title>Functional screening of five PYPAF family members identifies PYPAF5 as a novel regulator of NF-kappaB and caspase-1.</title>
+<authorList>
+<person name="Grenier J.M."/>
+<person name="Wang L."/>
+<person name="Manji G.A."/>
+<person name="Huang W.-J."/>
+<person name="Al-Garawi A."/>
+<person name="Kelly R."/>
+<person name="Carlson A."/>
+<person name="Merriam S."/>
+<person name="Lora J.M."/>
+<person name="Briskin M."/>
+<person name="DiStefano P.S."/>
+<person name="Bertin J."/>
+</authorList>
+<dbReference type="PubMed" id="12387869"/>
+<dbReference type="DOI" id="10.1016/S0014-5793(02)03416-6"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INVOLVEMENT IN INFLAMMASOME COMPLEX</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2011" name="Am. J. Physiol." volume="300" first="G253" last="G263">
+<title>Developmental control of the Nlrp6 inflammasome and a substrate, IL-18, in mammalian intestine.</title>
+<authorList>
+<person name="Kempster S.L."/>
+<person name="Belteki G."/>
+<person name="Forhead A.J."/>
+<person name="Fowden A.L."/>
+<person name="Catalano R.D."/>
+<person name="Lam B.Y."/>
+<person name="McFarlane I."/>
+<person name="Charnock-Jones D.S."/>
+<person name="Smith G.C."/>
+</authorList>
+<dbReference type="PubMed" id="21088234"/>
+<dbReference type="DOI" id="10.1152/ajpgi.00397.2010"/>
+</citation>
+<scope>INDUCTION BY ROSIGLITAZONE</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2011" name="Proc. Natl. Acad. Sci. U.S.A." volume="108" first="9601" last="9606">
+<title>Nod-like receptor pyrin domain-containing protein 6 (NLRP6) controls epithelial self-renewal and colorectal carcinogenesis upon injury.</title>
+<authorList>
+<person name="Normand S."/>
+<person name="Delanoye-Crespin A."/>
+<person name="Bressenot A."/>
+<person name="Huot L."/>
+<person name="Grandjean T."/>
+<person name="Peyrin-Biroulet L."/>
+<person name="Lemoine Y."/>
+<person name="Hot D."/>
+<person name="Chamaillard M."/>
+</authorList>
+<dbReference type="PubMed" id="21593405"/>
+<dbReference type="DOI" id="10.1073/pnas.1100981108"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2013" name="Gastroenterology" volume="144" first="1478" last="1487">
+<title>Stress-induced corticotropin-releasing hormone-mediated NLRP6 inflammasome inhibition and transmissible enteritis in mice.</title>
+<authorList>
+<person name="Sun Y."/>
+<person name="Zhang M."/>
+<person name="Chen C.C."/>
+<person name="Gillilland M. III"/>
+<person name="Sun X."/>
+<person name="El-Zaatari M."/>
+<person name="Huffnagle G.B."/>
+<person name="Young V.B."/>
+<person name="Zhang J."/>
+<person name="Hong S.C."/>
+<person name="Chang Y.M."/>
+<person name="Gumucio D.L."/>
+<person name="Owyang C."/>
+<person name="Kao J.Y."/>
+</authorList>
+<dbReference type="PubMed" id="23470617"/>
+<dbReference type="DOI" id="10.1053/j.gastro.2013.02.038"/>
+</citation>
+<scope>INDUCTION BY CRH AND ROSIGLITAZONE</scope>
+</reference>
+<comment type="function">
+<text evidence="2 3 7">As the sensor component of the NLRP6 inflammasome, plays a crucial role in innate immunity and inflammation. In response to pathogens and other damage-associated signals, initiates the formation of the inflammasome polymeric complex, made of NLRP6, PYCARD and CASP1 (and possibly CASP4 and CASP5). Recruitment of proCASP1 to the inflammasome promotes its activation and CASP1-catalyzed IL1B and IL18 maturation and secretion in the extracellular milieu. The precise NLRP6 activation stimulus has not been identified yet (By similarity) (PubMed:12387869). Essential for gut mucosal self-renewal and proliferation. Maintains intestinal homeostasis and a healthy intestinal microbiota. This function is, at least partially, mediated by IL18, and not IL1B, produced by nonhematopoietic cells. Influences intestinal barrier function and microbial homeostasis through the regulation of goblet cell mucus secretion. Acts by promoting autophagy in goblet cells, an essential step for mucus granule exocytosis. Its role in goblet cell physiology is inflammasome-dependent, but IL1B- and IL18-independent. During systemic bacterial infections, may negatively regulate inflammatory signaling and inhibit the influx of monocytes and neutrophils to the circulation and to the peritoneum. May promote peripheral nerve recovery following injury via an inflammasome-independent mechanism (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 15">Sensor component of NLRP6 inflammasomes. Inflammasomes are supramolecular complexes that assemble in the cytosol in response to pathogens and other damage-associated signals and play critical roles in innate immunity and inflammation. The core of NLRP6 inflammasomes consists of a signal sensor component (NLRP6), an adapter (ASC/PYCARD), which recruits an effector proinflammatory caspase (CASP1 and, possibly, CASP4 and CASP5). Within the complex, NLRP6 and PYCARD interact via their respective pyrin domains. This interaction initiates speck formation (nucleation) which greatly enhances further addition of soluble PYCARD molecules to the speck in a prion-like polymerization process. NLRP6 localizes at the end of each PYCARD filament. Clustered PYCARD nucleates the formation of CASP1 filaments through the interaction of their respective CARD domains, acting as a platform for CASP1 polymerization. CASP1 filament formation increases local enzyme concentration, resulting in trans-autocleavage and activation. Active CASP1 then processes IL1B and IL18 precursors, leading to the release of mature cytokines in the extracellular milieu and inflammatory response. In this complex, the sensor protein is sub-stoichiometric to PYCARD, and PYCARD is further substoichiometric to CASP1, suggesting amplifications of signal transduction from the sensor, via the adapter, to the effector.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="7">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="7">Inflammasome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Cell membrane</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Nucleus membrane</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>P59044-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P59044-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_054400"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="7 11">Expressed in peripheral blood leukocytes, predominantly in granulocytes and, at lower levels, in CD4(+) and CD8(+) T-cells. Expressed in colonic myofibroblasts (at protein level) (PubMed:21593405).</text>
+</comment>
+<comment type="induction">
+<text evidence="10 12">Up-regulated by rosiglitazone, a PPARG agonist, in Caco2 and HCT116 colorectal carcinoma cells (PubMed:21088234, PubMed:23470617). Down-regulated by CRH (at protein level) (PubMed:23470617).</text>
+</comment>
+<comment type="similarity">
+<text evidence="14">Belongs to the NLRP family.</text>
+</comment>
+<dbReference type="EMBL" id="AF479748">
+<property type="protein sequence ID" value="AAL87105.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY154461">
+<property type="protein sequence ID" value="AAO18157.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK292668">
+<property type="protein sequence ID" value="BAF85357.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC136475">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS60680.1">
+<molecule id="P59044-2"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS7693.1">
+<molecule id="P59044-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001263629.1">
+<molecule id="P59044-2"/>
+<property type="nucleotide sequence ID" value="NM_001276700.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_612202.2">
+<molecule id="P59044-1"/>
+<property type="nucleotide sequence ID" value="NM_138329.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.352611"/>
+<dbReference type="ProteinModelPortal" id="P59044"/>
+<dbReference type="STRING" id="9606.ENSP00000309767"/>
+<dbReference type="iPTMnet" id="P59044"/>
+<dbReference type="PhosphoSitePlus" id="P59044"/>
+<dbReference type="DMDM" id="259016285"/>
+<dbReference type="EPD" id="P59044"/>
+<dbReference type="PaxDb" id="P59044"/>
+<dbReference type="PeptideAtlas" id="P59044"/>
+<dbReference type="PRIDE" id="P59044"/>
+<dbReference type="Ensembl" id="ENST00000312165">
+<molecule id="P59044-1"/>
+<property type="protein sequence ID" value="ENSP00000309767"/>
+<property type="gene ID" value="ENSG00000174885"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000534750">
+<molecule id="P59044-2"/>
+<property type="protein sequence ID" value="ENSP00000433617"/>
+<property type="gene ID" value="ENSG00000174885"/>
+</dbReference>
+<dbReference type="GeneID" id="171389"/>
+<dbReference type="KEGG" id="hsa:171389"/>
+<dbReference type="UCSC" id="uc010qvs.4">
+<molecule id="P59044-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="171389"/>
+<dbReference type="DisGeNET" id="171389"/>
+<dbReference type="GeneCards" id="NLRP6"/>
+<dbReference type="HGNC" id="HGNC:22944">
+<property type="gene designation" value="NLRP6"/>
+</dbReference>
+<dbReference type="HPA" id="HPA043681"/>
+<dbReference type="HPA" id="HPA048500"/>
+<dbReference type="MIM" id="609650">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P59044"/>
+<dbReference type="OpenTargets" id="ENSG00000174885"/>
+<dbReference type="PharmGKB" id="PA162398002"/>
+<dbReference type="eggNOG" id="ENOG410IIC5">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG41115SU">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00860000133669"/>
+<dbReference type="HOGENOM" id="HOG000169726"/>
+<dbReference type="HOVERGEN" id="HBG108172"/>
+<dbReference type="InParanoid" id="P59044"/>
+<dbReference type="KO" id="K20863"/>
+<dbReference type="OMA" id="PEAAPCT"/>
+<dbReference type="OrthoDB" id="EOG091G01CG"/>
+<dbReference type="PhylomeDB" id="P59044"/>
+<dbReference type="GeneWiki" id="NLRP6"/>
+<dbReference type="GenomeRNAi" id="171389"/>
+<dbReference type="PRO" id="PR:P59044"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 11"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000174885"/>
+<dbReference type="CleanEx" id="HS_NLRP6"/>
+<dbReference type="Genevisible" id="P59044">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061702">
+<property type="term" value="C:inflammasome complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031965">
+<property type="term" value="C:nuclear membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005000">
+<property type="term" value="F:vasopressin receptor activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006954">
+<property type="term" value="P:inflammatory response"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045087">
+<property type="term" value="P:innate immune response"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070373">
+<property type="term" value="P:negative regulation of ERK1 and ERK2 cascade"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043124">
+<property type="term" value="P:negative regulation of I-kappaB kinase/NF-kappaB signaling"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002862">
+<property type="term" value="P:negative regulation of inflammatory response to antigenic stimulus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034122">
+<property type="term" value="P:negative regulation of toll-like receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010506">
+<property type="term" value="P:regulation of autophagy"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050727">
+<property type="term" value="P:regulation of inflammatory response"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070255">
+<property type="term" value="P:regulation of mucus secretion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009617">
+<property type="term" value="P:response to bacterium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042060">
+<property type="term" value="P:wound healing"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004020">
+<property type="entry name" value="DAPIN"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011029">
+<property type="entry name" value="DEATH-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007111">
+<property type="entry name" value="NACHT_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02758">
+<property type="entry name" value="PYRIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01289">
+<property type="entry name" value="PYRIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47986">
+<property type="entry name" value="SSF47986"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50824">
+<property type="entry name" value="DAPIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50837">
+<property type="entry name" value="NACHT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0391">Immunity</keyword>
+<keyword id="KW-1271">Inflammasome</keyword>
+<keyword id="KW-0395">Inflammatory response</keyword>
+<keyword id="KW-0399">Innate immunity</keyword>
+<keyword id="KW-0433">Leucine-rich repeat</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<feature type="chain" description="NACHT, LRR and PYD domains-containing protein 6" id="PRO_0000080892">
+<location>
+<begin position="1"/>
+<end position="892"/>
+</location>
+</feature>
+<feature type="domain" description="Pyrin" evidence="4">
+<location>
+<begin position="1"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="domain" description="NACHT" evidence="5">
+<location>
+<begin position="196"/>
+<end position="513"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 1">
+<location>
+<begin position="462"/>
+<end position="487"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 2">
+<location>
+<begin position="727"/>
+<end position="747"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 3">
+<location>
+<begin position="755"/>
+<end position="778"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 4">
+<location>
+<begin position="811"/>
+<end position="834"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 5">
+<location>
+<begin position="845"/>
+<end position="868"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="5">
+<location>
+<begin position="202"/>
+<end position="209"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Glu">
+<location>
+<begin position="604"/>
+<end position="614"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_054400" evidence="13">
+<location>
+<position position="702"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6421985." id="VAR_058968" evidence="6 8 9">
+<original>M</original>
+<variation>L</variation>
+<location>
+<position position="163"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs56159585." id="VAR_058969" evidence="6 8 9">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="361"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q63035"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q91WS2"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q96P20"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00061"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00136"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12019269"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12387869"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12563287"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21088234"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21593405"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23470617"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000305"/>
+<evidence key="15" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="12387869"/>
+</source>
+</evidence>
+<sequence length="892" mass="98768" checksum="A987FDACE6448C6A" modified="2009-09-22" version="2">
+MDQPEAPCSSTGPRLAVARELLLAALEELSQEQLKRFRHKLRDVGPDGRSIPWGRLERAD
+AVDLAEQLAQFYGPEPALEVARKTLKRADARDVAAQLQERRLQRLGLGSGTLLSVSEYKK
+KYREHVLQLHARVKERNARSVKITKRFTKLLIAPESAAPEEAMGPAEEPEPGRARRSDTH
+TFNRLFRRDEEGRRPLTVVLQGPAGIGKTMAAKKILYDWAAGKLYQGQVDFAFFMPCGEL
+LERPGTRSLADLILDQCPDRGAPVPQMLAQPQRLLFILDGADELPALGGPEAAPCTDPFE
+AASGARVLGGLLSKALLPTALLLVTTRAAAPGRLQGRLCSPQCAEVRGFSDKDKKKYFYK
+YFRDERRAERAYRFVKENETLFALCFVPFVCWIVCTVLRQQLELGRDLSRTSKTTTSVYL
+LFITSVLSSAPVADGPRLQGDLRNLCRLAREGVLGRRAQFAEKELEQLELRGSKVQTLFL
+SKKELPGVLETEVTYQFIDQSFQEFLAALSYLLEDGGVPRTAAGGVGTLLRGDAQPHSHL
+VLTTRFLFGLLSAERMRDIERHFGCMVSERVKQEALRWVQGQGQGCPGVAPEVTEGAKGL
+EDTEEPEEEEEGEEPNYPLELLYCLYETQEDAFVRQALCRFPELALQRVRFCRMDVAVLS
+YCVRCCPAGQALRLISCRLVAAQEKKKKSLGKRLQASLGGGSSSQGTTKQLPASLLHPLF
+QAMTDPLCHLSSLTLSHCKLPDAVCRDLSEALRAAPALTELGLLHNRLSEAGLRMLSEGL
+AWPQCRVQTVRVQLPDPQRGLQYLVGMLRQSPALTTLDLSGCQLPAPMVTYLCAVLQHQG
+CGLQTLSLASVELSEQSLQELQAVKRAKPDLVITHPALDGHPQPPKELISTF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

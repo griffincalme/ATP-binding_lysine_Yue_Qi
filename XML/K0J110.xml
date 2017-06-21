@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2012-11-28" modified="2017-05-10" version="21">
+<accession>K0J110</accession>
+<name>K0J110_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="5">Malignant cell derived RNA helicase</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="5">mcdrh</name>
+</gene>
+<organism evidence="5">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="submission" date="2000-11" db="EMBL/GenBank/DDBJ databases">
+<title>Putative RNA helicase derived from carcinoma cells.</title>
+<authorList>
+<person name="Uematsu T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<dbReference type="EMBL" id="AB051075">
+<property type="protein sequence ID" value="BAM48570.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.522984"/>
+<dbReference type="PeptideAtlas" id="K0J110"/>
+<dbReference type="ChiTaRS" id="DDX50">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003723">
+<property type="term" value="F:RNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011545">
+<property type="entry name" value="DEAD/DEAH_box_helicase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012562">
+<property type="entry name" value="GUCT"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014014">
+<property type="entry name" value="RNA_helicase_DEAD_Q_motif"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000504">
+<property type="entry name" value="RRM_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00270">
+<property type="entry name" value="DEAD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08152">
+<property type="entry name" value="GUCT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00490">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54928">
+<property type="entry name" value="SSF54928"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51195">
+<property type="entry name" value="Q_MOTIF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="5">ATP-binding</keyword>
+<keyword id="KW-0347" evidence="5">Helicase</keyword>
+<keyword id="KW-0378" evidence="5">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="5">Nucleotide-binding</keyword>
+<feature type="domain" description="Q_MOTIF" evidence="4">
+<location>
+<begin position="137"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase ATP-binding" evidence="2">
+<location>
+<begin position="168"/>
+<end position="347"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase C-terminal" evidence="3">
+<location>
+<begin position="380"/>
+<end position="524"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Q motif" evidence="1">
+<location>
+<begin position="137"/>
+<end position="165"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00552"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51192"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51194"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51195"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAM48570.1"/>
+</source>
+</evidence>
+<sequence length="731" mass="82037" checksum="F4220269343FF931" modified="2012-11-28" version="1">
+MPGKLLWGDIMELEDPWRSPRARRRRGKRVTEGSQGTIMTLMRNQKLEKNVLQMTWMLPR
+PKKSKMKEKLNGDTEEGFNRLSDEFSKSHKSRRKDLPNGDIDEYEKKSKRVSSLDTSTHK
+SSDNKLEETLTREQKEGAFSNFPISEETIKLLKGRGVTYLFPIQLKTFGHVYEGKDLIAQ
+ARTGTGKTFSFAIPLIERLQRNQETIKKSRSPKVLVLAPTRELANQVAKDFKDITRKLSV
+ACFYGGTSYQSQINHIRNGIDILVGTPGRIKDHLQSGRLDLSKLRHVVLDEVDQMLDLGF
+AEQVEDIIHESYKTDSEDNPQTLLFSATCPQWVYKVAKKYMKSRYEQVALVGKMTQKAAT
+PVEHLAIQCHWSQRPAVIGDVLQVYSGSEGRAIIFCETKKNVTEMAMNPHIKQNAQCLHG
+DIAQSQREITLKGFREGSFKVLVATNVAARGLDNPEVDLVIQSSPPQDVESYIHRSGRTG
+RAGRTGICICFYQPRERGQLRYVEQKAGITFKRVGVPSTMDLVKSKSMDAIRSLASVSYA
+AVSAQRLIEEKGAVDALAAALAHISGASSFEPRSLITSDKGFVTMTLESLEEYRMSAVAW
+KELNRKLSSNAVSQITRMCLLKGIWGVCFDVPTTESERLQAEWHDSDWILSVPAKLPEIE
+EYYDGNTSSNSRQRSGWSSGRSGRSGRSGGRSGGRSGRQSRQGSRSGSRQDGRRRSGNRN
+RSRSGGPQTEF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,681 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1996-10-01" modified="2017-04-12" version="140">
+<accession>P53384</accession>
+<accession>Q32M30</accession>
+<accession>Q498A9</accession>
+<accession>Q53FS7</accession>
+<name>NUBP1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="6">Cytosolic Fe-S cluster assembly factor NUBP1</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="6">Nucleotide-binding protein 1</fullName>
+<shortName evidence="6">NBP 1</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="6">NUBP1</name>
+<name type="synonym">NBP</name>
+<name type="synonym">NBP1</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Gene" volume="147" first="281" last="285">
+<title>Cloning of a human cDNA encoding a putative nucleotide-binding protein related to Escherichia coli MinD.</title>
+<authorList>
+<person name="Shahrestanifar M."/>
+<person name="Saha D.P."/>
+<person name="Scala L.A."/>
+<person name="Basu A."/>
+<person name="Howells R.D."/>
+</authorList>
+<dbReference type="PubMed" id="7926816"/>
+<dbReference type="DOI" id="10.1016/0378-1119(94)90082-5"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="2005-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Suzuki Y."/>
+<person name="Sugano S."/>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Takeda T."/>
+<person name="Sakaki Y."/>
+<person name="Tanaka A."/>
+<person name="Yokoyama S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<scope>VARIANT ALA-39</scope>
+<source>
+<tissue>Spleen</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2)</scope>
+<scope>VARIANT ALA-39</scope>
+<source>
+<tissue>Eye</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2008" name="Mol. Cell. Biol." volume="28" first="5517" last="5528">
+<title>Human Nbp35 is essential for both cytosolic iron-sulfur protein assembly and iron homeostasis.</title>
+<authorList>
+<person name="Stehling O."/>
+<person name="Netz D.J.A."/>
+<person name="Niggemeyer B."/>
+<person name="Roesser R."/>
+<person name="Eisenstein R.S."/>
+<person name="Puccio H."/>
+<person name="Pierik A.J."/>
+<person name="Lill R."/>
+</authorList>
+<dbReference type="PubMed" id="18573874"/>
+<dbReference type="DOI" id="10.1128/MCB.00545-08"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH NUBP2</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>EPR SPECTROSCOPY OF IRON-SULFUR CLUSTERS</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2009" name="Anal. Chem." volume="81" first="4493" last="4501">
+<title>Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach.</title>
+<authorList>
+<person name="Gauci S."/>
+<person name="Helbig A.O."/>
+<person name="Slijper M."/>
+<person name="Krijgsveld J."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="19413330"/>
+<dbReference type="DOI" id="10.1021/ac9004309"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2012" name="Mol. Cell. Proteomics" volume="11" first="M111.015131" last="M111.015131">
+<title>Comparative large-scale characterisation of plant vs. mammal proteins reveals similar and idiosyncratic N-alpha acetylation features.</title>
+<authorList>
+<person name="Bienvenut W.V."/>
+<person name="Sumpton D."/>
+<person name="Martinez A."/>
+<person name="Lilla S."/>
+<person name="Espagne C."/>
+<person name="Meinnel T."/>
+<person name="Giglione C."/>
+</authorList>
+<dbReference type="PubMed" id="22223895"/>
+<dbReference type="DOI" id="10.1074/mcp.M111.015131"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2012" name="Proc. Natl. Acad. Sci. U.S.A." volume="109" first="12449" last="12454">
+<title>N-terminal acetylome analyses and functional insights of the N-terminal acetyltransferase NatB.</title>
+<authorList>
+<person name="Van Damme P."/>
+<person name="Lasa M."/>
+<person name="Polevoda B."/>
+<person name="Gazquez C."/>
+<person name="Elosegui-Artola A."/>
+<person name="Kim D.S."/>
+<person name="De Juan-Pardo E."/>
+<person name="Demeyer K."/>
+<person name="Hole K."/>
+<person name="Larrea E."/>
+<person name="Timmerman E."/>
+<person name="Prieto J."/>
+<person name="Arnesen T."/>
+<person name="Sherman F."/>
+<person name="Gevaert K."/>
+<person name="Aldabe R."/>
+</authorList>
+<dbReference type="PubMed" id="22814378"/>
+<dbReference type="DOI" id="10.1073/pnas.1210303109"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="function">
+<text evidence="5 8">Component of the cytosolic iron-sulfur (Fe/S) protein assembly (CIA) machinery (PubMed:18573874). Required for maturation of extramitochondrial Fe-S proteins (PubMed:18573874). The NUBP1-NUBP2 heterotetramer forms a Fe-S scaffold complex, mediating the de novo assembly of an Fe-S cluster and its transfer to target apoproteins (PubMed:18573874). Implicated in the regulation of centrosome duplication (By similarity). Negatively regulates cilium formation and structure (By similarity).</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="6">
+<name>[4Fe-4S] cluster</name>
+<dbReference type="ChEBI" id="CHEBI:49883"/>
+</cofactor>
+<text evidence="6">Binds 4 [4Fe-4S] clusters per heterotetramer. Contains two stable clusters in the N-termini of NUBP1 and two labile, bridging clusters between subunits of the NUBP1-NUBP2 heterotetramer.</text>
+</comment>
+<comment type="subunit">
+<text evidence="5 6 8">Heterotetramer of 2 NUBP1 and 2 NUBP2 chains (By similarity). Interacts with KIFC1 (By similarity). Interacts with NUBP2 (PubMed:18573874). Interacts with the BBS/CCT complex subunit CCT1 (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="6 8">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="5">Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="5">Cell projection</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="5">Cytoplasm</location>
+<location evidence="5">Cytoskeleton</location>
+<location evidence="5">Cilium axoneme</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="5">Cytoplasm</location>
+<location evidence="5">Cytoskeleton</location>
+<location evidence="5">Cilium basal body</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="5">Cytoplasm</location>
+<location evidence="5">Cytoskeleton</location>
+<location evidence="5">Microtubule organizing center</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="5">Cytoplasm</location>
+<location evidence="5">Cytoskeleton</location>
+<location evidence="5">Microtubule organizing center</location>
+<location evidence="5">Centrosome</location>
+<location evidence="5">Centriole</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Cytoskeleton</location>
+<location>Microtubule organizing center</location>
+<location>Centrosome</location>
+</subcellularLocation>
+<text evidence="5">Enriched in centrioles of microtubule asters during prophase, prometaphase and telophase stages of mitosis. Localized at centrioles and in the nucleus at interphase. Colocalizes with nubp-2 at prometaphase. Specifically localizes to the axenome of motile cilia as opposed to primary non-motile cilia. Localization is independent of NUBP2 and KIFC1.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>P53384-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P53384-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_029043"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the Mrp/NBP35 ATP-binding proteins family. NUBP1/NBP35 subfamily.</text>
+</comment>
+<dbReference type="EMBL" id="U01833">
+<property type="protein sequence ID" value="AAA61932.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK223204">
+<property type="protein sequence ID" value="BAD96924.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC100290">
+<property type="protein sequence ID" value="AAI00291.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC109322">
+<property type="protein sequence ID" value="AAI09323.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC109323">
+<property type="protein sequence ID" value="AAI09324.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS10543.1">
+<molecule id="P53384-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS61839.1">
+<molecule id="P53384-2"/>
+</dbReference>
+<dbReference type="PIR" id="JC4010">
+<property type="entry name" value="JC4010"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001265435.1">
+<molecule id="P53384-2"/>
+<property type="nucleotide sequence ID" value="NM_001278506.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_002475.2">
+<molecule id="P53384-1"/>
+<property type="nucleotide sequence ID" value="NM_002484.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.81469"/>
+<dbReference type="ProteinModelPortal" id="P53384"/>
+<dbReference type="SMR" id="P53384"/>
+<dbReference type="BioGrid" id="110762">
+<property type="interactions" value="19"/>
+</dbReference>
+<dbReference type="IntAct" id="P53384">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-3019860"/>
+<dbReference type="STRING" id="9606.ENSP00000283027"/>
+<dbReference type="iPTMnet" id="P53384"/>
+<dbReference type="PhosphoSitePlus" id="P53384"/>
+<dbReference type="DMDM" id="257050984"/>
+<dbReference type="EPD" id="P53384"/>
+<dbReference type="MaxQB" id="P53384"/>
+<dbReference type="PaxDb" id="P53384"/>
+<dbReference type="PeptideAtlas" id="P53384"/>
+<dbReference type="PRIDE" id="P53384"/>
+<dbReference type="Ensembl" id="ENST00000283027">
+<molecule id="P53384-1"/>
+<property type="protein sequence ID" value="ENSP00000283027"/>
+<property type="gene ID" value="ENSG00000103274"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000433392">
+<molecule id="P53384-2"/>
+<property type="protein sequence ID" value="ENSP00000409654"/>
+<property type="gene ID" value="ENSG00000103274"/>
+</dbReference>
+<dbReference type="GeneID" id="4682"/>
+<dbReference type="KEGG" id="hsa:4682"/>
+<dbReference type="UCSC" id="uc002daa.3">
+<molecule id="P53384-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="4682"/>
+<dbReference type="DisGeNET" id="4682"/>
+<dbReference type="GeneCards" id="NUBP1"/>
+<dbReference type="H-InvDB" id="HIX0038641"/>
+<dbReference type="HGNC" id="HGNC:8041">
+<property type="gene designation" value="NUBP1"/>
+</dbReference>
+<dbReference type="HPA" id="HPA041656"/>
+<dbReference type="HPA" id="HPA041799"/>
+<dbReference type="MIM" id="600280">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P53384"/>
+<dbReference type="OpenTargets" id="ENSG00000103274"/>
+<dbReference type="PharmGKB" id="PA31823"/>
+<dbReference type="eggNOG" id="ENOG410KCSJ">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0489">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000009735"/>
+<dbReference type="HOGENOM" id="HOG000079916"/>
+<dbReference type="HOVERGEN" id="HBG051027"/>
+<dbReference type="InParanoid" id="P53384"/>
+<dbReference type="OMA" id="QRIREFC"/>
+<dbReference type="OrthoDB" id="EOG091G0DY5"/>
+<dbReference type="PhylomeDB" id="P53384"/>
+<dbReference type="TreeFam" id="TF300755"/>
+<dbReference type="Reactome" id="R-HSA-2564830">
+<property type="pathway name" value="Cytosolic iron-sulfur cluster assembly"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="4682"/>
+<dbReference type="PRO" id="PR:P53384"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 16"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000103274"/>
+<dbReference type="CleanEx" id="HS_NUBP1"/>
+<dbReference type="ExpressionAtlas" id="P53384">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P53384">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005814">
+<property type="term" value="C:centriole"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005929">
+<property type="term" value="C:cilium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051539">
+<property type="term" value="F:4 iron, 4 sulfur cluster binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051536">
+<property type="term" value="F:iron-sulfur cluster binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000166">
+<property type="term" value="F:nucleotide binding"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016049">
+<property type="term" value="P:cell growth"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030030">
+<property type="term" value="P:cell projection organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006879">
+<property type="term" value="P:cellular iron ion homeostasis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051642">
+<property type="term" value="P:centrosome localization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016226">
+<property type="term" value="P:iron-sulfur cluster assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010826">
+<property type="term" value="P:negative regulation of centrosome duplication"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072697">
+<property type="term" value="P:protein localization to cell cortex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="CDD" id="cd02037">
+<property type="entry name" value="MRP-like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_02040">
+<property type="entry name" value="Mrp_NBP35"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_03038">
+<property type="entry name" value="NUBP1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019591">
+<property type="entry name" value="Mrp/NBP35_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000808">
+<property type="entry name" value="Mrp_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028601">
+<property type="entry name" value="NUBP1/Nbp35"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033756">
+<property type="entry name" value="YlxH/NBP35"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR23264">
+<property type="entry name" value="PTHR23264"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF10609">
+<property type="entry name" value="ParA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01215">
+<property type="entry name" value="MRP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0004">4Fe-4S</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0966">Cell projection</keyword>
+<keyword id="KW-0969">Cilium</keyword>
+<keyword id="KW-0970">Cilium biogenesis/degradation</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0411">Iron-sulfur</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Cytosolic Fe-S cluster assembly factor NUBP1" id="PRO_0000184943">
+<location>
+<begin position="1"/>
+<end position="320"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="6">
+<location>
+<begin position="62"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1 (4Fe-4S)" evidence="6">
+<location>
+<position position="8"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1 (4Fe-4S)" evidence="6">
+<location>
+<position position="22"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1 (4Fe-4S)" evidence="6">
+<location>
+<position position="25"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1 (4Fe-4S)" evidence="6">
+<location>
+<position position="31"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2 (4Fe-4S); shared with dimeric partner" evidence="6">
+<location>
+<position position="235"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2 (4Fe-4S); shared with dimeric partner" evidence="6">
+<location>
+<position position="238"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylmethionine" evidence="1 2 3">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="4">
+<location>
+<position position="319"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_029043" evidence="10">
+<location>
+<begin position="110"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2233531." id="VAR_020359" evidence="7 9">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="39"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA61932." ref="1" evidence="11">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="204"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA61932." ref="1" evidence="11">
+<original>G</original>
+<variation>P</variation>
+<location>
+<position position="232"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19413330"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="22223895"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="22814378"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q5I0L4"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9R060"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_03038"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18573874"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source ref="2"/>
+</evidence>
+<evidence key="10" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<sequence length="320" mass="34534" checksum="346E1C694224E437" modified="2009-09-01" version="2">
+MEEVPHDCPGADSAQAGRGASCQGCPNQRLCASGAGATPDTAIEEIKEKMKTVKHKILVL
+SGKGGVGKSTFSAHLAHGLAEDENTQIALLDIDICGPSIPKIMGLEGEQVHQSGSGWSPV
+YVEDNLGVMSVGFLLSSPDDAVIWRGPKKNGMIKQFLRDVDWGEVDYLIVDTPPGTSDEH
+LSVVRYLATAHIDGAVIITTPQEVSLQDVRKEINFCRKVKLPIIGVVENMSGFICPKCKK
+ESQIFPPTTGGAELMCQDLEVPLLGRVPLDPLIGKNCDKGQSFFIDAPDSPATLAYRSII
+QRIQEFCNLHQSKEENLISS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2013-01-09" modified="2017-05-10" version="36">
+<accession>K7ELV1</accession>
+<name>K7ELV1_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="7">Mitogen-activated protein kinase 4</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="7">MAPK4</name>
+</gene>
+<organism evidence="7 8">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7 8">
+<citation type="journal article" date="2005" name="Nature" volume="437" first="551" last="555">
+<title>DNA sequence and analysis of human chromosome 18.</title>
+<authorList>
+<person name="Nusbaum C."/>
+<person name="Zody M.C."/>
+<person name="Borowsky M.L."/>
+<person name="Kamal M."/>
+<person name="Kodira C.D."/>
+<person name="Taylor T.D."/>
+<person name="Whittaker C.A."/>
+<person name="Chang J.L."/>
+<person name="Cuomo C.A."/>
+<person name="Dewar K."/>
+<person name="FitzGerald M.G."/>
+<person name="Yang X."/>
+<person name="Abouelleil A."/>
+<person name="Allen N.R."/>
+<person name="Anderson S."/>
+<person name="Bloom T."/>
+<person name="Bugalter B."/>
+<person name="Butler J."/>
+<person name="Cook A."/>
+<person name="DeCaprio D."/>
+<person name="Engels R."/>
+<person name="Garber M."/>
+<person name="Gnirke A."/>
+<person name="Hafez N."/>
+<person name="Hall J.L."/>
+<person name="Norman C.H."/>
+<person name="Itoh T."/>
+<person name="Jaffe D.B."/>
+<person name="Kuroki Y."/>
+<person name="Lehoczky J."/>
+<person name="Lui A."/>
+<person name="Macdonald P."/>
+<person name="Mauceli E."/>
+<person name="Mikkelsen T.S."/>
+<person name="Naylor J.W."/>
+<person name="Nicol R."/>
+<person name="Nguyen C."/>
+<person name="Noguchi H."/>
+<person name="O'Leary S.B."/>
+<person name="O'Neill K."/>
+<person name="Piqani B."/>
+<person name="Smith C.L."/>
+<person name="Talamas J.A."/>
+<person name="Topham K."/>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Wain H.M."/>
+<person name="Young S.K."/>
+<person name="Zeng Q."/>
+<person name="Zimmer A.R."/>
+<person name="Fujiyama A."/>
+<person name="Hattori M."/>
+<person name="Birren B.W."/>
+<person name="Sakaki Y."/>
+<person name="Lander E.S."/>
+</authorList>
+<dbReference type="PubMed" id="16177791"/>
+<dbReference type="DOI" id="10.1038/nature03983"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="4">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="10762" last="10767">
+<title>A quantitative atlas of mitotic phosphorylation.</title>
+<authorList>
+<person name="Dephoure N."/>
+<person name="Zhou C."/>
+<person name="Villen J."/>
+<person name="Beausoleil S.A."/>
+<person name="Bakalarski C.E."/>
+<person name="Elledge S.J."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="18669648"/>
+<dbReference type="DOI" id="10.1073/pnas.0805139105"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="3" evidence="7">
+<citation type="submission" date="2012-11" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<comment type="similarity">
+<text evidence="5">Belongs to the protein kinase superfamily.</text>
+</comment>
+<comment type="caution">
+<text evidence="7">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EMBL" id="AC012433">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC090395">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC090638">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001278969.1">
+<property type="nucleotide sequence ID" value="NM_001292040.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.433728"/>
+<dbReference type="ProteinModelPortal" id="K7ELV1"/>
+<dbReference type="SMR" id="K7ELV1"/>
+<dbReference type="STRING" id="9606.ENSP00000383234"/>
+<dbReference type="MaxQB" id="K7ELV1"/>
+<dbReference type="PaxDb" id="K7ELV1"/>
+<dbReference type="PeptideAtlas" id="K7ELV1"/>
+<dbReference type="PRIDE" id="K7ELV1"/>
+<dbReference type="Ensembl" id="ENST00000592595">
+<property type="protein sequence ID" value="ENSP00000466233"/>
+<property type="gene ID" value="ENSG00000141639"/>
+</dbReference>
+<dbReference type="GeneID" id="5596"/>
+<dbReference type="UCSC" id="uc010doz.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="5596"/>
+<dbReference type="HGNC" id="HGNC:6878">
+<property type="gene designation" value="MAPK4"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000141639"/>
+<dbReference type="eggNOG" id="KOG0660">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XNY0">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00550000074298"/>
+<dbReference type="GenomeRNAi" id="5596"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 18"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000141639"/>
+<dbReference type="ExpressionAtlas" id="K7ELV1">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005622">
+<property type="term" value="C:intracellular"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004707">
+<property type="term" value="F:MAP kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008350">
+<property type="entry name" value="MAPK_ERK3/4"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01771">
+<property type="entry name" value="ERK3ERK4MAPK"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="5">ATP-binding</keyword>
+<keyword id="KW-0181" evidence="8">Complete proteome</keyword>
+<keyword id="KW-0418" evidence="5">Kinase</keyword>
+<keyword id="KW-0547" evidence="5">Nucleotide-binding</keyword>
+<keyword id="KW-1267" evidence="1 2 3">Proteomics identification</keyword>
+<keyword id="KW-1185" evidence="8">Reference proteome</keyword>
+<keyword id="KW-0723" evidence="5">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808" evidence="5">Transferase</keyword>
+<feature type="domain" description="Protein kinase" evidence="6">
+<location>
+<begin position="20"/>
+<end position="233"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000213">
+<source>
+<dbReference type="EPD" id="K7ELV1"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000213">
+<source>
+<dbReference type="MaxQB" id="K7ELV1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000213">
+<source>
+<dbReference type="PeptideAtlas" id="K7ELV1"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="18669648"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000304"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50011"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000466233"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="233" mass="26186" checksum="953BE9B3AD82A0B5" modified="2013-01-09" version="1">
+MAEKGDCIASVYGYDLGGRFVDFQPLGFGVNGLVLSAVDSRACRKVAVKKIALSDARSMK
+HALREIKIIRRLDHDNIVKVYEVLGPKGTDLQGELFKFSVAYIVQEYMETDLARLLEQGT
+LAEEHAKLFMYQLLRGLKYIHSANVLHRDLKPANIFISTEDLVLKIGDFGLARIVDQHYS
+HKGYLSEGLVTKWYRSPRLLLSPNNYTKAIDMWAAGCILAEMLTGRMLFAGTL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

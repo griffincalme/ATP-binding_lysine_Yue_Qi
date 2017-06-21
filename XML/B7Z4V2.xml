@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2009-03-03" modified="2017-05-10" version="57">
+<accession>B7Z4V2</accession>
+<name>B7Z4V2_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="3">cDNA FLJ51907, highly similar to Stress-70 protein, mitochondrial</fullName>
+</submittedName>
+</protein>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project focused on splicing variants.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the heat shock protein 70 family.</text>
+</comment>
+<dbReference type="EMBL" id="AK297897">
+<property type="protein sequence ID" value="BAH12688.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.184233"/>
+<dbReference type="ProteinModelPortal" id="B7Z4V2"/>
+<dbReference type="IntAct" id="B7Z4V2">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-8395013"/>
+<dbReference type="STRING" id="9606.ENSP00000297185"/>
+<dbReference type="MaxQB" id="B7Z4V2"/>
+<dbReference type="PaxDb" id="B7Z4V2"/>
+<dbReference type="PeptideAtlas" id="B7Z4V2"/>
+<dbReference type="PRIDE" id="B7Z4V2"/>
+<dbReference type="eggNOG" id="KOG0102">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0443">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG051845"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051082">
+<property type="term" value="F:unfolded protein binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006457">
+<property type="term" value="P:protein folding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.1270.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.34.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00332">
+<property type="entry name" value="DnaK"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012725">
+<property type="entry name" value="Chaperone_DnaK"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018181">
+<property type="entry name" value="Heat_shock_70_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029048">
+<property type="entry name" value="HSP70_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029047">
+<property type="entry name" value="HSP70_peptide-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013126">
+<property type="entry name" value="Hsp_70_fam"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00012">
+<property type="entry name" value="HSP70"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00301">
+<property type="entry name" value="HEATSHOCK70"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF100920">
+<property type="entry name" value="SSF100920"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02350">
+<property type="entry name" value="prok_dnaK"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00297">
+<property type="entry name" value="HSP70_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00329">
+<property type="entry name" value="HSP70_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01036">
+<property type="entry name" value="HSP70_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0175" evidence="2">Coiled coil</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<feature type="coiled-coil region" evidence="2">
+<location>
+<begin position="541"/>
+<end position="568"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU003322"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Coils"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAH12688.1"/>
+</source>
+</evidence>
+<sequence length="665" mass="72401" checksum="C9364F3477E8AD27" modified="2009-03-03" version="1">
+MISASRAAAARHQDSWNGLSHEAFRLVSRRDYASEAIKGAVVGIDLGTTNSCVAVMEGKQ
+AKVLENAEGARTTPSVVAFTADGERLVGMPAKRQAVTNPNNTFYATKRLIGRRYDDPEVQ
+KDIKNVPFKIVRASNGDAWVEAHGKLYSPSQIGAFVLMKMKETAENYLGHTAKNAVITVP
+AYFNDSQRQATKDAGQISGLNVLRVINEPTAAALAYGLDKSEDKVIAVYDLGGGTFDISI
+LEIQKGVFEVKSTNGDTFLGGEDFDQALLRHIVKEFKRETGVDLTKDNMALQRVREAAEK
+AKCELSSSVQTDINLPYLTMDSSGPKHLNMKLTRAQFEGIVTDLIRRTIAPCQKAMQDAE
+VSKSDIGEVILVGGMTRMPKVQQTVQDLFGRAPSKAVNPDEAVAIGAAIQGGVLAGDVTD
+VLLLDVTPLSLGIETLGGVFTKLINRNTTIPTKKSQVFSTAADGQTQVEIKVCQGEREMA
+GDNKLLGQFTLIGIPPAPRGVPQIEVTFDIDANGIVHVSAKDKGTGREQQIVIQSSGGLS
+KDDIENMVKNAEKYAEEDRRKKERVEAVNMAEGIIHDTETKMEEFKDQLPADECNKLKEE
+ISKMRELLARKDSETGENIRQAASSLQQASLKLFEMAYKKMASEREGSGSSGTGEQKEDQ
+KEEKQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

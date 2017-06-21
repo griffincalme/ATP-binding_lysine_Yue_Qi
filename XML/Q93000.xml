@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="1997-02-01" modified="2017-01-18" version="92">
+<accession>Q93000</accession>
+<name>Q93000_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="6">CHL1 protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="6">CHLR1</name>
+</gene>
+<organism evidence="6">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="6">
+<citation type="submission" date="1996-10" db="EMBL/GenBank/DDBJ databases">
+<title>Isolation and characterization of the human homologue of the yeast CHL1 gene.</title>
+<authorList>
+<person name="Ouellette M.M."/>
+<person name="Wright W.E."/>
+<person name="Shay J.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="3">ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2">Nucleus</location>
+</subcellularLocation>
+</comment>
+<dbReference type="EMBL" id="U75969">
+<property type="protein sequence ID" value="AAB18751.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.443960"/>
+<dbReference type="IntAct" id="Q93000">
+<property type="interactions" value="15"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000384703"/>
+<dbReference type="PaxDb" id="Q93000"/>
+<dbReference type="PeptideAtlas" id="Q93000"/>
+<dbReference type="eggNOG" id="KOG1133">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1199">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG058884"/>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004003">
+<property type="term" value="F:ATP-dependent DNA helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006139">
+<property type="term" value="P:nucleobase-containing compound metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006555">
+<property type="entry name" value="ATP-dep_Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010614">
+<property type="entry name" value="DEAD_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013020">
+<property type="entry name" value="DNA_helicase_DNA-repair_Rad3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014013">
+<property type="entry name" value="Helic_SF1/SF2_ATP-bd_DinG/Rad3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006554">
+<property type="entry name" value="Helicase-like_DEXD_c2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06733">
+<property type="entry name" value="DEAD_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13307">
+<property type="entry name" value="Helicase_C_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00488">
+<property type="entry name" value="DEXDc2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00491">
+<property type="entry name" value="HELICc2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00604">
+<property type="entry name" value="rad3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51193">
+<property type="entry name" value="HELICASE_ATP_BIND_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="4">ATP-binding</keyword>
+<keyword id="KW-0347" evidence="4">Helicase</keyword>
+<keyword id="KW-0378" evidence="4">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="4">Nucleotide-binding</keyword>
+<keyword id="KW-0539" evidence="1">Nucleus</keyword>
+<feature type="domain" description="Helicase ATP-binding" evidence="5">
+<location>
+<begin position="1"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="6">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00046110"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00553264"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00566177"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00566214"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51193"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAB18751.1"/>
+</source>
+</evidence>
+<sequence length="556" mass="61643" checksum="1357F45F750756B2" modified="1997-02-01" version="1" fragment="single">
+EEEPLWQGCSAGLPWLPAEKKKGAEEEKPKRRRQEKQAACPFYNHEQMGLLRDEALAEVK
+DMEQLLALGKEARACPYYGSRLAIPAAQLVVLPYQMLLHAATRQAAGIRLQDQVVIIDEA
+HNLIDTITGMHSVEVSGSQLCQAHSQLLQYVERYGKRLKAKNLMYLKQILYLLEKFVAVL
+GGNIKQNPNTQSLSQTGTELKTINDFLFQSQIDNINLFKVQRYCEKSMISRKLFGFTERY
+GAVFSSREQPKLAGFQQFLQSLQPRTTEALAAPADESQASTLRPASPLMHIEGFLAALTT
+ANQDGRVILSRQGSLSQSTLKFLLLNPAVHFAQVVKECRAVVIAGGTMQPVSDFRQQLLA
+CAGVEAERVVEFSCGHVIPPDNILPLVICSGISNQPLEFTFQKRELPQMMDEVGRILCNL
+CGVVPGGVVCFFPSYEYLRQVHAHWEKGGLLGRLAARKKIFQEPKSAHQVEQVLLAYSRC
+IQACGQERGQVTGALLLSVVGGKMSEGINFSDNLGRCVVMVGMPFPNIRSAELQEKMAYL
+DQTLAGPSGTRRILPA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

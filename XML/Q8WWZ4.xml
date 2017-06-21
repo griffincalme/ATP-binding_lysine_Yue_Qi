@@ -1,0 +1,946 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2006-10-17" modified="2017-04-12" version="119">
+<accession>Q8WWZ4</accession>
+<accession>C9JZH2</accession>
+<accession>C9K035</accession>
+<accession>Q6PIQ6</accession>
+<accession>Q7Z2I9</accession>
+<accession>Q7Z7P7</accession>
+<accession>Q86TD2</accession>
+<name>ABCAA_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>ATP-binding cassette sub-family A member 10</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">ABCA10</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2001" name="GeneScreen" volume="1" first="157" last="164">
+<title>Identifying and characterizing a five-gene cluster of ATP-binding cassette transporters mapping to human chromosome 17q24: a new subgroup within the ABCA subfamily.</title>
+<authorList>
+<person name="Arnould I."/>
+<person name="Schriml L.M."/>
+<person name="Prades C."/>
+<person name="Lachtermacher-Triunfol M."/>
+<person name="Schneider T."/>
+<person name="Maintoux C."/>
+<person name="Lemoine C."/>
+<person name="Debono D."/>
+<person name="Devaud C."/>
+<person name="Naudin L."/>
+<person name="Bauche S."/>
+<person name="Annat M."/>
+<person name="Annilo T."/>
+<person name="Allikmets R."/>
+<person name="Gold B."/>
+<person name="Denefle P."/>
+<person name="Rosier M."/>
+<person name="Dean M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>VARIANTS SER-203; VAL-287 AND THR-916</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2003" name="Biochem. Biophys. Res. Commun." volume="306" first="1089" last="1098">
+<title>ABCA10, a novel cholesterol-regulated ABCA6-like ABC transporter.</title>
+<authorList>
+<person name="Wenzel J.J."/>
+<person name="Kaminski W.E."/>
+<person name="Piehler A."/>
+<person name="Heimerl S."/>
+<person name="Langmann T."/>
+<person name="Schmitz G."/>
+</authorList>
+<dbReference type="PubMed" id="12821155"/>
+<dbReference type="DOI" id="10.1016/S0006-291X(03)01097-0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORM 1)</scope>
+<scope>VARIANTS SER-203 AND VAL-287</scope>
+<scope>ALTERNATIVE SPLICING (ISOFORMS 2; 3 AND 4)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INDUCTION</scope>
+<source>
+<tissue>Macrophage</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2007" name="BMC Genomics" volume="8" first="399" last="399">
+<title>The full-ORF clone resource of the German cDNA consortium.</title>
+<authorList>
+<person name="Bechtel S."/>
+<person name="Rosenfelder H."/>
+<person name="Duda A."/>
+<person name="Schmidt C.P."/>
+<person name="Ernst U."/>
+<person name="Wellenreuther R."/>
+<person name="Mehrle A."/>
+<person name="Schuster C."/>
+<person name="Bahr A."/>
+<person name="Bloecker H."/>
+<person name="Heubner D."/>
+<person name="Hoerlein A."/>
+<person name="Michel G."/>
+<person name="Wedler H."/>
+<person name="Koehrer K."/>
+<person name="Ottenwaelder B."/>
+<person name="Poustka A."/>
+<person name="Wiemann S."/>
+<person name="Schupp I."/>
+</authorList>
+<dbReference type="PubMed" id="17974005"/>
+<dbReference type="DOI" id="10.1186/1471-2164-8-399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 5)</scope>
+<scope>VARIANTS SER-203 AND VAL-287</scope>
+<source>
+<tissue>Skeletal muscle</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="1045" last="1049">
+<title>DNA sequence of human chromosome 17 and analysis of rearrangement in the human lineage.</title>
+<authorList>
+<person name="Zody M.C."/>
+<person name="Garber M."/>
+<person name="Adams D.J."/>
+<person name="Sharpe T."/>
+<person name="Harrow J."/>
+<person name="Lupski J.R."/>
+<person name="Nicholson C."/>
+<person name="Searle S.M."/>
+<person name="Wilming L."/>
+<person name="Young S.K."/>
+<person name="Abouelleil A."/>
+<person name="Allen N.R."/>
+<person name="Bi W."/>
+<person name="Bloom T."/>
+<person name="Borowsky M.L."/>
+<person name="Bugalter B.E."/>
+<person name="Butler J."/>
+<person name="Chang J.L."/>
+<person name="Chen C.-K."/>
+<person name="Cook A."/>
+<person name="Corum B."/>
+<person name="Cuomo C.A."/>
+<person name="de Jong P.J."/>
+<person name="DeCaprio D."/>
+<person name="Dewar K."/>
+<person name="FitzGerald M."/>
+<person name="Gilbert J."/>
+<person name="Gibson R."/>
+<person name="Gnerre S."/>
+<person name="Goldstein S."/>
+<person name="Grafham D.V."/>
+<person name="Grocock R."/>
+<person name="Hafez N."/>
+<person name="Hagopian D.S."/>
+<person name="Hart E."/>
+<person name="Norman C.H."/>
+<person name="Humphray S."/>
+<person name="Jaffe D.B."/>
+<person name="Jones M."/>
+<person name="Kamal M."/>
+<person name="Khodiyar V.K."/>
+<person name="LaButti K."/>
+<person name="Laird G."/>
+<person name="Lehoczky J."/>
+<person name="Liu X."/>
+<person name="Lokyitsang T."/>
+<person name="Loveland J."/>
+<person name="Lui A."/>
+<person name="Macdonald P."/>
+<person name="Major J.E."/>
+<person name="Matthews L."/>
+<person name="Mauceli E."/>
+<person name="McCarroll S.A."/>
+<person name="Mihalev A.H."/>
+<person name="Mudge J."/>
+<person name="Nguyen C."/>
+<person name="Nicol R."/>
+<person name="O'Leary S.B."/>
+<person name="Osoegawa K."/>
+<person name="Schwartz D.C."/>
+<person name="Shaw-Smith C."/>
+<person name="Stankiewicz P."/>
+<person name="Steward C."/>
+<person name="Swarbreck D."/>
+<person name="Venkataraman V."/>
+<person name="Whittaker C.A."/>
+<person name="Yang X."/>
+<person name="Zimmer A.R."/>
+<person name="Bradley A."/>
+<person name="Hubbard T."/>
+<person name="Birren B.W."/>
+<person name="Rogers J."/>
+<person name="Lander E.S."/>
+<person name="Nusbaum C."/>
+</authorList>
+<dbReference type="PubMed" id="16625196"/>
+<dbReference type="DOI" id="10.1038/nature04689"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1125-1543 (ISOFORMS 1/2)</scope>
+<source>
+<tissue>Liver</tissue>
+<tissue>Pancreatic carcinoma</tissue>
+</source>
+</reference>
+<comment type="function">
+<text>Probable transporter which may play a role in macrophage lipid homeostasis.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="7">Membrane</location>
+<topology evidence="7">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q8WWZ4-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q8WWZ4-2</id>
+<name>2</name>
+<name>ABCA10delta+82</name>
+<sequence type="described" ref="VSP_021061"/>
+</isoform>
+<isoform>
+<id>Q8WWZ4-3</id>
+<name>3</name>
+<name>ABCA10delta-104</name>
+<sequence type="described" ref="VSP_021062 VSP_021063"/>
+</isoform>
+<isoform>
+<id>Q8WWZ4-4</id>
+<name>4</name>
+<name>ABCA10delta-176</name>
+<sequence type="described" ref="VSP_021065 VSP_021066"/>
+</isoform>
+<isoform>
+<id>Q8WWZ4-5</id>
+<name>5</name>
+<sequence type="described" ref="VSP_021064 VSP_021067"/>
+<text>No experimental confirmation available.</text>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="3 5">Widely expressed. Highly expressed in skeletal muscle, heart, brain and gastrointestinal tract.</text>
+</comment>
+<comment type="induction">
+<text evidence="3">Down-regulated by cholesterol loading of macrophages.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Belongs to the ABC transporter superfamily. ABCA family.</text>
+</comment>
+<comment type="online information" name="ABCMdb">
+<link uri="http://abcmutations.hegelab.org/proteinDetails?uniprot_id=Q8WWZ4"/>
+<text>Database for mutations in ABC proteins</text>
+</comment>
+<dbReference type="EMBL" id="AY028900">
+<property type="protein sequence ID" value="AAK30025.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247065">
+<property type="protein sequence ID" value="AAO72161.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247105">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247069">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247070">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247071">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247072">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247073">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247074">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247075">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247076">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247077">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247078">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247079">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247080">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247081">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247082">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247083">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247084">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247085">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247086">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247087">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247088">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247089">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247090">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247091">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247092">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247093">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247094">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247095">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247096">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247097">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247098">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247099">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247100">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247101">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247102">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247103">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY247104">
+<property type="protein sequence ID" value="AAO72160.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL832004">
+<property type="protein sequence ID" value="CAD89903.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC005495">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC031026">
+<property type="protein sequence ID" value="AAH31026.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC051320">
+<property type="protein sequence ID" value="AAH51320.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS11684.1">
+<molecule id="Q8WWZ4-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_525021.3">
+<molecule id="Q8WWZ4-1"/>
+<property type="nucleotide sequence ID" value="NM_080282.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.25377"/>
+<dbReference type="ProteinModelPortal" id="Q8WWZ4"/>
+<dbReference type="SMR" id="Q8WWZ4"/>
+<dbReference type="BioGrid" id="115630">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000269081"/>
+<dbReference type="TCDB" id="3.A.1.211.17">
+<property type="family name" value="the atp-binding cassette (abc) superfamily"/>
+</dbReference>
+<dbReference type="iPTMnet" id="Q8WWZ4"/>
+<dbReference type="PhosphoSitePlus" id="Q8WWZ4"/>
+<dbReference type="BioMuta" id="ABCA10"/>
+<dbReference type="DMDM" id="296439455"/>
+<dbReference type="EPD" id="Q8WWZ4"/>
+<dbReference type="PaxDb" id="Q8WWZ4"/>
+<dbReference type="PeptideAtlas" id="Q8WWZ4"/>
+<dbReference type="PRIDE" id="Q8WWZ4"/>
+<dbReference type="DNASU" id="10349"/>
+<dbReference type="Ensembl" id="ENST00000269081">
+<molecule id="Q8WWZ4-1"/>
+<property type="protein sequence ID" value="ENSP00000269081"/>
+<property type="gene ID" value="ENSG00000154263"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000522406">
+<molecule id="Q8WWZ4-5"/>
+<property type="protein sequence ID" value="ENSP00000429853"/>
+<property type="gene ID" value="ENSG00000154263"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000523512">
+<molecule id="Q8WWZ4-3"/>
+<property type="protein sequence ID" value="ENSP00000429945"/>
+<property type="gene ID" value="ENSG00000154263"/>
+</dbReference>
+<dbReference type="GeneID" id="10349"/>
+<dbReference type="KEGG" id="hsa:10349"/>
+<dbReference type="UCSC" id="uc010dfa.2">
+<molecule id="Q8WWZ4-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="10349"/>
+<dbReference type="DisGeNET" id="10349"/>
+<dbReference type="GeneCards" id="ABCA10"/>
+<dbReference type="HGNC" id="HGNC:30">
+<property type="gene designation" value="ABCA10"/>
+</dbReference>
+<dbReference type="HPA" id="HPA014535"/>
+<dbReference type="MIM" id="612508">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q8WWZ4"/>
+<dbReference type="OpenTargets" id="ENSG00000154263"/>
+<dbReference type="PharmGKB" id="PA24374"/>
+<dbReference type="eggNOG" id="KOG0059">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1131">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00760000118965"/>
+<dbReference type="HOVERGEN" id="HBG079884"/>
+<dbReference type="InParanoid" id="Q8WWZ4"/>
+<dbReference type="KO" id="K05652"/>
+<dbReference type="OMA" id="EWFIFIC"/>
+<dbReference type="OrthoDB" id="EOG091G00AG"/>
+<dbReference type="PhylomeDB" id="Q8WWZ4"/>
+<dbReference type="TreeFam" id="TF105192"/>
+<dbReference type="Reactome" id="R-HSA-1369062">
+<property type="pathway name" value="ABC transporters in lipid homeostasis"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="ABCA10">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="10349"/>
+<dbReference type="PRO" id="PR:Q8WWZ4"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 17"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000154263"/>
+<dbReference type="CleanEx" id="HS_ABCA10"/>
+<dbReference type="ExpressionAtlas" id="Q8WWZ4">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043231">
+<property type="term" value="C:intracellular membrane-bounded organelle"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042626">
+<property type="term" value="F:ATPase activity, coupled to transmembrane movement of substances"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006869">
+<property type="term" value="P:lipid transport"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026082">
+<property type="entry name" value="ABC_A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003439">
+<property type="entry name" value="ABC_transporter-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017871">
+<property type="entry name" value="ABC_transporter_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR19229">
+<property type="entry name" value="PTHR19229"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00005">
+<property type="entry name" value="ABC_tran"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00211">
+<property type="entry name" value="ABC_TRANSPORTER_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50893">
+<property type="entry name" value="ABC_TRANSPORTER_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="ATP-binding cassette sub-family A member 10" id="PRO_0000253572">
+<location>
+<begin position="1"/>
+<end position="1543"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="83"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="135"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="185"/>
+<end position="205"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="210"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="240"/>
+<end position="260"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="264"/>
+<end position="284"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="310"/>
+<end position="330"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="774"/>
+<end position="794"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="890"/>
+<end position="910"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="926"/>
+<end position="946"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="985"/>
+<end position="1005"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="1014"/>
+<end position="1034"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="1046"/>
+<end position="1066"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="1073"/>
+<end position="1093"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="1113"/>
+<end position="1133"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transporter 1" evidence="2">
+<location>
+<begin position="391"/>
+<end position="626"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transporter 2" evidence="2">
+<location>
+<begin position="1206"/>
+<end position="1440"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP 1" evidence="2">
+<location>
+<begin position="427"/>
+<end position="434"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP 2" evidence="2">
+<location>
+<begin position="1239"/>
+<end position="1246"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_021061" evidence="7">
+<location>
+<begin position="1"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_021062" evidence="7">
+<original>E</original>
+<variation>GHNKSFCNGGVDISYWNKYEDTTFHF</variation>
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_021063" evidence="7">
+<location>
+<begin position="68"/>
+<end position="1543"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 5." id="VSP_021064" evidence="6">
+<original>IFFDIYEGQITAILGHNGAGKSTLLNILSGLSVSTEGSAT</original>
+<variation>SEERLCPAAHRLRCGERLCPAAHHLGCEERPCPAATPSGN</variation>
+<location>
+<begin position="413"/>
+<end position="452"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_021065" evidence="7">
+<original>S</original>
+<variation>KKNYNGIRHAKHSRHYC</variation>
+<location>
+<position position="450"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_021066" evidence="7">
+<location>
+<begin position="451"/>
+<end position="1543"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 5." id="VSP_021067" evidence="6">
+<location>
+<begin position="453"/>
+<end position="1543"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs9909216." id="VAR_028384" evidence="3 4 5">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="203"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11657804." id="VAR_028385" evidence="3 4 5">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="287"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4968849." id="VAR_028386" evidence="5">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="916"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs10491178." id="VAR_055469">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="1322"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; CAD89903." ref="3" evidence="7">
+<original>C</original>
+<variation>Y</variation>
+<location>
+<position position="140"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; CAD89903." ref="3" evidence="7">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="159"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; CAD89903." ref="3" evidence="7">
+<original>F</original>
+<variation>S</variation>
+<location>
+<position position="187"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; CAD89903." ref="3" evidence="7">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="324"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; CAD89903." ref="3" evidence="7">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="364"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAO72160/AAO72161 and 4; AAH51320." ref="2 4" evidence="7">
+<original>R</original>
+<variation>I</variation>
+<location>
+<position position="1216"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00434"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12821155"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17974005"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source ref="1"/>
+</evidence>
+<evidence key="6" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="17974005"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<sequence length="1543" mass="175790" checksum="47E932434314B538" modified="2010-05-18" version="3">
+MNKMALASFMKGRTVIGTPDEETMDIELPKKYHEMVGVIFSDTFSYRLKFNWGYRIPVIK
+EHSEYTEHCWAMHGEIFCYLAKYWLKGFVAFQAAINAAIIEVTTNHSVMEELTSVIGINM
+KIPPFISKGEIMNEWFHFTCLVSFSSFIYFASLNVARERGKFKKLMTVMGLRESAFWLSW
+GLTYICFIFIMSIFMALVITSIPIVFHTGFMVIFTLYSLYGLSLIALAFLMSVLIRKPML
+AGLAGFLFTVFWGCLGFTVLYRQLPLSLGWVLSLLSPFAFTAGMAQITHLDNYLSGVIFP
+DPSGDSYKMIATFFILAFDTLFYLIFTLYFERVLPDKDGHGDSPLFFLKSSFWSKHQNTH
+HEIFENEINPEHSSDDSFEPVSPEFHGKEAIRIRNVIKEYNGKTGKVEALQGIFFDIYEG
+QITAILGHNGAGKSTLLNILSGLSVSTEGSATIYNTQLSEITDMEEIRKNIGFCPQFNFQ
+FDFLTVRENLRVFAKIKGIQPKEVEQEVKRIIMELDMQSIQDIIAKKLSGGQKRKLTLGI
+AILGDPQVLLLDEPTAGLDPFSRHRVWSLLKEHKVDRLILFSTQFMDEADILADRKVFLS
+NGKLKCAGSSLFLKRKWGIGYHLSLHRNEMCDTEKITSLIKQHIPDAKLTTESEEKLVYS
+LPLEKTNKFPDLYSDLDKCSDQGIRNYAVSVTSLNEVFLNLEGKSAIDEPDFDIGKQEKI
+HVTRNTGDESEMEQVLCSLPETRKAVSSAALWRRQIYAVATLRFLKLRRERRALLCLLLV
+LGIAFIPIILEKIMYKVTRETHCWEFSPSMYFLSLEQIPKTPLTSLLIVNNTGSNIEDLV
+HSLKCQDIVLEIDDFRNRNGSDDPSYNGAIIVSGDQKDYRFSVACNTKKLNCFPVLMGIV
+SNALMGIFNFTELIQMESTSFSRDDIVLDLGFIDGSIFLLLITNCVSPFIGMSSISDYKK
+NVQSQLWISGLWPSAYWCGQALVDIPLYFLILFSIHLIYYFIFLGFQLSWELMFVLVVCI
+IGCAVSLIFLTYVLSFIFRKWRKNNGFWSFGFFIILICVSTIMVSTQYEKLNLILCMIFI
+PSFTLLGYVMLLIQLDFMRNLDSLDNRINEVNKTILLTTLIPYLQSVIFLFVIRCLEMKY
+GNEIMNKDPVFRISPRSRETHPNPEEPEEEDEDVQAERVQAANALTAPNLEEEPVITASC
+LHKEYYETKKSCFSTRKKKIAIRNVSFCVKKGEVLGLLGHNGAGKSTSIKMITGCTKPTA
+GVVVLQGSRASVRQQHDNSLKFLGYCPQENSLWPKLTMKEHLELYAAVKGLGKEDAALSI
+SRLVEALKLQEQLKAPVKTLSEGIKRKLCFVLSILGNPSVVLLDEPFTGMDPEGQQQMWQ
+ILQATVKNKERGTLLTTHYMSEAEAVCDRMAMMVSGTLRCIGSIQHLKNKFGRDYLLEIK
+MKEPTQVEALHTEILKLFPQAAWQERYSSLMAYKLPVEDVHPLSRAFFKLEAMKQTFNLE
+EYSLSQATLEQVFLELCKEQELGNVDDKIDTTVEWKLLPQEDP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

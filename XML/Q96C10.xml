@@ -1,0 +1,1274 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2004-07-19" modified="2017-04-12" version="129">
+<accession>Q96C10</accession>
+<accession>Q9HAM6</accession>
+<name>DHX58_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Probable ATP-dependent RNA helicase DHX58</fullName>
+<ecNumber>3.6.4.13</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Probable ATP-dependent helicase LGP2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protein D11Lgp2 homolog</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>RIG-I-like receptor 3</fullName>
+<shortName>RLR-3</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>RIG-I-like receptor LGP2</fullName>
+<shortName>RLR</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">DHX58</name>
+<name type="synonym">D11LGP2E</name>
+<name type="synonym">LGP2</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Embryo</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Colon</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2005" name="J. Immunol." volume="175" first="2851" last="2858">
+<title>Shared and unique functions of the DExD/H-box helicases RIG-I, MDA5, and LGP2 in antiviral innate immunity.</title>
+<authorList>
+<person name="Yoneyama M."/>
+<person name="Kikuchi M."/>
+<person name="Matsumoto K."/>
+<person name="Imaizumi T."/>
+<person name="Miyagishi M."/>
+<person name="Taira K."/>
+<person name="Foy E."/>
+<person name="Loo Y.-M."/>
+<person name="Gale M. Jr."/>
+<person name="Akira S."/>
+<person name="Yonehara S."/>
+<person name="Kato A."/>
+<person name="Fujita T."/>
+</authorList>
+<dbReference type="PubMed" id="16116171"/>
+<dbReference type="DOI" id="10.4049/jimmunol.175.5.2851"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="J. Virol." volume="80" first="12332" last="12342">
+<title>RNA- and virus-independent inhibition of antiviral signaling by RNA helicase LGP2.</title>
+<authorList>
+<person name="Komuro A."/>
+<person name="Horvath C.M."/>
+</authorList>
+<dbReference type="PubMed" id="17020950"/>
+<dbReference type="DOI" id="10.1128/JVI.01325-06"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH MAVS/IPS1 AND DDX58/RIG-I</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2007" name="Proc. Natl. Acad. Sci. U.S.A." volume="104" first="582" last="587">
+<title>Regulation of innate antiviral defenses through a shared repressor domain in RIG-I and LGP2.</title>
+<authorList>
+<person name="Saito T."/>
+<person name="Hirai R."/>
+<person name="Loo Y.-M."/>
+<person name="Owen D."/>
+<person name="Johnson C.L."/>
+<person name="Sinha S.C."/>
+<person name="Akira S."/>
+<person name="Fujita T."/>
+<person name="Gale M. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="17190814"/>
+<dbReference type="DOI" id="10.1073/pnas.0606699104"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH DDX58/RIG-I</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2007" name="Sci. STKE" volume="2007" first="PE20" last="PE20">
+<title>Regulation of interferon production by RIG-I and LGP2: a lesson in self-control.</title>
+<authorList>
+<person name="Vitour D."/>
+<person name="Meurs E.F."/>
+</authorList>
+<dbReference type="PubMed" id="17473309"/>
+<dbReference type="DOI" id="10.1126/stke.3842007pe20"/>
+</citation>
+<scope>REVIEW ON FUNCTION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2008" name="J. Biol. Chem." volume="283" first="15825" last="15833">
+<title>Structure and function of LGP2, a DEX(D/H) helicase that regulates the innate immunity response.</title>
+<authorList>
+<person name="Murali A."/>
+<person name="Li X."/>
+<person name="Ranjith-Kumar C.T."/>
+<person name="Bhardwaj K."/>
+<person name="Holzenburg A."/>
+<person name="Li P."/>
+<person name="Kao C.C."/>
+</authorList>
+<dbReference type="PubMed" id="18411269"/>
+<dbReference type="DOI" id="10.1074/jbc.M800542200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2009" name="J. Biol. Chem." volume="284" first="9700" last="9712">
+<title>Regulation of signal transduction by enzymatically inactive antiviral RNA helicase proteins MDA5, RIG-I, and LGP2.</title>
+<authorList>
+<person name="Bamming D."/>
+<person name="Horvath C.M."/>
+</authorList>
+<dbReference type="PubMed" id="19211564"/>
+<dbReference type="DOI" id="10.1074/jbc.M807365200"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2009" name="J. Virol." volume="83" first="7252" last="7260">
+<title>A shared interface mediates paramyxovirus interference with antiviral RNA helicases MDA5 and LGP2.</title>
+<authorList>
+<person name="Parisien J.P."/>
+<person name="Bamming D."/>
+<person name="Komuro A."/>
+<person name="Ramachandran A."/>
+<person name="Rodriguez J.J."/>
+<person name="Barber G."/>
+<person name="Wojahn R.D."/>
+<person name="Horvath C.M."/>
+</authorList>
+<dbReference type="PubMed" id="19403670"/>
+<dbReference type="DOI" id="10.1128/JVI.00153-09"/>
+</citation>
+<scope>INTERACTION WITH PARAMYXOVIRUSES NON-STRUCTURAL PROTEIN V</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2011" name="Immunity" volume="34" first="680" last="692">
+<title>Immune signaling by RIG-I-like receptors.</title>
+<authorList>
+<person name="Loo Y.M."/>
+<person name="Gale M. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="21616437"/>
+<dbReference type="DOI" id="10.1016/j.immuni.2011.05.003"/>
+</citation>
+<scope>REVIEW ON FUNCTION</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2011" name="J. Immunol." volume="186" first="1618" last="1626">
+<title>RIG-I/MDA5/MAVS are required to signal a protective IFN response in rotavirus-infected intestinal epithelium.</title>
+<authorList>
+<person name="Broquet A.H."/>
+<person name="Hirata Y."/>
+<person name="McAllister C.S."/>
+<person name="Kagnoff M.F."/>
+</authorList>
+<dbReference type="PubMed" id="21187438"/>
+<dbReference type="DOI" id="10.4049/jimmunol.1002862"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2011" name="J. Virol." volume="85" first="6657" last="6668">
+<title>Ambivalent role of the innate immune response in rabies virus pathogenesis.</title>
+<authorList>
+<person name="Chopy D."/>
+<person name="Pothlichet J."/>
+<person name="Lafage M."/>
+<person name="Megret F."/>
+<person name="Fiette L."/>
+<person name="Si-Tahar M."/>
+<person name="Lafon M."/>
+</authorList>
+<dbReference type="PubMed" id="21525357"/>
+<dbReference type="DOI" id="10.1128/JVI.00302-11"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2011" name="Mol. Cell. Biol." volume="31" first="3802" last="3819">
+<title>DDX60, a DEXD/H box helicase, is a novel antiviral factor promoting RIG-I-like receptor-mediated signaling.</title>
+<authorList>
+<person name="Miyashita M."/>
+<person name="Oshiumi H."/>
+<person name="Matsumoto M."/>
+<person name="Seya T."/>
+</authorList>
+<dbReference type="PubMed" id="21791617"/>
+<dbReference type="DOI" id="10.1128/MCB.01368-10"/>
+</citation>
+<scope>INTERACTION WITH DDX60</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2012" name="Eur. J. Cell Biol." volume="91" first="36" last="47">
+<title>Regulation of RLR-mediated innate immune signaling--it is all about keeping the balance.</title>
+<authorList>
+<person name="Eisenaecher K."/>
+<person name="Krug A."/>
+</authorList>
+<dbReference type="PubMed" id="21481967"/>
+<dbReference type="DOI" id="10.1016/j.ejcb.2011.01.011"/>
+</citation>
+<scope>REVIEW ON FUNCTION</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2012" name="Eur. J. Cell Biol." volume="91" first="78" last="85">
+<title>Sensing of viral nucleic acids by RIG-I: from translocation to translation.</title>
+<authorList>
+<person name="Schmidt A."/>
+<person name="Rothenfusser S."/>
+<person name="Hopfner K.P."/>
+</authorList>
+<dbReference type="PubMed" id="21496944"/>
+<dbReference type="DOI" id="10.1016/j.ejcb.2011.01.015"/>
+</citation>
+<scope>REVIEW ON FUNCTION</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2013" name="FEBS Lett." volume="587" first="2137" last="2142">
+<title>A role for the Ankyrin repeat containing protein Ankrd17 in Nod1- and Nod2-mediated inflammatory responses.</title>
+<authorList>
+<person name="Menning M."/>
+<person name="Kufer T.A."/>
+</authorList>
+<dbReference type="PubMed" id="23711367"/>
+<dbReference type="DOI" id="10.1016/j.febslet.2013.05.037"/>
+</citation>
+<scope>INTERACTION WITH ANKRD17</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2009" name="J. Biol. Chem." volume="284" first="13881" last="13891">
+<title>The RIG-I-like receptor LGP2 recognizes the termini of double-stranded RNA.</title>
+<authorList>
+<person name="Li X."/>
+<person name="Ranjith-Kumar C.T."/>
+<person name="Brooks M.T."/>
+<person name="Dharmaiah S."/>
+<person name="Herr A.B."/>
+<person name="Kao C."/>
+<person name="Li P."/>
+</authorList>
+<dbReference type="PubMed" id="19278996"/>
+<dbReference type="DOI" id="10.1074/jbc.M900818200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 541-678 IN COMPLEX WITH RNA</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>MUTAGENESIS OF LYS-634 AND LYS-651</scope>
+<scope>ZINC-BINDING SITES</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2009" name="J. Biol. Chem." volume="284" first="17465" last="17474">
+<title>Solution structures of cytosolic RNA sensor MDA5 and LGP2 C-terminal domains: identification of the RNA recognition loop in RIG-I-like receptors.</title>
+<authorList>
+<person name="Takahasi K."/>
+<person name="Kumeta H."/>
+<person name="Tsuduki N."/>
+<person name="Narita R."/>
+<person name="Shigemoto T."/>
+<person name="Hirai R."/>
+<person name="Yoneyama M."/>
+<person name="Horiuchi M."/>
+<person name="Ogura K."/>
+<person name="Fujita T."/>
+<person name="Inagaki F."/>
+</authorList>
+<dbReference type="PubMed" id="19380577"/>
+<dbReference type="DOI" id="10.1074/jbc.M109.007179"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 546-678</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2009" name="Nucleic Acids Res." volume="37" first="2014" last="2025">
+<title>The regulatory domain of the RIG-I family ATPase LGP2 senses double-stranded RNA.</title>
+<authorList>
+<person name="Pippig D.A."/>
+<person name="Hellmuth J.C."/>
+<person name="Cui S."/>
+<person name="Kirchhofer A."/>
+<person name="Lammens K."/>
+<person name="Lammens A."/>
+<person name="Schmidt A."/>
+<person name="Rothenfusser S."/>
+<person name="Hopfner K.-P."/>
+</authorList>
+<dbReference type="PubMed" id="19208642"/>
+<dbReference type="DOI" id="10.1093/nar/gkp059"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS) OF 537-678</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>MUTAGENESIS OF LYS-634</scope>
+<scope>ZINC-BINDING SITES</scope>
+</reference>
+<comment type="function">
+<text evidence="8 9 10 11 12 13 14 15 17 18">Acts as a regulator of DDX58/RIG-I and IFIH1/MDA5 mediated antiviral signaling. Cannot initiate antiviral signaling as it lacks the CARD domain required for activating MAVS/IPS1-dependent signaling events. Can have both negative and positive regulatory functions related to DDX58/RIG-I and IFIH1/MDA5 signaling and this role in regulating signaling may be complex and could probably depend on characteristics of the infecting virus or target cells, or both. Its inhibitory action on DDX58/RIG-I signaling may involve the following mechanisms: competition with DDX58/RIG-I for binding to the viral RNA, binding to DDX58/RIG-I and inhibiting its dimerization and interaction with MAVS/IPS1, competing with IKBKE in its binding to MAVS/IPS1 thereby inhibiting activation of interferon regulatory factor 3 (IRF3). Its positive regulatory role may involve unwinding or stripping nucleoproteins of viral RNA thereby facilitating their recognition by DDX58/RIG-I and IFIH1/MDA5. Involved in the innate immune response to various RNA viruses and some DNA viruses such as poxviruses, and also to the bacterial pathogen Listeria monocytogenes. Can bind both ssRNA and dsRNA, with a higher affinity for dsRNA. Shows a preference to 5'-triphosphorylated RNA, although it can recognize RNA lacking a 5'-triphosphate.</text>
+</comment>
+<comment type="catalytic activity">
+<text>ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="subunit">
+<text evidence="9 10 11 12 14 16 19 20">Monomer in the absence of dsRNA. Homodimer in the presence of dsRNA. Interacts with DDX58/RIG-I (via CARD domain), MAVS/IPS1 and DDX60. Found in a complex with DDX58/RIG-I and IFIH1/MDA5. Interacts (via helicase C-terminal domain) with non-structural protein V of Human parainfluenza 2 virus, Human parainfluenza 5 virus, measles virus, mumps virus, hendra virus and nipah virus. Interacts with ANKRD17.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-744193"/>
+<interactant intactId="EBI-528269">
+<id>Q9UKV8</id>
+<label>AGO2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-744193"/>
+<interactant intactId="EBI-1211456">
+<id>Q7L2E3</id>
+<label>DHX30</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-744193"/>
+<interactant intactId="EBI-395506">
+<id>Q9UPY3</id>
+<label>DICER1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-744193"/>
+<interactant intactId="EBI-640775">
+<id>P19525</id>
+<label>EIF2AK2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-744193"/>
+<interactant intactId="EBI-372243">
+<id>P56537</id>
+<label>EIF6</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-744193"/>
+<interactant intactId="EBI-766011">
+<id>O15226</id>
+<label>NKRF</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-744193"/>
+<interactant intactId="EBI-6148694">
+<id>P11207</id>
+<label>P/V</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-744193"/>
+<interactant intactId="EBI-6599165">
+<id>P30927</id>
+<label>P/V</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-744193"/>
+<interactant intactId="EBI-6598728">
+<id>Q9EMA9</id>
+<label>P/V</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-744193"/>
+<interactant intactId="EBI-722938">
+<id>Q9NUL3</id>
+<label>STAU2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="15">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="induction">
+<text>By interferon (IFN), virus infection, or intracellular dsRNA.</text>
+</comment>
+<comment type="domain">
+<text>The RLR CTR domain is capable of inhibiting dimerization and signaling of DDX58/RIG-I and also facilitates binding of dsRNA.</text>
+</comment>
+<comment type="similarity">
+<text evidence="21">Belongs to the helicase family. RLR subfamily.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.13"/>
+<dbReference type="EMBL" id="AK021416">
+<property type="protein sequence ID" value="BAB13818.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC014949">
+<property type="protein sequence ID" value="AAH14949.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS11416.1"/>
+<dbReference type="RefSeq" id="NP_077024.2">
+<property type="nucleotide sequence ID" value="NM_024119.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016880548.1">
+<property type="nucleotide sequence ID" value="XM_017025059.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016880549.1">
+<property type="nucleotide sequence ID" value="XM_017025060.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.55918"/>
+<dbReference type="PDB" id="2RQA">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=546-678"/>
+</dbReference>
+<dbReference type="PDB" id="2W4R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/B/C/D=537-678"/>
+</dbReference>
+<dbReference type="PDB" id="3EQT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=541-678"/>
+</dbReference>
+<dbReference type="PDBsum" id="2RQA"/>
+<dbReference type="PDBsum" id="2W4R"/>
+<dbReference type="PDBsum" id="3EQT"/>
+<dbReference type="ProteinModelPortal" id="Q96C10"/>
+<dbReference type="SMR" id="Q96C10"/>
+<dbReference type="BioGrid" id="122553">
+<property type="interactions" value="13"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-60792N"/>
+<dbReference type="IntAct" id="Q96C10">
+<property type="interactions" value="18"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1460040"/>
+<dbReference type="STRING" id="9606.ENSP00000251642"/>
+<dbReference type="iPTMnet" id="Q96C10"/>
+<dbReference type="PhosphoSitePlus" id="Q96C10"/>
+<dbReference type="BioMuta" id="DHX58"/>
+<dbReference type="DMDM" id="50401123"/>
+<dbReference type="MaxQB" id="Q96C10"/>
+<dbReference type="PaxDb" id="Q96C10"/>
+<dbReference type="PeptideAtlas" id="Q96C10"/>
+<dbReference type="PRIDE" id="Q96C10"/>
+<dbReference type="TopDownProteomics" id="Q96C10"/>
+<dbReference type="DNASU" id="79132"/>
+<dbReference type="Ensembl" id="ENST00000251642">
+<property type="protein sequence ID" value="ENSP00000251642"/>
+<property type="gene ID" value="ENSG00000108771"/>
+</dbReference>
+<dbReference type="GeneID" id="79132"/>
+<dbReference type="KEGG" id="hsa:79132"/>
+<dbReference type="UCSC" id="uc002hyw.5">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="79132"/>
+<dbReference type="DisGeNET" id="79132"/>
+<dbReference type="GeneCards" id="DHX58"/>
+<dbReference type="HGNC" id="HGNC:29517">
+<property type="gene designation" value="DHX58"/>
+</dbReference>
+<dbReference type="HPA" id="HPA018670"/>
+<dbReference type="HPA" id="HPA019570"/>
+<dbReference type="MIM" id="608588">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q96C10"/>
+<dbReference type="OpenTargets" id="ENSG00000108771"/>
+<dbReference type="PharmGKB" id="PA162383566"/>
+<dbReference type="eggNOG" id="KOG0354">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1111">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00510000046789"/>
+<dbReference type="HOGENOM" id="HOG000230992"/>
+<dbReference type="HOVERGEN" id="HBG106019"/>
+<dbReference type="InParanoid" id="Q96C10"/>
+<dbReference type="KO" id="K12649"/>
+<dbReference type="OMA" id="SPRGIIF"/>
+<dbReference type="OrthoDB" id="EOG091G01PQ"/>
+<dbReference type="PhylomeDB" id="Q96C10"/>
+<dbReference type="TreeFam" id="TF330258"/>
+<dbReference type="Reactome" id="R-HSA-168928">
+<property type="pathway name" value="RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="DHX58">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="Q96C10"/>
+<dbReference type="GeneWiki" id="LGP2"/>
+<dbReference type="GenomeRNAi" id="79132"/>
+<dbReference type="PRO" id="PR:Q96C10"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 17"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000108771"/>
+<dbReference type="CleanEx" id="HS_DHX58"/>
+<dbReference type="ExpressionAtlas" id="Q96C10">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q96C10">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003725">
+<property type="term" value="F:double-stranded RNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003727">
+<property type="term" value="F:single-stranded RNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051607">
+<property type="term" value="P:defense response to virus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045087">
+<property type="term" value="P:innate immune response"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045824">
+<property type="term" value="P:negative regulation of innate immune response"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039534">
+<property type="term" value="P:negative regulation of MDA-5 signaling pathway"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039536">
+<property type="term" value="P:negative regulation of RIG-I signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032480">
+<property type="term" value="P:negative regulation of type I interferon production"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900245">
+<property type="term" value="P:positive regulation of MDA-5 signaling pathway"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900246">
+<property type="term" value="P:positive regulation of RIG-I signaling pathway"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032481">
+<property type="term" value="P:positive regulation of type I interferon production"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045088">
+<property type="term" value="P:regulation of innate immune response"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009615">
+<property type="term" value="P:response to virus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006935">
+<property type="entry name" value="Helicase/UvrB_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014001">
+<property type="entry name" value="Helicase_ATP-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021673">
+<property type="entry name" value="RLR_CTR"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04851">
+<property type="entry name" value="ResIII"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF11648">
+<property type="entry name" value="RIG-I_C-RD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00487">
+<property type="entry name" value="DEXDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00490">
+<property type="entry name" value="HELICc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51192">
+<property type="entry name" value="HELICASE_ATP_BIND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51789">
+<property type="entry name" value="RLR_CTR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0051">Antiviral defense</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0347">Helicase</keyword>
+<keyword id="KW-0945">Host-virus interaction</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0391">Immunity</keyword>
+<keyword id="KW-0399">Innate immunity</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="chain" description="Probable ATP-dependent RNA helicase DHX58" id="PRO_0000102010">
+<location>
+<begin position="1"/>
+<end position="678"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase ATP-binding" evidence="5">
+<location>
+<begin position="11"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="domain" description="Helicase C-terminal" evidence="6">
+<location>
+<begin position="350"/>
+<end position="514"/>
+</location>
+</feature>
+<feature type="domain" description="RLR CTR" evidence="7">
+<location>
+<begin position="539"/>
+<end position="669"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="5">
+<location>
+<begin position="24"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="region of interest" description="RNA-binding">
+<location>
+<begin position="572"/>
+<end position="655"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="4">
+<location>
+<begin position="489"/>
+<end position="546"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="DECH box">
+<location>
+<begin position="131"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="7">
+<location>
+<position position="556"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="7">
+<location>
+<position position="559"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="7">
+<location>
+<position position="612"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc" evidence="7">
+<location>
+<position position="615"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34891485." id="VAR_049336">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35118457." id="VAR_049337">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="95"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2074158." id="VAR_019394">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="425"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2074160." id="VAR_019395">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="523"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes RNA binding." evidence="12 14">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="634"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes RNA binding." evidence="14">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="651"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; BAB13818." ref="1" evidence="21">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="473"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="549"/>
+<end position="551"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="553"/>
+<end position="556"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="557"/>
+<end position="559"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="562"/>
+<end position="565"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="566"/>
+<end position="568"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="569"/>
+<end position="572"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="573"/>
+<end position="575"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="576"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="582"/>
+<end position="587"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="588"/>
+<end position="590"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="592"/>
+<end position="594"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="597"/>
+<end position="599"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="602"/>
+<end position="612"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="613"/>
+<end position="615"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="618"/>
+<end position="625"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="628"/>
+<end position="633"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="635"/>
+<end position="637"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="638"/>
+<end position="642"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="645"/>
+<end position="647"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="652"/>
+<end position="654"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="655"/>
+<end position="657"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="664"/>
+<end position="671"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="675"/>
+<end position="677"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2RQA"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2W4R"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3EQT"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255"/>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00541"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00542"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01125"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16116171"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17020950"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17190814"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18411269"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19208642"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19211564"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19278996"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19380577"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19403670"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21187438"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21525357"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21791617"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23711367"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000305"/>
+<sequence length="678" mass="76613" checksum="859E1749C7313D06" modified="2001-12-01" version="1">
+MELRSYQWEVIMPALEGKNIIIWLPTGAGKTRAAAYVAKRHLETVDGAKVVVLVNRVHLV
+TQHGEEFRRMLDGRWTVTTLSGDMGPRAGFGHLARCHDLLICTAELLQMALTSPEEEEHV
+ELTVFSLIVVDECHHTHKDTVYNVIMSQYLELKLQRAQPLPQVLGLTASPGTGGASKLDG
+AINHVLQLCANLDTWCIMSPQNCCPQLQEHSQQPCKQYNLCHRRSQDPFGDLLKKLMDQI
+HDHLEMPELSRKFGTQMYEQQVVKLSEAAALAGLQEQRVYALHLRRYNDALLIHDTVRAV
+DALAALQDFYHREHVTKTQILCAERRLLALFDDRKNELAHLATHGPENPKLEMLEKILQR
+QFSSSNSPRGIIFTRTRQSAHSLLLWLQQQQGLQTVDIRAQLLIGAGNSSQSTHMTQRDQ
+QEVIQKFQDGTLNLLVATSVAEEGLDIPHCNVVVRYGLLTNEISMVQARGRARADQSVYA
+FVATEGSRELKRELINEALETLMEQAVAAVQKMDQAEYQAKIRDLQQAALTKRAAQAAQR
+ENQRQQFPVEHVQLLCINCMVAVGHGSDLRKVEGTHHVNVNPNFSNYYNVSRDPVVINKV
+FKDWKPGGVISCRNCGEVWGLQMIYKSVKLPVLKVRSMLLETPQGRIQAKKWSRVPFSVP
+DFDFLQHCAENLSDLSLD
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

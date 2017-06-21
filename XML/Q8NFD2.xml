@@ -1,0 +1,651 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2006-01-24" modified="2017-03-15" version="121">
+<accession>Q8NFD2</accession>
+<name>ANKK1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Ankyrin repeat and protein kinase domain-containing protein 1</fullName>
+<ecNumber>2.7.11.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Protein kinase PKK2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Sugen kinase 288</fullName>
+<shortName>SgK288</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>X-kinase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ANKK1</name>
+<name type="synonym">PKK2</name>
+<name type="synonym">SGK288</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2004" name="Hum. Mutat." volume="23" first="540" last="545">
+<title>Identification and characterization of ANKK1: a novel kinase gene closely linked to DRD2 on chromosome band 11q23.1.</title>
+<authorList>
+<person name="Neville M.J."/>
+<person name="Johnstone E.C."/>
+<person name="Walton R.T."/>
+</authorList>
+<dbReference type="PubMed" id="15146457"/>
+<dbReference type="DOI" id="10.1002/humu.20039"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="2002-02" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Inohara N."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Schizophr. Res." volume="67" first="75" last="85">
+<title>The 3' region of the DRD2 gene is involved in genetic susceptibility to schizophrenia.</title>
+<authorList>
+<person name="Dubertret C."/>
+<person name="Gouya L."/>
+<person name="Hanoun N."/>
+<person name="Deybach J.-C."/>
+<person name="Ades J."/>
+<person name="Hamon M."/>
+<person name="Gorwood P."/>
+</authorList>
+<dbReference type="PubMed" id="14741327"/>
+<dbReference type="DOI" id="10.1016/S0920-9964(03)00220-2"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>VARIANT LYS-713</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2002" name="Science" volume="298" first="1912" last="1934">
+<title>The protein kinase complement of the human genome.</title>
+<authorList>
+<person name="Manning G."/>
+<person name="Whyte D.B."/>
+<person name="Martinez R."/>
+<person name="Hunter T."/>
+<person name="Sudarsanam S."/>
+</authorList>
+<dbReference type="PubMed" id="12471243"/>
+<dbReference type="DOI" id="10.1126/science.1075762"/>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2007" name="Nature" volume="446" first="153" last="158">
+<title>Patterns of somatic mutation in human cancer genomes.</title>
+<authorList>
+<person name="Greenman C."/>
+<person name="Stephens P."/>
+<person name="Smith R."/>
+<person name="Dalgliesh G.L."/>
+<person name="Hunter C."/>
+<person name="Bignell G."/>
+<person name="Davies H."/>
+<person name="Teague J."/>
+<person name="Butler A."/>
+<person name="Stevens C."/>
+<person name="Edkins S."/>
+<person name="O'Meara S."/>
+<person name="Vastrik I."/>
+<person name="Schmidt E.E."/>
+<person name="Avis T."/>
+<person name="Barthorpe S."/>
+<person name="Bhamra G."/>
+<person name="Buck G."/>
+<person name="Choudhury B."/>
+<person name="Clements J."/>
+<person name="Cole J."/>
+<person name="Dicks E."/>
+<person name="Forbes S."/>
+<person name="Gray K."/>
+<person name="Halliday K."/>
+<person name="Harrison R."/>
+<person name="Hills K."/>
+<person name="Hinton J."/>
+<person name="Jenkinson A."/>
+<person name="Jones D."/>
+<person name="Menzies A."/>
+<person name="Mironenko T."/>
+<person name="Perry J."/>
+<person name="Raine K."/>
+<person name="Richardson D."/>
+<person name="Shepherd R."/>
+<person name="Small A."/>
+<person name="Tofts C."/>
+<person name="Varian J."/>
+<person name="Webb T."/>
+<person name="West S."/>
+<person name="Widaa S."/>
+<person name="Yates A."/>
+<person name="Cahill D.P."/>
+<person name="Louis D.N."/>
+<person name="Goldstraw P."/>
+<person name="Nicholson A.G."/>
+<person name="Brasseur F."/>
+<person name="Looijenga L."/>
+<person name="Weber B.L."/>
+<person name="Chiew Y.-E."/>
+<person name="DeFazio A."/>
+<person name="Greaves M.F."/>
+<person name="Green A.R."/>
+<person name="Campbell P."/>
+<person name="Birney E."/>
+<person name="Easton D.F."/>
+<person name="Chenevix-Trench G."/>
+<person name="Tan M.-H."/>
+<person name="Khoo S.K."/>
+<person name="Teh B.T."/>
+<person name="Yuen S.T."/>
+<person name="Leung S.Y."/>
+<person name="Wooster R."/>
+<person name="Futreal P.A."/>
+<person name="Stratton M.R."/>
+</authorList>
+<dbReference type="PubMed" id="17344846"/>
+<dbReference type="DOI" id="10.1038/nature05610"/>
+</citation>
+<scope>VARIANTS [LARGE SCALE ANALYSIS] TYR-4; HIS-122; THR-239; LEU-276; ARG-318; THR-347; PHE-366; GLN-367; LYS-376; LYS-426; ARG-442; ARG-451; ARG-490; ILE-595; LEU-596; SER-653; GLY-670; LYS-713; LEU-717; LEU-736 AND LYS-764</scope>
+</reference>
+<comment type="catalytic activity">
+<text>ATP + a protein = ADP + a phosphoprotein.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="3 4">Highly expressed in brain and weakly expressed in placenta and spinal cord.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family.</text>
+</comment>
+<dbReference type="EC" id="2.7.11.1"/>
+<dbReference type="EMBL" id="AJ541797">
+<property type="protein sequence ID" value="CAD62569.2"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF487542">
+<property type="protein sequence ID" value="AAQ09005.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF525298">
+<property type="protein sequence ID" value="AAM91924.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS44734.1"/>
+<dbReference type="RefSeq" id="NP_848605.1">
+<property type="nucleotide sequence ID" value="NM_178510.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.448473"/>
+<dbReference type="ProteinModelPortal" id="Q8NFD2"/>
+<dbReference type="SMR" id="Q8NFD2"/>
+<dbReference type="IntAct" id="Q8NFD2">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000306678"/>
+<dbReference type="BindingDB" id="Q8NFD2"/>
+<dbReference type="ChEMBL" id="CHEMBL5547"/>
+<dbReference type="GuidetoPHARMACOLOGY" id="1932"/>
+<dbReference type="iPTMnet" id="Q8NFD2"/>
+<dbReference type="PhosphoSitePlus" id="Q8NFD2"/>
+<dbReference type="BioMuta" id="ANKK1"/>
+<dbReference type="DMDM" id="74762569"/>
+<dbReference type="MaxQB" id="Q8NFD2"/>
+<dbReference type="PaxDb" id="Q8NFD2"/>
+<dbReference type="PeptideAtlas" id="Q8NFD2"/>
+<dbReference type="PRIDE" id="Q8NFD2"/>
+<dbReference type="DNASU" id="255239"/>
+<dbReference type="Ensembl" id="ENST00000303941">
+<property type="protein sequence ID" value="ENSP00000306678"/>
+<property type="gene ID" value="ENSG00000170209"/>
+</dbReference>
+<dbReference type="GeneID" id="255239"/>
+<dbReference type="KEGG" id="hsa:255239"/>
+<dbReference type="UCSC" id="uc001pny.3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="255239"/>
+<dbReference type="DisGeNET" id="255239"/>
+<dbReference type="GeneCards" id="ANKK1"/>
+<dbReference type="HGNC" id="HGNC:21027">
+<property type="gene designation" value="ANKK1"/>
+</dbReference>
+<dbReference type="HPA" id="HPA012813"/>
+<dbReference type="MIM" id="608774">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q8NFD2"/>
+<dbReference type="OpenTargets" id="ENSG00000170209"/>
+<dbReference type="PharmGKB" id="PA134872551"/>
+<dbReference type="eggNOG" id="ENOG410IT5N">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0666">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00550000074536"/>
+<dbReference type="HOGENOM" id="HOG000294086"/>
+<dbReference type="HOVERGEN" id="HBG061582"/>
+<dbReference type="InParanoid" id="Q8NFD2"/>
+<dbReference type="KO" id="K16289"/>
+<dbReference type="OMA" id="PCFLDIT"/>
+<dbReference type="OrthoDB" id="EOG091G00GN"/>
+<dbReference type="PhylomeDB" id="Q8NFD2"/>
+<dbReference type="TreeFam" id="TF106506"/>
+<dbReference type="GeneWiki" id="ANKK1"/>
+<dbReference type="GenomeRNAi" id="255239"/>
+<dbReference type="PRO" id="PR:Q8NFD2"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 11"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000170209"/>
+<dbReference type="CleanEx" id="HS_ANKK1"/>
+<dbReference type="ExpressionAtlas" id="Q8NFD2">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.25.40.20">
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002110">
+<property type="entry name" value="Ankyrin_rpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020683">
+<property type="entry name" value="Ankyrin_rpt-contain_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001245">
+<property type="entry name" value="Ser-Thr/Tyr_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12796">
+<property type="entry name" value="Ank_2"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07714">
+<property type="entry name" value="Pkinase_Tyr"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01415">
+<property type="entry name" value="ANKYRIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00248">
+<property type="entry name" value="ANK"/>
+<property type="match status" value="11"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48403">
+<property type="entry name" value="SSF48403"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50297">
+<property type="entry name" value="ANK_REP_REGION"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50088">
+<property type="entry name" value="ANK_REPEAT"/>
+<property type="match status" value="11"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0040">ANK repeat</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0723">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Ankyrin repeat and protein kinase domain-containing protein 1" id="PRO_0000085620">
+<location>
+<begin position="1"/>
+<end position="765"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase" evidence="1">
+<location>
+<begin position="22"/>
+<end position="289"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 1">
+<location>
+<begin position="361"/>
+<end position="390"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 2">
+<location>
+<begin position="394"/>
+<end position="423"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 3">
+<location>
+<begin position="427"/>
+<end position="456"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 4">
+<location>
+<begin position="460"/>
+<end position="489"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 5">
+<location>
+<begin position="493"/>
+<end position="522"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 6">
+<location>
+<begin position="526"/>
+<end position="555"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 7">
+<location>
+<begin position="559"/>
+<end position="588"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 8">
+<location>
+<begin position="592"/>
+<end position="621"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 9">
+<location>
+<begin position="625"/>
+<end position="654"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 10">
+<location>
+<begin position="658"/>
+<end position="687"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 11">
+<location>
+<begin position="691"/>
+<end position="720"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 12">
+<location>
+<begin position="724"/>
+<end position="753"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="28"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="1 2">
+<location>
+<position position="145"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="51"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35657708." id="VAR_040359" evidence="5">
+<original>D</original>
+<variation>Y</variation>
+<location>
+<position position="4"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35877321." id="VAR_040360" evidence="5">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="122"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs7118900." id="VAR_036784" evidence="5">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="239"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35488601." id="VAR_040361" evidence="5">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="276"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11604671." id="VAR_036785" evidence="5">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="318"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a breast infiltrating ductal carcinoma sample; somatic mutation." id="VAR_040362" evidence="5">
+<original>K</original>
+<variation>T</variation>
+<location>
+<position position="347"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs56339158." id="VAR_040363" evidence="5">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="366"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34298987." id="VAR_040364" evidence="5">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="367"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs56299709." id="VAR_040365" evidence="5">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="376"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55699907." id="VAR_040366" evidence="5">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="426"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4938016." id="VAR_036786" evidence="5">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="442"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34983219." id="VAR_040367" evidence="5">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="451"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2734849." id="VAR_036787" evidence="5">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="490"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55787008." id="VAR_040368" evidence="5">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="595"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs7104979." id="VAR_040369" evidence="5">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="596"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55849504." id="VAR_040370" evidence="5">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="653"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs56006094." id="VAR_040371" evidence="5">
+<original>S</original>
+<variation>G</variation>
+<location>
+<position position="670"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1800497." id="VAR_025010" evidence="3 5">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="713"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a lung large cell carcinoma sample; somatic mutation." id="VAR_040372" evidence="5">
+<original>Q</original>
+<variation>L</variation>
+<location>
+<position position="717"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a lung squamous cell carcinoma sample; somatic mutation." id="VAR_040373" evidence="5">
+<original>R</original>
+<variation>L</variation>
+<location>
+<position position="736"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a lung neuroendocrine carcinoma sample; somatic mutation." id="VAR_040374" evidence="5">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="764"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00159"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10027"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14741327"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15146457"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17344846"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="765" mass="84632" checksum="549F6161B2976BF5" modified="2002-10-01" version="1">
+MAADPTELRLGSLPVFTRDDFEGDWRLVASGGFSQVFQARHRRWRTEYAIKCAPCLPPDA
+ASSDVNYLIEEAAKMKKIKFQHIVSIYGVCKQPLGIVMEFMANGSLEKVLSTHSLCWKLR
+FRIIHETSLAMNFLHSIKPPLLHLDLKPGNILLDSNMHVKISDFGLSKWMEQSTRMQYIE
+RSALRGMLSYIPPEMFLESNKAPGPKYDVYSFAIVIWELLTQKKPYSGFNMMMIIIRVAA
+GMRPSLQPVSDQWPSEAQQMVDLMKRCWDQDPKKRPCFLDITIETDILLSLLQSRVAVPE
+SKALARKVSCKLSLRQPGEVNEDISQELMDSDSGNYLKRALQLSDRKNLVPRDEELCIYE
+NKVTPLHFLVAQGSVEQVRLLLAHEVDVDCQTASGYTPLLIAAQDQQPDLCALLLAHGAD
+ANRVDEDGWAPLHFAAQNGDDGTARLLLDHGACVDAQEREGWTPLHLAAQNNFENVARLL
+VSRQADPNLHEAEGKTPLHVAAYFGHVSLVKLLTSQGAELDAQQRNLRTPLHLAVERGKV
+RAIQHLLKSGAVPDALDQSGYGPLHTAAARGKYLICKMLLRYGASLELPTHQGWTPLHLA
+AYKGHLEIIHLLAESHANMGALGAVNWTPLHLAARHGEEAVVSALLQCGADPNAAEQSGW
+TPLHLAVQRSTFLSVINLLEHHANVHARNKVGWTPAHLAALKGNTAILKVLVEAGAQLDV
+QDGVSCTPLQLALRSRKQGIMSFLEGKEPSVATLGGSKPGAEMEI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

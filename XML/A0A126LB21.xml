@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2016-05-11" modified="2017-03-15" version="5">
+<accession>A0A126LB21</accession>
+<name>A0A126LB21_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="1">Helicase/primase complex</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">U74</name>
+</gene>
+<organism evidence="1">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="1">
+<citation type="journal article" date="2016" name="Viruses" volume="8" first="19" last="19">
+<title>Complete Genome Sequence of Germline Chromosomally Integrated Human Herpesvirus 6A and Analyses Integration Sites Define a New Human Endogenous Virus with Potential to Reactivate as an Emerging Infection.</title>
+<authorList>
+<person name="Tweedy J."/>
+<person name="Spyrou M.A."/>
+<person name="Pearson M."/>
+<person name="Lassner D."/>
+<person name="Kuhl U."/>
+<person name="Gompels U.A."/>
+</authorList>
+<dbReference type="PubMed" id="26784220"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<dbReference type="EMBL" id="KT895199">
+<property type="protein sequence ID" value="AMD82204.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PeptideAtlas" id="A0A126LB21"/>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019079">
+<property type="term" value="P:viral genome replication"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_04010">
+<property type="entry name" value="HSV_HEPA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004996">
+<property type="entry name" value="HSV_HEPA"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03324">
+<property type="entry name" value="Herpes_HEPA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0347" evidence="1">Helicase</keyword>
+<keyword id="KW-0378" evidence="1">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AMD82204.1"/>
+</source>
+</evidence>
+<sequence length="662" mass="76425" checksum="5C134F5DE0A3EF55" modified="2016-05-11" version="1">
+MHLRGCVCHLSLYCVYNDWEKKIYRVPIFQCLFLEAETRSLKTFLIRGQSLDQESLNQIE
+VTRKETMLWDLQEQSNMMDKKIAAISNLIMNNGELVRKLSKFFVPLTVVLGDDGLEILEA
+YVCGEELMLPLDTVPVILRCIGDYAALDTKHLLSNECTQASKKIRFGYSVMDFHFSLTVS
+DVKICFSHTDTGEAVCEKMKQIFSFSVCAFGGEQVLLVTPKNAYALLFDDDLCLLLLQSV
+FAFLHDKIFGVYKQVLVQLCEYIGPDLWPFGNERSVSFIGYPNLWLLSVSDLERRVPDTT
+YICREILSFCGLAPILGPRGRHVVPVVRELNIEMPGSETSLQRFRFNSQYVSSESLCFQT
+GPEDTHLFFSDSDMYVVTLPDCLRLLLKSTVPKAFLPCFDENATEINLLLKFMSRLQHRS
+YALFDAVIFMLDAFVSAFQRACTLMGMRWLLVRDLHMFYLTCDGKDTHVVMPLLQTAVEN
+CWEKTTEIKQRPTFQCAEISRCGFIVYARFFLSSGLSQSKEAHWTVTASKYLSACIRTNQ
+TGLCFASITVYFQDMMCVFIANRYNVSYWIEEFDPNDYCLEYHEGLLDCSRYTAVMSEDG
+QLVRQARGIALTDKINFSYYILVTLRVLRRWVESKFEDVEQTQFIRWENRMLCEHIHLLH
+LN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

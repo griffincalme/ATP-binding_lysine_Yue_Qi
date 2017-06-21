@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2006-07-11" modified="2017-04-12" version="36">
+<accession>Q19Q54</accession>
+<name>Q19Q54_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="1">Cystic fibrosis transmembrane conductance regulator ATP-binding cassette sub-family C member 7 mutant</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">CFTR</name>
+</gene>
+<organism evidence="1">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="1">
+<citation type="submission" date="2006-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Elango E.M."/>
+<person name="RamMohan P.R."/>
+<person name="PremNair"/>
+<person name="Balakrishnan V."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<dbReference type="EMBL" id="DQ504435">
+<property type="protein sequence ID" value="ABF72845.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.489786"/>
+<dbReference type="UniGene" id="Hs.621460"/>
+<dbReference type="UniGene" id="Hs.661104"/>
+<dbReference type="STRING" id="9606.ENSP00000003084"/>
+<dbReference type="PaxDb" id="Q19Q54"/>
+<dbReference type="PeptideAtlas" id="Q19Q54"/>
+<dbReference type="eggNOG" id="KOG0054">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1132">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005254">
+<property type="term" value="F:chloride channel activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009147">
+<property type="entry name" value="CFTR/ABCC7"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24223:SF273">
+<property type="entry name" value="PTHR24223:SF273"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0472" evidence="1">Membrane</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0812" evidence="1">Transmembrane</keyword>
+<feature type="non-terminal residue" evidence="1">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ABF72845.1"/>
+</source>
+</evidence>
+<sequence length="61" mass="6744" checksum="69145EF19F369BEB" modified="2006-07-11" version="1" fragment="single">
+TSLLMVIMGELEPSEGKIKHSGRISFCSQFSWIMPGTIKEISSLVFPMMNIDTEASSKHA
+N
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,565 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2011-02-08" modified="2017-05-10" version="55">
+<accession>E5KRP6</accession>
+<name>E5KRP6_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Spastin</fullName>
+<ecNumber evidence="1">3.6.4.3</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">SPAST</name>
+<name type="synonym" evidence="1">SPG4</name>
+</gene>
+<organism evidence="7">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="7">
+<citation type="journal article" date="2011" name="Nucleic Acids Res." volume="39" first="44" last="58">
+<title>Identification of rare DNA variants in mitochondrial disorders with improved array-based sequencing.</title>
+<authorList>
+<person name="Wang W."/>
+<person name="Shen P."/>
+<person name="Thiyagarajan S."/>
+<person name="Lin S."/>
+<person name="Palm C."/>
+<person name="Horvath R."/>
+<person name="Klopstock T."/>
+<person name="Cutler D."/>
+<person name="Pique L."/>
+<person name="Schrijver I."/>
+<person name="Davis R.W."/>
+<person name="Mindrinos M."/>
+<person name="Speed T.P."/>
+<person name="Scharfe C."/>
+</authorList>
+<dbReference type="PubMed" id="20843780"/>
+<dbReference type="DOI" id="10.1093/nar/gkq750"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="function">
+<text evidence="1">ATP-dependent microtubule severing protein that specifically recognizes and cuts microtubules that are polyglutamylated. Preferentially recognizes and acts on microtubules decorated with short polyglutamate tails: severing activity increases as the number of glutamates per tubulin rises from one to eight, but decreases beyond this glutamylation threshold. Severing activity is not dependent on tubulin acetylation or detyrosination. Microtubule severing promotes reorganization of cellular microtubule arrays and the release of microtubules from the centrosome following nucleation. It is critical for the biogenesis and maintenance of complex microtubule arrays in axons, spindles and cilia. SPAST is involved in abscission step of cytokinesis and nuclear envelope reassembly during anaphase in cooperation with the ESCRT-III complex. Recruited at the midbody, probably by IST1, and participates in membrane fission during abscission together with the ESCRT-III complex. Recruited to the nuclear membrane by IST1 and mediates microtubule severing, promoting nuclear envelope sealing and mitotic spindle disassembly during late anaphase. Required for membrane traffic from the endoplasmic reticulum (ER) to the Golgi and endosome recycling. Recruited by IST1 to endosomes and regulates early endosomal tubulation and recycling by mediating microtubule severing. Probably plays a role in axon growth and the formation of axonal branches.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1">ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="1">Allosteric enzyme with a cooperative mechanism; at least two neighbor subunits influence each other strongly in spastin hexamers. Microtubule binding promotes cooperative interactions among spastin subunits.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Homohexamer. Mostly monomeric, but assembles into hexameric structure for short periods of time. Oligomerization seems to be a prerequisite for catalytic activity. Binding to ATP in a cleft between two adjacent subunits stabilizes the homohexameric form. Binds to microtubules at least in part via the alpha-tubulin and beta-tubulin tails. The hexamer adopts a ring conformation through which microtubules pass prior to being severed. Does not interact strongly with tubulin heterodimers. Interacts (via MIT domain) with CHMP1B; the interaction is direct. Interacts with SSNA1. Interacts with ATL1. Interacts with RTN1. Interacts with ZFYVE27. Interacts with REEP1. Interacts (via MIT domain) with IST1.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Membrane</location>
+<topology evidence="1">Peripheral membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Endoplasmic reticulum</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Midbody</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+<location evidence="1">Cytoskeleton</location>
+<location evidence="1">Microtubule organizing center</location>
+<location evidence="1">Centrosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+<location evidence="1">Cytoskeleton</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+<location evidence="1">Perinuclear region</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+<location evidence="1">Cytoskeleton</location>
+<location evidence="1">Spindle</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+<text evidence="1">Forms a intramembrane hairpin-like structure in the membrane. Localization to the centrosome is independent of microtubules. Localizes to the midbody of dividing cells, and this requires CHMP1B. Enriched in the distal axons and branches of postmitotic neurons. Localizes to endoplasmic reticulum tubular network.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the AAA ATPase family. Spastin subfamily.</text>
+</comment>
+<dbReference type="EC" id="3.6.4.3" evidence="1"/>
+<dbReference type="EMBL" id="HQ205746">
+<property type="protein sequence ID" value="ADP91575.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205747">
+<property type="protein sequence ID" value="ADP91577.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205748">
+<property type="protein sequence ID" value="ADP91579.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205749">
+<property type="protein sequence ID" value="ADP91581.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205750">
+<property type="protein sequence ID" value="ADP91583.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205751">
+<property type="protein sequence ID" value="ADP91585.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205752">
+<property type="protein sequence ID" value="ADP91587.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205753">
+<property type="protein sequence ID" value="ADP91589.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205754">
+<property type="protein sequence ID" value="ADP91591.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205755">
+<property type="protein sequence ID" value="ADP91593.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205756">
+<property type="protein sequence ID" value="ADP91595.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205757">
+<property type="protein sequence ID" value="ADP91597.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205758">
+<property type="protein sequence ID" value="ADP91599.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205759">
+<property type="protein sequence ID" value="ADP91601.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205760">
+<property type="protein sequence ID" value="ADP91603.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205761">
+<property type="protein sequence ID" value="ADP91605.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205762">
+<property type="protein sequence ID" value="ADP91607.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205763">
+<property type="protein sequence ID" value="ADP91609.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205764">
+<property type="protein sequence ID" value="ADP91611.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205765">
+<property type="protein sequence ID" value="ADP91613.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205766">
+<property type="protein sequence ID" value="ADP91615.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205767">
+<property type="protein sequence ID" value="ADP91617.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205768">
+<property type="protein sequence ID" value="ADP91619.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205769">
+<property type="protein sequence ID" value="ADP91621.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205770">
+<property type="protein sequence ID" value="ADP91623.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205771">
+<property type="protein sequence ID" value="ADP91625.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205772">
+<property type="protein sequence ID" value="ADP91627.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205773">
+<property type="protein sequence ID" value="ADP91629.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205774">
+<property type="protein sequence ID" value="ADP91631.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205775">
+<property type="protein sequence ID" value="ADP91633.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205776">
+<property type="protein sequence ID" value="ADP91635.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205777">
+<property type="protein sequence ID" value="ADP91637.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205778">
+<property type="protein sequence ID" value="ADP91639.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205779">
+<property type="protein sequence ID" value="ADP91641.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205780">
+<property type="protein sequence ID" value="ADP91643.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205781">
+<property type="protein sequence ID" value="ADP91645.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205782">
+<property type="protein sequence ID" value="ADP91647.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205783">
+<property type="protein sequence ID" value="ADP91649.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205784">
+<property type="protein sequence ID" value="ADP91651.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="HQ205785">
+<property type="protein sequence ID" value="ADP91653.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_955468.1">
+<property type="nucleotide sequence ID" value="NM_199436.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.468091"/>
+<dbReference type="GeneID" id="6683"/>
+<dbReference type="CTD" id="6683"/>
+<dbReference type="ChiTaRS" id="SPAST">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="6683"/>
+<dbReference type="Bgee" id="ENSG00000021574"/>
+<dbReference type="GO" id="GO:0005813">
+<property type="term" value="C:centrosome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005783">
+<property type="term" value="C:endoplasmic reticulum"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005768">
+<property type="term" value="C:endosome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005874">
+<property type="term" value="C:microtubule"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030496">
+<property type="term" value="C:midbody"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048471">
+<property type="term" value="C:perinuclear region of cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005819">
+<property type="term" value="C:spindle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008017">
+<property type="term" value="F:microtubule binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008568">
+<property type="term" value="F:microtubule-severing ATPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007409">
+<property type="term" value="P:axonogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032506">
+<property type="term" value="P:cytokinetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006888">
+<property type="term" value="P:ER to Golgi vesicle-mediated transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008152">
+<property type="term" value="P:metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051013">
+<property type="term" value="P:microtubule severing"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031117">
+<property type="term" value="P:positive regulation of microtubule depolymerization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034214">
+<property type="term" value="P:protein hexamerization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_03021">
+<property type="entry name" value="Spastin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003959">
+<property type="entry name" value="ATPase_AAA_core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003960">
+<property type="entry name" value="ATPase_AAA_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007330">
+<property type="entry name" value="MIT"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017179">
+<property type="entry name" value="Spastin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015415">
+<property type="entry name" value="Vps4_C"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00004">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF09336">
+<property type="entry name" value="Vps4_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00745">
+<property type="entry name" value="MIT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00674">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0021" evidence="1">Allosteric enzyme</keyword>
+<keyword id="KW-0067" evidence="1 2 3">ATP-binding</keyword>
+<keyword id="KW-0131" evidence="1">Cell cycle</keyword>
+<keyword id="KW-0132" evidence="1">Cell division</keyword>
+<keyword id="KW-0963" evidence="1">Cytoplasm</keyword>
+<keyword id="KW-0206" evidence="1">Cytoskeleton</keyword>
+<keyword id="KW-0217" evidence="1">Developmental protein</keyword>
+<keyword id="KW-0221" evidence="1">Differentiation</keyword>
+<keyword id="KW-0256" evidence="1">Endoplasmic reticulum</keyword>
+<keyword id="KW-0378" evidence="1">Hydrolase</keyword>
+<keyword id="KW-0472" evidence="4">Membrane</keyword>
+<keyword id="KW-0493" evidence="1">Microtubule</keyword>
+<keyword id="KW-0524" evidence="1">Neurogenesis</keyword>
+<keyword id="KW-0547" evidence="1 2 3">Nucleotide-binding</keyword>
+<keyword id="KW-0539" evidence="1">Nucleus</keyword>
+<keyword id="KW-0812" evidence="4">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="4">Transmembrane helix</keyword>
+<feature type="topological domain" description="Cytoplasmic" evidence="1">
+<location>
+<begin position="1"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="4">
+<location>
+<begin position="57"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="intramembrane region" description="Helical" evidence="1">
+<location>
+<begin position="57"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="1">
+<location>
+<begin position="78"/>
+<end position="584"/>
+</location>
+</feature>
+<feature type="domain" description="MIT" evidence="6">
+<location>
+<begin position="116"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="domain" description="AAA" evidence="5">
+<location>
+<begin position="342"/>
+<end position="478"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="350"/>
+<end position="357"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Nuclear localization signal" evidence="1">
+<location>
+<begin position="4"/>
+<end position="11"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Nuclear export signal" evidence="1">
+<location>
+<begin position="59"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Nuclear localization signal" evidence="1">
+<location>
+<begin position="277"/>
+<end position="280"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_03021"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU003651"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00552105"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00382"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000259">
+<source>
+<dbReference type="SMART" id="SM00745"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ADP91575.1"/>
+</source>
+</evidence>
+<sequence length="584" mass="63606" checksum="502F0FCB78ECED14" modified="2011-02-08" version="1">
+MNSPGGRGKKKGSGGASNPVPPRPPPPCLAPAPPAAGPAPPPESPHKRNLYYFSYPLFVG
+FALLRLVAFHLGLLFVWLCQRFSRALMAAKRSSGAAPAPASASAPAPVPGGEAERVRVFH
+KQAFEYISIALRIDEDEKAGQKEQAVEWYKKGIEELEKGIAVIVTGQGEQCERARRLQAK
+MMTNLVMAKDRLQLLESGAVPKRKDPLTHTSNSLPRSKTVMKTGSAGLSGHHRAPSYSGL
+SMVSGVKQGSGPAPTTHKGTPKTNRTNKPSTPTTATRKKKDLKNFRNVDSNLANLIMNEI
+VDNGTAVKFDDIAGQDLAKQALQEIVILPSLRPELFTGLRAPARGLLLFGPPGNGKTMLA
+KAVAAESNATFFNISAASLTSKYVGEGEKLVRALFAVARELQPSIIFIDEVDSLLCERRE
+GEHDASRRLKTEFLIEFDGVQSAGDDRVLVMGATNRPQELDEAVLRRFIKRVYVSLPNEE
+TRLLLLKNLLCKQGSPLTQKELAQLARMTDGYSGSDLTALAKDAALGPIRELKPEQVKNM
+SASEMRNIRLSDFTESLKKIKRSVSPQTLEAYIRWNKDFGDTTV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

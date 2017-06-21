@@ -1,0 +1,582 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-04-08" modified="2017-05-10" version="75">
+<accession>B1AR63</accession>
+<name>B1AR63_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="6">Phosphotransferase</fullName>
+<ecNumber evidence="6">2.7.1.-</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="13">HK1</name>
+</gene>
+<organism evidence="13 14">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="14">
+<citation type="journal article" date="2004" name="Nature" volume="429" first="375" last="381">
+<title>The DNA sequence and comparative analysis of human chromosome 10.</title>
+<authorList>
+<person name="Deloukas P."/>
+<person name="Earthrowl M.E."/>
+<person name="Grafham D.V."/>
+<person name="Rubenfield M."/>
+<person name="French L."/>
+<person name="Steward C.A."/>
+<person name="Sims S.K."/>
+<person name="Jones M.C."/>
+<person name="Searle S."/>
+<person name="Scott C."/>
+<person name="Howe K."/>
+<person name="Hunt S.E."/>
+<person name="Andrews T.D."/>
+<person name="Gilbert J.G.R."/>
+<person name="Swarbreck D."/>
+<person name="Ashurst J.L."/>
+<person name="Taylor A."/>
+<person name="Battles J."/>
+<person name="Bird C.P."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ashwell R.I.S."/>
+<person name="Ambrose K.D."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Banerjee R."/>
+<person name="Bates K."/>
+<person name="Beasley H."/>
+<person name="Bray-Allen S."/>
+<person name="Brown A.J."/>
+<person name="Brown J.Y."/>
+<person name="Burford D.C."/>
+<person name="Burrill W."/>
+<person name="Burton J."/>
+<person name="Cahill P."/>
+<person name="Camire D."/>
+<person name="Carter N.P."/>
+<person name="Chapman J.C."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Corby N."/>
+<person name="Coulson A."/>
+<person name="Dhami P."/>
+<person name="Dutta I."/>
+<person name="Dunn M."/>
+<person name="Faulkner L."/>
+<person name="Frankish A."/>
+<person name="Frankland J.A."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Gribble S."/>
+<person name="Griffiths C."/>
+<person name="Grocock R."/>
+<person name="Gustafson E."/>
+<person name="Hammond S."/>
+<person name="Harley J.L."/>
+<person name="Hart E."/>
+<person name="Heath P.D."/>
+<person name="Ho T.P."/>
+<person name="Hopkins B."/>
+<person name="Horne J."/>
+<person name="Howden P.J."/>
+<person name="Huckle E."/>
+<person name="Hynds C."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Kana A."/>
+<person name="Kay M."/>
+<person name="Kimberley A.M."/>
+<person name="Kershaw J.K."/>
+<person name="Kokkinaki M."/>
+<person name="Laird G.K."/>
+<person name="Lawlor S."/>
+<person name="Lee H.M."/>
+<person name="Leongamornlert D.A."/>
+<person name="Laird G."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Loveland J."/>
+<person name="Lovell J."/>
+<person name="McLaren S."/>
+<person name="McLay K.E."/>
+<person name="McMurray A."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="Milne S."/>
+<person name="Nickerson T."/>
+<person name="Nguyen M."/>
+<person name="Overton-Larty E."/>
+<person name="Palmer S.A."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Pelan S."/>
+<person name="Phillimore B."/>
+<person name="Porter K."/>
+<person name="Rice C.M."/>
+<person name="Rogosin A."/>
+<person name="Ross M.T."/>
+<person name="Sarafidou T."/>
+<person name="Sehra H.K."/>
+<person name="Shownkeen R."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Standring L."/>
+<person name="Sycamore N."/>
+<person name="Tester J."/>
+<person name="Thorpe A."/>
+<person name="Torcasso W."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Tsolas J."/>
+<person name="Wall M."/>
+<person name="Walsh J."/>
+<person name="Wang H."/>
+<person name="Weinstock K."/>
+<person name="West A.P."/>
+<person name="Willey D.L."/>
+<person name="Whitehead S.L."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Young L."/>
+<person name="Chen Y."/>
+<person name="Lovering R.C."/>
+<person name="Moschonas N.K."/>
+<person name="Siebert R."/>
+<person name="Fechtel K."/>
+<person name="Bentley D."/>
+<person name="Durbin R."/>
+<person name="Hubbard T."/>
+<person name="Doucette-Stamm L."/>
+<person name="Beck S."/>
+<person name="Smith D.R."/>
+<person name="Rogers J."/>
+</authorList>
+<dbReference type="PubMed" id="15164054"/>
+<dbReference type="DOI" id="10.1038/nature02462"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="13">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="724" last="731">
+<title>Generation and annotation of the DNA sequences of human chromosomes 2 and 4.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Graves T.A."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Pepin K.H."/>
+<person name="Minx P."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Kremitzki C."/>
+<person name="Oddy L."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Carter J."/>
+<person name="Cordes M."/>
+<person name="Harris A."/>
+<person name="Isak A."/>
+<person name="van Brunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Abbott S."/>
+<person name="Armstrong J."/>
+<person name="Belter E.A."/>
+<person name="Caruso L."/>
+<person name="Cedroni M."/>
+<person name="Cotton M."/>
+<person name="Davidson T."/>
+<person name="Desai A."/>
+<person name="Elliott G."/>
+<person name="Erb T."/>
+<person name="Fronick C."/>
+<person name="Gaige T."/>
+<person name="Haakenson W."/>
+<person name="Haglund K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Kim K."/>
+<person name="Kruchowski S.S."/>
+<person name="Strong C.M."/>
+<person name="Grewal N."/>
+<person name="Goyea E."/>
+<person name="Hou S."/>
+<person name="Levy A."/>
+<person name="Martinka S."/>
+<person name="Mead K."/>
+<person name="McLellan M.D."/>
+<person name="Meyer R."/>
+<person name="Randall-Maher J."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Shah N."/>
+<person name="Swearengen-Shahid S."/>
+<person name="Snider J."/>
+<person name="Strong J.T."/>
+<person name="Thompson J."/>
+<person name="Yoakum M."/>
+<person name="Leonard S."/>
+<person name="Pearman C."/>
+<person name="Trani L."/>
+<person name="Radionenko M."/>
+<person name="Waligorski J.E."/>
+<person name="Wang C."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Maupin R."/>
+<person name="Latreille P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Pohl C."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Berkowicz N."/>
+<person name="Nelson J.O."/>
+<person name="Osborne J."/>
+<person name="Ding L."/>
+<person name="Meyer R."/>
+<person name="Sabo A."/>
+<person name="Shotland Y."/>
+<person name="Sinha P."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Jones T.A."/>
+<person name="She X."/>
+<person name="Ciccarelli F.D."/>
+<person name="Izaurralde E."/>
+<person name="Taylor J."/>
+<person name="Schmutz J."/>
+<person name="Myers R.M."/>
+<person name="Cox D.R."/>
+<person name="Huang X."/>
+<person name="McPherson J.D."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Warren W.C."/>
+<person name="Chinwalla A.T."/>
+<person name="Eddy S.R."/>
+<person name="Marra M.A."/>
+<person name="Ovcharenko I."/>
+<person name="Furey T.S."/>
+<person name="Miller W."/>
+<person name="Eichler E.E."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Torrents D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="15815621"/>
+<dbReference type="DOI" id="10.1038/nature03466"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3" evidence="4">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Burckstummer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="4" evidence="13">
+<citation type="submission" date="2012-02" db="UniProtKB">
+<authorList>
+<consortium name="Ensembl"/>
+</authorList>
+</citation>
+<scope>IDENTIFICATION</scope>
+</reference>
+<reference key="5" evidence="5">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="similarity">
+<text evidence="6 10">Belongs to the hexokinase family.</text>
+</comment>
+<comment type="caution">
+<text evidence="13">The sequence shown here is derived from an Ensembl automatic analysis pipeline and should be considered as preliminary data.</text>
+</comment>
+<dbReference type="EC" id="2.7.1.-" evidence="6"/>
+<dbReference type="EMBL" id="AC016821">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL596223">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL672126">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="ProteinModelPortal" id="B1AR63"/>
+<dbReference type="STRING" id="9606.ENSP00000384774"/>
+<dbReference type="PaxDb" id="B1AR63"/>
+<dbReference type="PeptideAtlas" id="B1AR63"/>
+<dbReference type="PRIDE" id="B1AR63"/>
+<dbReference type="Ensembl" id="ENST00000436817">
+<property type="protein sequence ID" value="ENSP00000415949"/>
+<property type="gene ID" value="ENSG00000156515"/>
+</dbReference>
+<dbReference type="UCSC" id="uc057ttq.1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="HGNC" id="HGNC:4922">
+<property type="gene designation" value="HK1"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000156515"/>
+<dbReference type="eggNOG" id="KOG1369">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG5026">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000017159"/>
+<dbReference type="HOGENOM" id="HOG000162670"/>
+<dbReference type="HOVERGEN" id="HBG000142"/>
+<dbReference type="ChiTaRS" id="HK1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 10"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000156515"/>
+<dbReference type="ExpressionAtlas" id="B1AR63">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005536">
+<property type="term" value="F:glucose binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004396">
+<property type="term" value="F:hexokinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001678">
+<property type="term" value="P:cellular glucose homeostasis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006096">
+<property type="term" value="P:glycolytic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001312">
+<property type="entry name" value="Hexokinase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019807">
+<property type="entry name" value="Hexokinase_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022673">
+<property type="entry name" value="Hexokinase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022672">
+<property type="entry name" value="Hexokinase_N"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR19443">
+<property type="entry name" value="PTHR19443"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00349">
+<property type="entry name" value="Hexokinase_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03727">
+<property type="entry name" value="Hexokinase_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00378">
+<property type="entry name" value="HEXOKINASE_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51748">
+<property type="entry name" value="HEXOKINASE_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067" evidence="6 7">ATP-binding</keyword>
+<keyword id="KW-0181" evidence="14">Complete proteome</keyword>
+<keyword id="KW-0324" evidence="6 8">Glycolysis</keyword>
+<keyword id="KW-0418" evidence="6 9">Kinase</keyword>
+<keyword id="KW-0547" evidence="6 7">Nucleotide-binding</keyword>
+<keyword id="KW-1267" evidence="1 2 3">Proteomics identification</keyword>
+<keyword id="KW-1185" evidence="14">Reference proteome</keyword>
+<keyword id="KW-0808" evidence="6 9">Transferase</keyword>
+<feature type="domain" description="Hexokinase_1" evidence="11">
+<location>
+<begin position="21"/>
+<end position="218"/>
+</location>
+</feature>
+<feature type="domain" description="Hexokinase_2" evidence="12">
+<location>
+<begin position="224"/>
+<end position="290"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="13">
+<location>
+<position position="290"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000213">
+<source>
+<dbReference type="EPD" id="B1AR63"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000213">
+<source>
+<dbReference type="MaxQB" id="B1AR63"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000213">
+<source>
+<dbReference type="PeptideAtlas" id="B1AR63"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="21269460"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000213">
+<source>
+<dbReference type="PubMed" id="25944712"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU362007"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00672869"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00672870"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00672871"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00672880"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF00349"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000259">
+<source>
+<dbReference type="Pfam" id="PF03727"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000313">
+<source>
+<dbReference type="Ensembl" id="ENSP00000415949"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005640"/>
+</source>
+</evidence>
+<sequence length="290" mass="32550" checksum="FD733C493D74FAAE" modified="2016-10-05" version="8" fragment="single">
+MDCEHSLSLPCRGAEAWEIGIDKYLYAMRLSDETLIDIMTRFRKEMKNGLSRDFNPTATV
+KMLPTFVRSIPDGSEKGDFIALDLGGSSFRILRVQVNHEKNQNVHMESEVYDTPENIVHG
+SGSQLFDHVAECLGDFMEKRKIKDKKLPVGFTFSFPCQQSKIDEAILITWTKRFKASGVE
+GADVVKLLNKAIKKRGDYDANIVAVVNDTVGTMMTCGYDDQHCEVGLIIGTGTNACYMEE
+LRHIDLVEGDEGRMCINTEWGAFGDDGSLEDIRTEFDREIDRGSLNPGKQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

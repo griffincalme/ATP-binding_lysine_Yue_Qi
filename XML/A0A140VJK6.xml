@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2016-06-08" modified="2017-05-10" version="9">
+<accession>A0A140VJK6</accession>
+<name>A0A140VJK6_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="4">Testicular tissue protein Li 82</fullName>
+</submittedName>
+</protein>
+<organism evidence="4">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="4">
+<citation type="submission" date="2010-03" db="EMBL/GenBank/DDBJ databases">
+<title>Human testis protein.</title>
+<authorList>
+<person name="Li J.Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<dbReference type="EMBL" id="HM005395">
+<property type="protein sequence ID" value="AEE60993.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_003866.1">
+<property type="nucleotide sequence ID" value="NM_003875.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.591314"/>
+<dbReference type="ProteinModelPortal" id="A0A140VJK6"/>
+<dbReference type="SMR" id="A0A140VJK6"/>
+<dbReference type="GeneID" id="8833"/>
+<dbReference type="KEGG" id="hsa:8833"/>
+<dbReference type="CTD" id="8833"/>
+<dbReference type="KO" id="K01951"/>
+<dbReference type="PhylomeDB" id="A0A140VJK6"/>
+<dbReference type="ExpressionAtlas" id="A0A140VJK6">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003922">
+<property type="term" value="F:GMP synthase (glutamine-hydrolyzing) activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016462">
+<property type="term" value="F:pyrophosphatase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006177">
+<property type="term" value="P:GMP biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="CDD" id="cd01742">
+<property type="entry name" value="GATase1_GMP_Synthase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd01997">
+<property type="entry name" value="GMP_synthase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.620">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.880">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029062">
+<property type="entry name" value="Class_I_gatase-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017926">
+<property type="entry name" value="GATASE"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001674">
+<property type="entry name" value="GMP_synth_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004739">
+<property type="entry name" value="GMP_synth_GATase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025777">
+<property type="entry name" value="GMPS_ATP_PPase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022310">
+<property type="entry name" value="NAD/GMP_synthase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014729">
+<property type="entry name" value="Rossmann-like_a/b/a_fold"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00117">
+<property type="entry name" value="GATase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00958">
+<property type="entry name" value="GMP_synt_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02540">
+<property type="entry name" value="NAD_synthase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52317">
+<property type="entry name" value="SSF52317"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00888">
+<property type="entry name" value="guaA_Nterm"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51273">
+<property type="entry name" value="GATASE_TYPE_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51553">
+<property type="entry name" value="GMPS_ATP_PPASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0332" evidence="1">GMP biosynthesis</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0658" evidence="1">Purine biosynthesis</keyword>
+<feature type="domain" description="Glutamine amidotransferase type-1" evidence="2">
+<location>
+<begin position="27"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="domain" description="GMPS ATP-PPase (ATP pyrophosphatase)" evidence="3">
+<location>
+<begin position="217"/>
+<end position="435"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="244"/>
+<end position="250"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00886"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51273"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51553"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AEE60993.1"/>
+</source>
+</evidence>
+<sequence length="693" mass="76715" checksum="1CDA0DD3B244728D" modified="2016-06-08" version="1">
+MALCNGDSKLENAGGDLKDGHHHYEGAVVILDAGAQYGKVIDRRVRELFVQSEIFPLETP
+AFAIKEQGFRAIIISGGPNSVYAEDAPWFDPAIFTIGKPVLGICYGMQMMNKVFGGTVHK
+KSVREDGVFNISVDNTCSLFRGLQKEEVVLLTHGDSVDKVADGFKVVARSGNIVAGIANE
+SKKLYGAQFHPEVGLTENGKVILKNFLYDIAGCSGTFTVQNRELECIREIKERVGTSKVL
+VLLSGGVDSTVCTALLNRALNQEQVIAVHIDNGFMRKRESQSVEEALKKLGIQVKVINAA
+HSFYNGTTTLPISDEDRTPRKRISKTLNMTTSPEEKRKIIGDTFVKIANEVIGEMNLKPE
+EVFLAQGTLRPDLIESASLVASGKAELIKTHHNDTELIRKLREEGKVIEPLKDFHKDEVR
+ILGRELGLPEELVSRHPFPGPGLAIRVICAEEPYICKDFPETNNILKIVADFSASVKKPH
+TLLQRVKACTTEEDQEKLMQITSLHSLNAFLLPIKTVGVQGDCRSYSYVCGISSKDEPDW
+ESLIFLARLIPRMCHNVNRVVYIFGPPVKEPPTDVTPTFLTTGVLSTLRQADFEAHNILR
+ESGYAGKISQMPVILTPLHFDRDPLQKQPSCQRSVVIRTFITSDFMTGIPATPGNEIPVE
+VVLKMVTEIKKIPGISRIMYDLTSKPPGTTEWE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

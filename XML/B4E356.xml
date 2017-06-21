@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-09-23" modified="2017-05-10" version="48">
+<accession>B4E356</accession>
+<name>B4E356_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="2">cDNA FLJ54993, highly similar to ATP-dependent DNA helicase 2 subunit 1 (EC 3.6.1.-)</fullName>
+</submittedName>
+</protein>
+<organism evidence="2">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="submission" date="2007-10" db="EMBL/GenBank/DDBJ databases">
+<title>NEDO human cDNA sequencing project focused on splicing variants.</title>
+<authorList>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Ishii S."/>
+<person name="Watanabe K."/>
+<person name="Sugiyama A."/>
+<person name="Murakawa K."/>
+<person name="Kaida T."/>
+<person name="Tsuchiya K."/>
+<person name="Fukuzumi Y."/>
+<person name="Kumagai A."/>
+<person name="Oishi Y."/>
+<person name="Yamamoto S."/>
+<person name="Ono Y."/>
+<person name="Komori Y."/>
+<person name="Yamazaki M."/>
+<person name="Kisu Y."/>
+<person name="Nishikawa T."/>
+<person name="Sugano S."/>
+<person name="Nomura N."/>
+<person name="Isogai T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="2">Uterus</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AK304580">
+<property type="protein sequence ID" value="BAG65368.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001275907.1">
+<property type="nucleotide sequence ID" value="NM_001288978.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.292493"/>
+<dbReference type="UniGene" id="Hs.730702"/>
+<dbReference type="STRING" id="9606.ENSP00000352257"/>
+<dbReference type="PaxDb" id="B4E356"/>
+<dbReference type="PeptideAtlas" id="B4E356"/>
+<dbReference type="PRIDE" id="B4E356"/>
+<dbReference type="GeneID" id="2547"/>
+<dbReference type="CTD" id="2547"/>
+<dbReference type="eggNOG" id="KOG2327">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XNXU">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG006236"/>
+<dbReference type="GenomeRNAi" id="2547"/>
+<dbReference type="GO" id="GO:0043564">
+<property type="term" value="C:Ku70:Ku80 complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004003">
+<property type="term" value="F:ATP-dependent DNA helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003684">
+<property type="term" value="F:damaged DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042162">
+<property type="term" value="F:telomeric DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006303">
+<property type="term" value="P:double-strand break repair via nonhomologous end joining"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000723">
+<property type="term" value="P:telomere maintenance"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.720.30">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.40.290.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.410">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="4.10.970.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006165">
+<property type="entry name" value="Ku70"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006164">
+<property type="entry name" value="Ku70/Ku80_beta-barrel_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027388">
+<property type="entry name" value="Ku70_bridge/pillars_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005160">
+<property type="entry name" value="Ku_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005161">
+<property type="entry name" value="Ku_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003034">
+<property type="entry name" value="SAP_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016194">
+<property type="entry name" value="SPOC-like_C_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002035">
+<property type="entry name" value="VWF_A"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR12604:SF6">
+<property type="entry name" value="PTHR12604:SF6"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02735">
+<property type="entry name" value="Ku"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03730">
+<property type="entry name" value="Ku_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03731">
+<property type="entry name" value="Ku_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02037">
+<property type="entry name" value="SAP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF003033">
+<property type="entry name" value="Ku70"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00559">
+<property type="entry name" value="Ku78"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00513">
+<property type="entry name" value="SAP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF100939">
+<property type="entry name" value="SSF100939"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53300">
+<property type="entry name" value="SSF53300"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF68906">
+<property type="entry name" value="SSF68906"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00578">
+<property type="entry name" value="ku70"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50800">
+<property type="entry name" value="SAP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0347" evidence="2">Helicase</keyword>
+<keyword id="KW-0378" evidence="2">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<feature type="domain" description="SAP" evidence="1">
+<location>
+<begin position="440"/>
+<end position="474"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50800"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="BAG65368.1"/>
+</source>
+</evidence>
+<sequence length="476" mass="54452" checksum="F5EA3430A82A1EBD" modified="2008-09-23" version="1">
+MMGHGSDYSLSEVLWVCANLFSDVQFKMSHKRIMLFTNEDNPHGNDSAKASRARTKAGDL
+RDTGIFLDLMHLKKPGGFDISLFYRDIISIAEDEDLRVHFEESSKLEDLLRKVRAKETRK
+RALSRLKLKLNKDIVISVGIYNLVQKALKPPPIKLYRETNEPVKTKTRTFNTSTGGLLLP
+SDTKGSQIYGSRQIILEKEETEELKRFDDPGLMLMGFKPLVLLKKHHYLRPSLFVYPEES
+LVIGSSTLFSALLIKCLEKEVAALCRYTPRRNIPPYFVALVPQEEELDDQKIQVTPPGFQ
+LVFLPFADDKRKMPFTEKIMATPEQVGKMKAIVEKLRFTYRSDSFENPVLQQHFRNLEAL
+ALDLMEPEQAVDLTLPKVEAMNKRLGSLVDEFKELVYPPDYNPEGKVTKRKHDNEGSGSK
+RPKVEYSEEELKTHISKGTLGKFTVPMLKEACRAYGLKSGLKKQELLEALTKHFQD
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

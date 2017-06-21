@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="1998-11-01" modified="2017-05-10" version="102">
+<accession>O75555</accession>
+<name>O75555_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="5">ABC transporter MOAT-B isoform</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="5">MOAT-B</name>
+</gene>
+<organism evidence="5">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="journal article" date="1998" name="Cancer Res." volume="58" first="2741" last="2747">
+<title>Isolation of MOAT-B, a widely expressed multidrug resistance-associated protein/canalicular multispecific organic anion transporter-related transporter.</title>
+<authorList>
+<person name="Lee K."/>
+<person name="Belinsky M.G."/>
+<person name="Bell D.W."/>
+<person name="Testa J.R."/>
+<person name="Kruh G.D."/>
+</authorList>
+<dbReference type="PubMed" id="9661885"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="2" evidence="5">
+<citation type="submission" date="1998-06" db="EMBL/GenBank/DDBJ databases">
+<title>Isolation of another form of MOAT-B.</title>
+<authorList>
+<person name="Lee K."/>
+<person name="Kruh G.D."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<dbReference type="EMBL" id="AF071203">
+<property type="protein sequence ID" value="AAC27077.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.508423"/>
+<dbReference type="ProteinModelPortal" id="O75555"/>
+<dbReference type="STRING" id="9606.ENSP00000366084"/>
+<dbReference type="PaxDb" id="O75555"/>
+<dbReference type="PeptideAtlas" id="O75555"/>
+<dbReference type="PRIDE" id="O75555"/>
+<dbReference type="H-InvDB" id="HIX0026545"/>
+<dbReference type="eggNOG" id="KOG0054">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG1132">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG108314"/>
+<dbReference type="ChiTaRS" id="ABCC4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042626">
+<property type="term" value="F:ATPase activity, coupled to transmembrane movement of substances"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003593">
+<property type="entry name" value="AAA+_ATPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011527">
+<property type="entry name" value="ABC1_TM_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003439">
+<property type="entry name" value="ABC_transporter-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017871">
+<property type="entry name" value="ABC_transporter_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030240">
+<property type="entry name" value="ABCC4"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24223:SF298">
+<property type="entry name" value="PTHR24223:SF298"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00664">
+<property type="entry name" value="ABC_membrane"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00005">
+<property type="entry name" value="ABC_tran"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00382">
+<property type="entry name" value="AAA"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF90123">
+<property type="entry name" value="SSF90123"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50929">
+<property type="entry name" value="ABC_TM1F"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00211">
+<property type="entry name" value="ABC_TRANSPORTER_1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50893">
+<property type="entry name" value="ABC_TRANSPORTER_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0472" evidence="2">Membrane</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0812" evidence="2">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="2">Transmembrane helix</keyword>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="301"/>
+<end position="320"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="357"/>
+<end position="381"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="450"/>
+<end position="472"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="538"/>
+<end position="560"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="566"/>
+<end position="587"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transporter" evidence="3">
+<location>
+<begin position="2"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transmembrane type-1" evidence="4">
+<location>
+<begin position="305"/>
+<end position="595"/>
+</location>
+</feature>
+<feature type="domain" description="ABC transporter" evidence="3">
+<location>
+<begin position="631"/>
+<end position="864"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="35"/>
+<end position="42"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="665"/>
+<end position="672"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="5">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00434"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50893"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50929"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAC27077.1"/>
+</source>
+</evidence>
+<sequence length="893" mass="100376" checksum="16CC998979F427F0" modified="1998-11-01" version="1" fragment="single">
+HVQDFTAFWDKASETPTLQGLSFTVRPGELLAVVGPVGAGKSSLLSAVLGELAPSHGLVS
+VHGRIAYVSQQPWVFSGTLRSNILFGKKYEKERYEKVIKACALKKDLQLLEDGDLTVIGD
+RGTTLSGGQKARVNLARAVYQDADIYLLDDPLSAVDAEVSRHLFELCICQILHEKITILV
+THQLQYLKAASQILILKDGKMVQKGTYTEFLKSGIDFGSLLKKDNEESEQPPVPGTPTLR
+NRTFSESSVWSQQSSRPSLKDGALESQDTENVPVTLSEENRSEGKVGFQAYKNYFRAGAH
+WIVFIFLILLNTAAQVAYVLQDWWLSYWANKQSMLNVTVNGGGNVTEKLDLNWYLGIYSG
+LTVATVLFGIARSLLVFYVLVNSSQTLHNKMFESILKAPVLFFDRNPIGRILNRFSKDIG
+HLDDLLPLTFLDFIQTLLQVVGVVSVAVAVIPWIAIPLVPLGIIFIFLRRYFLETSRDVK
+RLESTTRSPVFSHLSSSLQGLWTIRAYKAEERCQELFDAHQDLHSEAWFLFLTTSRWFAV
+RLDAICAMFVIIVAFGSLILAKTLDAGQVGLALSYALTLMGMFQWCVRQSAEVENMMISV
+ERVIEYTDLEKEAPWEYQKRPPPAWPHEGVIIFDNVNFMYSPGGPLVLKHLTALIKSQEK
+VGIVGRTGAGKSSLISALFRLSEPEGKIWIDKILTTEIGLHDLRKKMSIIPQEPVLFTGT
+MRKNLDPFKEHTDEELWNALQEVQLKETIEDLPGKMDTELAESGSNFSVGQRQLVCLARA
+ILRKNQILIIDEATANVDPRTDELIQKKIREKFAHCTVLTIAHRLNTIIDSDKIMVLDSG
+RLKEYDEPYVLLQNKESLFYKMVQQLGKAEAAALTETAKQVILQKKLSTYWSH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

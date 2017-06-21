@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2006-01-24" modified="2016-06-08" version="20">
+<accession>Q2PQC5</accession>
+<name>Q2PQC5_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="1">Cystic fibrosis transmembrane regulator/ATP-binding cassette subfamily C member 7-like</fullName>
+</submittedName>
+</protein>
+<organism evidence="1">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="1">
+<citation type="submission" date="2005-11" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of a human brain mRNA similar to Homo sapiens clone RP4-561P1 on chromosome 1)(AC116993.2) and similar to human chromosome 1-gene CSMD2 for CUB and Sushi multiple domains (clone RP11-207N22 on chromosome 1)(AL607106.10).</title>
+<authorList>
+<person name="Leff P."/>
+<person name="Matus M."/>
+<person name="Canceco J."/>
+<person name="Calva J.C."/>
+<person name="Salazar A."/>
+<person name="Gonzaga R."/>
+<person name="Flores A."/>
+<person name="Cervantes R."/>
+<person name="Aguilera P."/>
+<person name="Barbosa S."/>
+<person name="Anton B."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<tissue evidence="1">Brain</tissue>
+</source>
+</reference>
+<dbReference type="EMBL" id="AH015497">
+<property type="protein sequence ID" value="ABC41120.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PRIDE" id="Q2PQC5"/>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1">ATP-binding</keyword>
+<keyword id="KW-0472" evidence="1">Membrane</keyword>
+<keyword id="KW-0547" evidence="1">Nucleotide-binding</keyword>
+<keyword id="KW-0812" evidence="1">Transmembrane</keyword>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ABC41120.1"/>
+</source>
+</evidence>
+<sequence length="64" mass="7035" checksum="1584C7514B0E8B31" modified="2006-01-24" version="1">
+MQVRSQGALWVRAATVKAERSGHLPDSLKVELIELAGRLEVGAGEEPRLAPRVWGDQRAV
+WSCP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

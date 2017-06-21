@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2003-10-01" modified="2017-05-10" version="82">
+<accession>Q7Z503</accession>
+<name>Q7Z503_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial</fullName>
+<ecNumber evidence="1">6.2.1.5</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="1">ATP-specific succinyl-CoA synthetase subunit beta</fullName>
+<shortName evidence="1">A-SCS</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="1">Succinyl-CoA synthetase beta-A chain</fullName>
+<shortName evidence="1">SCS-betaA</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="1">SUCLA2</name>
+</gene>
+<organism evidence="5">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="submission" date="1998-08" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Yang J."/>
+<person name="Yu L."/>
+<person name="Dai F.Y."/>
+<person name="Cui W.C."/>
+<person name="Zheng L.H."/>
+<person name="Zhao S.Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="2" evidence="5">
+<citation type="submission" date="2003-07" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning and expression of a novel human cDNA homology to N.frontalis beta-succinyl CoA synthetase mRNA.</title>
+<authorList>
+<person name="Ding J.B."/>
+<person name="Yu L."/>
+<person name="Bi A.D."/>
+<person name="Fu Q."/>
+<person name="Fu S.N."/>
+<person name="Zhao S.Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="function">
+<text evidence="1">ATP-specific succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of ATP and thus represents the only step of substrate-level phosphorylation in the TCA. The beta subunit provides nucleotide specificity of the enzyme and binds the substrate succinate, while the binding sites for coenzyme A and phosphate are found in the alpha subunit.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1">ATP + succinate + CoA = ADP + phosphate + succinyl-CoA.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1">
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+<text evidence="1">Binds 1 Mg(2+) ion per subunit.</text>
+</comment>
+<comment type="pathway" evidence="1">
+<text>Carbohydrate metabolism; tricarboxylic acid cycle; succinate from succinyl-CoA (ligase route): step 1/1.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Mitochondrion</location>
+</subcellularLocation>
+</comment>
+<dbReference type="EC" id="6.2.1.5" evidence="1"/>
+<dbReference type="EMBL" id="AF087890">
+<property type="protein sequence ID" value="AAP97189.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.743361"/>
+<dbReference type="ProteinModelPortal" id="Q7Z503"/>
+<dbReference type="STRING" id="9606.ENSP00000367923"/>
+<dbReference type="PaxDb" id="Q7Z503"/>
+<dbReference type="PeptideAtlas" id="Q7Z503"/>
+<dbReference type="PRIDE" id="Q7Z503"/>
+<dbReference type="eggNOG" id="KOG2799">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0045">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="HOVERGEN" id="HBG055555"/>
+<dbReference type="UniPathway" id="UPA00223">
+<property type="reaction ID" value="UER00999"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004775">
+<property type="term" value="F:succinate-CoA ligase (ADP-forming) activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006099">
+<property type="term" value="P:tricarboxylic acid cycle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1490.20">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.261">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00558">
+<property type="entry name" value="Succ_CoA_beta"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_03220">
+<property type="entry name" value="Succ_CoA_betaA_euk"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011761">
+<property type="entry name" value="ATP-grasp"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013650">
+<property type="entry name" value="ATP-grasp_succ-CoA_synth-type"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013815">
+<property type="entry name" value="ATP_grasp_subdomain_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005811">
+<property type="entry name" value="CoA_ligase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017866">
+<property type="entry name" value="Succ-CoA_synthase_bsu_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR034723">
+<property type="entry name" value="Succ_CoA_betaA_euk"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005809">
+<property type="entry name" value="Succ_CoA_synthase_bsu"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016102">
+<property type="entry name" value="Succinyl-CoA_synth-like"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11815">
+<property type="entry name" value="PTHR11815"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08442">
+<property type="entry name" value="ATP-grasp_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00549">
+<property type="entry name" value="Ligase_CoA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF001554">
+<property type="entry name" value="SucCS_beta"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52210">
+<property type="entry name" value="SSF52210"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01016">
+<property type="entry name" value="sucCoAbeta"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50975">
+<property type="entry name" value="ATP_GRASP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01217">
+<property type="entry name" value="SUCCINYL_COA_LIG_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0067" evidence="1 2">ATP-binding</keyword>
+<keyword id="KW-0436" evidence="1 3">Ligase</keyword>
+<keyword id="KW-0460" evidence="1">Magnesium</keyword>
+<keyword id="KW-0479" evidence="1">Metal-binding</keyword>
+<keyword id="KW-0496" evidence="1">Mitochondrion</keyword>
+<keyword id="KW-0547" evidence="1 2">Nucleotide-binding</keyword>
+<keyword id="KW-0816" evidence="1">Tricarboxylic acid cycle</keyword>
+<feature type="domain" description="ATP-grasp" evidence="4">
+<location>
+<begin position="1"/>
+<end position="228"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="45"/>
+<end position="47"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding; shared with subunit alpha" evidence="1">
+<location>
+<begin position="320"/>
+<end position="322"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="1">
+<location>
+<position position="198"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="1">
+<location>
+<position position="212"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="1">
+<location>
+<position position="38"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate; shared with subunit alpha" evidence="1">
+<location>
+<position position="263"/>
+</location>
+</feature>
+<feature type="site" description="Important for substrate specificity" evidence="1">
+<location>
+<position position="34"/>
+</location>
+</feature>
+<feature type="site" description="Important for substrate specificity" evidence="1">
+<location>
+<position position="102"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_03220"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00409"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU361258"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50975"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAP97189.1"/>
+</source>
+</evidence>
+<sequence length="403" mass="43611" checksum="4E1548C6E5CF17C7" modified="2003-10-01" version="1">
+MELLQEAGVSVPKGYVAKSPDEAYAIAKKLGSKDVVIKAQVLAGGRGKGTFESGLKGGVK
+IVFSPEEAKAVSSQMIGKKLFTKQTGEKGRICNQVLVCERKYPRREYYFAITMERSFQGP
+VLIGSSHGGVNIEDVAAETPEAIIKEPIDIEEGIKKEQALQLAQKMGFPPNIVESAAENM
+VKLYSLFLKYDATMIEINPMVEDSDGAVLCMDAKINFDSNSAYRQKKIFDLQDWTQEDER
+DKDAAKANLNYIGLDGNIGCLVNGAGLAMATMDIIKLHGGTPANFLDVGGGATVHQVTEA
+FKLITSDKKVLAILVNIFGGIMRCDVIAQGIVMAVKDLEIKIPVVVRLQGTRVDDAKALI
+ADSGLKILACDDLDEAARMVVKLSEIVTLANDAHVDVKFQLPI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

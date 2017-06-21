@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-04-29" modified="2017-04-12" version="41">
+<accession>B1NSN7</accession>
+<name>B1NSN7_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="2">Gonadotropin-regulated testicular RNA helicase</fullName>
+</submittedName>
+</protein>
+<organism evidence="2">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="journal article" date="2004" name="Gene" volume="331" first="83" last="94">
+<title>Genomic organization and transcriptional analysis of gonadotropin-regulated testicular RNA helicase--GRTH/DDX25 gene.</title>
+<authorList>
+<person name="Tsai-Morris C.H."/>
+<person name="Lei S."/>
+<person name="Jiang Q."/>
+<person name="Sheng Y."/>
+<person name="Dufau M.L."/>
+</authorList>
+<dbReference type="PubMed" id="15094194"/>
+<dbReference type="DOI" id="10.1016/j.gene.2004.02.004"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="2" evidence="2">
+<citation type="journal article" date="2007" name="Mol. Hum. Reprod." volume="13" first="887" last="892">
+<title>Polymorphism of the GRTH/DDX25 gene in normal and infertile Japanese men: a missense mutation associated with loss of GRTH phosphorylation.</title>
+<authorList>
+<person name="Tsai-Morris C.H."/>
+<person name="Koh E."/>
+<person name="Sheng Y."/>
+<person name="Maeda Y."/>
+<person name="Gutti R."/>
+<person name="Namiki M."/>
+<person name="Dufau M.L."/>
+</authorList>
+<dbReference type="PubMed" id="17848414"/>
+<dbReference type="DOI" id="10.1093/molehr/gam065"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="3" evidence="2">
+<citation type="submission" date="2007-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Tsai-Morris C.-H."/>
+<person name="Sheng Y."/>
+<person name="Dufau M.L."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<dbReference type="EMBL" id="EU076465">
+<property type="protein sequence ID" value="ABW87007.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.420263"/>
+<dbReference type="STRING" id="9606.ENSP00000263576"/>
+<dbReference type="PaxDb" id="B1NSN7"/>
+<dbReference type="PeptideAtlas" id="B1NSN7"/>
+<dbReference type="eggNOG" id="KOG0332">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410XRGX">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000109832"/>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001650">
+<property type="entry name" value="Helicase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00271">
+<property type="entry name" value="Helicase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51194">
+<property type="entry name" value="HELICASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0067" evidence="2">ATP-binding</keyword>
+<keyword id="KW-0347" evidence="2">Helicase</keyword>
+<keyword id="KW-0378" evidence="2">Hydrolase</keyword>
+<keyword id="KW-0547" evidence="2">Nucleotide-binding</keyword>
+<feature type="domain" description="Helicase C-terminal" evidence="1">
+<location>
+<begin position="1"/>
+<end position="62"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="2">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="2">
+<location>
+<position position="62"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51194"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ABW87007.1"/>
+</source>
+</evidence>
+<sequence length="62" mass="7177" checksum="99DDAF77CEBC6AFD" modified="2008-04-29" version="1" fragment="single">
+IDVKQVTIVVNFDLPVKQGEEPDYETYLHRIGRTGRFGKKGLAFNMIEVDELPSLMKIQD
+HF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>
