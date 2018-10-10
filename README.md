@@ -3,12 +3,12 @@ Source code used in Yue Qi's dissertation
 
 ### Python 3.5
 
-All files in the folder "XML" are as originally downloaded from uniprot.org and are redistributed under Creative Commons Attribution-NoDerivs License. http://www.uniprot.org/uniprot/?query=keyword:%22ATP-binding%20[KW-0067]%22&fil=organism%3A%22Homo+sapiens+%28Human%29+%5B9606%5D%22
+All files in the folder "XML" are as originally downloaded from uniprot.org and are redistributed under Creative Commons Attribution-NoDerivs License.
 
 Python scripts may require installation of `pandas` (included in some python distributions, e.g. https://www.anaconda.com/download/) and Biopython `pip install biopython`
 
 ## Step 1: Download the .fasta file
-Use the above link to obtain a .fasta file with all Human ATP-binding proteins
+Use this [link](http://www.uniprot.org/uniprot/?query=keyword:%22ATP-binding%20[KW-0067]%22&fil=organism%3A%22Homo+sapiens+%28Human%29+%5B9606%5D%22) to obtain a .fasta file with all Human ATP-binding proteins. If that doesn't work, the UniProtKB search terms were `keyword:"ATP-binding [KW-0067]" AND organism:"Homo sapiens (Human) [9606]"`
 
 ## Step 2: fasta_to_excel.py
 Parses out information from the fasta file and saves in an Excel spreadsheet
