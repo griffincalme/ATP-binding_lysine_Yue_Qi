@@ -13,7 +13,10 @@ Use this [link](http://www.uniprot.org/uniprot/?query=keyword:%22ATP-binding%20[
 Save this .fasta file to the same folder as the python program.
 
 ## run.py
-run `python run.py`
+Run `python run.py`
+
+## Done
+Open `ATP_binding_sites.xlsx`
 
 # Individual Scripts
 ## Step 1: Download the .fasta file
