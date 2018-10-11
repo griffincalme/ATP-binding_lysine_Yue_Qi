@@ -18,6 +18,8 @@ Run `python run.py`
 ## Done
 Open `ATP_binding_sites.xlsx`
 
+___________________________
+
 # Individual Scripts
 ## Step 1: Download the .fasta file
 Use this [link](http://www.uniprot.org/uniprot/?query=keyword:%22ATP-binding%20[KW-0067]%22&fil=organism%3A%22Homo+sapiens+%28Human%29+%5B9606%5D%22) to obtain a .fasta file with all Human ATP-binding proteins. If that doesn't work, the UniProtKB search terms were `keyword:"ATP-binding [KW-0067]" AND organism:"Homo sapiens (Human) [9606]"`
