@@ -7,6 +7,9 @@ All files in the folder "XML" are as originally downloaded from uniprot.org and 
 
 Python scripts may require installation of `pandas` (included in some python distributions, e.g. https://www.anaconda.com/download/) and Biopython `pip install biopython`
 
+# Quick Start
+
+
 ## Step 1: Download the .fasta file
 Use this [link](http://www.uniprot.org/uniprot/?query=keyword:%22ATP-binding%20[KW-0067]%22&fil=organism%3A%22Homo+sapiens+%28Human%29+%5B9606%5D%22) to obtain a .fasta file with all Human ATP-binding proteins. If that doesn't work, the UniProtKB search terms were `keyword:"ATP-binding [KW-0067]" AND organism:"Homo sapiens (Human) [9606]"`
 Save this .fasta file to the same folder as the python program.
