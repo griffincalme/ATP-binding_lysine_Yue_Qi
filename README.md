@@ -5,7 +5,7 @@ Source code used in Yue Qi's dissertation
 
 All files in the folder "XML" are as originally downloaded from uniprot.org and are redistributed under Creative Commons Attribution-NoDerivs License.
 
-*Python scripts may require installation of `pandas` (included in some python distributions, e.g. https://www.anaconda.com/download/) and Biopython `pip install biopython`*
+**Python scripts may require installation of `pandas` (included in some python distributions, e.g. https://www.anaconda.com/download/) and `Biopython` `pip install biopython`**
 
 # Quick Start
 ## Download the .fasta file
@@ -13,7 +13,7 @@ Use this [link](http://www.uniprot.org/uniprot/?query=keyword:%22ATP-binding%20[
 Save this .fasta file to the same folder as the python program.
 
 ## run.py
-run `python run.py` either in the terminal/command line or in the development environment
+run `python run.py`
 
 # Individual Scripts
 ## Step 1: Download the .fasta file
